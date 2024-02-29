@@ -1,0 +1,2006 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR CYTOCHROME C OXIDASE SUBUNIT 1 (D7PBG5)
+AFDB50 1000 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-A0A343XCK0-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocladiinae sp. BIOUG14908-B12	1.00	84	0.994	
+1182
+AF-A0A2P1C221-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobrya clitellaria	1.00	79	0.994	
+1181
+AF-A0A3G1P833-F1-model_v4	Cytochrome c oxidase subunit 1	Cicadellidae sp. BIOUG22002-C09	1.00	77.9	0.993	
+1181
+AF-A0A0N9EFT5-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACE5277	1.00	71.7	0.990	
+1182
+AF-A0A0S2QPT1-F1-model_v4	Cytochrome c oxidase subunit 1	Syrphinae sp. BOLD:AAB5561	1.00	81.8	0.989	
+1182
+AF-A0A220EZI1-F1-model_v4	Cytochrome c oxidase subunit 1	Phoridae sp. BIOUG17512-H10	1.00	80.7	0.989	
+1182
+AF-U5IHP1-F1-model_v4	Cytochrome c oxidase subunit 1	Graphoderus perplexus	1.00	80.4	0.989	
+1182
+AF-A0A0N9EG79-F1-model_v4	Cytochrome c oxidase subunit 1	Aphidius sp. BOLD:AAK2038	1.00	70.9	0.989	
+1179
+AF-A0A346KWB5-F1-model_v4	Cytochrome c oxidase subunit 1	Cicadellidae sp. BIOUG20897-G01	1.00	75.9	0.988	
+1179
+AF-A0A3G1YAG3-F1-model_v4	Cytochrome c oxidase subunit 1	Scheloribatidae sp. BIOUG26319-F07	1.00	76.9	0.988	
+1182
+AF-A0A141K6Z4-F1-model_v4	Cytochrome c oxidase subunit 1	Trombidiformes sp. BOLD:ACM8198	1.00	68.4	0.987	
+1182
+AF-A0A2S1JZV4-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BIOUG20716-F06	1.00	80.4	0.987	
+1179
+AF-A0A023TRU5-F1-model_v4	Cytochrome c oxidase subunit 1	Sympistis barnesii	1.00	79.8	0.986	
+1179
+AF-A0A0K0K7P1-F1-model_v4	Cytochrome c oxidase subunit 1	Nycticeinops schlieffeni	1.00	80.8	0.986	
+1178
+AF-I6PY18-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaenops ocellatus	1.00	77.7	0.986	
+1182
+AF-A0A141LIA7-F1-model_v4	Cytochrome c oxidase subunit 1	Pyrrhalta viburni	1.00	79.6	0.985	
+1182
+AF-A0A2Z5CTN7-F1-model_v4	Cytochrome c oxidase subunit 1	Rhamphomyia sp. BIOUG21641-A02	1.00	82	0.985	
+1182
+AF-A0A482FUS0-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolycoriella brunnea	1.00	79.1	0.984	
+1182
+AF-A0A1C9EK54-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	80.2	0.984	
+6182
+AF-A0A3G2ZVD9-F1-model_v4	Cytochrome c oxidase subunit 1	Hypogastruridae sp. BIOUG20176-A10	1.00	81.3	0.983	
+4180
+AF-A0A173D0G1-F1-model_v4	Cytochrome c oxidase subunit 1	Lambdina sp. BOLD:AAA5482	1.00	80.6	0.982	
+4182
+AF-A0A2R3VQX4-F1-model_v4	Cytochrome c oxidase subunit 1	Trichodes ornatus	1.00	80.6	0.982	
+1181
+AF-A0A0D2X7S8-F1-model_v4	Cytochrome c oxidase subunit 1	Lasioglossum quadrinotatulum	1.00	67.7	0.981	
+3182
+AF-A0A159K854-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BOLD:AAP6874	1.00	81.8	0.981	
+1182
+AF-A0A163UMN4-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACE5277	1.00	71.7	0.980	
+1182
+AF-A0A1I9Q6S6-F1-model_v4	Cytochrome c oxidase subunit 1	Obelia longissima	1.00	79.3	0.979	
+1182
+AF-A0A649XFN5-F1-model_v4	Cytochrome c oxidase subunit 1	Oribatulidae sp. BOLD:ADG5754	1.00	77.3	0.979	
+1181
+AF-A0A159GKJ2-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL3682	1.00	81.8	0.978	
+1182
+AF-U5F007-F1-model_v4	Cytochrome c oxidase subunit 1	Meiacanthus oualanensis	1.00	78.2	0.978	
+1182
+AF-A0A385UYQ4-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG21172-G10	1.00	77.8	0.977	
+7182
+AF-F6K6B6-F1-model_v4	Cytochrome c oxidase subunit 1	Spelobia tenebrarum	1.00	82	0.977	
+1182
+AF-A0A141LDD8-F1-model_v4	Cytochrome c oxidase subunit 1	Cortinicara gibbosa	1.00	80.4	0.976	
+6179
+AF-A0A2Z4Z253-F1-model_v4	Cytochrome c oxidase subunit 1	Eulophidae sp. BIOUG19706-C08	1.00	70.1	0.975	
+4182
+AF-A0A2R3VKH5-F1-model_v4	Cytochrome c oxidase subunit 1	Eucinetidae sp. BIOUG21514-C10	1.00	76.4	0.975	
+2175
+AF-Q1AG96-F1-model_v4	Cytochrome c oxidase subunit 1	Habronattus decorus	1.00	73.9	0.974	
+1182
+AF-Q2MPK4-F1-model_v4	Cytochrome c oxidase subunit 1	Polythrix sp. Janzen02	1.00	79.3	0.974	
+1182
+AF-A0A2U9JKU6-F1-model_v4	Cytochrome c oxidase subunit 1	Limoniidae sp. BIOUG22208-D08	1.00	81.8	0.974	
+7182
+AF-A0A088CJN4-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudophilautus kani	1.00	76.6	0.974	
+5182
+AF-G3FQ80-F1-model_v4	Cytochrome c oxidase subunit 1	Dyscophellus sp. phraxanorDHJ04	1.00	78.2	0.974	
+1182
+AF-A0A482GU72-F1-model_v4	Cytochrome c oxidase subunit 1	Sepsis punctum	1.00	81.7	0.974	
+1175
+AF-A0A386I568-F1-model_v4	Cytochrome c oxidase subunit 1	Camptoprosopella sp. BIOUG32140-A10	1.00	82.8	0.974	
+1175
+AF-A0A3G1NUX7-F1-model_v4	Cytochrome c oxidase subunit 1	Zelus luridus	1.00	77.1	0.973	
+1182
+AF-A0A3Q9JL01-F1-model_v4	Cytochrome c oxidase subunit 1	Siganus canaliculatus	1.00	77.7	0.973	
+1182
+AF-A0A2P1FER0-F1-model_v4	Cytochrome c oxidase subunit 1	Philonthus sp. BIOUG26272-D12	1.00	81.7	0.972	
+1175
+AF-A0A0M3NZK8-F1-model_v4	Cytochrome c oxidase subunit 1	Collembola sp. BOLD:ACD0454	1.00	76.3	0.972	
+8180
+AF-A0A173D8S2-F1-model_v4	Cytochrome c oxidase subunit 1	Neurobathra sp. BOLD:AAR7014	1.00	79.7	0.972	
+7179
+AF-A0A0S3HVI6-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACA9768	1.00	68	0.972	
+8182
+AF-A0A1B2QBB2-F1-model_v4	Cytochrome c oxidase subunit 1	Exochus lictor ssp. MAS-2010	1.00	69.6	0.972	
+7182
+AF-A0A140D471-F1-model_v4	Cytochrome c oxidase subunit 1	Eunice norvegica	1.00	76.5	0.972	
+6182
+AF-I6PXE3-F1-model_v4	Cytochrome c oxidase subunit 1	Hemitrygon fluviorum	1.00	76.3	0.972	
+6178
+AF-A0A1W6NM42-F1-model_v4	Cytochrome c oxidase subunit 1	Proasellus vulgaris	1.00	77.2	0.971	
+5182
+AF-A0A0S4L281-F1-model_v4	Cytochrome c oxidase subunit 1	Onyxacalles vilae	1.00	73.9	0.971	
+1182
+AF-A0A2H4FUT5-F1-model_v4	Cytochrome c oxidase subunit 1	Plesiops sp. 1 JD-2016	1.00	78.2	0.971	
+1182
+AF-I6PXX2-F1-model_v4	Cytochrome c oxidase subunit 1	Malacoctenus sp. BOLD:AAA9874	1.00	77.7	0.971	
+1182
+AF-A0A2R3W8E8-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG19705-F11	1.00	71.7	0.970	
+1182
+AF-A0A0X8EUX4-F1-model_v4	Cytochrome c oxidase subunit 1	teleost environmental sample	1.00	77.7	0.970	
+1182
+AF-A0A097IYF0-F1-model_v4	Cytochrome c oxidase subunit 1	Lucilia sericata	1.00	82.1	0.970	
+6182
+AF-D5INJ1-F1-model_v4	Cytochrome c oxidase subunit 1	Pyrinia sp. Janzen02	1.00	79.1	0.969	
+1173
+AF-A7U4V8-F1-model_v4	Cytochrome c oxidase subunit 1	Naso lituratus	1.00	79	0.969	
+2173
+AF-A0A3G3B0B8-F1-model_v4	Cytochrome c oxidase subunit 1	Mesoleuca ruficillata	1.00	80.4	0.969	
+1179
+AF-A0A1B1H9D5-F1-model_v4	Cytochrome c oxidase subunit 1	Eratoneura sp. BOLD-2016	1.00	77.9	0.969	
+4182
+AF-A0A386I5R7-F1-model_v4	Cytochrome c oxidase subunit 1	Lauxaniidae sp. BIOUG25594-C06	1.00	82.8	0.968	
+1175
+AF-A0A385GG42-F1-model_v4	Cytochrome c oxidase subunit 1	Rhamphomyia sp. BIOUG20929-E09	1.00	82.2	0.968	
+1175
+AF-A0A096ZWI1-F1-model_v4	Cytochrome c oxidase subunit 1	Lycodopsis pacificus	1.00	79.3	0.968	
+1182
+AF-A0A193B010-F1-model_v4	Cytochrome c oxidase subunit 1	Miridae sp. BOLD-2016	1.00	77.5	0.967	
+1174
+AF-A0A2Z5WH64-F1-model_v4	Cytochrome c oxidase subunit 1	Careproctus marginatus	1.00	77.9	0.967	
+4182
+AF-A0A0D5A414-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	1.00	76.7	0.967	
+9182
+AF-A0A499LEY0-F1-model_v4	Cytochrome c oxidase subunit 1	Thera cognata	1.00	80	0.967	
+5182
+AF-A0A1D8LNE7-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	1.00	66.3	0.967	
+1182
+AF-A7U4V9-F1-model_v4	Cytochrome c oxidase subunit 1	Naso lituratus	1.00	78.9	0.967	
+2172
+AF-I1TL59-F1-model_v4	Cytochrome c oxidase subunit 1	Agelas sp. QMG315550	1.00	76.6	0.966	
+1182
+AF-A0A386LJL7-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BIOUG24367-F08	1.00	80.4	0.966	
+1182
+AF-A0A1C9RLH9-F1-model_v4	Cytochrome c oxidase subunit 1	Cricotopus tremulus	1.00	82.4	0.966	
+1182
+AF-A0A159H093-F1-model_v4	Cytochrome c oxidase subunit 1	Phronia sp. BOLD:AAP9071	1.00	82.3	0.966	
+4182
+AF-A0A1B4XBP4-F1-model_v4	Cytochrome c oxidase subunit 1	Sinarachna pallipes	1.00	71.9	0.966	
+7182
+AF-A0A2P1J7C8-F1-model_v4	Cytochrome c oxidase subunit 1	Stilobezzia sp. BIOUG14693-C12	1.00	84	0.966	
+1182
+AF-A0A0S1HSG3-F1-model_v4	Cytochrome c oxidase subunit 1	Hapalaraea megarthroides	1.00	79.8	0.966	
+1182
+AF-V9I5M8-F1-model_v4	Cytochrome c oxidase subunit 1	Rasbora sumatrana	1.00	78.8	0.966	
+1182
+AF-A0A160DQH1-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	78.8	0.966	
+1182
+AF-A0A142BKW4-F1-model_v4	Cytochrome c oxidase subunit 1	Caligus punctatus	1.00	73.3	0.966	
+1182
+AF-A0A2S1K3G0-F1-model_v4	Cytochrome c oxidase subunit 1	Pipunculus hertzogi	1.00	79.8	0.965	
+1182
+AF-A0A141LJK8-F1-model_v4	Cytochrome c oxidase subunit 1	Dendroides concolor	1.00	78.8	0.965	
+1182
+AF-A0A346L609-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BIOUG24511-H02	1.00	83	0.965	
+5175
+AF-A0A159HLI0-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACL4260	1.00	71.7	0.965	
+1182
+AF-A0A1Y9SJC6-F1-model_v4	Cytochrome c oxidase subunit 1	Helicoverpa assulta	1.00	79	0.965	
+8182
+AF-A0A411J6D4-F1-model_v4	Cytochrome c oxidase subunit 1	Culicoides eriodendroni	1.00	75.6	0.965	
+4182
+AF-A0A0G3ZUL4-F1-model_v4	Cytochrome c oxidase subunit 1	Macrosteles quadrilineatus	1.00	73.3	0.965	
+1182
+AF-A0A410CTI8-F1-model_v4	Cytochrome c oxidase subunit 1	Eulophidae sp. INDOBIOSYS-CCDB26105-C09	1.00	67.9	0.965	
+1182
+AF-A0A386SLL8-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BIOUG25611-F12	1.00	80.7	0.965	
+5175
+AF-A0A0M3YGJ2-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobryidae sp. BOLD:AAN4464	1.00	76	0.965	
+1182
+AF-A0A1C9QB02-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolycoriella brunnea	1.00	79.6	0.964	
+11182
+AF-A0A1B2WH02-F1-model_v4	Cytochrome c oxidase subunit 1	Rhagio tringarius	1.00	81.5	0.964	
+1182
+AF-A0A159DXD4-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAY6413	1.00	65.7	0.964	
+1182
+AF-A0A162M2X3-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAH3748	1.00	70.6	0.964	
+1182
+AF-A0A159H4S7-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL3682	1.00	81.5	0.964	
+1179
+AF-A0A1B2BYG8-F1-model_v4	Cytochrome c oxidase subunit 1	Macronema variipenne	1.00	72.8	0.964	
+1182
+AF-A0A141L6W8-F1-model_v4	Cytochrome c oxidase subunit 1	Cantharidae sp. BOLD:ACM0998	1.00	78.2	0.964	
+1182
+AF-A0A2K8DVY7-F1-model_v4	Cytochrome c oxidase subunit 1	Dolichoderus attelaboides	1.00	70.3	0.964	
+3182
+AF-A0A193B3V1-F1-model_v4	Cytochrome c oxidase subunit 1	Delphacidae sp. BOLD:ABA5862	1.00	75.4	0.963	
+1179
+AF-A0A159PD09-F1-model_v4	Cytochrome c oxidase subunit 1	Tenthredinidae sp. BOLD:ACH0297	1.00	72.2	0.963	
+1182
+AF-A0A2H4N869-F1-model_v4	Cytochrome c oxidase subunit 1	Lobonematidae sp. 4 LGD-2017	1.00	77.1	0.963	
+1182
+AF-A0A159Y762-F1-model_v4	Cytochrome c oxidase subunit 1	Microplitis sp. BOLD:ACM9890	1.00	72.5	0.963	
+1182
+AF-A0A482FR01-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolycoriella brunnea	1.00	77.7	0.963	
+1182
+AF-A0A1C9RVJ9-F1-model_v4	Cytochrome c oxidase subunit 1	Meromyza sp. BOLD-2016	1.00	81.8	0.963	
+1182
+AF-A0A1B2WNE5-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	78.7	0.963	
+11182
+AF-A0A165K7Y5-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumoninae sp. BOLD:AAG7633	1.00	66.8	0.963	
+1182
+AF-F4YRL4-F1-model_v4	Cytochrome c oxidase subunit 1	Theba impugnata	1.00	74.1	0.963	
+3182
+AF-A0A2Z4QVL6-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoneura sp. BIOUG24592-F12	1.00	83.1	0.963	
+1182
+AF-A0A1B2TBM7-F1-model_v4	Cytochrome c oxidase subunit 1	Doryctes sp. BOLD-2016	1.00	67.9	0.962	
+1182
+AF-A0A159Q9N9-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BOLD:ACM0897	1.00	79.8	0.962	
+1182
+AF-A0A346L3H0-F1-model_v4	Cytochrome c oxidase subunit 1	Delphacidae sp. BIOUG24642-H10	1.00	73.3	0.962	
+1182
+AF-A0A0G3ZU55-F1-model_v4	Cytochrome c oxidase subunit 1	Macrosteles quadrilineatus	1.00	75.2	0.962	
+11182
+AF-D8VW41-F1-model_v4	Cytochrome c oxidase subunit 1	Nadata gibbosa	1.00	80.4	0.962	
+1182
+AF-A0A2P1LHS8-F1-model_v4	Cytochrome c oxidase subunit 1	Libellula quadrimaculata	1.00	79.6	0.962	
+1172
+AF-A0A0M3WWQ6-F1-model_v4	Cytochrome c oxidase subunit 1	Euura sp. 'Amauronematus' BOLD:AAG3535	1.00	74.5	0.961	
+4172
+AF-A0A141KAF4-F1-model_v4	Cytochrome c oxidase subunit 1	Arrenuridae sp. BOLD:AAE6723	1.00	76.8	0.961	
+8182
+AF-A0A2U9EXY7-F1-model_v4	Cytochrome c oxidase subunit 1	Penaeus merguiensis	1.00	78.2	0.961	
+1182
+AF-A0A385JTE1-F1-model_v4	Cytochrome c oxidase subunit 1	Phthiracaridae sp. BIOUG13565-C04	1.00	71.5	0.961	
+1179
+AF-A0A159HDN1-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL3682	1.00	81.4	0.961	
+1178
+AF-A0A2D0WFC4-F1-model_v4	Cytochrome c oxidase subunit 1	Haemulon aurolineatum	1.00	81.5	0.961	
+1173
+AF-A0A3G2YMA1-F1-model_v4	Cytochrome c oxidase subunit 1	Subpsaltria yangi	1.00	71.7	0.961	
+1182
+AF-A0A0G4A623-F1-model_v4	Cytochrome c oxidase subunit 1	Stictopleurus punctiventris	1.00	79.3	0.961	
+1182
+AF-L7MR17-F1-model_v4	Cytochrome c oxidase subunit 1	Diolcogaster sp. CNCH3050	1.00	69.7	0.961	
+1182
+AF-D8WFH0-F1-model_v4	Cytochrome c oxidase subunit 1	Schreckensteinia festaliella	1.00	78.2	0.961	
+1182
+AF-A0A1C9G2P4-F1-model_v4	Cytochrome c oxidase subunit 1	Pteromalus sp. BOLD-2016	1.00	69	0.961	
+1182
+AF-A0A0F6T8P0-F1-model_v4	Cytochrome c oxidase subunit 1	Charadrius collaris	1.00	79.8	0.961	
+1182
+AF-A0A385UMS7-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG23920-H05	1.00	70.5	0.960	
+1170
+AF-A0A385MAX7-F1-model_v4	Cytochrome c oxidase subunit 1	Lecithocera sp. BIOUG18311-D11	1.00	81.3	0.960	
+1182
+AF-A0A159IXQ2-F1-model_v4	Cytochrome c oxidase subunit 1	Sitodiplosis sp. BOLD:ACI8090	1.00	72.2	0.960	
+1182
+AF-A0A2L1Y7C9-F1-model_v4	Cytochrome c oxidase subunit 1	Stenus pudicus	1.00	81.9	0.960	
+8182
+AF-A0A141JXP3-F1-model_v4	Cytochrome c oxidase subunit 1	Arrenuridae sp. BOLD:AAE6723	1.00	76.4	0.960	
+1174
+AF-A0A5P8NR11-F1-model_v4	Cytochrome c oxidase subunit 1	Rhinomugil corsula	1.00	77.2	0.960	
+9182
+AF-A4KZH5-F1-model_v4	Cytochrome c oxidase subunit 1	Callistochiton palmulatus	1.00	85.7	0.960	
+1169
+AF-A0A159QKZ2-F1-model_v4	Cytochrome c oxidase subunit 1	Hemiptera sp. BOLD:ACL3950	1.00	68.4	0.960	
+1182
+AF-D5ISP2-F1-model_v4	Cytochrome c oxidase subunit 1	Polythrix sp. Janzen02	1.00	80.1	0.960	
+1176
+AF-A0A0S1ZT13-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACC7730	1.00	78	0.959	
+1182
+AF-A0A0D4D1J2-F1-model_v4	Cytochrome c oxidase subunit 1	Panopeus herbstii	1.00	76	0.959	
+1182
+AF-A0A0S1J4B9-F1-model_v4	Cytochrome c oxidase subunit 1	Limoniinae sp. SSJAE5491-13	1.00	80.8	0.959	
+1172
+AF-A0A067ZEM3-F1-model_v4	Cytochrome c oxidase subunit 1	Macroglossum hirundo errans	1.00	79.8	0.959	
+1182
+AF-A0A1B2SNN0-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumon sp. BOLD-2016	1.00	68.4	0.959	
+1182
+AF-H2EVD3-F1-model_v4	Cytochrome c oxidase subunit 1	Eois sp. black tears	1.00	80.3	0.959	
+7182
+AF-A0A161DFS3-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACF0604	1.00	72.4	0.959	
+1178
+AF-I6PLT1-F1-model_v4	Cytochrome c oxidase subunit 1	Haemulon aurolineatum	1.00	79.8	0.959	
+1182
+AF-A0A3G4S342-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG25801-A03	1.00	73	0.958	
+1182
+AF-A0A159GGW9-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL3682	1.00	81.4	0.958	
+1178
+AF-A0A3G1XSD9-F1-model_v4	Cytochrome c oxidase subunit 1	Tineidae sp. BIOUG28193-F12	1.00	77.7	0.958	
+1182
+AF-A0A3G3ARF2-F1-model_v4	Cytochrome c oxidase subunit 1	Soyedina vallicularia	1.00	80.4	0.958	
+1182
+AF-A0A3G2K626-F1-model_v4	Cytochrome c oxidase subunit 1	Heterosminthurus sp. BIOUG25046-F12	1.00	80.9	0.958	
+1182
+AF-A0A2L1YNN2-F1-model_v4	Cytochrome c oxidase subunit 1	Monarthrum scutellare	1.00	75.5	0.958	
+1182
+AF-A0A0N9GXS1-F1-model_v4	Cytochrome c oxidase subunit 1	Deuterosminthurus sp. BOLD:AAB7915	1.00	80.4	0.958	
+1182
+AF-A0A0S1IQV2-F1-model_v4	Cytochrome c oxidase subunit 1	Chloropidae sp. BOLD:ACB3082	1.00	81.8	0.958	
+1182
+AF-A0A141IBA4-F1-model_v4	Cytochrome c oxidase subunit 1	Bourletiellidae sp. BOLD:AAB7913	1.00	81.6	0.958	
+1180
+AF-A0A159HC58-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL0207	1.00	77.1	0.958	
+1182
+AF-A0A2Z4YY12-F1-model_v4	Cytochrome c oxidase subunit 1	Diapriidae sp. BIOUG20413-F11	1.00	60.7	0.958	
+4182
+AF-A0A2S1G9Z5-F1-model_v4	Cytochrome c oxidase subunit 1	Microgastrinae sp. BIOUG25257-E08	1.00	70.3	0.958	
+1182
+AF-A0A0N9EHU9-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACE5277	1.00	71.7	0.958	
+1182
+AF-W6CUS5-F1-model_v4	Cytochrome c oxidase subunit 1	Lycenchelys crotalinus	1.00	78.8	0.958	
+1182
+AF-A0A0M4C3A0-F1-model_v4	Cytochrome c oxidase subunit 1	Parasteatoda tabulata	1.00	76	0.958	
+1182
+AF-A0A0M3YLF2-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobryidae sp. BOLD:AAN4464	1.00	75.5	0.958	
+1182
+AF-A0A1B3VFF8-F1-model_v4	Cytochrome c oxidase subunit 1	Polypedilum sp. BOLD-2016	1.00	80.4	0.958	
+1182
+AF-F1EFW9-F1-model_v4	Cytochrome c oxidase subunit 1	Callihormius sp. BOLD:AAK1946	1.00	68.4	0.958	
+1182
+AF-A0A482HMF3-F1-model_v4	Cytochrome c oxidase subunit 1	Tanytarsus sp. BIOUG21199-C03	1.00	79.8	0.957	
+1182
+AF-A0A0M4C7S8-F1-model_v4	Cytochrome c oxidase subunit 1	Habronattus decorus	1.00	75	0.957	
+1182
+AF-B6REU1-F1-model_v4	Cytochrome c oxidase subunit 1	Leporinus cf. fasciatus GSAS-2007	1.00	72.2	0.957	
+1182
+AF-A0A411LZ78-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocentrinae sp. BIOUG21688-F08	1.00	69.5	0.957	
+1182
+AF-A0A1B2QFX4-F1-model_v4	Cytochrome c oxidase subunit 1	Buathra laborator	1.00	70.3	0.957	
+1182
+AF-A0A1C9FBC5-F1-model_v4	Cytochrome c oxidase subunit 1	Cricotopus trifasciatus	1.00	81.5	0.957	
+1182
+AF-A0A1B2WQ53-F1-model_v4	Cytochrome c oxidase subunit 1	Gymnoclytia occidua	1.00	79.8	0.957	
+1182
+AF-A0A386M365-F1-model_v4	Cytochrome c oxidase subunit 1	Bombyliidae sp. BIOUG28102-C07	1.00	78.8	0.957	
+1182
+AF-A0A0N9QTP3-F1-model_v4	Cytochrome c oxidase subunit 1	Staphylinidae sp. BOLD:ACI5072	1.00	80.4	0.957	
+1182
+AF-A0A2I6PZT6-F1-model_v4	Cytochrome c oxidase subunit 1	Spelobia sp. BIOUG25017-H05	1.00	82	0.957	
+1182
+AF-A0A2S1K0B6-F1-model_v4	Cytochrome c oxidase subunit 1	Scatopsidae sp. BIOUG20463-E04	1.00	79.8	0.957	
+1182
+AF-A0A2U9JVZ4-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolimnophila luteipennis	1.00	80.4	0.957	
+1182
+AF-A0A2Z4ERE4-F1-model_v4	Cytochrome c oxidase subunit 1	Mycetophila sp. BIOUG26744-C11	1.00	81.5	0.957	
+1182
+AF-A0A159E297-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ABW8039	1.00	73.3	0.957	
+1182
+AF-A0A411LZ67-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocentrus sp. BIOUG27389-F10	1.00	70.1	0.957	
+1182
+AF-A0A139YPP6-F1-model_v4	Cytochrome c oxidase subunit 1	Smaragdina rufimana	1.00	79.3	0.957	
+1182
+AF-A0A385M6U0-F1-model_v4	Cytochrome c oxidase subunit 1	Dichomeridinae sp. BIOUG18740-C12	1.00	80.4	0.956	
+1182
+AF-D8W691-F1-model_v4	Cytochrome c oxidase subunit 1	Galasa nigrinodis	1.00	78.8	0.956	
+1182
+AF-A0A3B8CV94-F1-model_v4	Cytochrome c oxidase subunit 1	Plectiscidea sp. BIOUG24214-C06	1.00	67.3	0.956	
+1182
+AF-A0A385M2S8-F1-model_v4	Cytochrome c oxidase subunit 1	Pityohyphantes costatus	1.00	75	0.956	
+1182
+AF-K9JAT0-F1-model_v4	Cytochrome c oxidase subunit 1	Microgastrinae sp. USNM00680443	1.00	69	0.956	
+1182
+AF-A0A3G1X303-F1-model_v4	Cytochrome c oxidase subunit 1	Synopeas pennsylvanicum	1.00	66.8	0.956	
+1181
+AF-A0A0M3YSS6-F1-model_v4	Cytochrome c oxidase subunit 1	Collembola sp. BOLD:ACD0454	1.00	75.5	0.956	
+1182
+AF-A0A5J6YIQ9-F1-model_v4	Cytochrome c oxidase subunit 1	Anoplodactylus robustus	1.00	72.2	0.956	
+1182
+AF-A0A160D6W1-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	78.1	0.956	
+1169
+AF-A0A7L8T8D6-F1-model_v4	Cytochrome c oxidase subunit 1	Megachile rotundata	1.00	62.2	0.956	
+5182
+AF-A0A343XTW5-F1-model_v4	Cytochrome c oxidase subunit 1	Limnophyes sp. BIOUG27102-C01	1.00	82.6	0.955	
+1182
+AF-L7PQT0-F1-model_v4	Cytochrome c oxidase subunit 1	Tersilochinae sp. BOLD:AAB9668	1.00	68.4	0.955	
+1182
+AF-A0A3B8DCR1-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocentrinae sp. BIOUG24067-C02	1.00	70.1	0.955	
+1182
+AF-A0A0S1IUA6-F1-model_v4	Cytochrome c oxidase subunit 1	Phoridae sp. BOLD:AAG3315	1.00	80.9	0.955	
+1182
+AF-A0A385KV90-F1-model_v4	Cytochrome c oxidase subunit 1	Xysticus pellax	1.00	76.5	0.955	
+1179
+AF-A0A2U8ZJS8-F1-model_v4	Cytochrome c oxidase subunit 1	Xysticus fraternus	1.00	75.4	0.954	
+1179
+AF-D6BRH1-F1-model_v4	Cytochrome c oxidase subunit 1	Berthella plumula	1.00	72.2	0.954	
+1182
+AF-A0A1B2Q8N7-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	68.4	0.954	
+1182
+AF-A0A0N9GQR6-F1-model_v4	Cytochrome c oxidase subunit 1	Agromyza frontella	1.00	83.7	0.954	
+1179
+AF-A0A163CY26-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAY6448	1.00	70.5	0.954	
+1170
+AF-A0A386LVX3-F1-model_v4	Cytochrome c oxidase subunit 1	Pollenia sp. BIOUG21956-B09	1.00	82.8	0.954	
+1169
+AF-A0A5Q2MUV8-F1-model_v4	Cytochrome c oxidase subunit 1	Orsinome vethi	1.00	75.5	0.954	
+1182
+AF-A0A142BKQ8-F1-model_v4	Cytochrome c oxidase subunit 1	Monstrillopsis sp. 2 SYB-2016	1.00	55.4	0.954	
+1182
+AF-A0A385JVY1-F1-model_v4	Cytochrome c oxidase subunit 1	Hypogastruridae sp. BIOUG13667-A05	1.00	79.8	0.954	
+1182
+AF-A0A410CZE1-F1-model_v4	Cytochrome c oxidase subunit 1	Pieris rapae	1.00	80.2	0.953	
+8182
+AF-L7PQY1-F1-model_v4	Cytochrome c oxidase subunit 1	Plectiscidea sp. BOLD:AAN7637	1.00	68.8	0.953	
+2182
+AF-A0A159GVR7-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL6126	1.00	78.4	0.953	
+1172
+AF-A0A5Q2MWL9-F1-model_v4	Cytochrome c oxidase subunit 1	Artema atlanta	1.00	73.3	0.953	
+1182
+AF-A0A2S1HFP0-F1-model_v4	Cytochrome c oxidase subunit 1	Frankliniella sp. BIOUG15056-E04	1.00	70.1	0.953	
+1182
+AF-A0A096ZJA5-F1-model_v4	Cytochrome c oxidase subunit 1	Phyllophora crispa	1.00	68.3	0.953	
+1178
+AF-A0A1B2T4V3-F1-model_v4	Cytochrome c oxidase subunit 1	Sathon sp. BOLD-2016	1.00	70.9	0.953	
+1179
+AF-A0A1B2T6K5-F1-model_v4	Cytochrome c oxidase subunit 1	Bombus frigidus	1.00	60.8	0.953	
+1182
+AF-Q2MQ14-F1-model_v4	Cytochrome c oxidase subunit 1	Perichares adela	1.00	81.6	0.953	
+14182
+AF-A0A2H4FKN1-F1-model_v4	Cytochrome c oxidase subunit 1	Plesiops sp. 1 JD-2016	1.00	78.9	0.953	
+9174
+AF-A0A5J6N960-F1-model_v4	Cytochrome c oxidase subunit 1	Aptinothrips karnyi	1.00	71.5	0.952	
+7182
+AF-Q6IWM3-F1-model_v4	Cytochrome c oxidase subunit 1	Carcinus maenas	1.00	77.7	0.952	
+9174
+AF-A0A0C4MLV3-F1-model_v4	Cytochrome c oxidase subunit 1	Hylaeus nigritus	1.00	64.6	0.952	
+1182
+AF-A0A499KYA6-F1-model_v4	Cytochrome c oxidase subunit 1	Leptonema irroratum	1.00	76.4	0.952	
+1178
+AF-A0A173DLF2-F1-model_v4	Cytochrome c oxidase subunit 1	Ptinidae sp. BOLD-2016	1.00	82.2	0.952	
+1175
+AF-A0A162YL97-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACI4301	1.00	73.5	0.951	
+1178
+AF-Q30IK5-F1-model_v4	Cytochrome c oxidase subunit 1	Habrotrocha sp. CWB-2005	1.00	63.7	0.951	
+1182
+AF-A0A2P1LLQ6-F1-model_v4	Cytochrome c oxidase subunit 1	Dibrachys sp. BIOUG31865-F11	1.00	71.1	0.951	
+1182
+AF-A0A3G1YJD3-F1-model_v4	Cytochrome c oxidase subunit 1	Nanorchestes sp. BIOUG25925-B10	1.00	72.8	0.951	
+1182
+AF-A0A1C9JDS4-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	79.6	0.951	
+11182
+AF-A0A7D1I1D6-F1-model_v4	Cytochrome c oxidase subunit 1	Lysiosquilloidea sp. 5 SP-2020	1.00	79.3	0.950	
+11175
+AF-A0A1B3SSM5-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	1.00	64.8	0.950	
+1168
+AF-L7MNF6-F1-model_v4	Cytochrome c oxidase subunit 1	Microgastrinae sp. USNM00680845	1.00	71.7	0.950	
+1177
+AF-A0A0D2X6H1-F1-model_v4	Cytochrome c oxidase subunit 1	Hoplitis villosa	1.00	66.3	0.950	
+1182
+AF-A0A0S3IIF2-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACD0169	1.00	79	0.949	
+1177
+AF-A0A4Y5T1E6-F1-model_v4	Cytochrome c oxidase subunit 1	Rasbora rasbora	1.00	78.3	0.949	
+5182
+AF-A0A482GV94-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolycoriella brunnea	1.00	77.9	0.949	
+4182
+AF-A0A411NEH4-F1-model_v4	Cytochrome c oxidase subunit 1	Synopeas sp. BIOUG15133-F10	1.00	67.5	0.949	
+1179
+AF-A0A1C9S7K9-F1-model_v4	Cytochrome c oxidase subunit 1	Pteromalus sp. BOLD-2016	1.00	68.4	0.949	
+1182
+AF-A0A0D4D2A3-F1-model_v4	Cytochrome c oxidase subunit 1	Panopeus herbstii	1.00	75	0.949	
+1164
+AF-A0A0S3HJF6-F1-model_v4	Cytochrome c oxidase subunit 1	Mycetophilidae sp. BOLD:ACF7345	1.00	81.3	0.948	
+1177
+AF-A0A7D6C7A6-F1-model_v4	Cytochrome c oxidase subunit 1	Parapanteles sp. K KSP-2020	1.00	66.6	0.948	
+1177
+AF-A0A193B9V9-F1-model_v4	Cytochrome c oxidase subunit 1	Miridae sp. BOLD-2016	1.00	77	0.948	
+1174
+AF-G5DPL6-F1-model_v4	Cytochrome c oxidase subunit 1	Macroglossum nemesis	1.00	79.8	0.948	
+1182
+AF-A0A343XJ46-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocladiinae sp. BIOUG21252-A04	1.00	82	0.948	
+1173
+AF-A0A159SXH7-F1-model_v4	Cytochrome c oxidase subunit 1	Psocidae sp. BOLD:AAP4624	1.00	82	0.948	
+1173
+AF-A0A161EED7-F1-model_v4	Cytochrome c oxidase subunit 1	Platygastridae sp. BOLD:ACA8547	1.00	66.3	0.948	
+1182
+AF-A0A0A0PCJ2-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudoterpna coronillaria	1.00	79.3	0.947	
+1182
+AF-A0A1D6YY86-F1-model_v4	Cytochrome c oxidase subunit 1	Leuctra hippopus	1.00	80.4	0.947	
+1182
+AF-A0A650B8G1-F1-model_v4	Cytochrome c oxidase subunit 1	Euphthiracaridae sp. BOLD:ADE0669	1.00	72.3	0.947	
+1177
+AF-X5F0B7-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudophoxinus sp. BOLD:ACB6378	1.00	78.2	0.947	
+1182
+AF-A0A3G3LRK0-F1-model_v4	Cytochrome c oxidase subunit 1	Cyclonaias necki	1.00	77.7	0.947	
+1182
+AF-A0A3G2BGZ0-F1-model_v4	Cytochrome c oxidase subunit 1	Euhybus sp. BIOUG14748-H03	1.00	81.5	0.946	
+1182
+AF-A0A173CZ22-F1-model_v4	Cytochrome c oxidase subunit 1	Lambdina sp. BOLD:AAA5482	1.00	80.9	0.946	
+1173
+AF-A0A286LLS3-F1-model_v4	Cytochrome c oxidase subunit 1	Macrobrachium sp. ABR-SAU-DHAKA Max 1-6	1.00	80.8	0.946	
+11182
+AF-A0A3G2K3H4-F1-model_v4	Cytochrome c oxidase subunit 1	Eupodidae sp. BIOUG26315-F07	1.00	73.1	0.946	
+10182
+AF-A0A2S1HI28-F1-model_v4	Cytochrome c oxidase subunit 1	Julus scandinavius	1.00	81.9	0.946	
+1172
+AF-A0A1B2RFV1-F1-model_v4	Cytochrome c oxidase subunit 1	Miridae sp. BOLD-2016	1.00	76.6	0.946	
+1182
+AF-E2H863-F1-model_v4	Cytochrome c oxidase subunit 1	Distichodus atroventralis	1.00	78.8	0.945	
+1175
+AF-A0A2P1DKV2-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobrya clitellaria	1.00	78.1	0.945	
+11182
+AF-A0A1B2RKY5-F1-model_v4	Cytochrome c oxidase subunit 1	Nabis sp. BOLD-2016	1.00	76.5	0.945	
+1166
+AF-A0A482FJ11-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolycoriella brunnea	1.00	77.7	0.944	
+1182
+AF-A0A0N9QNV8-F1-model_v4	Cytochrome c oxidase subunit 1	Ampedus sp. C BOLD-2015	1.00	78.8	0.944	
+1182
+AF-A0A159I5H1-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACI3362	1.00	70.6	0.944	
+1182
+AF-A0A385G9I7-F1-model_v4	Cytochrome c oxidase subunit 1	Platypalpus sp. BIOUG23657-B10	1.00	78.8	0.944	
+1182
+AF-A0A0M3ML57-F1-model_v4	Cytochrome c oxidase subunit 1	Thrips sp. BOLD:AAN9108	1.00	71.8	0.944	
+1181
+AF-A0A2P1J7Q0-F1-model_v4	Cytochrome c oxidase subunit 1	Ceratopogonidae sp. BIOUG20957-B09	1.00	77.7	0.944	
+1182
+AF-A0A0S1NCZ2-F1-model_v4	Cytochrome c oxidase subunit 1	Phaonia consobrina	1.00	82	0.944	
+1182
+AF-A0A2P1LYX6-F1-model_v4	Cytochrome c oxidase subunit 1	Dasyhelea sp. BIOUG21244-H07	1.00	82	0.944	
+1182
+AF-A0A0S1N6J7-F1-model_v4	Cytochrome c oxidase subunit 1	Sepsis punctum	1.00	80.9	0.944	
+1182
+AF-A0A7D0HGM6-F1-model_v4	Cytochrome c oxidase subunit 1	Pieris rapae	1.00	79.8	0.943	
+1182
+AF-A0A345K8H0-F1-model_v4	Cytochrome c oxidase subunit 1	Peristenus dayi	1.00	72.8	0.943	
+1182
+AF-A4Q8P4-F1-model_v4	Cytochrome c oxidase subunit 1	Deroceras reticulatum	1.00	74	0.943	
+8182
+AF-A0A3G2QUU7-F1-model_v4	Cytochrome c oxidase subunit 1	Odontellidae sp. BIOUG24575-B02	1.00	76.6	0.943	
+1182
+AF-A0A0N9QMZ2-F1-model_v4	Cytochrome c oxidase subunit 1	Hapalaraea megarthroides	1.00	79.8	0.943	
+1182
+AF-T1SFZ0-F1-model_v4	Cytochrome c oxidase subunit 1	Placospongia intermedia	1.00	74.4	0.943	
+1182
+AF-A0A0N7EUA3-F1-model_v4	Cytochrome c oxidase subunit 1	Synopeas pennsylvanicum	1.00	65.7	0.943	
+1182
+AF-A0A163UIS4-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACF0604	1.00	72	0.943	
+1175
+AF-A0A1Y0A2I1-F1-model_v4	Cytochrome c oxidase subunit 1	Pipunculidae sp. BIOUG15342-E11	1.00	79.6	0.943	
+1172
+AF-A0A0M3XS05-F1-model_v4	Cytochrome c oxidase subunit 1	Eucosma comatulana	1.00	77.7	0.943	
+1182
+AF-A0A0S4KM93-F1-model_v4	Cytochrome c oxidase subunit 1	Trigonopterus sp. 455 MB-2015	1.00	73.4	0.943	
+4182
+AF-A0A0S1HVB0-F1-model_v4	Cytochrome c oxidase subunit 1	Hapalaraea megarthroides	1.00	80.2	0.943	
+1172
+AF-A0A2S1K6M9-F1-model_v4	Cytochrome c oxidase subunit 1	Pipunculus hertzogi	1.00	82.3	0.943	
+16179
+AF-A0A0N9QD80-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAH3757	1.00	75.5	0.943	
+1182
+AF-A0A159LEK9-F1-model_v4	Cytochrome c oxidase subunit 1	Strophopteryx fasciata	1.00	80.8	0.943	
+1172
+AF-A0A0K1GAN7-F1-model_v4	Cytochrome c oxidase subunit 1	Microgyniidae sp. BOLD:ACR8754	1.00	77.7	0.942	
+1182
+AF-A0A411N7G1-F1-model_v4	Cytochrome c oxidase subunit 1	Synopeas pennsylvanicum	1.00	65.7	0.942	
+1182
+AF-A0A0G3ZI53-F1-model_v4	Cytochrome c oxidase subunit 1	Erythroneura ontari	1.00	76.6	0.942	
+1182
+AF-A0A1B2T3I5-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	1.00	64.4	0.942	
+1166
+AF-A0A193B6A2-F1-model_v4	Cytochrome c oxidase subunit 1	Eratoneura sp. BOLD-2016	1.00	76.6	0.942	
+1182
+AF-A0A165AKF9-F1-model_v4	Cytochrome c oxidase subunit 1	Campsicnemus sp. BOLD:AAG9638	1.00	79.8	0.942	
+1182
+AF-A0A384XPX6-F1-model_v4	Cytochrome c oxidase subunit 1	Austrominius modestus	1.00	81	0.942	
+17180
+AF-A0A1C9NSC0-F1-model_v4	Cytochrome c oxidase subunit 1	Polypedilum sp. BOLD-2016	1.00	81	0.942	
+11182
+AF-A0A159P742-F1-model_v4	Cytochrome c oxidase subunit 1	Tenthredinidae sp. BOLD:ACH0297	1.00	72	0.942	
+1172
+AF-A0A0B4MNE7-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ABX7920	1.00	72.2	0.942	
+1182
+AF-A0A0S1MVK8-F1-model_v4	Cytochrome c oxidase subunit 1	Dicranota sp. BOLD:ACG8487	1.00	79.8	0.942	
+1182
+AF-A0A0F7G7T8-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	1.00	71.9	0.942	
+9172
+AF-A0A0M3YX46-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobryidae sp. BOLD:AAN4464	1.00	76.1	0.942	
+1172
+AF-A0A0N9QDA8-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAV5691	1.00	76.6	0.941	
+1182
+AF-A0A482I529-F1-model_v4	Cytochrome c oxidase subunit 1	Culicidae sp. BIOUG06326-H09	0.99	82.7	0.941	
+21182
+AF-A0A5B7LH14-F1-model_v4	Cytochrome c oxidase subunit 1	Protomorpha cf. alloeopus EA0114	1.00	67.9	0.941	
+1182
+AF-A0A346LD92-F1-model_v4	Cytochrome c oxidase subunit 1	Polypedilum sp. BIOUG25261-C09	1.00	80.8	0.941	
+1172
+AF-A0A159KPT7-F1-model_v4	Cytochrome c oxidase subunit 1	Hemiptera sp. BOLD:ACL3950	1.00	68	0.941	
+1172
+AF-A0A1C9FWX7-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	66.3	0.941	
+1182
+AF-A0A0S3HLD8-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. SSJAB2700-13	0.99	79.1	0.941	
+11173
+AF-A0A168T357-F1-model_v4	Cytochrome c oxidase subunit 1	Pentatermus nr. striatus DLJQ-2016	1.00	68.4	0.941	
+1182
+AF-A0A173DGR0-F1-model_v4	Cytochrome c oxidase subunit 1	Mordellistena fuscipennis	1.00	77.3	0.941	
+1172
+AF-A0ZXT3-F1-model_v4	Cytochrome c oxidase subunit 1	Pycnoclavella communis	0.99	69.1	0.940	
+20181
+AF-A0A1C9DWY7-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	67.3	0.940	
+1182
+AF-A0A1C9SGM4-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	65.2	0.940	
+1182
+AF-A0A0P0C2Z0-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BOLD:ACO2696	1.00	80.4	0.940	
+1169
+AF-A0A516F2Z1-F1-model_v4	Cytochrome c oxidase subunit 1	Carcinus maenas	0.99	79.5	0.940	
+21181
+AF-F8TA01-F1-model_v4	Cytochrome c oxidase subunit 1	Chorthippus ferdinandi	1.00	76.9	0.939	
+7182
+AF-L7PMM0-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocentrinae sp. BOLD:AAH1605	1.00	68.4	0.939	
+1182
+AF-I6MQ08-F1-model_v4	Cytochrome c oxidase subunit 1	Hydropsyche sp. BOLD:AAA5028	1.00	70.1	0.939	
+1182
+AF-A0A7D7LMF9-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.99	77.6	0.939	
+8168
+AF-A0A386LZL6-F1-model_v4	Cytochrome c oxidase subunit 1	Egle sp. BIOUG22050-E04	1.00	82.3	0.938	
+1170
+AF-A0A0N9FWX1-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACC8493	1.00	73.2	0.938	
+1172
+AF-A0A159J392-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACL3682	1.00	80.7	0.938	
+1171
+AF-A0A1C9RSG4-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomus dilutus	1.00	79.5	0.938	
+1166
+AF-A0A159U9I5-F1-model_v4	Cytochrome c oxidase subunit 1	Synopeas pennsylvanicum	1.00	65.2	0.938	
+1182
+AF-A0A0S1ZEM6-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BOLD:ACC7730	1.00	76.8	0.938	
+1173
+AF-A0A1C9GZR7-F1-model_v4	Cytochrome c oxidase subunit 1	Acricotopus sp. BOLD-2016	1.00	81.9	0.938	
+1166
+AF-A0A163NIP2-F1-model_v4	Cytochrome c oxidase subunit 1	Chironominae sp. BOLD:AAM6245	1.00	79.4	0.937	
+1170
+AF-A0A5J6BB06-F1-model_v4	Cytochrome c oxidase subunit 1	Ectinosomatidae sp. SR-2019	1.00	76.1	0.937	
+1172
+AF-A0A3G6J9Q7-F1-model_v4	Cytochrome c oxidase subunit 1	Mycetophagus quadripustulatus	1.00	79.3	0.937	
+1182
+AF-A0A1B2SV12-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	65.7	0.936	
+1182
+AF-A0A3G3B0S1-F1-model_v4	Cytochrome c oxidase subunit 1	Aroga sp. BIOUG20000-B10	1.00	80	0.936	
+1165
+AF-H7ALT4-F1-model_v4	Cytochrome c oxidase subunit 1	Epithisanotia sanctijohannis	1.00	79.5	0.936	
+4182
+AF-A0A0S3GM10-F1-model_v4	Cytochrome c oxidase subunit 1	Diptera sp. BOLD:ACG8074	1.00	81.5	0.936	
+1182
+AF-A0A1C3S4V4-F1-model_v4	Cytochrome c oxidase subunit 1	Deronectes latus	1.00	80.8	0.935	
+1172
+AF-A0A141L6E1-F1-model_v4	Cytochrome c oxidase subunit 1	Pyrrhalta viburni	1.00	78.6	0.935	
+1173
+AF-A0A088MWT4-F1-model_v4	Cytochrome c oxidase subunit 1	Mesomyzostoma sp. n. 5 MMS-2014	1.00	73.9	0.935	
+1182
+AF-D4NK94-F1-model_v4	Cytochrome c oxidase subunit 1	Eracon sp. cliniasDHJ01	1.00	79.6	0.935	
+1172
+AF-A0A172NHL0-F1-model_v4	Cytochrome c oxidase subunit 1	Swammerdamia sp. BOLD:AAB0224	1.00	80.8	0.935	
+1172
+AF-R4GWP5-F1-model_v4	Cytochrome c oxidase subunit 1	Kerivoula cf. hardwickii CMF-2010	1.00	79.3	0.935	
+1182
+AF-A0A3G2QRQ5-F1-model_v4	Cytochrome c oxidase subunit 1	Ampelisca macrocephala	1.00	75	0.934	
+1172
+AF-A0A386I048-F1-model_v4	Cytochrome c oxidase subunit 1	Zygomyia sp. BIOUG25294-E10	1.00	82.4	0.934	
+8182
+AF-A0A0S1ZSA0-F1-model_v4	Cytochrome c oxidase subunit 1	Tephritis sp. BOLD:AAE9358	1.00	80.8	0.934	
+1172
+AF-A0A499KKL9-F1-model_v4	Cytochrome c oxidase subunit 1	Lethrinus obsoletus	1.00	79.5	0.933	
+1171
+AF-L7PQM6-F1-model_v4	Cytochrome c oxidase subunit 1	Banchinae sp. BOLD:AAA5819	1.00	69	0.933	
+1182
+AF-A0A172NYL6-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	78.1	0.933	
+1169
+AF-A0A1B2NK85-F1-model_v4	Cytochrome c oxidase subunit 1	Pieris rapae	1.00	79.7	0.933	
+1168
+AF-A0A159XCS6-F1-model_v4	Cytochrome c oxidase subunit 1	Gonatocerus sp. BOLD:AAG1488	1.00	70.9	0.933	
+1172
+AF-M3VM03-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. BOLD:AAU9752	1.00	67.9	0.933	
+1182
+AF-D4NNR7-F1-model_v4	Cytochrome c oxidase subunit 1	Accinctapubes sp. albifasciataDHJ02	1.00	79.8	0.933	
+1182
+AF-T1RRX2-F1-model_v4	Cytochrome c oxidase subunit 1	Imosca coreana	1.00	79.3	0.933	
+1182
+AF-D5JJG8-F1-model_v4	Cytochrome c oxidase subunit 1	Caligo sp. telamoniusDHJ01	1.00	77.7	0.933	
+1182
+AF-A0A219TXS1-F1-model_v4	Cytochrome c oxidase subunit 1	Micralestes humilis	1.00	78	0.933	
+3182
+AF-A0A088QBR1-F1-model_v4	Cytochrome c oxidase subunit 1	Notostira erratica	1.00	76.6	0.932	
+1182
+AF-A0A0M3XFU1-F1-model_v4	Cytochrome c oxidase subunit 1	Scelionidae sp. BOLD:ACC7236	1.00	61.3	0.932	
+1181
+AF-E9KE19-F1-model_v4	Cytochrome c oxidase subunit 1	Aquila chrysaetos	1.00	78.5	0.932	
+3182
+AF-E2H844-F1-model_v4	Cytochrome c oxidase subunit 1	Raiamas batesii	1.00	79.3	0.932	
+1182
+AF-A0A096ZJB2-F1-model_v4	Cytochrome c oxidase subunit 1	Phyllophora crispa	1.00	67.2	0.932	
+1182
+AF-B4YIY2-F1-model_v4	Cytochrome c oxidase subunit 1	Palinurus elephas	0.99	80	0.932	
+20182
+AF-A0A482H2E9-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BIOUG07341-B12	0.99	80.5	0.932	
+6164
+AF-A0A0S1MVU2-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BOLD:ACU9267	1.00	82.6	0.931	
+1182
+AF-A0A096ZJB7-F1-model_v4	Cytochrome c oxidase subunit 1	Phyllophora crispa	1.00	67.7	0.931	
+1182
+AF-A0A141F773-F1-model_v4	Cytochrome c oxidase subunit 1	Eupodidae sp. BOLD:AAZ6679	1.00	70.5	0.931	
+1172
+AF-A0A0K0MW10-F1-model_v4	Cytochrome c oxidase subunit 1	Engraulis encrasicolus	0.99	80.3	0.931	
+7164
+AF-A0A1B3W0U3-F1-model_v4	Cytochrome c oxidase subunit 1	Drosophila munda	1.00	81.2	0.931	
+1171
+AF-A0A6H0DKM0-F1-model_v4	Cytochrome c oxidase subunit 1	Potamotrygon hystrix	1.00	74.4	0.930	
+1182
+AF-A0A6M3TWJ0-F1-model_v4	Cytochrome c oxidase subunit 1	Fejervarya limnocharis	1.00	79.3	0.930	
+1182
+AF-A0A6H0DVE0-F1-model_v4	Cytochrome c oxidase subunit 1	Folsomotoma octooculata	0.99	78.6	0.930	
+16174
+AF-A0A0G2QU91-F1-model_v4	Cytochrome c oxidase subunit 1	Tetragnatha sp. A JC-2014	1.00	76	0.930	
+1182
+AF-A0A0S1HMX9-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAQ0654	1.00	74.4	0.930	
+1182
+AF-S5XHW5-F1-model_v4	Cytochrome c oxidase subunit 1	Scopula episcia	1.00	81.1	0.929	
+1170
+AF-S5X5A1-F1-model_v4	Cytochrome c oxidase subunit 1	Hestiochora erythrota	1.00	79.4	0.929	
+1170
+AF-S5WNS9-F1-model_v4	Cytochrome c oxidase subunit 1	Niguza oculita	1.00	80.5	0.929	
+1170
+AF-A0A5J6BBJ4-F1-model_v4	Cytochrome c oxidase subunit 1	Ectinosomatidae sp. SR-2019	1.00	76.1	0.929	
+1172
+AF-S5XHK3-F1-model_v4	Cytochrome c oxidase subunit 1	Tawhitia pentadactylus	1.00	80.5	0.929	
+1170
+AF-A0A7S5XF35-F1-model_v4	Cytochrome c oxidase subunit 1	Panyapedaliodes phila	1.00	78.2	0.929	
+1182
+AF-A0A3R5QEB9-F1-model_v4	Cytochrome c oxidase subunit 1	Coleoptera sp. INDOBIOSYS-CCDB26008-D02	1.00	79	0.929	
+8182
+AF-A0A3G1UQX5-F1-model_v4	Cytochrome c oxidase subunit 1	Deroceras reticulatum	1.00	72.6	0.928	
+1172
+AF-A0A6M2VCU6-F1-model_v4	Cytochrome c oxidase subunit 1	Paracanthocobitis botia	1.00	79.3	0.928	
+1182
+AF-A0A411DDN3-F1-model_v4	Cytochrome c oxidase subunit 1	Tetragnatha sp. 15 KC-2019	1.00	76	0.928	
+1182
+AF-A0A861IQL4-F1-model_v4	Cytochrome c oxidase subunit I	Myxine sp. p DCP-2020	1.00	76	0.928	
+1182
+AF-A0A1C9DQ00-F1-model_v4	Cytochrome c oxidase subunit 1	Olethreutes appendiceum	1.00	78.3	0.927	
+1166
+AF-A0A5J6EEQ1-F1-model_v4	Cytochrome c oxidase subunit 1	Lutjanus lutjanus	1.00	78	0.927	
+7182
+AF-A0A1C9ERH9-F1-model_v4	Cytochrome c oxidase subunit 1	Corynoptera sp. BOLD-2016	1.00	78.3	0.926	
+1166
+AF-A0A3R5U6J7-F1-model_v4	Cytochrome c oxidase subunit 1	Phengaris alcon	0.99	80.1	0.926	
+21176
+AF-A0A220W186-F1-model_v4	Cytochrome c oxidase subunit 1	Placobdella sp. 4 DdC-2017	1.00	73.3	0.926	
+1182
+AF-R4IQL0-F1-model_v4	Cytochrome c oxidase subunit 1	Dermacentor nuttalli	1.00	78.8	0.926	
+1182
+AF-A0A0M4FLA3-F1-model_v4	Cytochrome c oxidase subunit 1	Corvus splendens	1.00	79.3	0.926	
+1182
+AF-T2C7E9-F1-model_v4	Cytochrome c oxidase subunit 1	Obovaria jacksoniana	1.00	77.4	0.926	
+12182
+AF-V9M1K6-F1-model_v4	Cytochrome c oxidase subunit 1	Neoceratodus forsteri	1.00	77.1	0.926	
+1182
+AF-A0A0M3X9F1-F1-model_v4	Cytochrome c oxidase subunit 1	Eridolius sp. BOLD:AAH1581	1.00	70.6	0.926	
+1182
+AF-A0A6C0TL08-F1-model_v4	Cytochrome c oxidase subunit 1	Globisporangium ultimum	1.00	72.1	0.925	
+4182
+AF-A0A0A1E8F0-F1-model_v4	Cytochrome c oxidase subunit 1	Siphamia papuensis	1.00	78.1	0.925	
+2182
+AF-A0A8A2FVY7-F1-model_v4	Cytochrome c oxidase subunit I	Pimoa gyirong	1.00	74.1	0.925	
+3182
+AF-A0A499L601-F1-model_v4	Cytochrome c oxidase subunit 1	Monacanthus tuckeri	1.00	76.1	0.925	
+17182
+AF-A0A499JFB7-F1-model_v4	Cytochrome c oxidase subunit 1	Limnephilus perpusillus	1.00	73.9	0.925	
+1182
+AF-A0A5P8TYM3-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	1.00	66.6	0.925	
+11182
+AF-A0A7U3NPB2-F1-model_v4	Cytochrome c oxidase subunit 1	Dermacentor nuttalli	1.00	78.8	0.924	
+1182
+AF-G8DJT7-F1-model_v4	Cytochrome c oxidase subunit 1	Cephalophus rufilatus	1.00	79.3	0.924	
+1182
+AF-D0QGV5-F1-model_v4	Cytochrome c oxidase subunit 1	Sphyrna tiburo	1.00	77.1	0.924	
+1182
+AF-B3STL3-F1-model_v4	Cytochrome c oxidase subunit 1	Vanhoeffenura sp. MB E1	1.00	78.8	0.924	
+1182
+AF-A0A0H4NF30-F1-model_v4	Cytochrome c oxidase subunit 1	Enteromius jae	1.00	79.1	0.924	
+1163
+AF-A0A6M5AQT3-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACD1662	1.00	78.8	0.924	
+1182
+AF-A0A6B9L1E6-F1-model_v4	Cytochrome c oxidase subunit 1	Esomus danrica	1.00	77.9	0.924	
+4182
+AF-A0A3G2ZEN2-F1-model_v4	Cytochrome c oxidase subunit 1	Eupodidae sp. BIOUG24581-F10	0.99	77.4	0.924	
+21182
+AF-A0A2P1J4B1-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG27148-E06	1.00	72.4	0.923	
+18182
+AF-A0A870HNI1-F1-model_v4	Cytochrome c oxidase subunit I	Kronichthys aff. heylandi LBP1768 12894	1.00	79.1	0.923	
+17182
+AF-A0A159KAS8-F1-model_v4	Cytochrome c oxidase subunit 1	Chironominae sp. BOLD:ACL4257	1.00	79.5	0.923	
+1166
+AF-A0A5A4MG91-F1-model_v4	Cytochrome c oxidase subunit 1	Eumerus basalis	1.00	78.8	0.923	
+5182
+AF-A0A346M2J4-F1-model_v4	Cytochrome c oxidase subunit 1	Salispina sp.	1.00	72	0.922	
+1182
+AF-A0A109ZWU7-F1-model_v4	Cytochrome c oxidase subunit 1	Ototyphlonemertes erneba	1.00	88.3	0.922	
+14182
+AF-A0A0P0AQR9-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:ACT5834	1.00	80.2	0.922	
+18182
+AF-A0A0M4RF61-F1-model_v4	Cytochrome c oxidase subunit 1	Pachypappa vesicalis	1.00	67	0.921	
+18182
+AF-A0A0A7AVY0-F1-model_v4	Cytochrome c oxidase subunit 1	Platycheirus podagratus	1.00	82.1	0.921	
+1168
+AF-A0A5B9T5A1-F1-model_v4	Cytochrome c oxidase subunit 1	Puntius terio	1.00	78.9	0.921	
+9182
+AF-A0A141JWQ9-F1-model_v4	Cytochrome c oxidase subunit 1	Sarcoptiformes sp. BOLD:AAF9291	1.00	76.7	0.921	
+1168
+AF-D0EM34-F1-model_v4	Cytochrome c oxidase subunit 1	Pterygioteuthis giardi	1.00	82.6	0.921	
+1182
+AF-A0A2U8YQ65-F1-model_v4	Cytochrome c oxidase subunit 1	Dolichopus affinis	1.00	80.3	0.921	
+17182
+AF-A0A5J6EFR7-F1-model_v4	Cytochrome c oxidase subunit 1	Parapercis alboguttata	0.99	78.7	0.921	
+25182
+AF-A0A2U9J726-F1-model_v4	Cytochrome c oxidase subunit 1	Orthocladiinae sp. BIOUG14904-G05	1.00	84	0.921	
+16182
+AF-A0A0A0Q1S7-F1-model_v4	Cytochrome c oxidase subunit 1	Neoadelium genitale	1.00	80.2	0.921	
+1172
+AF-L7PS35-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. BOLD:AAU9752	1.00	67.9	0.920	
+1182
+AF-A0A386L1N4-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BIOUG10603-A05	1.00	79.2	0.920	
+1164
+AF-A0A7U3X0X7-F1-model_v4	Cytochrome c oxidase subunit 1	Aname simoneae	1.00	71.8	0.920	
+1167
+AF-A0A191AP34-F1-model_v4	Cytochrome c oxidase subunit 1	Sebastes rosaceus	0.99	77.5	0.920	
+20182
+AF-M9ZMX1-F1-model_v4	Cytochrome c oxidase subunit 1	Echinobothrium sp. n. 4 FPLM-2013	0.99	45.9	0.920	
+1171
+AF-F8R4G3-F1-model_v4	Cytochrome c oxidase subunit 1	Eurytemora affinis	1.00	74.8	0.920	
+1167
+AF-A0A220F009-F1-model_v4	Cytochrome c oxidase subunit 1	Scelioninae sp. BIOUG15339-E11	1.00	63.9	0.919	
+1172
+AF-A0A0S1WC49-F1-model_v4	Cytochrome c oxidase subunit 1	Rhingia semicaerulea	1.00	81.4	0.919	
+7182
+AF-A0A3G1I5L6-F1-model_v4	Cytochrome c oxidase subunit 1	Stenodema sibirica	0.99	78	0.919	
+21182
+AF-A0A4Y5FCG4-F1-model_v4	Cytochrome c oxidase subunit 1	Oesophagostomum sp. CAM2C1	1.00	67.3	0.919	
+1182
+AF-A0A3G2ZJC0-F1-model_v4	Cytochrome c oxidase subunit 1	Dicyrtomidae sp. BIOUG21457-D12	1.00	78.6	0.919	
+1164
+AF-A4KZH6-F1-model_v4	Cytochrome c oxidase subunit 1	Callistochiton palmulatus	1.00	83.3	0.919	
+17182
+AF-A0A4P1TN31-F1-model_v4	Cytochrome c oxidase subunit 1	Paraulopus longianalis	1.00	77.7	0.918	
+1182
+AF-A0A3G1P521-F1-model_v4	Cytochrome c oxidase subunit 1	Zelus luridus	1.00	77.1	0.918	
+1182
+AF-A0A159HPI5-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BOLD:AAH3738	1.00	71.3	0.918	
+1164
+AF-A0A2R3W7C2-F1-model_v4	Cytochrome c oxidase subunit 1	Delia sp. BIOUG20282-F12	1.00	82.2	0.918	
+1163
+AF-A0A0M3X1M4-F1-model_v4	Cytochrome c oxidase subunit 1	Euura vaga	1.00	73.4	0.918	
+1166
+AF-A0A386M3S0-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG22880-G05	1.00	72.8	0.918	
+1182
+AF-A0A482H467-F1-model_v4	Cytochrome c oxidase subunit 1	Phoridae sp. BIOUG09837-B01	1.00	79.8	0.918	
+1164
+AF-Q6T8L2-F1-model_v4	Cytochrome c oxidase subunit 1	Microeuraphia depressa	1.00	79.3	0.918	
+1182
+AF-A0A385GZI9-F1-model_v4	Cytochrome c oxidase subunit 1	Philygria sp. BIOUG21974-E04	1.00	81.5	0.918	
+1163
+AF-A0A0N9EG84-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BOLD:AAU6612	1.00	81	0.918	
+1164
+AF-A0A220KB88-F1-model_v4	Cytochrome c oxidase subunit 1	Epicopeia hainesii matsumurai	1.00	79.3	0.917	
+1182
+AF-A0A893A4C0-F1-model_v4	Cytochrome c oxidase subunit I	Coleoptera sp. COLE_58.125	1.00	76.5	0.917	
+6182
+AF-A0A023ISC0-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumon discoensis	1.00	70.7	0.917	
+7182
+AF-A0A6M5B0F6-F1-model_v4	Cytochrome c oxidase subunit 1	Euura vaga	1.00	74.4	0.917	
+1182
+AF-A0A6M5AL57-F1-model_v4	Cytochrome c oxidase subunit 1	Tenthredinidae sp. BOLD:ADU1456	1.00	74.4	0.917	
+1182
+AF-A0A517BB10-F1-model_v4	Cytochrome c oxidase subunit 1	Pythium diclinum	0.99	72.7	0.917	
+3158
+AF-A0A0S2A2D6-F1-model_v4	Cytochrome c oxidase subunit 1	Campsicnemus sp. BOLD:AAG9638	0.99	81	0.917	
+21182
+AF-A0A291KYL9-F1-model_v4	Cytochrome c oxidase subunit 1	Typhlocharis sp. 1 aff. armata CA-2017	1.00	79.3	0.917	
+1182
+AF-A0A6M5AWT6-F1-model_v4	Cytochrome c oxidase subunit 1	Morulina mackenziana	1.00	80.4	0.916	
+1182
+AF-J7FBR2-F1-model_v4	Cytochrome c oxidase subunit 1	Ataeniobius toweri	1.00	77.7	0.916	
+1182
+AF-A0A7S5QLK2-F1-model_v4	Cytochrome c oxidase subunit 1	Rasbora sumatrana	1.00	78.8	0.916	
+1182
+AF-A5HSG8-F1-model_v4	Cytochrome c oxidase subunit 1	Coryphopterus kuna	1.00	78.2	0.916	
+1182
+AF-G1EE05-F1-model_v4	Cytochrome c oxidase subunit 1	Scylla serrata	1.00	77.1	0.916	
+1182
+AF-A0A4P1U923-F1-model_v4	Cytochrome c oxidase subunit 1	Orectolobus sp. FOAN368-11	1.00	75.5	0.916	
+1182
+AF-A0A4P1U7A3-F1-model_v4	Cytochrome c oxidase subunit 1	Polyipnus ruggeri	1.00	77.1	0.916	
+1182
+AF-A0A159UYL5-F1-model_v4	Cytochrome c oxidase subunit 1	Empidinae sp. BOLD:ACL4183	1.00	81.9	0.916	
+1166
+AF-A0A499MFS5-F1-model_v4	Cytochrome c oxidase subunit 1	Platycheirus sp. coerulescens2 ADY-2014	1.00	82	0.916	
+1182
+AF-A0A182BPK1-F1-model_v4	Cytochrome c oxidase subunit 1	Chthamalidae sp. 144695A	1.00	79.3	0.915	
+1182
+AF-A0A6B9T3C1-F1-model_v4	Cytochrome c oxidase subunit 1	Merodon aff. bessarabicus D362	1.00	80.4	0.915	
+1182
+AF-A0A0B4MAF5-F1-model_v4	Cytochrome c oxidase subunit 1	Cerura scitiscripta	1.00	79.3	0.915	
+1182
+AF-A0A346LK67-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BIOUG24932-H07	1.00	82.2	0.915	
+1163
+AF-A0A173A6N2-F1-model_v4	Cytochrome c oxidase subunit 1	Cortinicara gibbosa	1.00	79.3	0.915	
+1182
+AF-A0A023TXT4-F1-model_v4	Cytochrome c oxidase subunit 1	Charadra deridens	1.00	79.3	0.915	
+1182
+AF-A0A193B3F9-F1-model_v4	Cytochrome c oxidase subunit 1	Nabis sp. BOLD-2016	1.00	77.1	0.915	
+1182
+AF-A0A386S4M6-F1-model_v4	Cytochrome c oxidase subunit 1	Scatopsidae sp. BIOUG32141-D08	1.00	79.8	0.915	
+1164
+AF-A0A482HX73-F1-model_v4	Cytochrome c oxidase subunit 1	Procladius sp. BIOUG21228-B04	1.00	81.5	0.915	
+1163
+AF-A0A023IKV5-F1-model_v4	Cytochrome c oxidase subunit 1	Stauronematus platycerus	1.00	72.2	0.915	
+1182
+AF-A0A2D1BIH9-F1-model_v4	Cytochrome c oxidase subunit 1	Pomphorhynchus purhepechus	0.99	52.3	0.915	
+11182
+AF-G0X974-F1-model_v4	Cytochrome c oxidase subunit 1	Eteone aff. longa CMC02	1.00	79.8	0.914	
+1182
+AF-A0A3B8DTI6-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	1.00	66.3	0.914	
+1182
+AF-A0A499MM64-F1-model_v4	Cytochrome c oxidase subunit 1	Ephemeroptera sp. BOLD:AAM1992	1.00	80.9	0.914	
+1182
+AF-A0A3G2ZNH9-F1-model_v4	Cytochrome c oxidase subunit 1	Hypogastruridae sp. BIOUG24676-H06	1.00	79.3	0.914	
+1182
+AF-A0A1J0DHF8-F1-model_v4	Cytochrome c oxidase subunit 1	Trachyrhamphus serratus	1.00	76.8	0.914	
+12182
+AF-A0A291B509-F1-model_v4	Cytochrome c oxidase subunit 1	Channa sp. Bhutan foothills	1.00	77.1	0.914	
+1182
+AF-A0A7S5UKF9-F1-model_v4	Cytochrome c oxidase subunit 1	Trigonopoma sp. LR11705	1.00	78.8	0.914	
+1182
+AF-A0A2I6BZJ8-F1-model_v4	Cytochrome c oxidase subunit 1	Parupeneus forsskali	1.00	78.2	0.914	
+1182
+AF-A0A2S1NBR5-F1-model_v4	Cytochrome c oxidase subunit 1	Cylas brunneus	1.00	73.3	0.914	
+1182
+AF-A0A0D5XQN4-F1-model_v4	Cytochrome c oxidase subunit 1	Engraulis encrasicolus	0.99	79.1	0.914	
+22182
+AF-C9DHB7-F1-model_v4	Cytochrome c oxidase subunit 1	Coryphopterus kuna	1.00	78.2	0.914	
+1182
+AF-A0A023TML1-F1-model_v4	Cytochrome c oxidase subunit 1	Euxoa cursoria	1.00	79.3	0.914	
+1182
+AF-A0A3S9K5X0-F1-model_v4	Cytochrome c oxidase subunit 1	Cailloma sp. A. BG-2018	1.00	78.8	0.914	
+1182
+AF-A0A159XHF0-F1-model_v4	Cytochrome c oxidase subunit 1	Diapriidae sp. BOLD:AAU9775	0.99	63.8	0.914	
+22182
+AF-F1CC78-F1-model_v4	Cytochrome c oxidase subunit 1	Microeuraphia depressa	1.00	79.3	0.914	
+1182
+AF-A0A0D4D229-F1-model_v4	Cytochrome c oxidase subunit 1	Actiniaria sp. BOLD:ACQ4394	1.00	75	0.914	
+1182
+AF-A0A6M5ASD5-F1-model_v4	Cytochrome c oxidase subunit 1	Prionocera sp. BOLD:ACR3191	1.00	79.8	0.914	
+1182
+AF-A0A3G3FZ59-F1-model_v4	Cytochrome c oxidase subunit 1	Trombidiidae sp. BIOUG13773-B08	1.00	65.6	0.914	
+1163
+AF-A0A2P1LSU2-F1-model_v4	Cytochrome c oxidase subunit 1	Leucorrhinia sp. BIOUG21604-G03	1.00	78.1	0.914	
+1165
+AF-A0A141L4G1-F1-model_v4	Cytochrome c oxidase subunit 1	Cortinicara gibbosa	0.99	78.3	0.914	
+1162
+AF-A0A140IL81-F1-model_v4	Cytochrome c oxidase subunit 1	Plerogyra sinuosa	0.99	79.8	0.914	
+21182
+AF-A0A1B3SWL6-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	66.6	0.913	
+1165
+AF-D3WLW7-F1-model_v4	Cytochrome c oxidase subunit 1	Mylon pelopidas	1.00	78.8	0.913	
+1182
+AF-A0A0R6VTK2-F1-model_v4	Cytochrome c oxidase subunit 1	Scrobipalpa chrysanthemella	1.00	80.4	0.913	
+1182
+AF-A0A142IBL9-F1-model_v4	Cytochrome c oxidase subunit 1	Psaliodes sp. BOLD:ACF6367	1.00	79.8	0.913	
+1182
+AF-A0A0R6VSX6-F1-model_v4	Cytochrome c oxidase subunit 1	Stigmella tityrella	1.00	80.9	0.913	
+1182
+AF-A0A1P8P1C9-F1-model_v4	Cytochrome c oxidase subunit 1	Polyommatus timfristos	1.00	77.1	0.913	
+1182
+AF-A0A2P1E2F4-F1-model_v4	Cytochrome c oxidase subunit 1	Cirratulidae sp. 11BIOAK-0904	1.00	73.3	0.913	
+1182
+AF-A0A6M3RFC2-F1-model_v4	Cytochrome c oxidase subunit 1	Cyclocephala kaszabi	1.00	83.1	0.913	
+1182
+AF-A0A3G1VAH2-F1-model_v4	Cytochrome c oxidase subunit 1	Leptodeira annulata	1.00	76.6	0.913	
+1182
+AF-A0A088BJ58-F1-model_v4	Cytochrome c oxidase subunit 1	Cladius compressicornis	1.00	74.4	0.913	
+1182
+AF-A0A097CEY0-F1-model_v4	Cytochrome c oxidase subunit 1	Hygrotus quinquelineatus	1.00	79.8	0.913	
+1182
+AF-A0A096V9U9-F1-model_v4	Cytochrome c oxidase subunit 1	Chodda ochreovenata	1.00	79.8	0.913	
+1182
+AF-A0A060PMF5-F1-model_v4	Cytochrome c oxidase subunit 1	Ditrysia gen. sp. AM-2013-II	1.00	78.8	0.913	
+1182
+AF-A0A2R2V2L3-F1-model_v4	Cytochrome c oxidase subunit 1	Donacia versicolorea	1.00	77.1	0.913	
+1182
+AF-A0A2S1FZW8-F1-model_v4	Cytochrome c oxidase subunit 1	Alysiinae sp. BIOUG25745-F04	1.00	70.3	0.913	
+1165
+AF-A0A1B2T9Y1-F1-model_v4	Cytochrome c oxidase subunit 1	Polystenidea sp. BOLD-2016	1.00	69	0.913	
+1182
+AF-E3VEU6-F1-model_v4	Cytochrome c oxidase subunit 1	Metarbelinae sp. BOLD:AAH6193	1.00	78.8	0.913	
+1182
+AF-A0A0B4TKC0-F1-model_v4	Cytochrome c oxidase subunit 1	Bruchela rufipes	1.00	77.7	0.913	
+1182
+AF-A0A0G2SVJ1-F1-model_v4	Cytochrome c oxidase subunit 1	Protostomia sp. NZAC 03012899	1.00	78.2	0.913	
+1182
+AF-A0A0K0LH95-F1-model_v4	Cytochrome c oxidase subunit 1	Scolytus ratzeburgii	1.00	73.9	0.913	
+1182
+AF-A0A220EN24-F1-model_v4	Cytochrome c oxidase subunit 1	Coccinellidae sp. BIOUG02541-D07	1.00	80.4	0.913	
+1182
+AF-A0A0F7CZH5-F1-model_v4	Cytochrome c oxidase subunit 1	Gracixalus carinensis	1.00	77.7	0.913	
+1182
+AF-A0A1U9GCU3-F1-model_v4	Cytochrome c oxidase subunit 1	Chrysopidae sp. sc_04243	1.00	78.2	0.913	
+1182
+AF-F8R4H7-F1-model_v4	Cytochrome c oxidase subunit 1	Eurytemora affinis	1.00	76	0.913	
+1182
+AF-A0A1X9ZZJ4-F1-model_v4	Cytochrome c oxidase subunit 1	Aphidiinae sp. BIOUG02436-C08	1.00	69.5	0.912	
+1182
+AF-A0A291NWD4-F1-model_v4	Cytochrome c oxidase subunit 1	Calappa ocellata	1.00	76	0.912	
+1182
+AF-D2KKP9-F1-model_v4	Cytochrome c oxidase subunit 1	Coryphopterus kuna	1.00	77.5	0.912	
+11182
+AF-A0A2R3SM68-F1-model_v4	Cytochrome c oxidase subunit 1	Asteromyia sp. BIOUG20166-B05	1.00	70.3	0.912	
+1165
+AF-A0A2U8T426-F1-model_v4	Cytochrome c oxidase subunit 1	Epicephala sp. ex Phyllanthus cf. orohenense dhh07372a	1.00	77.7	0.912	
+1182
+AF-A0A345WW18-F1-model_v4	Cytochrome c oxidase subunit 1	Exostoma labiatum	1.00	78.8	0.912	
+1182
+AF-A0A1S6GPY9-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. PA17	1.00	80.8	0.912	
+7182
+AF-A0A0M5HPK7-F1-model_v4	Cytochrome c oxidase subunit 1	Collembola sp. BOLD:ACD0454	1.00	75.5	0.912	
+1182
+AF-A0A0H3W4R2-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudocellus sp. IZ-99190	1.00	78.8	0.912	
+1182
+AF-A0A2R3W0Y0-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG21279-E03	1.00	76	0.912	
+1182
+AF-A0A385YFZ2-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG21853-G07	0.99	67.2	0.912	
+1162
+AF-A0A482H0Q1-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG11696-D04	0.99	71.6	0.912	
+1162
+AF-A0A1C9EL67-F1-model_v4	Cytochrome c oxidase subunit 1	Demicryptochironomus cf. evgenii BOLD-2016	0.99	80.8	0.912	
+1162
+AF-A0A0B4LWJ7-F1-model_v4	Cytochrome c oxidase subunit 1	Hybotidae sp. BOLD:AAF9838	1.00	79.3	0.912	
+1182
+AF-A0A499HUQ8-F1-model_v4	Cytochrome c oxidase subunit 1	Atopsyche sp. MPBIM073-09	1.00	78.8	0.912	
+1182
+AF-A0A0U1YMN9-F1-model_v4	Cytochrome c oxidase subunit 1	Polyrhachis monteithi	1.00	66.3	0.912	
+1182
+AF-A0A2S1U367-F1-model_v4	Cytochrome c oxidase subunit 1	Clinopogon nicobarensis	1.00	80.4	0.912	
+1182
+AF-A0A0F6QT47-F1-model_v4	Cytochrome c oxidase subunit 1	Charadrius collaris	1.00	80.2	0.912	
+13182
+AF-A0A385YHB1-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG21287-A12	1.00	72.2	0.912	
+1182
+AF-A0A0U2D867-F1-model_v4	Cytochrome c oxidase subunit 1	Sarcophaga iwuensis	1.00	80.9	0.912	
+1182
+AF-E1V0P4-F1-model_v4	Cytochrome c oxidase subunit 1	Engraulis encrasicolus	0.99	81.5	0.912	
+20171
+AF-A0A499HV46-F1-model_v4	Cytochrome c oxidase subunit 1	Hydrobiosidae sp. NZTRI087-09	1.00	79.3	0.912	
+1182
+AF-I1T1B5-F1-model_v4	Cytochrome c oxidase subunit 1	Stereocladon rugulosus	1.00	77.9	0.912	
+1182
+AF-A0A220EUD2-F1-model_v4	Cytochrome c oxidase subunit 1	Dolichopodidae sp. BIOUG02394-G12	1.00	78.2	0.912	
+1182
+AF-A0A0U2D5N6-F1-model_v4	Cytochrome c oxidase subunit 1	Lucilia sericata	1.00	81.5	0.912	
+1182
+AF-K7T5Y6-F1-model_v4	Cytochrome c oxidase subunit 1	Digamasellidae sp. BOLD:AAL8174	1.00	76	0.912	
+1182
+AF-B6CUF7-F1-model_v4	Cytochrome c oxidase subunit 1	Microchirus azevia	1.00	76.6	0.912	
+1182
+AF-A0A2S2A1L1-F1-model_v4	Cytochrome c oxidase subunit 1	Rhagidiidae sp. BIOUG27599-F06	1.00	74.4	0.911	
+1182
+AF-A0A499KP90-F1-model_v4	Cytochrome c oxidase subunit 1	Netelia sp. BBHEC237-09	1.00	65.7	0.911	
+1182
+AF-A0A2U4ZLJ3-F1-model_v4	Cytochrome c oxidase subunit 1	Perilissus sp. ASGLE419-10	1.00	67.9	0.911	
+1182
+AF-A0A2U4YI14-F1-model_v4	Cytochrome c oxidase subunit 1	Lasius sp. BBHYE435-10	1.00	64.1	0.911	
+1182
+AF-A0A7G3M950-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudopolydora sp. ZMBN 130887	1.00	69.1	0.911	
+1182
+AF-L7PK99-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumonidae sp. BOLD:AAH1545	1.00	70.1	0.911	
+1182
+AF-A0A1B3UUW0-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	65.7	0.911	
+1182
+AF-A0A0A1E2M5-F1-model_v4	Cytochrome c oxidase subunit 1	Camponotus sp. CSIRO.80.1	1.00	65.2	0.911	
+1182
+AF-A0A385Y9N4-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG21137-C01	1.00	78.8	0.911	
+1182
+AF-A0A291C4U5-F1-model_v4	Cytochrome c oxidase subunit 1	Odontoponera transversa	1.00	66.8	0.911	
+1182
+AF-A0A0N7B2K8-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. BOLD:ACF1442	1.00	66.8	0.911	
+1182
+AF-I3P6X1-F1-model_v4	Cytochrome c oxidase subunit 1	Bangia sp. 2BAN	1.00	69.8	0.911	
+1182
+AF-A0A4V1I1Z5-F1-model_v4	Cytochrome c oxidase subunit 1	Lactura subfervens sapeloensis	1.00	78.2	0.911	
+1182
+AF-A0A1B2SM01-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	67.3	0.911	
+1182
+AF-A0A1D8LK88-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	66.3	0.910	
+1182
+AF-A0A3G3G4H0-F1-model_v4	Cytochrome c oxidase subunit 1	Ptilosarcus gurneyi	1.00	73.3	0.910	
+1182
+AF-K9JCI6-F1-model_v4	Cytochrome c oxidase subunit 1	Dolichogenidea sp. WMIC 0339	1.00	70.1	0.910	
+1182
+AF-A0A3G1S1H8-F1-model_v4	Cytochrome c oxidase subunit 1	Lucilia sericata	1.00	82.2	0.910	
+5182
+AF-A0A3B8CZG1-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BIOUG25481-A01	1.00	66	0.910	
+1165
+AF-A0A1C9SKI7-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	66.3	0.910	
+1182
+AF-A0A2U5BLH0-F1-model_v4	Cytochrome c oxidase subunit 1	Cryptinae sp. BBHYK520-10	1.00	65.7	0.910	
+1182
+AF-A0A2U9DN00-F1-model_v4	Cytochrome c oxidase subunit 1	Apanteles sp. Extraction513	1.00	70.6	0.910	
+1182
+AF-A0A499MF27-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumonidae sp. ASNUR533-11	1.00	64.6	0.910	
+1182
+AF-A0A2U4ZGB2-F1-model_v4	Cytochrome c oxidase subunit 1	Psyllidae sp. SIOCA036-10	1.00	67.9	0.910	
+1182
+AF-A0A3Q8THG3-F1-model_v4	Cytochrome c oxidase subunit 1	Dryudella stigma	1.00	72.2	0.910	
+1182
+AF-A0A482H343-F1-model_v4	Cytochrome c oxidase subunit 1	Phaonia consobrina	0.99	83.4	0.910	
+15171
+AF-A0A1S5RMI3-F1-model_v4	Cytochrome c oxidase subunit 1	Culicoides brevitarsis	1.00	81.2	0.910	
+9182
+AF-A0A3Q9DC88-F1-model_v4	Cytochrome c oxidase subunit 1	Callaeas wilsoni	1.00	78.8	0.910	
+1182
+AF-A0A0D6DR88-F1-model_v4	Cytochrome c oxidase subunit 1	Ectocarpus sp. 6 AP-2014	1.00	77.9	0.910	
+1182
+AF-A0A1B2QGD7-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	1.00	65.7	0.910	
+1182
+AF-A0A7S5VAU1-F1-model_v4	Cytochrome c oxidase subunit 1	Capitella cf. capitata 101308	1.00	65.2	0.910	
+1182
+AF-A0A0M3X990-F1-model_v4	Cytochrome c oxidase subunit 1	Atractodes sp. BOLD:AAI4874	1.00	67.9	0.910	
+1182
+AF-I1SR94-F1-model_v4	Cytochrome c oxidase subunit 1	Myrmecia mandibularis	1.00	67.9	0.909	
+1182
+AF-A0A482I980-F1-model_v4	Cytochrome c oxidase subunit 1	Psychodidae sp. BIOUG11658-B07	1.00	76.2	0.909	
+1164
+AF-A0A2H4FHP0-F1-model_v4	Cytochrome c oxidase subunit 1	Aratus pisonii	1.00	76.6	0.909	
+1182
+AF-A0A0M5HIM7-F1-model_v4	Cytochrome c oxidase subunit 1	Gonatocerus sp. BOLD:AAG1488	1.00	69.8	0.909	
+1166
+AF-F8R2R5-F1-model_v4	Cytochrome c oxidase subunit 1	Dodecaceria sp. CMC02	1.00	73.3	0.909	
+1182
+AF-A0A2L1ISD9-F1-model_v4	Cytochrome c oxidase subunit 1	Thoropa miliaris	1.00	77.7	0.909	
+1182
+AF-A0A346L2L0-F1-model_v4	Cytochrome c oxidase subunit 1	Corythucha sp. BIOUG13203-C09	0.99	77	0.908	
+1161
+AF-A0A7M3TMN4-F1-model_v4	Cytochrome c oxidase subunit 1	Moenkhausia agnesae	0.99	77.6	0.908	
+24182
+AF-A0A6J3UWD0-F1-model_v4	Cytochrome c oxidase subunit 1	Caligus sp. H2_G1_Hmca2	1.00	73.9	0.908	
+1182
+AF-Q0H6X3-F1-model_v4	Cytochrome c oxidase subunit 1	Ruditapes bruguieri	1.00	60.3	0.908	
+1182
+AF-A0A0A7NXM6-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenena kylinii	1.00	67.7	0.908	
+1182
+AF-A0A5J6SU08-F1-model_v4	Cytochrome c oxidase subunit 1	Orsinome vethi	1.00	75.5	0.908	
+1182
+AF-A0A0B4TRR9-F1-model_v4	Cytochrome c oxidase subunit 1	Mycetophagus quadripustulatus	1.00	79.8	0.908	
+11182
+AF-B5KLC7-F1-model_v4	Cytochrome c oxidase subunit 1	Samoana attenuata	1.00	73.3	0.908	
+1182
+AF-A0A0M3NW52-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobryidae sp. BOLD:AAI5227	1.00	77.3	0.908	
+1163
+AF-I1V4J4-F1-model_v4	Cytochrome c oxidase subunit 1	Uroplatus sp. ZTN-2012	1.00	78.8	0.908	
+1182
+AF-A0A2U5BTG0-F1-model_v4	Cytochrome c oxidase subunit 1	Dryinidae sp. ASGLE1278-10	1.00	66.3	0.908	
+1182
+AF-A0A345GP40-F1-model_v4	Cytochrome c oxidase subunit 1	Parobisium charlotteae	1.00	70.6	0.908	
+1182
+AF-A0A2U5AJ44-F1-model_v4	Cytochrome c oxidase subunit 1	Morulina mackenziana	1.00	80.4	0.908	
+11182
+AF-A0A4Y5WQX3-F1-model_v4	Cytochrome c oxidase subunit 1	Membracioides sp. UCR ENT 00104906	1.00	74.7	0.907	
+11182
+AF-A0A411FGH9-F1-model_v4	Cytochrome c oxidase subunit 1	Chrysomelidae sp. INDOBIOSYS-CCDB30376-C12	0.99	79.3	0.907	
+20182
+AF-A0A499MHV3-F1-model_v4	Cytochrome c oxidase subunit 1	Bethylidae sp. BBHYH600-10	1.00	65.7	0.907	
+1182
+AF-A0A1P8NLU4-F1-model_v4	Cytochrome c oxidase subunit 1	Phalacrocorax carbo	1.00	79.8	0.907	
+16182
+AF-A0A4Y5UGC9-F1-model_v4	Cytochrome c oxidase subunit 1	Echinothrix calamaris	1.00	76	0.907	
+1182
+AF-A0A6G9KDA8-F1-model_v4	Cytochrome c oxidase subunit 1	Tandonia kusceri	1.00	76	0.907	
+1182
+AF-K9L8G8-F1-model_v4	Cytochrome c oxidase subunit 1	Aleiodes atuin	0.99	67.2	0.907	
+17182
+AF-A0A3S5HQP4-F1-model_v4	Cytochrome c oxidase subunit 1	Cailloma sp. A. BG-2018	1.00	79.3	0.907	
+11182
+AF-A0A220DPH9-F1-model_v4	Cytochrome c oxidase subunit 1	Gobiidae sp. 45 JP-2017	0.99	77.3	0.907	
+28177
+AF-A0A1S5VH31-F1-model_v4	Cytochrome c oxidase subunit 1	Monacha sp. 1_2 MTN-2017	1.00	74.4	0.906	
+1182
+AF-A0A0F7NR97-F1-model_v4	Cytochrome c oxidase subunit 1	Protopiophila latipes	0.99	79.8	0.906	
+16169
+AF-A0A7H0PMP5-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.99	77.6	0.906	
+31182
+AF-A0A3B8D6C0-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	1.00	63.8	0.906	
+1163
+AF-A0A517BEA4-F1-model_v4	Cytochrome c oxidase subunit 1	Scombridae environmental sample	1.00	78.9	0.906	
+14182
+AF-A0A5K6TI79-F1-model_v4	Cytochrome c oxidase subunit 1	Charax gibbosus	0.99	78.2	0.905	
+24182
+AF-A0A0N7A2A4-F1-model_v4	Cytochrome c oxidase subunit 1	Plectropomus areolatus	0.99	78.5	0.905	
+21169
+AF-A0A7U3N7J8-F1-model_v4	Cytochrome c oxidase subunit 1	Amblyceps mangois	1.00	78.2	0.905	
+1182
+AF-A0A387IHW1-F1-model_v4	Cytochrome c oxidase subunit 1	Macrochlamys sp. HC2507	0.99	75.4	0.905	
+26182
+AF-A3DYJ6-F1-model_v4	Cytochrome c oxidase subunit 1	Sitta pygmaea	1.00	79.8	0.904	
+1182
+AF-A0A076FTN4-F1-model_v4	Cytochrome c oxidase subunit 1	Percosoma carenoides	1.00	82.7	0.904	
+17182
+AF-A0A4P2UPC3-F1-model_v4	Cytochrome c oxidase subunit 1	Bougainvillia carolinensis	1.00	78.8	0.904	
+1182
+AF-A0A1U9WUC4-F1-model_v4	Cytochrome c oxidase subunit 1	Dendropsophus rhodopeplus	1.00	78.8	0.902	
+1182
+AF-A0A3G3A3G8-F1-model_v4	Cytochrome c oxidase subunit 1	Ceraphronidae sp. BIOUG18785-G01	0.99	61.7	0.902	
+1162
+AF-J7EXB7-F1-model_v4	Cytochrome c oxidase subunit 1	Ceraclea annulicornis	0.99	75	0.902	
+29182
+AF-A0A1Y6M1W1-F1-model_v4	Cytochrome c oxidase subunit 1	Eupholus geoffroyi	0.99	75.4	0.902	
+15165
+AF-A0A4D7SLZ7-F1-model_v4	Cytochrome c oxidase subunit 1	Trigonopterus collaris	0.99	77.3	0.901	
+26182
+AF-A0A191AP33-F1-model_v4	Cytochrome c oxidase subunit 1	Sebastes rosaceus	0.98	78.3	0.901	
+28175
+AF-A3DWE6-F1-model_v4	Cytochrome c oxidase subunit 1	Aythya fuligula	1.00	80.4	0.901	
+1182
+AF-A0A482H292-F1-model_v4	Cytochrome c oxidase subunit 1	Sciaridae sp. BIOUG19899-G01	0.99	77.6	0.901	
+1161
+AF-T1R2Z8-F1-model_v4	Cytochrome c oxidase subunit 1	Rhopalosiphum maidis	0.99	66.4	0.901	
+27182
+AF-A0A193B049-F1-model_v4	Cytochrome c oxidase subunit 1	Cicadellidae sp. BOLD:AAG8839	0.99	70.1	0.901	
+1161
+AF-A0A0M4BKM5-F1-model_v4	Cytochrome c oxidase subunit 1	Cyclemys gemeli	1.00	79.3	0.900	
+1182
+AF-A0A023NB36-F1-model_v4	Cytochrome c oxidase subunit 1	Acartia sp. DNZ044	1.00	76.6	0.900	
+1182
+AF-A0A1B1LJN5-F1-model_v4	Cytochrome c oxidase subunit 1	Esomus danrica	1.00	78.2	0.899	
+1182
+AF-A0A7D0J4D9-F1-model_v4	Cytochrome c oxidase subunit 1	Papilio polytes	1.00	78.2	0.899	
+1182
+AF-A0A5K5D7N5-F1-model_v4	Cytochrome c oxidase subunit 1	Enteromius apleurogramma	1.00	78.2	0.899	
+1182
+AF-A0A7H1NH38-F1-model_v4	Cytochrome c oxidase subunit 1	Paramelitidae gen. 2 sp. WAM AMPP001 (Yilgarus)	1.00	72.8	0.898	
+1182
+AF-R9QEM2-F1-model_v4	Cytochrome c oxidase subunit 1	Eurytemora affinis	1.00	77.1	0.898	
+14182
+AF-A0A2S1GBE7-F1-model_v4	Cytochrome c oxidase subunit 1	Ceraphronidae sp. BIOUG26580-H06	0.99	65.2	0.898	
+24182
+AF-A0A4U8VFX0-F1-model_v4	Cytochrome c oxidase subunit 1	Anarpia incertalis	1.00	79.4	0.898	
+10182
+AF-I6MD55-F1-model_v4	Cytochrome c oxidase subunit 1	Ephemerella sp. AMISD035-08	0.99	81.4	0.898	
+11166
+AF-A0A482I3L2-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BIOUG06585-B04	0.99	80	0.898	
+1160
+AF-A0A240F9Y8-F1-model_v4	Cytochrome c oxidase subunit 1	Photinus interdius	1.00	76.6	0.898	
+1182
+AF-A0A1P8NLU5-F1-model_v4	Cytochrome c oxidase subunit 1	Phalacrocorax carbo	1.00	77	0.898	
+11182
+AF-A0A3B8D0P6-F1-model_v4	Cytochrome c oxidase subunit 1	Prenolepis imparis	0.99	63.7	0.897	
+1160
+AF-A0A7L8K9C0-F1-model_v4	Cytochrome c oxidase subunit 1	Orthopelma mediator	1.00	65.2	0.897	
+1182
+AF-A0A3G2ZXE4-F1-model_v4	Cytochrome c oxidase subunit 1	Scambus sp. BIOUG12657-A08	0.99	71.5	0.897	
+1158
+AF-A0A0A7DLX2-F1-model_v4	Cytochrome c oxidase subunit 1	Stypommisa captiroptera	1.00	82	0.897	
+1182
+AF-A0A1B3TS58-F1-model_v4	Cytochrome c oxidase subunit 1	Miridae sp. BOLD-2016	0.99	75.4	0.897	
+1159
+AF-A0A2P1L5B1-F1-model_v4	Cytochrome c oxidase subunit 1	Nematus sp. BIOUG26656-E04	0.99	74.2	0.897	
+1159
+AF-V5NCS9-F1-model_v4	Cytochrome c oxidase subunit 1	Phengaris alcon	1.00	75.6	0.896	
+1164
+AF-A0A7H9SHN8-F1-model_v4	Cytochrome c oxidase subunit 1	Globisporangium ultimum	1.00	72.4	0.896	
+2182
+AF-A0A1C9DSA8-F1-model_v4	Cytochrome c oxidase subunit 1	Digrammia setonana	0.98	79.8	0.896	
+14162
+AF-A0A2L1YC01-F1-model_v4	Cytochrome c oxidase subunit 1	Cortinicara gibbosa	0.98	79.3	0.895	
+35182
+AF-A0A385GYB0-F1-model_v4	Cytochrome c oxidase subunit 1	Hybotidae sp. BIOUG31858-G08	0.99	79.8	0.895	
+1159
+AF-A0A4Y6ABJ7-F1-model_v4	Cytochrome c oxidase subunit 1	Amiota eos	1.00	79.8	0.895	
+1182
+AF-A0A1B2NFD2-F1-model_v4	Cytochrome c oxidase subunit 1	Digrammia setonana	0.98	80	0.894	
+24168
+AF-A0A517BEE0-F1-model_v4	Cytochrome c oxidase subunit 1	Scombridae environmental sample	1.00	78.9	0.894	
+14182
+AF-A0A5J6D4F9-F1-model_v4	Cytochrome c oxidase subunit 1	Bactrocera latifrons	1.00	80.4	0.894	
+11182
+AF-A0A068FMS6-F1-model_v4	Cytochrome c oxidase subunit 1	Scaptodrosophila neozelandica	1.00	81.5	0.893	
+1163
+AF-A0A3G1XAJ0-F1-model_v4	Cytochrome c oxidase subunit 1	Rhagio tringarius	0.98	82.6	0.893	
+35182
+AF-A0A0S3IN62-F1-model_v4	Cytochrome c oxidase subunit 1	Ceratopogonidae sp. BOLD:AAN5172	0.99	82.9	0.893	
+21182
+AF-K4JTM6-F1-model_v4	Cytochrome c oxidase subunit 1	Simulium balcanicum	0.99	80.2	0.893	
+1162
+AF-A0A3G1P069-F1-model_v4	Cytochrome c oxidase subunit 1	Clastoptera sp. BIOUG11568-A12	0.99	73.4	0.893	
+1158
+AF-A0A1B2QAJ0-F1-model_v4	Cytochrome c oxidase subunit 1	Macrocentrus sp. BOLD-2016	0.99	66.4	0.893	
+1158
+AF-A0A4P8D411-F1-model_v4	Cytochrome c oxidase subunit 1	Amblyceps mangois	1.00	72.2	0.893	
+1182
+AF-F2VK85-F1-model_v4	Cytochrome c oxidase subunit 1	Corvus splendens	1.00	79.3	0.892	
+1182
+AF-A0A482I0E1-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG12740-C04	0.99	70.8	0.892	
+1158
+AF-A0A1J0KDU9-F1-model_v4	Cytochrome c oxidase subunit 1	Spermophilus pallidicauda	1.00	79.8	0.892	
+1182
+AF-A0A2Z4BF38-F1-model_v4	Cytochrome c oxidase subunit 1	Pionidae sp. BIOUG21003-A03	0.99	78.4	0.892	
+1158
+AF-A0A0G3VLU5-F1-model_v4	Cytochrome c oxidase subunit 1	Alcelaphus buselaphus	1.00	45.9	0.892	
+1182
+AF-W0FR11-F1-model_v4	Cytochrome c oxidase subunit 1	Ceroplastes ceriferus	0.99	43.1	0.891	
+16182
+AF-A0A3G2BFD2-F1-model_v4	Cytochrome c oxidase subunit 1	Fannia atra	0.99	83.5	0.891	
+1158
+AF-A0A482IAA7-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomidae sp. BIOUG12211-H01	0.99	78.9	0.891	
+1157
+AF-A0A023IHF4-F1-model_v4	Cytochrome c oxidase subunit 1	Pristiphora decipiens	1.00	75.4	0.891	
+14182
+AF-A0A1B2PGG9-F1-model_v4	Cytochrome c oxidase subunit 1	Digrammia setonana	0.98	79.7	0.891	
+15162
+AF-A0A1B2T1H3-F1-model_v4	Cytochrome c oxidase subunit 1	Campopleginae sp. BOLD-2016	0.99	67.7	0.891	
+1158
+AF-A0A7D5B9W3-F1-model_v4	Cytochrome c oxidase subunit 1	Spinularia sp. 028-S2.1	1.00	76.6	0.890	
+1182
+AF-A0A7D5BQL1-F1-model_v4	Cytochrome c oxidase subunit 1	Spinularia sp. 034-S2.2	1.00	77.1	0.890	
+1182
+AF-A0A2S1HJ83-F1-model_v4	Cytochrome c oxidase subunit 1	Leptus sp. BIOUG09210-H06	0.99	71.6	0.889	
+1159
+AF-A0A7S5GXG9-F1-model_v4	Cytochrome c oxidase subunit 1	Ceratosolen sp. C67	1.00	64.1	0.889	
+1182
+AF-A0A1Z1MWX6-F1-model_v4	Cytochrome c oxidase subunit 1	Aspidiotus nerii	1.00	43.4	0.889	
+1182
+AF-G3EH82-F1-model_v4	Cytochrome c oxidase subunit 1	Fejervarya limnocharis	1.00	79.3	0.889	
+1182
+AF-M4Y1C0-F1-model_v4	Cytochrome c oxidase subunit 1	Betaphycus philippinensis	1.00	69.8	0.888	
+1182
+AF-K4G115-F1-model_v4	Cytochrome c oxidase subunit 1	Xestia fennica	0.98	81.8	0.888	
+38180
+AF-A0A482I9L5-F1-model_v4	Cytochrome c oxidase subunit 1	Pegomya sp. BIOUG11509-G02	0.99	82.8	0.888	
+1157
+AF-A0A6G7PS19-F1-model_v4	Cytochrome c oxidase subunit 1	Upeneus tragula	0.99	77.1	0.888	
+23182
+AF-A0A1B2XL13-F1-model_v4	Cytochrome c oxidase subunit 1	Scarturus elater	0.98	78.3	0.886	
+15162
+AF-A0A481SCF6-F1-model_v4	Cytochrome c oxidase subunit 1	Sycophila globuli	0.97	70.3	0.885	
+20164
+AF-C9VY78-F1-model_v4	Cytochrome c oxidase subunit 1	Gammarus finmarchicus	0.97	79.4	0.885	
+3143
+AF-A0A7R6BZ09-F1-model_v4	Cytochrome c oxidase subunit 1	Brachydeuterus auritus	1.00	80.3	0.884	
+17182
+AF-A0A4Y5QAW3-F1-model_v4	Cytochrome c oxidase subunit 1	Hypselobarbus kurali	1.00	79.8	0.884	
+1182
+AF-A0A5J6S4T8-F1-model_v4	Cytochrome c oxidase subunit 1	Peregrinus maidis	1.00	75	0.883	
+13182
+AF-A0A096ZJ94-F1-model_v4	Cytochrome c oxidase subunit 1	Phyllophora crispa	0.97	71.1	0.883	
+29170
+AF-A0A345ZA12-F1-model_v4	Cytochrome c oxidase subunit 1	Eviota sp. 1 ET-2018	1.00	78.3	0.883	
+14182
+AF-D8VX17-F1-model_v4	Cytochrome c oxidase subunit 1	Digrammia ocellinata	1.00	80.4	0.883	
+16182
+AF-D8W3J3-F1-model_v4	Cytochrome c oxidase subunit 1	Semioscopis inornata	1.00	81.9	0.883	
+19182
+AF-A0A1W6QZB3-F1-model_v4	Cytochrome c oxidase subunit 1	Kathetostoma giganteum	1.00	78.7	0.883	
+11182
+AF-A0A6B9EWL5-F1-model_v4	Cytochrome c oxidase subunit 1	Chelodina oblonga	1.00	76	0.882	
+1182
+AF-A0A0G3ZUP4-F1-model_v4	Cytochrome c oxidase subunit 1	Zelus luridus	1.00	79.5	0.882	
+19182
+AF-A0A7L5AE61-F1-model_v4	Cytochrome c oxidase subunit 1	Aulacus sinensis	1.00	66.6	0.882	
+17182
+AF-A0A1B2NR94-F1-model_v4	Cytochrome c oxidase subunit 1	Digrammia setonana	0.97	80.7	0.881	
+24163
+AF-A0ZXU5-F1-model_v4	Cytochrome c oxidase subunit 1	Pycnoclavella communis	0.97	68	0.881	
+38178
+AF-A0A7D7ACZ6-F1-model_v4	Cytochrome c oxidase subunit 1	Tinodes pallidulus	1.00	67.4	0.881	
+1166
+AF-A0A2L1K1W6-F1-model_v4	Cytochrome c oxidase subunit 1	Chalinolobus neocaledonicus	1.00	79.8	0.880	
+1182
+AF-J7FR67-F1-model_v4	Cytochrome c oxidase subunit 1	Circus pygargus	1.00	78.8	0.880	
+1182
+AF-A0A3G1V720-F1-model_v4	Cytochrome c oxidase subunit 1	Diapriidae sp. BIOUG03946-B03	0.97	65.9	0.880	
+38178
+AF-A0A0F7G826-F1-model_v4	Cytochrome c oxidase subunit 1	Alopias superciliosus	0.99	77.4	0.879	
+21182
+AF-D8W715-F1-model_v4	Cytochrome c oxidase subunit 1	Protitame virginalis	1.00	79.3	0.879	
+20182
+AF-Q32QJ5-F1-model_v4	Cytochrome c oxidase subunit 1	Leptofauchea pacifica	1.00	69.3	0.879	
+1182
+AF-A0A1S5RMH5-F1-model_v4	Cytochrome c oxidase subunit 1	Culicoides brevitarsis	0.99	82.6	0.879	
+24182
+AF-A0A345F4E7-F1-model_v4	Cytochrome c oxidase subunit 1	Oryzias curvinotus	1.00	77.9	0.878	
+17182
+AF-A0A0K0LC21-F1-model_v4	Cytochrome c oxidase subunit 1	Chaetogaster limnaei	0.97	79.7	0.877	
+1138
+AF-A0A3G1Y4W6-F1-model_v4	Cytochrome c oxidase subunit 1	Quadroppia sp. BIOUG23253-F11	0.97	75.5	0.876	
+33171
+AF-E9KCV2-F1-model_v4	Cytochrome c oxidase subunit 1	Spinus spinus	1.00	79.3	0.876	
+1182
+AF-E9KDE0-F1-model_v4	Cytochrome c oxidase subunit 1	Oenanthe oenanthe	1.00	78.8	0.876	
+1182
+AF-A0A3G2ZWW1-F1-model_v4	Cytochrome c oxidase subunit 1	Chrysocharis sp. BIOUG18150-H03	0.97	71.6	0.875	
+38178
+AF-A0A2I6PBG7-F1-model_v4	Cytochrome c oxidase subunit 1	Phorbas plumosus	0.97	80.4	0.875	
+25162
+AF-A0A0F7NV25-F1-model_v4	Cytochrome c oxidase subunit 1	Protopiophila latipes	0.97	80.4	0.875	
+16158
+AF-D8W3J4-F1-model_v4	Cytochrome c oxidase subunit 1	Semioscopis inornata	0.97	84	0.873	
+1138
+AF-A0A161EDF7-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. CNKOP1343-14	0.97	65	0.873	
+40182
+AF-W8P007-F1-model_v4	Cytochrome c oxidase subunit 1	Fluviopupa espiritusantoana	0.99	88.2	0.873	
+23182
+AF-A0A1S6GPZ9-F1-model_v4	Cytochrome c oxidase subunit 1	Endochironomus albipennis	1.00	79.1	0.872	
+17182
+AF-A0A1B0VAK6-F1-model_v4	Cytochrome c oxidase subunit 1	Heptranchias perlo	0.99	76.2	0.872	
+21182
+AF-A0A1X9ZWG6-F1-model_v4	Cytochrome c oxidase subunit 1	Pompilidae sp. BIOUG05357-E02	0.97	65.9	0.872	
+38182
+AF-A0A411N8F3-F1-model_v4	Cytochrome c oxidase subunit 1	Tenthredinidae sp. BIOUG04926-H09	0.96	72.2	0.872	
+7143
+AF-A0A4Y5R0R5-F1-model_v4	Cytochrome c oxidase subunit 1	Aleiodes sp. BCLDQ1158	0.97	68.1	0.872	
+1138
+AF-A0A3B8DJG9-F1-model_v4	Cytochrome c oxidase subunit 1	Eurytomidae sp. BARS_2015_41_225	0.97	70.7	0.872	
+34173
+AF-A0A3Q8TDS5-F1-model_v4	Cytochrome c oxidase subunit 1	Prionyx niveatus	0.96	71.5	0.872	
+7143
+AF-A0A1B1HSJ8-F1-model_v4	Cytochrome c oxidase subunit 1	Delphacidae sp. SSWLA643-13	0.98	77.1	0.870	
+36182
+AF-A0A6G7PS00-F1-model_v4	Cytochrome c oxidase subunit 1	Upeneus tragula	0.99	77.9	0.869	
+1154
+AF-M9YYD5-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudemys concinna suwanniensis	1.00	77.9	0.869	
+4182
+AF-A0A0G2QU11-F1-model_v4	Cytochrome c oxidase subunit 1	Tetragnatha sp. A JC-2014	1.00	76	0.869	
+1182
+AF-A0A141F6C1-F1-model_v4	Cytochrome c oxidase subunit 1	Parasteatoda tepidariorum	0.96	75.7	0.868	
+40175
+AF-A0A2I6PBF3-F1-model_v4	Cytochrome c oxidase subunit 1	Phorbas plumosus	0.98	78.6	0.868	
+40182
+AF-A0A3G3A1T4-F1-model_v4	Cytochrome c oxidase subunit 1	Encyrtidae sp. BIOUG20563-H10	0.96	71	0.867	
+38175
+AF-D5IUX6-F1-model_v4	Cytochrome c oxidase subunit 1	Caligo sp. telamoniusDHJ01	0.96	81	0.867	
+10146
+AF-A0A386M591-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG22414-H02	0.96	72.4	0.867	
+10147
+AF-A0A3B8CYW5-F1-model_v4	Cytochrome c oxidase subunit 1	Eulophidae sp. BIOUG07644-D06	0.96	73.1	0.867	
+42179
+AF-A0A344VSS5-F1-model_v4	Cytochrome c oxidase subunit 1	Acnemia sp. BIOUG27359-E08	0.99	81.8	0.867	
+31182
+AF-A0A7H0RNP3-F1-model_v4	Cytochrome c oxidase subunit 1	Elliptio downiei	0.96	81.7	0.866	
+17153
+AF-I6MDH1-F1-model_v4	Cytochrome c oxidase subunit 1	Ameletus sp. BOLD:AAB6152	0.99	83.1	0.866	
+25182
+AF-A0A410CVW5-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumonidae sp. INDOBIOSYS-CCDB26155-H07	0.96	73.3	0.865	
+37171
+AF-A0A3G3ABY3-F1-model_v4	Cytochrome c oxidase subunit 1	Aphelinidae sp. BIOUG14260-A08	0.96	69.3	0.864	
+39175
+AF-A0A289E1Y9-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia lutea	0.99	80.5	0.864	
+1149
+AF-A0A3B8DQX6-F1-model_v4	Cytochrome c oxidase subunit 1	Tetramesa sp. BIOUG00786-G04	0.96	71.5	0.864	
+42178
+AF-E9KD66-F1-model_v4	Cytochrome c oxidase subunit 1	Hydrobates pelagicus	1.00	80.4	0.864	
+1182
+AF-A0A411FIG6-F1-model_v4	Cytochrome c oxidase subunit 1	Coleoptera sp. INDOBIOSYS-CCDB30416-F04	0.97	80	0.863	
+45182
+AF-A0A5P8NIQ8-F1-model_v4	Cytochrome c oxidase subunit 1	Lepidoptera sp. Lep3926	0.99	81.8	0.863	
+25182
+AF-A0A3D2TE95-F1-model_v4	Cytochrome c oxidase subunit I	Planctomycetaceae bacterium	1.00	36.4	0.863	
+1182
+AF-E3VW91-F1-model_v4	Cytochrome c oxidase subunit 1	Macrobrachium idae	0.95	81.9	0.863	
+24156
+AF-A0A6G7PS54-F1-model_v4	Cytochrome c oxidase subunit 1	Upeneus tragula	0.99	77.3	0.863	
+22182
+AF-I6MPP3-F1-model_v4	Cytochrome c oxidase subunit 1	Acerpenna sp. AMISC231-08	0.95	83.4	0.862	
+9141
+AF-A0A346M3T4-F1-model_v4	Cytochrome c oxidase subunit 1	Hexapoda sp. 15 TG-2018	0.95	75.1	0.862	
+23155
+AF-A0A3G3A9Y0-F1-model_v4	Cytochrome c oxidase subunit 1	Diapriidae sp. BIOUG12511-G05	0.98	65.9	0.862	
+38182
+AF-A0A2S1G5Q6-F1-model_v4	Cytochrome c oxidase subunit 1	Belytinae sp. BIOUG23405-E08	0.98	66.6	0.862	
+38182
+AF-A0A3G3G1H7-F1-model_v4	Cytochrome c oxidase subunit 1	Pompilidae sp. BIOUG21579-C04	0.98	68.2	0.862	
+37182
+AF-A0A346M3H7-F1-model_v4	Cytochrome c oxidase subunit 1	Larinioides sp. O13	0.95	78.1	0.861	
+23155
+AF-A0A3G3A1W4-F1-model_v4	Cytochrome c oxidase subunit 1	Gonatocerus sp. BIOUG21476-H01	0.96	71.3	0.860	
+38173
+AF-A0A3G4R1Q5-F1-model_v4	Cytochrome c oxidase subunit 1	Baizongia pistaciae	0.96	68.6	0.860	
+3136
+AF-Q9TB33-F1-model_v4	Cytochrome c oxidase subunit 1	Anopheles stephensi	0.95	82.7	0.859	
+47179
+AF-B7U9N0-F1-model_v4	Cytochrome c oxidase subunit 1	Panthera tigris tigris	1.00	78.8	0.854	
+1182
+AF-S5WZA1-F1-model_v4	Cytochrome c oxidase subunit 1	Niguza oculita	0.98	84.1	0.854	
+1145
+AF-B7U9N1-F1-model_v4	Cytochrome c oxidase subunit 1	Panthera tigris tigris	1.00	78.8	0.854	
+1182
+AF-A0A385YBM0-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG15027-C06	0.98	73.1	0.854	
+1145
+AF-S5WSZ5-F1-model_v4	Cytochrome c oxidase subunit 1	Imma acosma	0.98	83.4	0.854	
+1145
+AF-A0A3G3FXT0-F1-model_v4	Cytochrome c oxidase subunit 1	Liebstadia sp. BIOUG20153-G01	0.98	79.3	0.853	
+1145
+AF-A0A5J6BC41-F1-model_v4	Cytochrome c oxidase subunit 1	Ectinosomatidae sp. SR-2019	0.99	76.5	0.853	
+23182
+AF-D4NII8-F1-model_v4	Cytochrome c oxidase subunit 1	Panoquina lucas	0.94	83	0.853	
+46175
+AF-A0A1Y0A5Z6-F1-model_v4	Cytochrome c oxidase subunit 1	Trichogrammatidae sp. BIOUG17839-D08	0.94	68.4	0.852	
+35167
+AF-A0A0K1G9W2-F1-model_v4	Cytochrome c oxidase subunit 1	Anystidae sp. SSBAC3318-12	0.97	72.7	0.852	
+42182
+AF-E3UM04-F1-model_v4	Cytochrome c oxidase subunit 1	Gymnothorax fimbriatus	0.99	80.1	0.851	
+1156
+AF-A0A2Z4M332-F1-model_v4	Cytochrome c oxidase subunit 1	Hypogastruridae sp. BIOUG05852-D08	0.98	82.6	0.851	
+1144
+AF-A0A346IV69-F1-model_v4	Cytochrome c oxidase subunit 1	Tanypodinae sp. BIOUG23008-B01	0.98	86	0.849	
+1143
+AF-R9QKG4-F1-model_v4	Cytochrome c oxidase subunit 1	Eubergia argyrea	0.98	83.9	0.849	
+1143
+AF-A0A482HZ89-F1-model_v4	Cytochrome c oxidase subunit 1	Cricotopus sp. BIOUG18354-D11	0.97	82.2	0.849	
+44182
+AF-A0A1D9CJX5-F1-model_v4	Cytochrome c oxidase subunit 1	Alectorobius capensis complex sp. O809	0.94	77	0.847	
+52182
+AF-A0A0K0NT27-F1-model_v4	Cytochrome c oxidase subunit 1	Panoquina lucas	0.92	79.6	0.847	
+40167
+AF-A0A3G3BAE6-F1-model_v4	Cytochrome c oxidase subunit 1	Teliapsocus conterminus	0.97	83	0.846	
+1142
+AF-A0A0B4TVG0-F1-model_v4	Cytochrome c oxidase subunit 1	Euplectus nanus	0.99	79.6	0.845	
+33182
+AF-A0A3G3ABQ8-F1-model_v4	Cytochrome c oxidase subunit 1	Bombus sp. BIOUG17754-A06	0.98	62.9	0.845	
+1143
+AF-A0A384XPY1-F1-model_v4	Cytochrome c oxidase subunit 1	Austrominius modestus	0.99	78.1	0.845	
+34182
+AF-A0A096X8L6-F1-model_v4	Cytochrome c oxidase subunit 1	Scylla serrata	0.99	56.7	0.844	
+1170
+AF-A0A0U2V5Q0-F1-model_v4	Cytochrome c oxidase subunit 1	Metaconchoecia subinflata	0.98	64.6	0.843	
+38182
+AF-A0A023IIQ8-F1-model_v4	Cytochrome c oxidase subunit 1	Euura annulata	0.99	77.1	0.843	
+32182
+AF-A0A097CJG5-F1-model_v4	Cytochrome c oxidase subunit 1	Cassida murraea	0.99	77.7	0.843	
+32182
+AF-I2CD26-F1-model_v4	Cytochrome c oxidase subunit 1	Ameiva ameiva	1.00	79.7	0.843	
+17182
+AF-A0A1U9GE83-F1-model_v4	Cytochrome c oxidase subunit 1	Drepanidae sp. sc_09906	0.99	81	0.843	
+32182
+AF-Q85TC4-F1-model_v4	Cytochrome c oxidase subunit 1	Howardula dominicki	0.92	64	0.842	
+1128
+AF-A0A6H0D9L9-F1-model_v4	Cytochrome c oxidase subunit 1	Austrodiplostomum sp. 8 HCS-2020	0.95	47.1	0.842	
+23164
+AF-A0A2R3VID5-F1-model_v4	Cytochrome c oxidase subunit 1	Hapalaraea megarthroides	0.96	82	0.841	
+46182
+AF-A0A1B1JDJ6-F1-model_v4	Cytochrome c oxidase subunit 1	Daector quadrizonatus	0.98	74.8	0.841	
+38182
+AF-A0A0S2QVN9-F1-model_v4	Cytochrome c oxidase subunit 1	Phaonia consobrina	0.98	82.3	0.841	
+38182
+AF-A0A193B291-F1-model_v4	Cytochrome c oxidase subunit 1	Macrosteles quadrilineatus	0.96	77.6	0.841	
+46182
+AF-A0A3B8DBS8-F1-model_v4	Cytochrome c oxidase subunit 1	Elasmus atratus	0.98	72.4	0.840	
+36182
+AF-A0A2S1GF56-F1-model_v4	Cytochrome c oxidase subunit 1	Peristenus sp. BIOUG31847-D12	0.91	74.4	0.838	
+50174
+AF-A0A0C4L241-F1-model_v4	Cytochrome c oxidase subunit 1	Hydroptila spatulata	0.99	76.9	0.838	
+33182
+AF-A0A4P1TLJ2-F1-model_v4	Cytochrome c oxidase subunit 1	Lysianassidae sp. ANZRS109-08	0.98	81.8	0.838	
+36182
+AF-A0A1B1HSJ0-F1-model_v4	Cytochrome c oxidase subunit 1	Zelus luridus	0.97	79.1	0.837	
+1139
+AF-A0A2S1Q3B5-F1-model_v4	Cytochrome c oxidase subunit 1	Bunocephalus larai	0.91	79.2	0.837	
+33157
+AF-A0A0G2QTT8-F1-model_v4	Cytochrome c oxidase subunit 1	Tetragnatha sp. A JC-2014	1.00	75.8	0.836	
+3182
+AF-A0A3G3BDD7-F1-model_v4	Cytochrome c oxidase subunit 1	Synopeas pennsylvanicum	0.97	67.5	0.836	
+1145
+AF-J9PPA4-F1-model_v4	Cytochrome c oxidase subunit 1	Cacatua galerita	1.00	79.7	0.835	
+17182
+AF-V9TUR0-F1-model_v4	Cytochrome c oxidase subunit 1	Carcinus maenas	0.93	77.2	0.835	
+53182
+AF-A0A1Q4SJA1-F1-model_v4	COX1 domain-containing protein	Mycobacterium sp. SWH-M5	0.99	34.7	0.835	
+1163
+AF-C8YNI3-F1-model_v4	Cytochrome c oxidase subunit 1	Parascutigera nubila	1.00	82.6	0.835	
+1182
+AF-A0A482I8A0-F1-model_v4	Cytochrome c oxidase subunit 1	Tanytarsus sp. BIOUG20508-G03	0.97	83.3	0.834	
+1138
+AF-A0A161G009-F1-model_v4	Cytochrome c oxidase subunit 1	Rhagio sp. BOLD:AAH4129	0.97	85.5	0.834	
+1138
+AF-A0A1U9GIV9-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudorichardia flavitarsis	0.90	83	0.834	
+51174
+AF-A0A385LNX9-F1-model_v4	Cytochrome c oxidase subunit 1	Parasteatoda tabulata	0.95	78.9	0.833	
+1133
+AF-A0A1Y0AAW3-F1-model_v4	Cytochrome c oxidase subunit 1	Creontiades pallidus	0.97	79.5	0.832	
+1137
+AF-U5KIW1-F1-model_v4	Cytochrome c oxidase subunit 1	Simulium chamlongi	0.98	81.2	0.831	
+36182
+AF-A0A0F7G7H3-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.98	73.6	0.829	
+37182
+AF-A0A482I061-F1-model_v4	Cytochrome c oxidase subunit 1	Tanytarsus sp. BIOUG18479-G11	0.89	83.6	0.828	
+36157
+AF-A0A0F7CS79-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.98	73.6	0.828	
+37182
+AF-A0A3G3FZ56-F1-model_v4	Cytochrome c oxidase subunit 1	Pterocomma sp. BIOUG04094-E05	0.89	64.2	0.827	
+51173
+AF-A0A872ZLU4-F1-model_v4	Cytochrome c oxidase subunit 1	Namea sp. DAguilar	0.96	75.7	0.826	
+1136
+AF-A0A3G3B4U6-F1-model_v4	Cytochrome c oxidase subunit 1	Sejidae sp. BIOUG03972-G10	0.89	77.8	0.826	
+1122
+AF-A0A884HW74-F1-model_v4	Cytochrome c oxidase subunit I	Quiscalus mexicanus	0.97	85.4	0.825	
+1137
+AF-W8GM11-F1-model_v4	Cytochrome c oxidase subunit 1	Halomonhystera cf. continentalis N17_02	0.96	65.6	0.824	
+48182
+AF-A0A2P0QIV0-F1-model_v4	Cytochrome c oxidase subunit 1	Halictus sp. BIOUG05256-C01	0.96	69.6	0.823	
+1135
+AF-A0A0D5XQM2-F1-model_v4	Cytochrome c oxidase subunit 1	Engraulis encrasicolus	0.98	77.8	0.822	
+36182
+AF-A0A3G3B8Y6-F1-model_v4	Cytochrome c oxidase subunit 1	Pachypappa sp. BIOUG06240-E05	0.89	63.7	0.821	
+35158
+AF-A0A2S1G0T6-F1-model_v4	Cytochrome c oxidase subunit 1	Orthostigma sp. BIOUG00836-E07	0.89	74.3	0.821	
+1121
+AF-A0A1B2G0F7-F1-model_v4	Cytochrome c oxidase subunit 1	Grammotaulius nigropunctatus	0.98	78	0.819	
+39182
+AF-A0A0D4D0G1-F1-model_v4	Cytochrome c oxidase subunit 1	Panopeus herbstii	0.87	77.5	0.819	
+1120
+AF-J9Q932-F1-model_v4	Cytochrome c oxidase subunit 1	Cacatua galerita	0.99	78.8	0.819	
+24182
+AF-A0A7G4UBY1-F1-model_v4	Cytochrome c oxidase subunit 1	Puntius mahecola	0.99	78.2	0.817	
+33182
+AF-A0A2P0W8V3-F1-model_v4	Cytochrome c oxidase subunit 1	Cantuaria assimilis	1.00	75.1	0.816	
+8182
+AF-A0A3G3AF03-F1-model_v4	Cytochrome c oxidase subunit 1	Anaphes sp. BIOUG04286-F10	0.85	66.9	0.815	
+47167
+AF-A0A023HMD6-F1-model_v4	Cytochrome c oxidase subunit 1	Triatoma dimidiata	0.89	86.1	0.814	
+15137
+AF-A0A0A1E474-F1-model_v4	Cytochrome c oxidase subunit 1	Minytrema melanops	0.85	83.7	0.813	
+1117
+AF-M9NNF1-F1-model_v4	Cytochrome c oxidase subunit 1	Gambusia affinis	0.82	86.8	0.811	
+26139
+AF-F8SZR0-F1-model_v4	Cytochrome c oxidase subunit 1	Meretrix sp. JC-2011	0.92	66.1	0.811	
+1127
+AF-A0A7S9NWL7-F1-model_v4	Cytochrome c oxidase subunit 1	Ophiomyia kireshiensis	1.00	81.5	0.809	
+1182
+AF-A0A381Q767-F1-model_v4	COX1 domain-containing protein	marine metagenome	1.00	34.2	0.807	
+1182
+AF-A0A891LVL7-F1-model_v4	Cytochrome c oxidase subunit I	Prenolepis imparis	0.97	69.9	0.807	
+42182
+AF-A0A482H0R9-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG12640-H11	0.85	69.4	0.805	
+64182
+AF-A0A159QGI9-F1-model_v4	Cytochrome c oxidase subunit 1	Cinara costata	0.82	66	0.805	
+62176
+AF-A0A7U3W104-F1-model_v4	Cytochrome c oxidase subunit 1	Geoica sp. ex Pistacia atlantica Pa-Z-1-3_Hazeva	0.99	66.6	0.803	
+29182
+AF-T2AVE0-F1-model_v4	Cytochrome c oxidase subunit 1	Calisto tasajera	0.97	79.5	0.802	
+43182
+AF-A0A176RVN3-F1-model_v4	Cytochrome c oxidase subunit I	Candidatus Thiomargarita nelsonii	1.00	35.1	0.802	
+1182
+AF-A0A384XSA2-F1-model_v4	Cytochrome c oxidase subunit 1	Austrominius modestus	0.82	78.9	0.802	
+53166
+AF-A0A893AWI5-F1-model_v4	Cytochrome c oxidase subunit I	Baetis flavistriga	0.77	81.9	0.801	
+35145
+AF-A0A7D6ZR85-F1-model_v4	Cytochrome c oxidase subunit 1	Trissolcus colemani	1.00	61.4	0.800	
+1182
+AF-A0A384XRR4-F1-model_v4	Cytochrome c oxidase subunit 1	Austrominius modestus	0.92	78.4	0.797	
+55182
+AF-A0A482H1L6-F1-model_v4	Cytochrome c oxidase subunit 1	Megaselia sp. BIOUG20756-A05	0.93	81.6	0.795	
+54182
+AF-A0A1Y0DKI4-F1-model_v4	Cytochrome c oxidase subunit 1	Eadya sp. 3 BJS-2017	0.90	75.6	0.794	
+1123
+AF-A0A365H0M2-F1-model_v4	Cytochrome ubiquinol oxidase subunit I	Actinomadura craniellae	0.99	37.4	0.794	
+1162
+AF-A0A0C4PNF5-F1-model_v4	Cytochrome c oxidase subunit 1	Archytas marmoratus	0.96	83.3	0.793	
+47182
+AF-A0A872ZLU1-F1-model_v4	Cytochrome c oxidase subunit 1	Namea dicalcaria	0.75	75.2	0.792	
+36144
+AF-A0A3G1Y681-F1-model_v4	Cytochrome c oxidase subunit 1	Leiobunum ventricosum	0.82	76	0.792	
+68182
+AF-A0A2P0XJB4-F1-model_v4	Cytochrome c oxidase subunit 1	Austrominius modestus	0.95	84	0.792	
+1132
+AF-E5KE88-F1-model_v4	Cytochrome c oxidase subunit 1	Thienemanniella minuscula	0.75	81.6	0.791	
+72180
+AF-S5XCS5-F1-model_v4	Cytochrome c oxidase subunit 1	Tortricopsis aulacois	0.91	82.4	0.790	
+1125
+AF-A0A2P1LKV9-F1-model_v4	Cytochrome c oxidase subunit 1	Melanoplus sp. BIOUG22877-H10	0.75	78.8	0.790	
+71179
+AF-A0A2P0XLZ1-F1-model_v4	Cytochrome c oxidase subunit 1	Protorhoe unicata	0.72	81.4	0.789	
+72179
+AF-S5W4G4-F1-model_v4	Cytochrome c oxidase subunit 1	Garrha sp. ANIC144	0.72	80.5	0.789	
+72179
+AF-A0A3Q8A2M7-F1-model_v4	Cytochrome c oxidase subunit 1	Chanodichthys dabryi	1.00	79.3	0.788	
+1182
+AF-A0A0S2QKM9-F1-model_v4	Cytochrome c oxidase subunit 1	Phaonia consobrina	0.85	80.1	0.787	
+64182
+AF-A0A4Y5UFZ7-F1-model_v4	Cytochrome c oxidase subunit 1	Neophyllaphis araucariae	1.00	63.5	0.787	
+1182
+AF-A0A7T8FZS7-F1-model_v4	Cytochrome c oxidase subunit 1	Odontoponera transversa	0.72	67.2	0.784	
+57163
+AF-S4Z3Y8-F1-model_v4	Cytochrome c oxidase subunit 1	Lasioglossum quebecense	0.82	59.8	0.784	
+68182
+AF-I3V6E8-F1-model_v4	Cytochrome c oxidase subunit 1	Abatus ingens	0.99	78.3	0.784	
+23182
+AF-A0A1U9GS40-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. sc_08900	0.69	74.2	0.783	
+34138
+AF-A0A646SR39-F1-model_v4	Cytochrome c oxidase subunit 1	Silpha olivieri	0.77	77.8	0.783	
+72182
+AF-A0A3G1V7J1-F1-model_v4	Cytochrome c oxidase subunit 1	Ichneumon discoensis	0.69	76.1	0.783	
+38142
+AF-A0A5Q0U0W4-F1-model_v4	Cytochrome c oxidase subunit 1	Sericoda bembidioides	0.69	87.5	0.783	
+27130
+AF-A0A410WBZ3-F1-model_v4	Cytochrome c oxidase subunit 1	Paracobitis abrishamchiani	0.95	77.6	0.783	
+51182
+AF-A0A1U9GNK6-F1-model_v4	Cytochrome c oxidase subunit 1	Cicadellidae sp. sc_05399	0.95	75.3	0.782	
+51182
+AF-A0A2H4RIY8-F1-model_v4	Cytochrome c oxidase subunit 1	Chrysomelobia labidomerae	1.00	61.4	0.782	
+1182
+AF-A0A894JLE8-F1-model_v4	Cytochrome c oxidase subunit I	Polyxenidae sp. DNA01	0.95	82	0.782	
+51182
+AF-A0A0S1IPA0-F1-model_v4	Cytochrome c oxidase subunit 1	Chrysops sp. SSPAA3364-13	0.69	80.1	0.780	
+73178
+AF-A0A513U7X0-F1-model_v4	Cytochrome c oxidase subunit 1	Austrothelphusa sp. ww23310	0.89	76.8	0.780	
+1121
+AF-A0A517BED3-F1-model_v4	Cytochrome c oxidase subunit 1	Scombridae environmental sample	0.89	83.4	0.779	
+1121
+AF-A0A4D7SJ36-F1-model_v4	Cytochrome c oxidase subunit 1	Trigonopterus palopensis	0.94	77.4	0.778	
+52182
+AF-D6Q0U1-F1-model_v4	Cytochrome c oxidase subunit 1	Psorophora ferox	0.92	79.2	0.777	
+55182
+AF-A0A893A5U4-F1-model_v4	Cytochrome c oxidase subunit I	Coleoptera sp. COLE_20.668	0.95	79.8	0.777	
+51182
+AF-A0A023H811-F1-model_v4	Cytochrome c oxidase subunit 1	Triatoma dimidiata	0.87	84.2	0.776	
+1121
+AF-A0A0N9GHT1-F1-model_v4	Cytochrome c oxidase subunit 1	Hydroptila spatulata	0.87	77.5	0.776	
+1120
+AF-A0A1J0F627-F1-model_v4	Cytochrome c oxidase subunit 1	Yoldia hyperborea	0.72	64.2	0.775	
+2110
+AF-A0A023H7Z1-F1-model_v4	Cytochrome c oxidase subunit 1	Triatoma dimidiata	0.87	81.6	0.775	
+1120
+AF-F8SZQ9-F1-model_v4	Cytochrome c oxidase subunit 1	Meretrix sp. JC-2011	0.94	56.7	0.775	
+51182
+AF-A0A7D3UWQ8-F1-model_v4	Cytochrome c oxidase subunit 1	Glycyphana pulchra	0.87	85	0.774	
+1120
+AF-A0A3G3B763-F1-model_v4	Cytochrome c oxidase subunit 1	Priocnemis cornica	0.63	71.5	0.773	
+38139
+AF-L7PWP9-F1-model_v4	Cytochrome c oxidase subunit 1	Proctotrupidae sp. JBHCI390-11	0.63	68.6	0.773	
+38139
+AF-A0A517BEF1-F1-model_v4	Cytochrome c oxidase subunit 1	Scombridae environmental sample	0.93	75.5	0.773	
+54182
+AF-Q2EZD6-F1-model_v4	Cytochrome c oxidase subunit 1	Belvosia sp. Woodley17	0.82	78.6	0.771	
+68182
+AF-A0A893A430-F1-model_v4	Cytochrome c oxidase subunit I	Coleoptera sp. COLE_13.683	0.94	80.4	0.771	
+52182
+AF-A0A2P1LN42-F1-model_v4	Cytochrome c oxidase subunit 1	Labiobaetis dardanus	0.63	77.4	0.769	
+72173
+AF-Q2VX19-F1-model_v4	Cytochrome c oxidase subunit 1	Polyommatus phyllis	0.93	80.6	0.768	
+1129
+AF-A0A650AVZ2-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.60	78	0.767	
+24123
+AF-A0A159ARE2-F1-model_v4	Cytochrome c oxidase subunit 1	Stereomyrmex sp. KSS-2015	1.00	62.5	0.766	
+6182
+AF-D5JIZ8-F1-model_v4	Cytochrome c oxidase subunit 1	Chadisrochroa zabenilla	0.60	80	0.765	
+65164
+AF-A0A0F7NQQ6-F1-model_v4	Cytochrome c oxidase subunit 1	Protopiophila latipes	0.60	85.8	0.765	
+21119
+AF-B3SWR5-F1-model_v4	Cytochrome c oxidase subunit 1	Xiphocaris elongata	1.00	79.3	0.765	
+20182
+AF-A0A3G3FYE2-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobrya sp. BIOUG20760-G12	0.84	79.3	0.764	
+1116
+AF-A8HM36-F1-model_v4	Cytochrome c oxidase subunit 1	Psylliodes marcidus	0.60	78.2	0.764	
+77177
+AF-A0A0N7J5C8-F1-model_v4	Cytochrome c oxidase subunit 1	Pinalitus oromii	0.96	79.4	0.763	
+49182
+AF-A0A3S7PSH0-F1-model_v4	Cytochrome c oxidase subunit 1	Bela nebula	0.60	85	0.763	
+73172
+AF-A0A0F7G7H0-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.91	73.4	0.762	
+57182
+AF-A0A6M5XP81-F1-model_v4	Cytochrome c oxidase subunit 1	Pectinoacasta sculpturata	0.72	76.3	0.762	
+75182
+AF-A0A482I8H3-F1-model_v4	Cytochrome c oxidase subunit 1	Pseudolycoriella brunnea	0.84	80.1	0.762	
+1116
+AF-K4JTN3-F1-model_v4	Cytochrome c oxidase subunit 1	Simulium balcanicum	0.57	86.5	0.762	
+32128
+AF-Q85BH9-F1-model_v4	Cytochrome c oxidase subunit 1	Lucilia sericata	0.96	83.3	0.760	
+47182
+AF-S5VSJ6-F1-model_v4	Cytochrome c oxidase subunit 1	Tineodes adactylalis	0.57	77.5	0.759	
+73170
+AF-A0A2S0XV84-F1-model_v4	Cytochrome c oxidase subunit 1	Eusynstyela tincta	1.00	70.6	0.759	
+1182
+AF-A0A531AAQ1-F1-model_v4	Cytochrome ubiquinol oxidase subunit I	Mesorhizobium sp.	1.00	28.2	0.758	
+1182
+AF-A0A3S7PRJ2-F1-model_v4	Cytochrome c oxidase subunit 1	Duvaucelia lineata	0.54	78.3	0.757	
+44140
+AF-A0A220EUK5-F1-model_v4	Cytochrome c oxidase subunit 1	Orgilinae sp. BIOUG18623-C09	0.82	69.5	0.757	
+1115
+AF-I2DCI2-F1-model_v4	Cytochrome c oxidase subunit 1	Xylocopa sp. HMG-2011	0.60	57.4	0.754	
+67167
+AF-A1YDB8-F1-model_v4	Cytochrome c oxidase subunit 1	Chironomus bernensis MOTU7	0.66	76.6	0.754	
+78182
+AF-A0A345KD95-F1-model_v4	Cytochrome c oxidase subunit 1	Bombus sp. BIOUG04506-G09	0.77	57.5	0.752	
+72182
+AF-A0A219YX76-F1-model_v4	Cytochrome c oxidase subunit 1	Photinus interdius	0.96	80.8	0.751	
+49182
+AF-A0A6M6AMD4-F1-model_v4	Cytochrome c oxidase subunit 1	Phakellia hirondellei	0.66	79.8	0.751	
+15118
+AF-A0A2W4TPD5-F1-model_v4	Cytochrome ubiquinol oxidase subunit I	bacterium	0.97	40.9	0.751	
+1149
+AF-A0A6U7DWR3-F1-model_v4	Cytochrome c oxidase subunit 1	Platygastridae sp. BIOUG12276-C04	0.90	65.1	0.750	
+56182
+AF-A0A515KV60-F1-model_v4	Cytochrome c oxidase subunit 1	Psychodopygus panamensis	0.47	87	0.749	
+36128
+AF-D9YTA1-F1-model_v4	Cytochrome c oxidase subunit 1	Vicugna pacos	0.91	83.3	0.749	
+1126
+AF-I2DC97-F1-model_v4	Cytochrome c oxidase subunit 1	Xylocopa sp. HMG-2011	0.60	59.4	0.748	
+67167
+AF-A0A536PW99-F1-model_v4	Cytochrome ubiquinol oxidase subunit I	Chloroflexi bacterium	1.00	39.1	0.748	
+1182
+AF-Q0GQQ3-F1-model_v4	Cytochrome c oxidase subunit 1	Artema atlanta	0.84	68.6	0.748	
+67182
+AF-E9JUU1-F1-model_v4	Cytochrome c oxidase subunit 1	Satyrium prunoides	1.00	79.8	0.747	
+1182
+AF-A0A1S6JZE0-F1-model_v4	Cytochrome c oxidase subunit 1	Pariaconus hina	0.92	72	0.747	
+56182
+AF-A0A0K2GXC1-F1-model_v4	Cytochrome c oxidase subunit 1	Trioza sp. HC_442NC_T_cone2_02	0.92	71.3	0.747	
+56182
+AF-A0A1S6JZ03-F1-model_v4	Cytochrome c oxidase subunit 1	Baeoalitriozus diospyri	0.92	72.8	0.746	
+56182
+AF-A0A890C489-F1-model_v4	Cytochrome c oxidase subunit 1	Lutjanus lutjanus	0.80	73.6	0.744	
+71182
+AF-A0A6B7FMA8-F1-model_v4	Cytochrome c oxidase subunit 1	Hemiculter leucisculus	1.00	79.3	0.741	
+1182
+AF-E7CH62-F1-model_v4	Cytochrome c oxidase subunit 1	Hemityphis tenuimanus	1.00	54.4	0.740	
+1182
+AF-D3WU32-F1-model_v4	Cytochrome c oxidase subunit 1	Cimicodes sp. purpureaDHJ01	0.77	76.9	0.739	
+72182
+AF-A0A023IBE6-F1-model_v4	Cytochrome c oxidase subunit 1	Dolerus niger	0.77	72.5	0.738	
+72182
+AF-A0A536PN88-F1-model_v4	Cytochrome ubiquinol oxidase subunit I	Chloroflexi bacterium	1.00	42.9	0.737	
+1182
+AF-A0A3G3BF71-F1-model_v4	Cytochrome c oxidase subunit 1	Parasitidae sp. BIOUG08465-A12	0.75	81.6	0.737	
+1109
+AF-D4ND06-F1-model_v4	Cytochrome c oxidase subunit 1	Munona sp. iridescensDHJ02	0.51	82.2	0.736	
+196
+AF-B5U2C3-F1-model_v4	Cytochrome c oxidase subunit 1	Sebastes rosaceus	1.00	75.2	0.735	
+11182
+AF-A0A0N7EKX9-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. RRMFI1341-15	0.69	77.1	0.734	
+1105
+AF-A0A517BEE9-F1-model_v4	Cytochrome c oxidase subunit 1	Scombridae environmental sample	0.60	73.7	0.733	
+82182
+AF-A0A023HMT7-F1-model_v4	Cytochrome c oxidase subunit 1	Triatoma dimidiata	0.72	79	0.731	
+75182
+AF-W5XNH0-F1-model_v4	Cytochrome c oxidase subunit 1	Graphoderus perplexus	0.96	82.3	0.731	
+49182
+AF-A0A2I7A893-F1-model_v4	Cytochrome c oxidase subunit 1	Ophiomastix sp. 1 EB-2018	0.97	70.9	0.731	
+44182
+AF-A0A0M3YUZ4-F1-model_v4	Cytochrome c oxidase subunit 1	Entomobrya sp. CNJAE873-12	0.69	75	0.730	
+77182
+AF-A0MVV4-F1-model_v4	Cytochrome c oxidase subunit 1	Brachypanorpa oregonensis	0.84	77.9	0.730	
+67182
+AF-V9P0J5-F1-model_v4	Cytochrome c oxidase subunit 1	Clausocalanus furcatus	0.82	75	0.729	
+69182
+AF-A0A873A064-F1-model_v4	Cytochrome c oxidase subunit 1	Namea sp. DAguilar	0.51	73.7	0.728	
+14111
+AF-A0A1X9ZXX9-F1-model_v4	Cytochrome c oxidase subunit 1	Cecidomyiidae sp. BIOUG05257-E01	0.44	75.2	0.727	
+90182
+AF-A0A0P0LX23-F1-model_v4	Cytochrome c oxidase subunit 1	Pinalitus oromii	0.90	78.5	0.727	
+59182
+AF-A0A1C3S552-F1-model_v4	Cytochrome c oxidase subunit 1	Deronectes latus	0.69	83	0.726	
+1106
+AF-A0A1L2D4S8-F1-model_v4	Cytochrome c oxidase subunit 1	Culex antennatus	1.00	79.4	0.721	
+5182
+AF-A0A2P1LBK6-F1-model_v4	Cytochrome c oxidase subunit 1	Hydroptila spatulata	0.66	78.6	0.718	
+1103
+AF-A0A2H4WVS1-F1-model_v4	Cytochrome c oxidase subunit 1	Austrominius modestus	0.44	73.4	0.714	
+91182
+AF-A0A172W2M2-F1-model_v4	Cytochrome c oxidase subunit 1	Eurycea longicauda	0.82	75.2	0.712	
+68182
+AF-A0A0N9PFW7-F1-model_v4	Cytochrome c oxidase subunit 1	Cynomya sp. SSJAA1125-13	0.57	86.8	0.711	
+199
+AF-R9UC85-F1-model_v4	Cytochrome c oxidase subunit 1	Pieris rapae	0.84	81.3	0.711	
+67182
+AF-W8CX73-F1-model_v4	Cytochrome c oxidase subunit 1	Felis catus	0.84	75.4	0.710	
+67182
+AF-A0A1W5XDZ4-F1-model_v4	Cytochrome c oxidase subunit 1	Mauiulus aquilus	0.77	79.6	0.710	
+72182
+AF-A0A0C4L8V0-F1-model_v4	Cytochrome c oxidase subunit 1	Culicoides bolitinos	0.87	78.6	0.710	
+63182
+AF-A0A097C8Q0-F1-model_v4	Cytochrome c oxidase subunit 1	Cassida murraea	0.77	74.3	0.709	
+72182
+AF-A0A0N7B1X9-F1-model_v4	Cytochrome c oxidase subunit 1	Sarcoptiformes sp. 17 AAVC-2015	0.77	72.5	0.709	
+72182
+AF-A0A5P9S2B5-F1-model_v4	Cytochrome c oxidase subunit 1	Galerita ruficollis	0.77	77.8	0.709	
+72182
+AF-G3EQZ8-F1-model_v4	Cytochrome c oxidase subunit 1	Microtermes sp. W2mi	0.99	80.8	0.708	
+23182
+AF-A0A3G2QT72-F1-model_v4	Cytochrome c oxidase subunit 1	Hypogastrura sp. 08WOLVES-00358	0.77	76.9	0.708	
+72182
+AF-A0A0N7B1Y3-F1-model_v4	Cytochrome c oxidase subunit 1	Collembola sp. 26 AAVC-2015	0.77	76.9	0.707	
+72182
+AF-A0A1B1HP39-F1-model_v4	Cytochrome c oxidase subunit 1	Nabis roseipennis	0.77	75.8	0.707	
+73182
+AF-A0A5P9KJN8-F1-model_v4	Cytochrome c oxidase subunit 1	Hikangia liberiensis	0.75	75.8	0.706	
+73182
+AF-A0A7C7KTG9-F1-model_v4	Cytochrome C oxidase subunit I	Aquificaceae bacterium	1.00	39.6	0.705	
+1182
+AF-F1ANL1-F1-model_v4	Cytochrome c oxidase subunit 1	Uranotaenia sapphirina	0.75	77.6	0.705	
+73182
+AF-A0A1J0F625-F1-model_v4	Cytochrome c oxidase subunit 1	Yoldia hyperborea	0.57	55.4	0.704	
+84182
+AF-A0A435W0D1-F1-model_v4	Cytochrome o ubiquinol oxidase subunit I	Mesorhizobium sp. M7A.F.Ca.US.001.02.1.1	1.00	33.8	0.704	
+1182
+AF-Q85T57-F1-model_v4	Cytochrome c oxidase subunit 1	Drosophila munda	0.72	77	0.704	
+76182
+AF-Q7YB45-F1-model_v4	Cytochrome c oxidase subunit 1	Dynamis borassi	1.00	78.2	0.699	
+10182
+AF-A0A2S1CVZ6-F1-model_v4	Cytochrome c oxidase subunit 1	Eupeodes nitens	1.00	80.9	0.696	
+1182
+AF-D2CNP8-F1-model_v4	Cytochrome c oxidase subunit 1	Toxomerus musicus	1.00	80.9	0.695	
+1182
+AF-A0A2Z5FIN9-F1-model_v4	Cytochrome c oxidase subunit 1	Diapriidae sp. BIOUG11801-E04	0.57	61.7	0.692	
+83182
+AF-A0A3G3G018-F1-model_v4	Cytochrome c oxidase subunit 1	Phenopelopidae sp. BIOUG15208-C05	0.54	78.5	0.691	
+198
+AF-A0A0F7CS73-F1-model_v4	Cytochrome c oxidase subunit 1	Carcharhinus falciformis	0.66	68.8	0.687	
+79182
+AF-A0A5Q0TNF2-F1-model_v4	Cytochrome c oxidase subunit 1	Louisea nkongsamba	0.69	69.4	0.686	
+77182
+AF-A0A159PAD3-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. CNKOC805-14	0.54	69.6	0.684	
+199
+AF-A0A7S6TZR7-F1-model_v4	Cytochrome c oxidase subunit 1	Magneuptychia louisammour	0.69	73.8	0.683	
+78182
+AF-A0A0N7B637-F1-model_v4	Cytochrome c oxidase subunit 1	Hymenoptera sp. BOLD:ACC6470	0.66	63.2	0.682	
+79182
+AF-B0FAD7-F1-model_v4	Cytochrome c oxidase subunit 1	Quercus subsericea	1.00	70.1	0.681	
+6182
+AF-D5FNZ1-F1-model_v4	Cytochrome c oxidase subunit 1	Myrmica americana	1.00	65.3	0.674	
+6182
+AF-A0A7U3TZE7-F1-model_v4	Cytochrome c oxidase subunit 1	Dermacentor nuttalli	0.99	81.5	0.672	
+22182
+AF-A0A3B6U2G2-F1-model_v4	Cytochrome c oxidase subunit 1	Triticum aestivum	1.00	72	0.669	
+1182
+AF-A0A0H3WHE5-F1-model_v4	Cytochrome c oxidase subunit 1	Saccharomyces cerevisiae	1.00	66.1	0.665	
+1182
+AF-A0A7U3NN79-F1-model_v4	Cytochrome c oxidase subunit 1	Nematoscelis difficilis	0.51	71.7	0.663	
+87182
+AF-A0A0K0Q2X7-F1-model_v4	Cytochrome c oxidase subunit 1	Plakortis sp. 1 JV-2015	0.98	76.1	0.658	
+38182
+AF-G9FU67-F1-model_v4	Cytochrome c oxidase subunit 1	Allorhogas sp. ALW-2011	0.98	63.9	0.657	
+38182
+AF-A0A3G2ZLI5-F1-model_v4	Cytochrome c oxidase subunit 1	Stigmaeidae sp. 09PROBE-01436	0.41	33.1	0.654	
+28182
+AF-B1MJH6-F1-model_v4	Cytochrome c oxidase subunit 1	Mycobacteroides abscessus ATCC 19977	1.00	36.7	0.648	
+1182
+AF-A0A1U9VZB4-F1-model_v4	Cytochrome c oxidase subunit 1	Andrena sp. Kyr3-84w	0.38	64.4	0.646	
+95182
+AF-M1QS87-F1-model_v4	Cytochrome c oxidase subunit 1	Acantholumpenus mackayi	1.00	79.4	0.644	
+15182
+AF-A0A285CEG0-F1-model_v4	Cytochrome c oxidase subunit 1	Streptomyces sp. TLI_55	1.00	37.8	0.644	
+1182
+AF-A0A2W2DRP0-F1-model_v4	Cytochrome c oxidase subunit 1	Nonomuraea aridisoli	1.00	38.3	0.643	
+1182
+AF-A0A375YW70-F1-model_v4	Cytochrome c oxidase subunit 1	Mycobacterium shimoidei	1.00	35.6	0.643	
+1182
+AF-G5CEU5-F1-model_v4	Cytochrome c oxidase subunit 1	Peltigera membranacea	1.00	67	0.639	
+1182
+AF-A0A0M8YZ94-F1-model_v4	Cytochrome c oxidase subunit 1	Streptomyces sp. NRRL F-7442	1.00	36.7	0.636	
+1182
+AF-A0A1H7KZU0-F1-model_v4	Cytochrome c oxidase subunit 1	Stigmatella aurantiaca	1.00	38.3	0.635	
+1182
+AF-B6RPX5-F1-model_v4	Cytochrome c oxidase subunit 1	Thyrsites atun	0.98	78.2	0.632	
+38182
+AF-A0A872TLB1-F1-model_v4	Cytochrome oxidase subunit I	Rhopalosiphum maidis	0.63	61.5	0.630	
+81182
+AF-A0A1R3X6M8-F1-model_v4	Cytochrome c oxidase subunit 1	Microbacterium sp. RU1D	1.00	37.6	0.628	
+1182
+AF-A0A182BFZ0-F1-model_v4	Cytochrome c oxidase subunit 1	Gelidium nudifrons	0.99	72.5	0.627	
+25182
+AF-B6RPY1-F1-model_v4	Cytochrome c oxidase subunit 1	Benthodesmus simonyi	0.98	76.1	0.626	
+38182
+AF-U6C3T6-F1-model_v4	Cytochrome c oxidase subunit 1	Minois dryas	0.99	80.2	0.621	
+23182
+AF-C8YSQ7-F1-model_v4	Cytochrome c oxidase subunit 1	Hapalomantis orba	0.99	78	0.620	
+21182
+AF-A0A346RSQ2-F1-model_v4	Cytochrome c oxidase subunit I	Wolbachia pipientis	0.92	60.7	0.613	
+55182
+AF-A0A7K2N0S2-F1-model_v4	Cytochrome ubiquinol oxidase subunit I	Streptomyces sp. SID6013	0.94	36.9	0.612	
+48182
+AF-A0A2Z5RHV6-F1-model_v4	Cytochrome c oxidase subunit 1	Asymmetron inferum	0.90	76.1	0.610	
+59182
+AF-Q588U0-F1-model_v4	Cytochrome c oxidase subunit 1	Minois dryas	0.99	80.8	0.609	
+28182
+AF-B2BZG5-F1-model_v4	Cytochrome c oxidase subunit 1	Marmorana sp. FGC:35969	0.84	76.4	0.608	
+66182
+AF-A0A0X8DTT2-F1-model_v4	Cytochrome c oxidase subunit 1	Pterocladia lucida	0.99	72.5	0.601	
+32182
+AF-Q1XG73-F1-model_v4	Cytochrome c oxidase subunit 1	Anadara globosa	0.96	52.8	0.590	
+45182
+AF-D7PC90-F1-model_v4	Cytochrome c oxidase subunit 1	Ducula melanochroa	0.99	78.8	0.588	
+29182
+AF-G1DV73-F1-model_v4	Cytochrome c oxidase subunit 1	Nothobranchius orthonotus	0.97	75.5	0.568	
+42182
+AF-A0A0A6ZCI2-F1-model_v4	Cytochrome c oxidase subunit 1	Fulica alai	0.75	74.7	0.560	
+74182
+AF-A5HBY8-F1-model_v4	Cytochrome c oxidase subunit 1	Rhopalosiphum maidis	0.84	2.9	0.550	
+2181
+AF-A0A0C5CDX9-F1-model_v4	Cytochrome c oxidase subunit 1	Lius mexicanus	0.93	83.2	0.545	
+54182
+AF-A7U098-F1-model_v4	Cytochrome c oxidase subunit 1	Promyrmekiaphila sp. ORRc1	0.89	6.3	0.530	
+1181
+AF-A0A0F7CYG0-F1-model_v4	Cytochrome c oxidase subunit 1	Spermophagus shamszadehi	0.87	5.7	0.525	
+1181
+AF-G9C422-F1-model_v4	Cytochrome c oxidase subunit 1	Anopheles hinesorum	0.87	77.8	0.468	
+63182

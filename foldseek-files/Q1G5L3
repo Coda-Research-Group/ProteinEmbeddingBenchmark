@@ -1,0 +1,1920 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR RECOMBINATION ACTIVATING PROTEIN 2 (Q1G5L3)
+AFDB50 957 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-M1H3J8-F1-model_v4	Recombination activation protein 2	Meroles suborbitalis	0.99	64.4	0.886	
+7341
+AF-A0A3G3CAA7-F1-model_v4	Recombination activating protein 2	Uropsila leucogastra	1.00	83.6	0.886	
+1365
+AF-A0A2Z4HHR6-F1-model_v4	RAG2	Chiroxiphia pareola	0.97	89.9	0.877	
+34332
+AF-A0A3G3CAB3-F1-model_v4	Recombination activating protein 2	Zosterops senegalensis	0.99	80.7	0.875	
+1365
+AF-Q9DD82-F1-model_v4	Recombination-activating protein 2	Potamorrhaphis eigenmanni	0.98	48.1	0.861	
+1320
+AF-R9XMZ7-F1-model_v4	Recombination activating protein 2	Gymnocypris eckloni eckloni	0.97	49.8	0.861	
+15312
+AF-S5FG11-F1-model_v4	Recombination activating protein 2	Sternotherus minor peltifer	0.99	61.1	0.859	
+4383
+AF-C6EUP4-F1-model_v4	Recombination activator protein 2	Eptesicus furinalis	0.98	57.5	0.852	
+17364
+AF-A0A2R3ZC61-F1-model_v4	Recombination activating protein 2	Microstomus kitt	0.95	48.6	0.849	
+24309
+AF-A0A2R3ZC65-F1-model_v4	Recombination activating protein 2	Pleuronichthys decurrens	0.95	46.8	0.849	
+24309
+AF-D2YYX1-F1-model_v4	Recombination activating gene 2	Occidozyga sp. Kuala Lumpur	0.99	48.9	0.847	
+18378
+AF-A0A2R3ZVF4-F1-model_v4	Recombination activating protein 2	Chirocentrus dorab	0.96	44.4	0.846	
+28330
+AF-A0A3G1LW64-F1-model_v4	Recombination activating protein 2	Oryzias matanensis	0.96	48.1	0.846	
+23311
+AF-L7V0I8-F1-model_v4	Recombination activating protein 2	Erythrocharax altipinnis	0.95	48.6	0.844	
+25312
+AF-U3R8S1-F1-model_v4	Recombination activator protein 2	Eptesicus nasutus batinensis	0.97	65	0.842	
+27326
+AF-A0A2R3ZC75-F1-model_v4	Recombination activating protein 2	Pleuronichthys coenosus	0.95	47.5	0.840	
+24309
+AF-Q6JQQ4-F1-model_v4	Rag-2	Bombina orientalis	0.92	61.7	0.838	
+7278
+AF-A7J4C1-F1-model_v4	Recombination activating protein 2	Balistes capriscus	0.99	38.6	0.837	
+6384
+AF-Q6JQN8-F1-model_v4	Rag-2	Pipa parva	0.92	61.3	0.836	
+7278
+AF-D3JC85-F1-model_v4	Recombination activating protein 2	Xenopus sp. RH-2009b	0.95	63.2	0.835	
+1286
+AF-A0A2D0UDV6-F1-model_v4	Recombination activating protein 2	Kyphosus elegans	0.92	48.7	0.834	
+6276
+AF-A0A0U2H6H9-F1-model_v4	Recombination activation protein 2	Xenopus kobeli	0.98	49.8	0.833	
+1384
+AF-A0A7K5DSG8-F1-model_v4	RAG2 protein	Pachyramphus minor	0.99	80.8	0.832	
+1361
+AF-A8JPC7-F1-model_v4	Recombination activation protein 2	Microhyla pulchra	0.91	62.5	0.831	
+8277
+AF-A0A481S7I9-F1-model_v4	Recombination activating protein 2	Ilisha striatula	0.92	46.4	0.831	
+39314
+AF-Q2Y270-F1-model_v4	Rag-2	Pyxicephalus adspersus	0.92	56.9	0.830	
+7278
+AF-Q6T1G5-F1-model_v4	V(D)J recombination-activating protein 2	Lepidosiren paradoxa	0.99	45.6	0.830	
+1366
+AF-C5I077-F1-model_v4	Recombinase activating protein 2	Abudefduf bengalensis	0.91	51.1	0.828	
+27292
+AF-U3RDJ9-F1-model_v4	Recombination activator protein 2	Eptesicus serotinus serotinus	0.98	60.5	0.827	
+17350
+AF-A0A6G7KSY4-F1-model_v4	Recombination activator protein 2	Tonatia saurophila maresi	0.93	69.5	0.827	
+46324
+AF-C5I086-F1-model_v4	Recombinase activating protein 2	Abudefduf whitleyi	0.91	51.1	0.827	
+27292
+AF-A0A0U3DN78-F1-model_v4	Recombination activating protein 2	Gymnorhamphichthys bogardusi	0.91	47	0.827	
+29300
+AF-A0A1W6R931-F1-model_v4	Recombination activating protein 2	Macropharyngodon negrosensis	0.91	50.3	0.827	
+27292
+AF-A0A1U8W6J2-F1-model_v4	Recombination activating protein 2	Scapteromys sp. ULB-2015b	0.89	71.3	0.826	
+19279
+AF-G9CIU8-F1-model_v4	Recombination activating protein 2	Leopoldamys sabanus	0.89	68.8	0.825	
+60319
+AF-S4SHY0-F1-model_v4	Recombination activating protein 2	Vansonia rueppellii	0.89	69.4	0.824	
+27285
+AF-A0A411H912-F1-model_v4	Recombination activating protein 2	Myotis muricola	0.93	60.2	0.824	
+46350
+AF-H2B7H8-F1-model_v4	Recombination activating protein 2	Copella nattereri	0.92	47.3	0.821	
+43319
+AF-W5XJW4-F1-model_v4	Recombination activating protein 2	Arius arius	0.91	48.5	0.821	
+50317
+AF-E7CI00-F1-model_v4	Recombination activating protein 2	Aethalops aequalis	0.92	52.7	0.820	
+47383
+AF-A7Y0C8-F1-model_v4	Recombination-activating protein 2	Chaetodon unimaculatus	0.90	50	0.819	
+27292
+AF-A0A678ST81-F1-model_v4	Recombination activating protein 2	Sillago asiatica	0.90	50	0.819	
+27292
+AF-E2DZY8-F1-model_v4	Recombination activator protein 2	Myotis moluccarum	0.87	71	0.818	
+30285
+AF-E3URY1-F1-model_v4	Recombination activating protein II	Rhogeessa alleni	0.87	69.1	0.817	
+30285
+AF-B6D9A0-F1-model_v4	Recombination-activating protein 2	Epibulus insidiator	0.87	48.4	0.816	
+35292
+AF-U3RB87-F1-model_v4	Recombination activator protein 2	Eptesicus pachyomus	0.94	66.3	0.815	
+39322
+AF-A0A2R4G9D5-F1-model_v4	Recombination activating protein 2	Sardinella gibbosa	0.94	44.7	0.814	
+38323
+AF-A7Y0F7-F1-model_v4	Recombination-activating protein 2	Heniochus chrysostomus	0.87	49	0.813	
+38292
+AF-A0A142IX08-F1-model_v4	Recombination activation protein 2	Rousettus lanosus	0.85	70.7	0.813	
+33285
+AF-J9WN80-F1-model_v4	V(D)J recombination-activating protein 2	Struthio camelus	1.00	84.6	0.812	
+1367
+AF-H2FG06-F1-model_v4	Recombination activating protein 2	Tarentola deserti	0.84	68.9	0.812	
+14261
+AF-S4SHX3-F1-model_v4	Recombination activating protein 2	Pseudoromicia rendalli	0.85	71.4	0.811	
+31282
+AF-A0A3Q8UD87-F1-model_v4	Recombination activating protein 2	Anguis colchica	0.90	66.6	0.811	
+68334
+AF-U3R8R8-F1-model_v4	Recombination activator protein 2	Neoromicia guineensis	0.93	58.1	0.811	
+45347
+AF-M4I2C3-F1-model_v4	Recombination activating protein 2	Pteronotus parnellii	0.85	72.4	0.810	
+24273
+AF-A0A5B9C5K4-F1-model_v4	Recombination activating protein 2	Azemiops kharini	0.85	68.7	0.809	
+65317
+AF-D9ZNW7-F1-model_v4	V(D)J recombination-activating protein 2	Quasipaa sp. 2 JC-2010	0.98	48.6	0.808	
+16368
+AF-F5BI37-F1-model_v4	Recombination activating protein 2	Rhinogobiops nicholsii	0.87	44.6	0.807	
+61320
+AF-H9XFF6-F1-model_v4	Recombination activating protein 2	Murina cineracea	0.84	71	0.807	
+30278
+AF-W8X4B6-F1-model_v4	Recombination-activating protein 2	Chrysichthys mabusi	0.91	46.5	0.807	
+50320
+AF-F5BI20-F1-model_v4	Recombination activating protein 2	Elacatinus horsti	0.87	46.7	0.806	
+61317
+AF-A8JPE1-F1-model_v4	Recombination activation protein 2	Trichobatrachus robustus	0.84	60.3	0.805	
+21272
+AF-H2B740-F1-model_v4	Recombination activating protein 2	Acestrorhynchus pantaneiro	0.85	49	0.804	
+43295
+AF-Q9BDS1-F1-model_v4	V(D)J recombination-activating protein 2	Lama glama	0.99	58	0.803	
+1371
+AF-A0A0S3DW11-F1-model_v4	Recombination activating protein 2	Brachyhypopomus occidentalis	0.96	40.8	0.802	
+29343
+AF-S5MI11-F1-model_v4	Recombination activating protein 2	Lycodes tanakae	0.82	48.3	0.802	
+34279
+AF-R4N233-F1-model_v4	Recombination activating protein 2	Sturnira magna	0.82	70.7	0.801	
+35277
+AF-N0GRI2-F1-model_v4	Recombination-activating protein 2	Chiloglanis niloticus	0.91	44.4	0.801	
+53339
+AF-S5MIL9-F1-model_v4	Recombination activating protein 2	Sillago japonica	0.82	47.1	0.800	
+34279
+AF-H2B7C8-F1-model_v4	Recombination activating protein 2	Acestrorhynchus cf. nasutus LBP7035-34110	0.82	47.7	0.800	
+55301
+AF-M4I2E4-F1-model_v4	Recombination activating protein 2	Pteronotus parnellii	0.80	72.3	0.797	
+24262
+AF-S5G7N4-F1-model_v4	Recombination activating protein 2	Amphiuma means	0.80	63.4	0.796	
+64301
+AF-A0A6B7ZGD9-F1-model_v4	Recombination activating protein 2	Squaliobarbus curriculus	0.80	52.4	0.792	
+20260
+AF-H6WZ80-F1-model_v4	Recombination activating protein 2	Labeo rohita	0.97	36.9	0.792	
+17380
+AF-B6CYG0-F1-model_v4	Recombination-activating protein 2	Tautoga onitis	0.77	49.1	0.792	
+57292
+AF-A0A3B4X0Z2-F1-model_v4	V(D)J recombination-activating protein 2-like	Seriola lalandi dorsalis	0.98	44.1	0.791	
+1350
+AF-F2VHM6-F1-model_v4	RAG2	Parotocinclus aripuanensis	0.84	47	0.788	
+67320
+AF-A0A6B7ZG76-F1-model_v4	Recombination activating protein 2	Pseudorasbora elongata	0.97	39.9	0.788	
+20376
+AF-J9WKZ9-F1-model_v4	V(D)J recombination-activating protein 2	Apteryx australis	0.99	67.9	0.787	
+1365
+AF-Q5G635-F1-model_v4	Recombination activation protein 2	Craseonycteris thonglongyai	0.72	73	0.786	
+56281
+AF-W8WIA8-F1-model_v4	Recombination-activating protein 2	Pareutropius debauwi	0.91	45.1	0.786	
+44326
+AF-N0GRI7-F1-model_v4	Recombination-activating protein 2	Synodontis batensoda	0.85	45.9	0.784	
+67323
+AF-Q1HWE4-F1-model_v4	Recombination activating gene 2	Glaridoglanis andersonii	0.92	38.5	0.783	
+52371
+AF-S5TH09-F1-model_v4	Recombination activating protein 2	Pseudorasbora elongata	0.97	36.3	0.782	
+18380
+AF-F5BI34-F1-model_v4	Recombination activating protein 2	Priolepis hipoliti	0.75	45.2	0.780	
+76317
+AF-A0A1L3IWC2-F1-model_v4	Recombinase activating protein 2	Rana uenoi	0.80	57.3	0.780	
+79322
+AF-W8WHX0-F1-model_v4	Recombination-activating protein 2	Lophiobagrus aquilus	0.90	47	0.780	
+55320
+AF-A0A142C5T0-F1-model_v4	Recombination activating protein 2	Plecturocebus moloch	0.66	73	0.777	
+50268
+AF-C1ICN2-F1-model_v4	Recombination activating gene 2	Liobagrus anguillicauda	0.91	48.7	0.777	
+50320
+AF-F2VHF4-F1-model_v4	RAG2	Hypostomus albopunctatus	0.93	37.8	0.775	
+42371
+AF-A0A0A7HN68-F1-model_v4	Recombination activating protein 2	Choerodon anchorago	0.69	49.1	0.772	
+64285
+AF-A0A2Z5DB89-F1-model_v4	Recombination activating protein 2	Megophrys glandulosa	0.85	48.1	0.771	
+78368
+AF-A0A1L3IWB2-F1-model_v4	Recombinase activating protein 2	Rana dybowskii	0.84	52.3	0.771	
+71339
+AF-Q0ZEK1-F1-model_v4	Recombination activating protein 2	Ochmacanthus alternus	0.92	38.3	0.771	
+44369
+AF-T1QDF3-F1-model_v4	Recombination activating protein 2	Zaireichthys sp. CU 91033	0.91	41.1	0.769	
+50341
+AF-A0A1U9ZPU2-F1-model_v4	Recombination activating protein 2	Chimarrogale varennei	0.63	72.4	0.769	
+53266
+AF-A0A223PKY9-F1-model_v4	Recombination activating protein 2	Ituglanis amazonicus	0.66	51.5	0.769	
+64281
+AF-H6W0U9-F1-model_v4	V(D)J recombination-activating protein 2	Jurengraulis juruensis	0.97	33.3	0.768	
+23378
+AF-A0A1W6R939-F1-model_v4	Recombination activating protein 2	Xenojulis margaritaceus	0.66	49.3	0.768	
+58276
+AF-A0A1W6R903-F1-model_v4	Recombination activating protein 2	Bodianus pulchellus	0.66	49.7	0.767	
+58276
+AF-J3SAD6-F1-model_v4	Recombination activating protein 2	Haemulon vittatum	0.66	49	0.767	
+60277
+AF-J3SAE7-F1-model_v4	Recombination activating protein 2	Pomadasys corvinaeformis	0.66	48.6	0.767	
+60277
+AF-Q4QUS5-F1-model_v4	V(D)J recombination-activating protein 2	Rhabdalestes maunensis	0.98	33.1	0.766	
+18376
+AF-Q4QV01-F1-model_v4	V(D)J recombination-activating protein 2	Brycon sp. DC-2004	0.98	36.5	0.765	
+17373
+AF-A0A2R4G9Q2-F1-model_v4	V(D)J recombination-activating protein 2	Thryssa spinidens	0.97	35	0.765	
+19360
+AF-A0A6M5E3A1-F1-model_v4	Recombination activating 2	Astyanax ruberrimus	0.82	42.1	0.765	
+50320
+AF-A0A1J0N2F1-F1-model_v4	Recombination activating protein 2	Dymecodon pilirostris	0.57	76.9	0.764	
+63270
+AF-G1NRN6-F1-model_v4	V(D)J recombination-activating protein 2	Meleagris gallopavo	0.99	72.4	0.763	
+1368
+AF-H2B736-F1-model_v4	Recombination activating protein 2	Characidium pterostictum	0.95	35.4	0.763	
+43384
+AF-J9WSD8-F1-model_v4	V(D)J recombination-activating protein 2	Dromaius novaehollandiae	0.99	70.5	0.763	
+1368
+AF-A0A2Z5DB23-F1-model_v4	Recombination activating protein 2	Megophrys sp. 42 ZL-2018	0.84	46.8	0.762	
+79368
+AF-A0A2L1K1E5-F1-model_v4	Recombination activating protein 2	Barbastella barbastellus	0.94	49.4	0.761	
+47381
+AF-Q4QV14-F1-model_v4	V(D)J recombination-activating protein 2	Arnoldichthys spilopterus	0.98	33.8	0.761	
+15374
+AF-A0A0B4RVC3-F1-model_v4	Recombination activating protein 2	Noturus hildebrandi	0.63	47.9	0.760	
+98317
+AF-H6W0N7-F1-model_v4	V(D)J recombination-activating protein 2	Anchoviella alleni	0.97	37.9	0.760	
+23360
+AF-A0A2L1K1L0-F1-model_v4	Recombination activating protein 2	Glauconycteris egeria	0.94	54.6	0.760	
+47368
+AF-A1YE04-F1-model_v4	V(D)J recombination-activating protein 2	Spratelloides delicatulus	0.98	31.4	0.759	
+17378
+AF-A0A4Y1KA30-F1-model_v4	Recombination activating protein 2	Poyntonia paludicola	0.63	60	0.758	
+44261
+AF-A0A2Z5DBA8-F1-model_v4	Recombination activating protein 2	Megophrys sp. 43 ZL-2018	0.84	49.6	0.758	
+78366
+AF-A0A2L1K1G3-F1-model_v4	Recombination activating protein 2	Ia io	0.94	49	0.757	
+46378
+AF-A0A2L1K1F2-F1-model_v4	Recombination activating protein 2	Arielulus torquatus	0.92	55.4	0.757	
+59377
+AF-A0A2I6SR86-F1-model_v4	RAG2	Rhonciscus bayanus	0.57	50.2	0.755	
+90295
+AF-A0A7L4V258-F1-model_v4	Recombination activating protein 2	Dasyloricaria filamentosa	0.57	53.3	0.755	
+85291
+AF-A0A7L4V291-F1-model_v4	Recombination activating protein 2	Loricariichthys anus	0.77	47.5	0.755	
+76320
+AF-E2DZW3-F1-model_v4	V(D)J recombination-activating protein 2	Antrozous dubiaquercus	0.97	54	0.754	
+30374
+AF-A0A851QQT9-F1-model_v4	RAG2 protein	Cercotrichas coryphoeus	0.99	81.4	0.754	
+1365
+AF-Q4QUS3-F1-model_v4	V(D)J recombination-activating protein 2	Salminus maxillosus	0.97	37	0.753	
+29370
+AF-A0A5A4N2B8-F1-model_v4	Recombination activating protein 2	Ageneiosus dentatus	0.77	49.5	0.752	
+79317
+AF-B7TXP2-F1-model_v4	RAG2	Psammophis schokari	0.63	68.6	0.751	
+104320
+AF-H2B769-F1-model_v4	Recombination activating protein 2	Copella nattereri	0.93	39	0.751	
+43373
+AF-A0A6P3S047-F1-model_v4	V(D)J recombination-activating protein 2-like	Pteropus vampyrus	0.85	73.1	0.750	
+1253
+AF-B7TXP6-F1-model_v4	RAG2	Rhamphiophis oxyrhynchus	0.63	68.6	0.749	
+104320
+AF-A0A2Z4HHT0-F1-model_v4	RAG2	Chiroxiphia pareola	0.72	72.2	0.748	
+111384
+AF-A0A2H4XX98-F1-model_v4	Recombination activating protein 2	Quasipaa spinosa	0.89	46.7	0.748	
+65378
+AF-A0A0K0K922-F1-model_v4	Recombination activating protein 2	Curimata cyprinoides	0.93	33.5	0.748	
+46384
+AF-A0A6B9PBU5-F1-model_v4	Recombination activating protein 2	Pygidianops amphioxus	0.51	49.5	0.748	
+92293
+AF-A0A165X0J1-F1-model_v4	Recombinase-activating protein 2	Microhyla mukhlesuri	0.47	64.6	0.747	
+85279
+AF-A0A2Z5E4I6-F1-model_v4	Recombination activating protein 2	Boophis xerophilus	0.54	63.2	0.746	
+28234
+AF-A0A0U2H156-F1-model_v4	Recombination activation protein 2	Xenopus eysoole	0.75	64.1	0.746	
+1237
+AF-A0A2Z5CNQ2-F1-model_v4	Recombination activating protein 2	Potamorhina altamazonica	0.92	42.5	0.746	
+50341
+AF-A0A1X9RIQ6-F1-model_v4	Recombination activating protein 2	Andrias davidianus	0.75	59.1	0.745	
+88344
+AF-A0A091N591-F1-model_v4	V(D)J recombination-activating protein 2	Acanthisitta chloris	0.99	77.1	0.743	
+1361
+AF-A0A291S192-F1-model_v4	Recombination activation protein 2	Psammophis schokari	0.47	71.5	0.741	
+104300
+AF-A0A0U4JNQ0-F1-model_v4	Recombination activating protein 2	Bombina orientalis	0.51	65.6	0.740	
+45245
+AF-G0WQG1-F1-model_v4	Recombination activator protein 2	Tadarida aegyptiaca	0.47	73.7	0.738	
+46243
+AF-A0A0U4JBQ2-F1-model_v4	Recombination activating protein 2	Bombina orientalis	0.44	67.1	0.738	
+52245
+AF-A0A7L3MU88-F1-model_v4	V(D)J recombination-activating protein 2	Oreotrochilus melanogaster	0.99	69	0.736	
+1358
+AF-Q8SQE0-F1-model_v4	RAG2	Manis sp.	0.47	76.5	0.736	
+31226
+AF-G9F7B4-F1-model_v4	Recombination activating protein 2	Echidna nebulosa	0.69	43.1	0.735	
+95349
+AF-A0A7S5SCH1-F1-model_v4	Recombination activating protein 2	Trichomycterus pantherinus	0.77	49.5	0.733	
+78320
+AF-A0A2Z5DB35-F1-model_v4	Recombination activating protein 2	Megophrys sp. 28 ZL-2018	0.77	60.3	0.732	
+78318
+AF-A0A286LQ05-F1-model_v4	Recombination activating protein 2	Chironius diamantina	0.38	71.1	0.730	
+100283
+AF-A0A0K0QP28-F1-model_v4	Recombination activating protein 2	Epinephelus lanceolatus	0.41	50.7	0.730	
+57245
+AF-E3URY4-F1-model_v4	V(D)J recombination-activating protein 2	Lasiurus atratus	0.97	47.1	0.730	
+30367
+AF-A0A6M5E2H0-F1-model_v4	Recombination activating 2	Serrasalmus rhombeus	0.87	42.2	0.729	
+65341
+AF-A0A1B1HXV2-F1-model_v4	Recombination activating protein 2	Triportheus trifurcatus	0.89	32.6	0.727	
+64384
+AF-A1XVJ4-F1-model_v4	Recombination activating protein subunit 2	Sebastes rastrelliger	0.63	48.6	0.727	
+99320
+AF-E2J9Z3-F1-model_v4	Recombination activating protein 2	Gymnothorax steindachneri	0.66	38.4	0.726	
+96377
+AF-A0A672GA88-F1-model_v4	V(D)J recombination-activating protein 2	Salarias fasciatus	0.99	40	0.726	
+1373
+AF-A0A0U2NJF4-F1-model_v4	Recobimantion activating protein 2	Sardinella gibbosa	0.77	47.9	0.726	
+83323
+AF-A0A5J5YNE2-F1-model_v4	Recombination activating protein 2 protein	Adontosternarchus sachsi	0.44	34.6	0.724	
+112381
+AF-A0A2Z4HHW3-F1-model_v4	RAG2	Chiroxiphia pareola	0.72	77.5	0.724	
+113374
+AF-A0A5A4N2Y9-F1-model_v4	Recombination activating protein 2	Ferrarissoaresia meridionalis	0.38	52.6	0.723	
+69254
+AF-I6YWG9-F1-model_v4	Recombination activating protein 2	Gymnomuraena zebra	0.69	41.7	0.723	
+95350
+AF-A0A7G6UAA9-F1-model_v4	Recombination activating protein II	Hypsugo savii	0.33	71.5	0.722	
+116291
+AF-A0A2S0DD84-F1-model_v4	Recombination activation protein 2	Lepidocephalichthys cf. thermalis ND-2017	0.35	52.6	0.722	
+76261
+AF-A0A0D3LWW8-F1-model_v4	Recombination activating protein 2	Hemibrycon dariensis	0.41	44.5	0.722	
+124313
+AF-A0A2Z4HHU7-F1-model_v4	RAG2	Chiroxiphia lanceolata	0.47	89.9	0.721	
+136333
+AF-A0A6P9BPL5-F1-model_v4	V(D)J recombination-activating protein 2	Pantherophis guttatus	0.99	55.7	0.719	
+1367
+AF-A0A0D3LWV3-F1-model_v4	Recombination activating protein 2	Gephyrocharax intermedius	0.44	44.6	0.717	
+124319
+AF-B8QP53-F1-model_v4	Recombination-activating protein 2	Lutjanus malabaricus	0.35	51.9	0.716	
+33214
+AF-A0A401S7V5-F1-model_v4	V(D)J recombination-activating protein 2	Chiloscyllium punctatum	0.99	42.4	0.716	
+1370
+AF-A0A023HRH9-F1-model_v4	V(D)J recombination-activating protein 2	Rhynchocypris oxycephalus	0.87	33.8	0.714	
+68384
+AF-A0A165X089-F1-model_v4	Recombinase-activating protein 2	Microhyla mukhlesuri	0.28	67.2	0.713	
+85252
+AF-A0A6M2YFM0-F1-model_v4	Recombination activating protein 2	Pseudopimelodus bufonius	0.30	54	0.712	
+54226
+AF-A0A3Q1J417-F1-model_v4	V(D)J recombination-activating protein 2	Anabas testudineus	0.98	36	0.708	
+1369
+AF-A0A7R6BFL4-F1-model_v4	Recombination activation protein subunit 2	Osteochilus longidorsalis	0.77	38.1	0.708	
+79345
+AF-A0A286LQ08-F1-model_v4	Recombination activating protein 2	Chironius exoletus	0.25	72.1	0.706	
+99263
+AF-Q91830-F1-model_v4	V(D)J recombination-activating protein 2	Xenopus laevis	0.98	46.9	0.705	
+1368
+AF-A0A1N7TCW5-F1-model_v4	Recombination activating protein 2	Salamandra algira	0.25	65.2	0.702	
+62228
+AF-A0A2S0DD23-F1-model_v4	Recombination activation protein 2	Botia striata	0.77	41.5	0.702	
+76337
+AF-A0A2Z5E4D2-F1-model_v4	Recombination activating protein 2	Boophis guibei	0.30	63.5	0.702	
+28200
+AF-D8WK40-F1-model_v4	Recombination activating protein 2	Gymnothorax flavimarginatus	0.38	48.4	0.701	
+128317
+AF-A0A889H626-F1-model_v4	Recombination activating protein 2	Silvinichthys mendozensis	0.60	50	0.701	
+102317
+AF-A0A5B9C602-F1-model_v4	Recombination activating protein 2	Gloydius monticola	0.23	70.3	0.700	
+65226
+AF-A0A6M5E0A7-F1-model_v4	Recombination activating 2	Cyphocharax magdalenae	0.66	41	0.699	
+102345
+AF-A0A0D3LWK0-F1-model_v4	Recombination activating protein 2	Knodus heteresthes	0.28	34.9	0.698	
+131352
+AF-E2J9Y8-F1-model_v4	Recombination activating protein 2	Gymnothorax pseudothyrsoideus	0.35	47.9	0.696	
+130319
+AF-H9BDJ9-F1-model_v4	Recombination-activating protein 2	Amblyglyphidodon sp. JAD-2012b	0.21	52.2	0.692	
+53210
+AF-H8XYX1-F1-model_v4	V(D)J recombination-activating protein 2	Sauromys petrophilus	0.82	47	0.688	
+83379
+AF-A0A0A7ACG3-F1-model_v4	V(D)J recombination-activating protein 2	Thoopterus nigrescens	0.80	43.8	0.685	
+84381
+AF-A0A2Z5E4I2-F1-model_v4	Recombination activating protein 2	Boophis aff. picturatus CH-2018	0.18	67.7	0.685	
+86234
+AF-A0A3G2LX55-F1-model_v4	Recombination activating protein 2	Mimophis mahfalensis	0.20	71	0.680	
+163314
+AF-A0A5J5DCE6-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.99	44.5	0.680	
+1342
+AF-A0A2R4G9F4-F1-model_v4	V(D)J recombination-activating protein 2	Sprattus sprattus	0.82	31.4	0.680	
+79384
+AF-E2J9Z9-F1-model_v4	Recombination activating protein 2	Scuticaria tigrina	0.47	38	0.680	
+122353
+AF-H6WZ86-F1-model_v4	V(D)J recombination-activating protein 2	Puntioplites falcifer	0.80	31.2	0.679	
+78384
+AF-K4EKB6-F1-model_v4	Recombination activating protein 2	Peromyscus leucopus	0.16	76	0.679	
+69214
+AF-A0A0D3LX42-F1-model_v4	Recombination activating protein 2	Xenurobrycon cf. coracoralinae MNRJ35234	0.33	41.7	0.679	
+139319
+AF-H6WZ85-F1-model_v4	Recombination activating protein 2	Neolissochilus stracheyi	0.80	32.6	0.678	
+78384
+AF-A0A291S1B2-F1-model_v4	Recombination activation protein 2	Psammophis schokari	0.16	49.5	0.678	
+40247
+AF-E2J9X2-F1-model_v4	Recombination activating protein 2	Enchelycore carychroa	0.47	40.8	0.678	
+119352
+AF-G8Z547-F1-model_v4	Recombination activation protein 2	Antennatus sanguineus	0.18	47.6	0.678	
+144293
+AF-K4EKM6-F1-model_v4	Recombination activating protein 2	Scarturus elater	0.16	73.2	0.678	
+69214
+AF-E2J9Z2-F1-model_v4	Recombination activating protein 2	Gymnothorax saxicola	0.41	39.5	0.674	
+128353
+AF-A0A2R4G9R1-F1-model_v4	Recombination activating protein 2	Engraulis encrasicolus	0.30	36.2	0.674	
+144333
+AF-G8HYP1-F1-model_v4	Recombination activating protein 2	Gephyromantis sp. 5 MV-2009	0.16	66.2	0.672	
+58204
+AF-A0A2N9J5J2-F1-model_v4	Uncharacterized protein	Fagus sylvatica	0.77	7.6	0.672	
+12316
+AF-A0A5A4N2F5-F1-model_v4	Recombination activating protein 2	Trachelyopterus sp. BBC-2019	0.18	55.3	0.672	
+69217
+AF-A0A0D9X5L9-F1-model_v4	Uncharacterized protein	Leersia perrieri	0.82	8.7	0.671	
+4317
+AF-B2WZ36-F1-model_v4	Recombination activating protein 2	Poecile palustris	0.13	93.2	0.670	
+103235
+AF-A0A165VSQ7-F1-model_v4	Recombination activating protein 2	Pygoplites diacanthus	0.15	49.6	0.669	
+119260
+AF-E2J9Z5-F1-model_v4	Recombination activating protein 2	Gymnothorax vicinus	0.44	40	0.669	
+125352
+AF-A0A817WP90-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood2	0.66	9.8	0.669	
+4292
+AF-D7PRL0-F1-model_v4	Recombination activation protein 2	Mydaus marchei	0.14	74.6	0.669	
+63200
+AF-A0A2R4G9E4-F1-model_v4	Recombination activating protein 2	Sardinella melanura	0.30	39.6	0.668	
+145326
+AF-A0A0S2E5Q5-F1-model_v4	Recombination activating protein 2	Scarturus tetradactyla	0.14	72.8	0.666	
+66205
+AF-A0A075DDP4-F1-model_v4	V(D)J recombination-activating protein 2	Perognathus alticolus	0.82	67.8	0.666	
+78322
+AF-A0A0H4CWD2-F1-model_v4	Recombination activating protein 2	Hydrodamalis gigas	0.13	78.7	0.665	
+87218
+AF-A0A0M3PPB2-F1-model_v4	RAG2	Lycodes terraenovae	0.14	52.1	0.665	
+66204
+AF-M1GL17-F1-model_v4	Recombination activating protein 2	Pomacentrus imitator	0.15	55.4	0.665	
+27171
+AF-W5XJM9-F1-model_v4	Recombination activating protein 2	Mystus atrifasciatus	0.15	56.7	0.663	
+50189
+AF-A0A0K1PQ57-F1-model_v4	Kelch repeat:Kelch	Labilithrix luteola	0.63	7.6	0.661	
+8314
+AF-A0A1S5QM12-F1-model_v4	Recombination activating protein 2	Ochotona sikimaria	0.11	77.7	0.661	
+91216
+AF-G8Z571-F1-model_v4	Recombination activation protein 2	Tathicarpus butleri	0.14	46.4	0.660	
+157295
+AF-A0A7S4PEA1-F1-model_v4	Hypothetical protein	Guillardia theta	0.33	9.8	0.658	
+10260
+AF-S4T1E5-F1-model_v4	Recombination activating protein 2	Madascincus melanopleura	0.12	68.7	0.658	
+165292
+AF-A0A0A7ADA6-F1-model_v4	V(D)J recombination-activating protein 2	Styloctenium wallacei	0.75	42.5	0.658	
+94376
+AF-Q0ZEF9-F1-model_v4	Recombination activating protein 2	Pimelodus ornatus	0.47	45.3	0.656	
+119320
+AF-A0A330J200-F1-model_v4	Recombination activating 2	Priodontes maximus	0.14	75.3	0.656	
+70207
+AF-A0A0D3RZ57-F1-model_v4	Recombination activating protein 2	Ptyodactylus ragazzii	0.11	69	0.656	
+167292
+AF-A0A859PJ40-F1-model_v4	Recombination activating protein 2	Centropyge venusta x Centropyge multifasciata	0.12	51.1	0.654	
+110241
+AF-L0PI99-F1-model_v4	Recombination activating gene 2	Paroedura sanctijohannis	0.11	71.2	0.654	
+161285
+AF-A0A224XJX5-F1-model_v4	Putative kelch domain-containing protein 2	Panstrongylus lignarius	0.77	7.9	0.654	
+11333
+AF-A0A293MTH4-F1-model_v4	Uncharacterized protein	Ornithodoros erraticus	0.69	10	0.654	
+23333
+AF-L0PK37-F1-model_v4	Recombination activating gene 2	Uroplatus lineatus	0.11	71.2	0.654	
+161285
+AF-Q90XJ2-F1-model_v4	RAG2	Acipenser sp. IMCB-2001	0.20	62.8	0.653	
+1156
+AF-L0L3F6-F1-model_v4	Recombination activating protein 2	Paralichthys aestuarius	0.12	44.3	0.651	
+146277
+AF-A0A1B1FEW9-F1-model_v4	Recombinase activating 2 protein	Lithobates septentrionalis	0.14	53.8	0.650	
+178319
+AF-A0A330J703-F1-model_v4	Recombination activating 2	Cabassous chacoensis	0.10	78	0.650	
+83205
+AF-E2J9Y9-F1-model_v4	Recombination activating protein 2	Gymnothorax richardsonii	0.20	43.8	0.650	
+158320
+AF-A0A0D3LVW1-F1-model_v4	Recombination activating protein 2	Bryconamericus aff. uporas UFRGS15034	0.12	53	0.649	
+124254
+AF-T2DKB7-F1-model_v4	Recombination activating protein 2	Tracheloptychus madagascariensis	0.09	69.7	0.648	
+166284
+AF-A0A1S5QL93-F1-model_v4	Recombination activating protein 2	Ochotona curzoniae	0.09	72.5	0.647	
+77200
+AF-G9BEI4-F1-model_v4	Recombination activating protein 2	Elgaria kingii	0.10	75.8	0.647	
+158277
+AF-A0A7S4DHU0-F1-model_v4	Hypothetical protein	Heterosigma akashiwo	0.72	7.3	0.645	
+12382
+AF-A0A7J9K115-F1-model_v4	Uncharacterized protein	Gossypium armourianum	0.80	10.1	0.643	
+4315
+AF-A0A1B2DAF2-F1-model_v4	Recombination activating protein 2	Pteronotus parnellii portoricensis	0.12	71.2	0.642	
+11142
+AF-A0A5A4N311-F1-model_v4	Recombination activating protein 2	Pseudauchenipterus nodosus	0.16	40.1	0.642	
+166316
+AF-A0A0U3C0E0-F1-model_v4	Recombination activating protein 2	Rhamphichthys marmoratus	0.09	55.9	0.641	
+106223
+AF-A0A315VQV0-F1-model_v4	V(D)J recombination-activating protein 2	Gambusia affinis	0.99	38.1	0.638	
+1380
+AF-E9G8V4-F1-model_v4	F-box domain-containing protein	Daphnia pulex	0.72	9.5	0.637	
+11304
+AF-A0A5B8GS17-F1-model_v4	V(D)J recombination-activating protein 2	Cardiocranius paradoxus	0.63	40.6	0.637	
+107384
+AF-A0A7R9YJI7-F1-model_v4	Hypothetical protein	Diacronema lutheri	0.47	9	0.634	
+46317
+AF-A0A1X7TAS9-F1-model_v4	Uncharacterized protein	Amphimedon queenslandica	0.80	9.4	0.633	
+1329
+AF-A0A1B1FEW1-F1-model_v4	Recombinase activating 2 protein	Glandirana tientaiensis	0.12	53.7	0.632	
+188320
+AF-A0A7L3GK19-F1-model_v4	KLDC4 protein	Anhinga rufa	0.69	8.6	0.631	
+26382
+AF-A0A814MUW3-F1-model_v4	Hypothetical protein	Brachionus calyciflorus	0.69	9.6	0.630	
+1314
+AF-A0A7S3I668-F1-model_v4	Hypothetical protein	Favella ehrenbergii	0.41	9.4	0.628	
+1269
+AF-A0A6I9QLH8-F1-model_v4	serine/threonine-protein phosphatase BSL1 homolog isoform X1	Elaeis guineensis	0.57	8	0.625	
+13304
+AF-S4P8J6-F1-model_v4	Kelch domain-containing protein 4	Pararge aegeria	0.57	10.4	0.624	
+4315
+AF-A0A482Z9S7-F1-model_v4	Recombination activation protein 2	Graptemys pulchra	0.11	70.2	0.624	
+193323
+AF-A0A0P6G6F3-F1-model_v4	F-box only protein	Daphnia magna	0.77	9.2	0.622	
+10317
+AF-A0A4U5UF10-F1-model_v4	V(D)J recombination-activating protein 2	Collichthys lucidus	0.91	33.7	0.622	
+1371
+AF-A0A453RVU8-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.44	14.6	0.622	
+11258
+AF-A0A812Q1W6-F1-model_v4	Tea1 protein	Symbiodinium natans	0.72	8.5	0.621	
+10378
+AF-A0A1X7VXV5-F1-model_v4	Uncharacterized protein	Amphimedon queenslandica	0.80	7.2	0.621	
+1317
+AF-A0A0D3GXN5-F1-model_v4	Uncharacterized protein	Oryza barthii	0.80	6.9	0.620	
+4381
+AF-A0A397WAN9-F1-model_v4	Uncharacterized protein	Gigaspora rosea	0.72	8.5	0.620	
+2325
+AF-J3MRD5-F1-model_v4	Uncharacterized protein	Oryza brachyantha	0.82	7.6	0.619	
+4382
+AF-A0A481S7J0-F1-model_v4	V(D)J recombination-activating protein 2	Ilisha sirishai	0.57	27.6	0.619	
+117384
+AF-A0A0K1QDG8-F1-model_v4	Uncharacterized protein	Labilithrix luteola	0.60	7.2	0.618	
+7381
+AF-A0A6P7SAS1-F1-model_v4	kelch domain-containing protein 10 isoform X4	Octopus vulgaris	0.77	8.7	0.616	
+3334
+AF-A0A812CHV1-F1-model_v4	Kelch domain-containing protein 10	Sepia pharaonis	0.72	9.4	0.615	
+12335
+AF-Q90XI4-F1-model_v4	RAG2	Osteoglossum sp. IMCB-2001	0.12	54.4	0.614	
+1134
+AF-A0A0N4WZ52-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.33	8.6	0.613	
+47313
+AF-A0A2S0DD05-F1-model_v4	Recombination activation protein 2	Lepidocephalichthys cf. thermalis ND-2017	0.21	35.2	0.612	
+162340
+AF-D3ZU48-F1-model_v4	Uncharacterized protein	Rattus norvegicus	0.82	8.6	0.611	
+4383
+AF-A0A2I1G2U6-F1-model_v4	Galactose oxidase	Rhizophagus irregularis	0.69	7.2	0.611	
+25382
+AF-A0A453C8W5-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.35	8.5	0.610	
+62296
+AF-A0A7J6T051-F1-model_v4	Uncharacterized protein	Perkinsus olseni	0.16	9.9	0.609	
+47251
+AF-A0A2P2KNR7-F1-model_v4	Uncharacterized protein MANES_06G114900	Rhizophora mucronata	0.69	8.1	0.605	
+26384
+AF-A0A6A2XBU4-F1-model_v4	Serine/threonine-protein phosphatase BSL1	Hibiscus syriacus	0.77	7.4	0.604	
+13327
+AF-A0A2V9KK74-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.69	10	0.604	
+3317
+AF-Q6P645-F1-model_v4	Klhdc4-prov protein	Xenopus tropicalis	0.69	10.1	0.603	
+26332
+AF-A0A397UD59-F1-model_v4	Uncharacterized protein	Gigaspora rosea	0.84	7.5	0.599	
+2328
+AF-A0A0N4TAD1-F1-model_v4	Uncharacterized protein	Brugia pahangi	0.44	12.5	0.598	
+7256
+AF-A0A3D2P9N4-F1-model_v4	Uncharacterized protein	Elusimicrobia bacterium	0.72	7.6	0.598	
+11381
+AF-D3W8L2-F1-model_v4	Putative kelch repeat-containing protein	uncultured bacterium RM35	0.72	6.9	0.597	
+13378
+AF-A0A2H1VLG5-F1-model_v4	SFRICE_033524	Spodoptera frugiperda	0.60	11.6	0.597	
+26294
+AF-A0A7J0GQK7-F1-model_v4	BRI1 suppressor 1 (BSU1)-like 2	Actinidia rufa	0.69	9.6	0.597	
+13316
+AF-Q4N1W9-F1-model_v4	Uncharacterized protein	Theileria parva	0.66	8.6	0.596	
+9317
+AF-A0A287Q9Z7-F1-model_v4	Serine/threonine-protein phosphatase	Hordeum vulgare subsp. vulgare	0.72	9.3	0.596	
+13317
+AF-A0A6V7X3W9-F1-model_v4	Hypothetical protein	Meloidogyne enterolobii	0.69	7.9	0.596	
+5381
+AF-A0A7Y8T2U5-F1-model_v4	N-acetylneuraminate epimerase	Rhizobium sp. RM	0.72	5.3	0.595	
+13382
+AF-A0A1B6FEL6-F1-model_v4	Uncharacterized protein	Cuerna arida	0.69	7.8	0.595	
+26382
+AF-A0A1A8QP77-F1-model_v4	Kelch domain containing 4	Nothobranchius rachovii	0.63	10	0.594	
+4323
+AF-E2J9X7-F1-model_v4	Recombination activating protein 2	Gymnothorax buroensis	0.16	36.4	0.592	
+174349
+AF-A0A3P4S738-F1-model_v4	Uncharacterized protein	Gulo gulo	0.21	73.5	0.591	
+1158
+AF-A0A4P9W2K6-F1-model_v4	Uncharacterized protein	Blyttiomyces helicus	0.51	6.5	0.591	
+10305
+AF-A0A6P9AA29-F1-model_v4	kelch domain-containing protein 4 isoform X2	Thrips palmi	0.82	8.5	0.590	
+4384
+AF-A0A7Y2ACY1-F1-model_v4	Uncharacterized protein	Flavobacteriales bacterium	0.25	10.1	0.590	
+77287
+AF-A0A7N2LEZ8-F1-model_v4	Uncharacterized protein	Quercus lobata	0.69	6	0.590	
+3380
+AF-A0A397W753-F1-model_v4	Uncharacterized protein	Gigaspora rosea	0.80	7.2	0.589	
+2347
+AF-A0A7J6PZ67-F1-model_v4	Uncharacterized protein	Perkinsus olseni	0.77	8.3	0.589	
+2384
+AF-A0A2I3SMN1-F1-model_v4	Uncharacterized protein	Pan troglodytes	0.69	8.9	0.589	
+26374
+AF-A0A7G2CGJ5-F1-model_v4	Kelch motif/Galactose oxidase, central domain containing protein, putative	Angomonas deanei	0.77	9.6	0.589	
+13334
+AF-A0A1X7UB48-F1-model_v4	Uncharacterized protein	Amphimedon queenslandica	0.16	9.6	0.589	
+10207
+AF-B4HG38-F1-model_v4	GM24640	Drosophila sechellia	0.69	8.3	0.588	
+26323
+AF-A0A849W9B3-F1-model_v4	Uncharacterized protein	Candidatus Brocadiae bacterium	0.72	7.1	0.588	
+13351
+AF-A0A094CNV2-F1-model_v4	Uncharacterized protein	Pseudogymnoascus sp. VKM F-4516 (FW-969)	0.66	12.9	0.587	
+13318
+AF-A0A2U0SJZ9-F1-model_v4	N-acetylneuraminate epimerase	Devosia sp. PTEAB7WZ	0.69	6.3	0.587	
+11382
+AF-A0A6J3KRN5-F1-model_v4	kelch domain-containing protein 4-like isoform X2	Bombus vosnesenskii	0.82	7.2	0.587	
+3383
+AF-A7J4C4-F1-model_v4	Recombination activating protein 2	Menticirrhus americanus	0.38	25.8	0.586	
+139382
+AF-A0A2K6F9S2-F1-model_v4	Kelch domain containing 4	Propithecus coquereli	0.82	7.7	0.585	
+4384
+AF-Q6PE06-F1-model_v4	Klhdc4 protein	Mus musculus	0.82	7.7	0.585	
+5363
+AF-A0A4Y2WIU4-F1-model_v4	F-box only protein 42	Araneus ventricosus	0.30	7.4	0.585	
+29375
+AF-A0A423T8W9-F1-model_v4	Putative kelch domain-containing protein 4	Penaeus vannamei	0.80	9.4	0.585	
+1318
+AF-L8HHZ2-F1-model_v4	Leucinezipper-like transcriptional regulator 1 (LZTR-1), putative	Acanthamoeba castellanii str. Neff	0.84	6.7	0.585	
+12362
+AF-A0A445L2D9-F1-model_v4	Kelch domain-containing protein 4 isoform D	Glycine soja	0.72	7.6	0.584	
+25377
+AF-E2J9Y2-F1-model_v4	Recombination activating protein 2	Gymnothorax margaritophorus	0.10	38.8	0.584	
+190320
+AF-A0A1L8GCR1-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.75	9.5	0.583	
+2317
+AF-A0A803J2Z3-F1-model_v4	Kelch domain-containing 1	Xenopus tropicalis	0.80	11.4	0.583	
+2341
+AF-A0A7S1KZ07-F1-model_v4	Hypothetical protein	Neobodo designis	0.77	9.7	0.583	
+1382
+AF-A0A7U8JTS1-F1-model_v4	Bme15	Brucella ceti B1/94	0.75	6.2	0.583	
+13365
+AF-A0A0A0KDU6-F1-model_v4	Uncharacterized protein	Cucumis sativus	0.77	9	0.582	
+4327
+AF-A0A1W0A6K9-F1-model_v4	Uncharacterized protein	Thraustotheca clavata	0.75	7.5	0.582	
+26333
+AF-A0A1S3BFD5-F1-model_v4	acyl-CoA-binding domain-containing protein 5 isoform X2	Cucumis melo	0.77	10.7	0.581	
+5319
+AF-A0A520QJU3-F1-model_v4	Uncharacterized protein	Sandaracinaceae bacterium	0.77	8.9	0.579	
+2384
+AF-A0A7E4RJ12-F1-model_v4	Uncharacterized protein	Cimex lectularius	0.82	9.3	0.579	
+4383
+AF-A0A5E4MK17-F1-model_v4	Kelch-type beta propeller	Cinara cedri	0.82	8.4	0.578	
+1384
+AF-A0A820UYF7-F1-model_v4	Hypothetical protein	Rotaria socialis	0.44	7.7	0.578	
+45334
+AF-A0A5N6NK19-F1-model_v4	Uncharacterized protein	Mikania micrantha	0.80	6.7	0.578	
+3317
+AF-A6YHF6-F1-model_v4	RAG2	Hymenochirus sp. BJE-2004	0.16	46.3	0.577	
+172339
+AF-A0A7Y6UPF4-F1-model_v4	Uncharacterized protein	Ensifer sp. HO-A22	0.54	4	0.577	
+11377
+AF-A0A061RHF5-F1-model_v4	Uncharacterized protein	Tetraselmis sp. GSL018	0.72	7.1	0.577	
+13327
+AF-A0A7Y5E1N4-F1-model_v4	Uncharacterized protein	Polyangiaceae bacterium	0.66	7	0.576	
+4382
+AF-A0A7S2JMP1-F1-model_v4	Hypothetical protein	Haptolina brevifila	0.20	7.5	0.576	
+5212
+AF-A0A0C2CMP4-F1-model_v4	Uncharacterized protein	Ancylostoma duodenale	0.33	9.6	0.575	
+46267
+AF-A0A091U4B5-F1-model_v4	F-box only protein 42	Phoenicopterus ruber ruber	0.80	8	0.575	
+10374
+AF-A0A151MBG5-F1-model_v4	V(D)J recombination-activating protein 2	Alligator mississippiensis	0.66	57	0.574	
+114368
+AF-A0A6J3QIJ6-F1-model_v4	kelch domain-containing protein 4 isoform X7	Tursiops truncatus	0.80	7.4	0.573	
+4359
+AF-A0A1Q9F5Q1-F1-model_v4	Adagio protein 2	Symbiodinium microadriaticum	0.69	7.6	0.573	
+26377
+AF-H2XNG1-F1-model_v4	Uncharacterized protein	Ciona intestinalis	0.80	8.1	0.572	
+1383
+AF-F1A1C8-F1-model_v4	Uncharacterized protein	Dictyostelium purpureum	0.75	9	0.572	
+11339
+AF-F1A0T4-F1-model_v4	F-box domain-containing protein	Dictyostelium purpureum	0.75	11	0.572	
+11335
+AF-A0A0N8A8G8-F1-model_v4	Kelch domain-containing protein	Daphnia magna	0.77	6.6	0.572	
+26380
+AF-A0A2K5X6S4-F1-model_v4	Kelch domain containing 4	Macaca fascicularis	0.80	7.8	0.569	
+4383
+AF-A0A1J8Q4P3-F1-model_v4	Uncharacterized protein	Rhizopogon vesiculosus	0.75	6.8	0.569	
+26353
+AF-A0A3Q7SHR7-F1-model_v4	kelch domain-containing protein 4 isoform X3	Vulpes vulpes	0.82	7.7	0.569	
+4384
+AF-A0A293LK20-F1-model_v4	Uncharacterized protein	Ornithodoros erraticus	0.28	10.4	0.569	
+39320
+AF-A0A0T9KKJ0-F1-model_v4	N-acetylneuraminic acid mutarotase	Yersinia nurmii	0.66	5.1	0.568	
+20382
+AF-A0A7J7V061-F1-model_v4	Kelch domain containing 4	Pipistrellus kuhlii	0.72	9.2	0.568	
+26379
+AF-A0A851G1D4-F1-model_v4	FBX42 protein	Pitta sordida	0.75	8.3	0.568	
+3316
+AF-A0A836CMQ1-F1-model_v4	Uncharacterized protein	Tribonema minus	0.72	7.2	0.567	
+2375
+AF-A0A6M5DZW1-F1-model_v4	Recombination activating 2	Carnegiella strigata	0.23	33.3	0.567	
+155342
+AF-I1KGQ0-F1-model_v4	F-box domain-containing protein	Glycine max	0.80	8	0.566	
+2313
+AF-A0A397TJZ2-F1-model_v4	Uncharacterized protein	Glomus cerebriforme	0.60	6.1	0.566	
+13330
+AF-A0A4X1TA49-F1-model_v4	Uncharacterized protein	Sus scrofa	0.80	9.5	0.565	
+4318
+AF-A0A2G9SEB3-F1-model_v4	Uncharacterized protein	Lithobates catesbeianus	0.57	8.8	0.564	
+26378
+AF-A0A7R9HJ80-F1-model_v4	Hypothetical protein	Timema monikensis	0.82	7	0.564	
+1378
+AF-A0A194RKH5-F1-model_v4	Kelch domain-containing protein 4	Papilio machaon	0.82	6.7	0.564	
+3384
+AF-A0A7R9X5X0-F1-model_v4	Hypothetical protein	Argulus foliaceus	0.82	8.6	0.564	
+1384
+AF-L8H4E4-F1-model_v4	Kelch repeat protein	Acanthamoeba castellanii str. Neff	0.72	10	0.564	
+2320
+AF-A0A7R8XH33-F1-model_v4	Hypothetical protein	Darwinula stevensoni	0.84	7.4	0.564	
+1384
+AF-A0A7S2IVQ6-F1-model_v4	Hypothetical protein	Haptolina brevifila	0.77	7.5	0.563	
+26377
+AF-A0A0V0G7G0-F1-model_v4	Uncharacterized protein	Triatoma dimidiata	0.80	8.9	0.563	
+25382
+AF-A0A0N4UMH7-F1-model_v4	F-box domain-containing protein	Dracunculus medinensis	0.75	7.6	0.563	
+11379
+AF-A0A2K5X6P4-F1-model_v4	Kelch domain containing 4	Macaca fascicularis	0.82	7.2	0.562	
+1384
+AF-A0A7R9GTW2-F1-model_v4	Hypothetical protein	Timema cristinae	0.72	6.8	0.562	
+3317
+AF-A0A1G0RC82-F1-model_v4	Uncharacterized protein	Ignavibacteria bacterium GWF2_33_9	0.75	8.3	0.562	
+13327
+AF-H6BDR8-F1-model_v4	Putative F-box protein	Lolium perenne	0.35	12.5	0.561	
+4264
+AF-A0A835LS79-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.72	7.4	0.561	
+26384
+AF-A0A177W9Y0-F1-model_v4	Uncharacterized protein	Batrachochytrium dendrobatidis JEL423	0.77	10.3	0.561	
+4318
+AF-A0A3B3QDV8-F1-model_v4	Acyl-CoA-binding domain-containing protein 4-like	Paramormyrops kingsleyae	0.80	9.8	0.560	
+12364
+AF-G7PZX8-F1-model_v4	Kelch domain-containing protein 4	Macaca fascicularis	0.82	6.8	0.560	
+1384
+AF-A0A0A7AEK9-F1-model_v4	Recombination activating protein 2	Platysternon megacephalum	0.21	53	0.560	
+165366
+AF-A0A662XBD4-F1-model_v4	Uncharacterized protein	Nothophytophthora sp. Chile5	0.41	11.3	0.559	
+66322
+AF-A0A7C7TWT4-F1-model_v4	Uncharacterized protein	Flavobacteriaceae bacterium	0.54	7.4	0.559	
+13379
+AF-A0A1I3II76-F1-model_v4	Kelch motif-containing protein	Parapedobacter indicus	0.57	9.2	0.559	
+12318
+AF-T1YSM2-F1-model_v4	V(D)J recombination-activating protein 2	Lepidopygopsis typus	0.30	24.5	0.559	
+145382
+AF-A0A3Q3G598-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.41	8.3	0.558	
+11304
+AF-A0A1A7Y9B7-F1-model_v4	Kelch domain containing 4	Iconisemion striatum	0.82	7	0.558	
+1384
+AF-A0A7K1YEP0-F1-model_v4	Galactose oxidase	Pedobacter sp. HMF7647	0.57	7	0.558	
+10380
+AF-A0A2K6F9P9-F1-model_v4	Kelch domain containing 4	Propithecus coquereli	0.82	6.5	0.557	
+1384
+AF-A0A1X2G5M2-F1-model_v4	Uncharacterized protein	Hesseltinella vesiculosa	0.66	6	0.557	
+2358
+AF-A0A7E4S0J5-F1-model_v4	F-box domain-containing protein	Cimex lectularius	0.82	5.9	0.557	
+10379
+AF-A0A1R2BTB3-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.72	6.2	0.557	
+13384
+AF-A0A023EZK5-F1-model_v4	Uncharacterized protein	Triatoma infestans	0.82	6.9	0.556	
+1384
+AF-A0A3Q7FNT5-F1-model_v4	Uncharacterized protein	Solanum lycopersicum	0.44	9.2	0.555	
+26315
+AF-A7ANX6-F1-model_v4	Kelch repeat containing protein	Babesia bovis	0.77	8.9	0.555	
+2383
+AF-A0A482X469-F1-model_v4	Uncharacterized protein	Laodelphax striatellus	0.80	7.7	0.555	
+2330
+AF-A0A0P5LR56-F1-model_v4	F-box only protein	Daphnia magna	0.72	10.8	0.554	
+11305
+AF-A0A7J7SBG9-F1-model_v4	Kelch domain containing 4	Myotis myotis	0.80	9.2	0.554	
+4317
+AF-J9F415-F1-model_v4	Kelch motif family protein	Oxytricha trifallax	0.75	6.5	0.554	
+7367
+AF-A0A1X0RG53-F1-model_v4	Galactose oxidase	Rhizopus microsporus var. microsporus	0.69	8.8	0.554	
+2317
+AF-A0A523TVL0-F1-model_v4	Uncharacterized protein	Planctomycetota bacterium	0.69	6.8	0.553	
+13378
+AF-A0A397UKI6-F1-model_v4	Uncharacterized protein	Gigaspora rosea	0.63	5.8	0.553	
+12379
+AF-A0DNY3-F1-model_v4	Uncharacterized protein	Paramecium tetraurelia	0.63	5.8	0.553	
+10378
+AF-A0A336MIZ2-F1-model_v4	CSON002418 protein	Culicoides sonorensis	0.82	6.3	0.553	
+1384
+AF-A0A397W9S5-F1-model_v4	Uncharacterized protein	Gigaspora rosea	0.51	10.3	0.552	
+2316
+AF-A0A168LNK1-F1-model_v4	Uncharacterized protein	Absidia glauca	0.80	6.5	0.552	
+1325
+AF-A0A1M6GC22-F1-model_v4	Cyclically-permuted mutarotase family protein	Arenibacter nanhaiticus	0.60	7.5	0.551	
+11319
+AF-A0A670YW66-F1-model_v4	Kelch domain containing 4	Pseudonaja textilis	0.82	7.1	0.551	
+3362
+AF-A0A7L0PF69-F1-model_v4	KLDC4 protein	Mesembrinibis cayennensis	0.82	9.3	0.550	
+4318
+AF-A0A059AJS0-F1-model_v4	F-box domain-containing protein	Eucalyptus grandis	0.75	7.5	0.549	
+13377
+AF-A0A7S2AFN8-F1-model_v4	Hypothetical protein	Alexandrium andersonii	0.38	7.2	0.548	
+11292
+AF-A0A1V9XP42-F1-model_v4	Kelch domain-containing protein 4-like	Tropilaelaps mercedesae	0.80	7.2	0.548	
+1384
+AF-A0A5F4DCT0-F1-model_v4	Kelch domain containing 4	Canis lupus familiaris	0.82	7.1	0.548	
+1384
+AF-Q8TBB5-F1-model_v4	Kelch domain-containing protein 4	Homo sapiens	0.82	6.6	0.547	
+1384
+AF-F4QE47-F1-model_v4	Kelch repeat-containing protein	Cavenderia fasciculata SH3	0.75	8.1	0.546	
+11334
+AF-A0A7J7V0R3-F1-model_v4	Kelch domain containing 4	Pipistrellus kuhlii	0.82	7.9	0.546	
+5384
+AF-A0A482X1E7-F1-model_v4	Uncharacterized protein	Laodelphax striatellus	0.30	9.5	0.546	
+92317
+AF-A0A7L2FTP8-F1-model_v4	KLDC4 protein	Quiscalus mexicanus	0.38	14.4	0.546	
+26257
+AF-A0A1R2D4S2-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.84	7.5	0.545	
+11355
+AF-A0A673AGI5-F1-model_v4	Kelch domain containing 4	Sphaeramia orbicularis	0.84	6.7	0.545	
+1383
+AF-A0A7R9KWV0-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.60	6.6	0.545	
+53374
+AF-A0A1N6LXR0-F1-model_v4	Galactose oxidase central domain	Babesia microti strain RI	0.80	8.4	0.545	
+2384
+AF-A0A498L954-F1-model_v4	Tip elongation aberrant 1-like protein	Labeo rohita	0.80	8.4	0.545	
+12371
+AF-A0A6I2LWY7-F1-model_v4	YjhT family mutarotase	Aminobacter sp. MDW-2	0.69	8.3	0.545	
+3384
+AF-A0A2J8LF41-F1-model_v4	KLHDC4 isoform 14	Pan troglodytes	0.51	9.4	0.544	
+28307
+AF-K1P9L6-F1-model_v4	Kelch domain-containing protein 4	Crassostrea gigas	0.75	6.9	0.544	
+26384
+AF-U4U9L6-F1-model_v4	F-box domain-containing protein	Dendroctonus ponderosae	0.77	7.4	0.544	
+9378
+AF-G3X961-F1-model_v4	Kelch domain-containing protein 4	Mus musculus	0.85	6.2	0.544	
+1371
+AF-A0A835S9Q8-F1-model_v4	Uncharacterized protein	Vanilla planifolia	0.38	11.3	0.544	
+26258
+AF-I4YD75-F1-model_v4	Galactose oxidase	Wallemia mellicola CBS 633.66	0.85	6.3	0.544	
+1362
+AF-A0A059CXW7-F1-model_v4	Uncharacterized protein	Eucalyptus grandis	0.12	10.3	0.543	
+104265
+AF-B3RQR9-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Trichoplax adhaerens	0.77	11.7	0.542	
+2317
+AF-W1PWD3-F1-model_v4	F-box domain-containing protein	Amborella trichopoda	0.69	8.3	0.542	
+14378
+AF-E4XA09-F1-model_v4	Uncharacterized protein	Oikopleura dioica	0.80	4.9	0.541	
+26378
+AF-A0A6J3IDB0-F1-model_v4	kelch domain-containing protein 4	Sapajus apella	0.60	7.5	0.541	
+44383
+AF-A0A0T6AUX1-F1-model_v4	Uncharacterized protein	Oryctes borbonicus	0.75	5.6	0.540	
+2318
+AF-A0A7R9EVK7-F1-model_v4	Hypothetical protein	Timema bartmani	0.84	6.6	0.540	
+1384
+AF-A0A061GH11-F1-model_v4	Kelch repeat-containing F-box family protein isoform 1	Theobroma cacao	0.82	7.5	0.540	
+2317
+AF-A0A6B2E8T5-F1-model_v4	Putative f-box protein	Phlebotomus kandelakii	0.77	5.6	0.539	
+9379
+AF-A0A5J5U4X4-F1-model_v4	Uncharacterized protein	Gossypium barbadense	0.75	8.8	0.539	
+2334
+AF-A0A091R0M8-F1-model_v4	Kelch domain-containing protein 4	Leptosomus discolor	0.80	8.8	0.539	
+4318
+AF-A0A2V6CK78-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.35	6.4	0.539	
+44384
+AF-A0A6J3QJ37-F1-model_v4	kelch domain-containing protein 4 isoform X3	Tursiops truncatus	0.82	6.9	0.538	
+1384
+AF-F2DZ20-F1-model_v4	Predicted protein	Hordeum vulgare subsp. vulgare	0.16	7.1	0.538	
+1264
+AF-A0A0A6ZAK5-F1-model_v4	Recombination activating protein 2	Pelochelys cantorii	0.16	50	0.538	
+181370
+AF-A0A812V0D0-F1-model_v4	GPA3 protein	Symbiodinium natans	0.77	7.4	0.537	
+12375
+AF-A0A7V3PMC2-F1-model_v4	T9SS type A sorting domain-containing protein	Ignavibacteria bacterium	0.66	5	0.537	
+12375
+AF-A0A4S8JRB6-F1-model_v4	F-box domain-containing protein	Musa balbisiana	0.82	7.2	0.537	
+2317
+AF-A0A3M0WZX0-F1-model_v4	Exo-alpha-sialidase	Candidatus Thermofonsia bacterium	0.57	3.8	0.537	
+1365
+AF-C3YMH6-F1-model_v4	Uncharacterized protein	Branchiostoma floridae	0.77	9.5	0.537	
+13364
+AF-A0A0P1CYZ2-F1-model_v4	Recombination activating gene 2	Pelusios rhodesianus	0.15	72.1	0.537	
+181325
+AF-A0A1Y2CWI5-F1-model_v4	Galactose oxidase	Rhizoclosmatium globosum	0.47	12.1	0.536	
+2259
+AF-I0Z4T4-F1-model_v4	Galactose oxidase	Coccomyxa subellipsoidea C-169	0.80	6	0.536	
+26382
+AF-A0A670YRY0-F1-model_v4	Kelch domain containing 4	Pseudonaja textilis	0.63	5.9	0.536	
+2384
+AF-A0A6P4BIA8-F1-model_v4	F-box/kelch-repeat protein At1g51550	Arachis duranensis	0.75	6.2	0.535	
+7380
+AF-A0A6F9DF70-F1-model_v4	Kelch domain-containing protein 4-like	Phallusia mammillata	0.80	8.2	0.535	
+1383
+AF-A0A813YV86-F1-model_v4	Hypothetical protein	Didymodactylos carnosus	0.77	5.3	0.535	
+9378
+AF-A0A368FRE3-F1-model_v4	Kelch repeat protein	Ancylostoma caninum	0.11	11.9	0.535	
+109265
+AF-A0A453C8X4-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.77	6.7	0.534	
+26382
+AF-F2UA98-F1-model_v4	Uncharacterized protein	Salpingoeca rosetta	0.77	8.1	0.534	
+2346
+AF-A0A146KA84-F1-model_v4	Kelch repeat-containing protein	Trepomonas sp. PC1	0.60	10.4	0.534	
+2317
+AF-A0A1R2BV99-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.75	7.3	0.533	
+12349
+AF-A0A7J6Z7H1-F1-model_v4	Uncharacterized protein	Lamprigera yunnana	0.75	7.7	0.533	
+26382
+AF-A0A7Y5E0M7-F1-model_v4	Uncharacterized protein	Polyangiaceae bacterium	0.63	5.7	0.533	
+8380
+AF-A0A0P5FZ65-F1-model_v4	F-box only protein	Daphnia magna	0.77	6.2	0.533	
+9382
+AF-A0A7S1KYK8-F1-model_v4	Hypothetical protein	Alexandrium catenella	0.66	6.8	0.533	
+4382
+AF-F4NUZ7-F1-model_v4	Uncharacterized protein	Batrachochytrium dendrobatidis JAM81	0.80	8.5	0.533	
+1383
+AF-A0A0L7LMX0-F1-model_v4	Putative kelch repeat protein	Operophtera brumata	0.44	9.4	0.533	
+26296
+AF-V5HMK7-F1-model_v4	Putative f-box only protein 42-like isoform 1	Ixodes ricinus	0.75	6.4	0.532	
+9339
+AF-A0A5B9C6L6-F1-model_v4	Recombination activating protein 2	Opisthotropis laui	0.12	66.4	0.532	
+193329
+AF-A0A444TG39-F1-model_v4	F-box only protein 42	Armadillidium vulgare	0.82	5.8	0.532	
+9381
+AF-A0A7S3UC75-F1-model_v4	Hypothetical protein	Picocystis salinarum	0.75	5.4	0.532	
+26382
+AF-A0A7S0LXX5-F1-model_v4	Hypothetical protein	Cryptomonas curvata	0.33	11.2	0.532	
+27244
+AF-A0A5D2B2P1-F1-model_v4	Uncharacterized protein	Gossypium darwinii	0.77	8.1	0.532	
+2338
+AF-A0A0L7LBA5-F1-model_v4	F-box protein	Operophtera brumata	0.80	7.8	0.532	
+9381
+AF-A0A4P9VWB3-F1-model_v4	SH3 domain-containing protein	Blyttiomyces helicus	0.80	8.7	0.532	
+1356
+AF-A0A318CRA4-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.72	7.6	0.532	
+2316
+AF-A0A6A0H3C0-F1-model_v4	Uncharacterized protein	Hyalella azteca	0.75	5.9	0.531	
+26382
+AF-W9RNN7-F1-model_v4	F-box/kelch-repeat protein	Morus notabilis	0.72	7.9	0.531	
+12379
+AF-A0A453C920-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.77	6	0.530	
+26382
+AF-A0A6A7FNQ4-F1-model_v4	F-box only protein 42-like	Hirondellea gigas	0.80	6.4	0.530	
+9381
+AF-A0A3S3QUL2-F1-model_v4	F-box protein-like protein	Dinothrombium tinctorium	0.75	5.9	0.530	
+9379
+AF-A0A6V7I8C5-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.72	7.9	0.530	
+26382
+AF-V4C2L8-F1-model_v4	F-box domain-containing protein	Lottia gigantea	0.77	6.3	0.530	
+10382
+AF-A0A6P8L996-F1-model_v4	F-box only protein 42 isoform X2	Bombus impatiens	0.66	6.2	0.530	
+28382
+AF-A0A336LM90-F1-model_v4	CSON012794 protein	Culicoides sonorensis	0.80	4.8	0.529	
+10381
+AF-A0A6A2XCJ4-F1-model_v4	F-box/kelch-repeat protein	Hibiscus syriacus	0.57	7.7	0.529	
+12377
+AF-A0A7I8VNU3-F1-model_v4	DgyrCDS5936	Dimorphilus gyrociliatus	0.80	6.4	0.529	
+1355
+AF-A0A7M7G777-F1-model_v4	F-box domain-containing protein	Nasonia vitripennis	0.75	5.7	0.529	
+10379
+AF-A0A2T7D530-F1-model_v4	Uncharacterized protein	Panicum hallii var. hallii	0.82	7.7	0.529	
+2317
+AF-A0A834CDD6-F1-model_v4	Acyl-CoA-binding domain-containing protein 5	Oryzias melastigma	0.66	6.8	0.529	
+9357
+AF-A0A2A2JTI1-F1-model_v4	Uncharacterized protein	Diploscapter pachys	0.69	8.7	0.528	
+11319
+AF-A0A0W8CD69-F1-model_v4	RING finger protein B	Phytophthora nicotianae	0.77	8	0.528	
+13382
+AF-A0A814N8B0-F1-model_v4	Hypothetical protein	Brachionus calyciflorus	0.77	6.1	0.528	
+10384
+AF-A0A673AHK1-F1-model_v4	Kelch domain containing 4	Sphaeramia orbicularis	0.80	7.5	0.528	
+2318
+AF-A0A6I9XW62-F1-model_v4	kelch domain-containing protein 4	Thamnophis sirtalis	0.82	5.4	0.527	
+1384
+AF-A0A0M8MT42-F1-model_v4	Galactose oxidase	Malassezia pachydermatis	0.80	8.3	0.527	
+1319
+AF-A0A1J0MK74-F1-model_v4	V(D)J recombination-activating protein 2	Ochotona hyperborea	0.38	46.1	0.526	
+136365
+AF-A0A7R9JNC0-F1-model_v4	Hypothetical protein	Timema genevievae	0.69	7.4	0.526	
+4383
+AF-A0A670YPM8-F1-model_v4	Kelch domain containing 4	Pseudonaja textilis	0.63	5.9	0.526	
+3384
+AF-A0A341AKM7-F1-model_v4	kelch domain-containing protein 4 isoform X2	Neophocaena asiaeorientalis asiaeorientalis	0.75	8.4	0.526	
+26382
+AF-A0A2R6R0M0-F1-model_v4	F-box/kelch-repeat protein	Actinidia chinensis var. chinensis	0.72	7.6	0.526	
+13377
+AF-A0A6P7FJY5-F1-model_v4	F-box only protein 42	Diabrotica virgifera virgifera	0.77	5.4	0.525	
+10379
+AF-A0A7S4IUU8-F1-model_v4	Hypothetical protein	Vannella robusta	0.75	11.3	0.525	
+2318
+AF-A0A7M7K5J6-F1-model_v4	Uncharacterized protein	Varroa destructor	0.72	6.6	0.525	
+26382
+AF-A0A2H3BNR9-F1-model_v4	Galactose oxidase	Armillaria solidipes	0.82	7.8	0.525	
+1384
+AF-W5MMD3-F1-model_v4	F-box protein 42	Lepisosteus oculatus	0.72	6.8	0.524	
+3316
+AF-B7PTZ9-F1-model_v4	F-box protein, putative	Ixodes scapularis	0.77	5.1	0.523	
+9379
+AF-A0A2A2JTW3-F1-model_v4	Uncharacterized protein	Diploscapter pachys	0.44	5.2	0.523	
+10384
+AF-A0A2I0VWN3-F1-model_v4	Epithiospecifier protein	Dendrobium catenatum	0.77	8.8	0.523	
+1383
+AF-A0A1B6L290-F1-model_v4	Uncharacterized protein	Graphocephala atropunctata	0.30	10	0.522	
+92317
+AF-E1BGH2-F1-model_v4	Kelch domain containing 4	Bos taurus	0.82	6.5	0.522	
+1384
+AF-A0A6L5CA03-F1-model_v4	F-box domain-containing protein	Ephemera danica	0.77	5.4	0.521	
+9379
+AF-A0A7J6NUH5-F1-model_v4	Uncharacterized protein	Perkinsus olseni	0.77	10.2	0.521	
+2317
+AF-A0A183IDA3-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Soboliphyme baturini	0.82	11.5	0.521	
+1317
+AF-A0A2G4SGS5-F1-model_v4	Galactose oxidase	Rhizopus microsporus ATCC 52813	0.77	6.9	0.520	
+11354
+AF-A0A7R8UXK0-F1-model_v4	Hypothetical protein	Hermetia illucens	0.80	5.3	0.519	
+10382
+AF-A0A139AFK7-F1-model_v4	Galactose oxidase	Gonapodya prolifera JEL478	0.80	6.5	0.519	
+1365
+AF-D6WIH4-F1-model_v4	Kelch domain-containing protein 4-like Protein	Tribolium castaneum	0.72	6.8	0.519	
+26382
+AF-A0A6V7U3M7-F1-model_v4	Hypothetical protein	Meloidogyne enterolobii	0.77	6.2	0.519	
+3372
+AF-A0A1X2I4X0-F1-model_v4	Uncharacterized protein	Absidia repens	0.80	10.5	0.519	
+1326
+AF-T1JLR5-F1-model_v4	F-box domain-containing protein	Strigamia maritima	0.77	5.3	0.519	
+9379
+AF-A0A1B6I758-F1-model_v4	Uncharacterized protein	Homalodisca liturata	0.54	6.3	0.519	
+3296
+AF-A0A0Q6WSI1-F1-model_v4	Uncharacterized protein	Rhizobacter sp. Root1221	0.09	12.5	0.518	
+116267
+AF-A0A0Q3HQD0-F1-model_v4	Uncharacterized protein	Brachypodium distachyon	0.30	7.6	0.518	
+47321
+AF-A0A087U2J6-F1-model_v4	F-box only protein 42	Stegodyphus mimosarum	0.77	5.5	0.518	
+11384
+AF-A0A1D3PC75-F1-model_v4	Kelch protein, putative	Plasmodium malariae	0.84	7.5	0.517	
+13360
+AF-A0A137PGD4-F1-model_v4	Uncharacterized protein	Conidiobolus coronatus NRRL 28638	0.69	8.1	0.517	
+1325
+AF-A0A1C7LLG4-F1-model_v4	Kelch repeat-containing protein 3	Grifola frondosa	0.25	9.5	0.517	
+36264
+AF-A0A448X1I0-F1-model_v4	Uncharacterized protein	Protopolystoma xenopodis	0.13	7	0.516	
+152384
+AF-A0A830I019-F1-model_v4	Uncharacterized protein	Pycnococcus provasolii	0.82	7.5	0.516	
+2319
+AF-A0A6P5GWR5-F1-model_v4	kelch domain-containing protein 4-like isoform X2	Ananas comosus	0.23	10.3	0.516	
+91307
+AF-A0A5J5TXI9-F1-model_v4	F-box domain-containing protein	Gossypium barbadense	0.72	8.1	0.516	
+13377
+AF-A0A6J3QJK4-F1-model_v4	kelch domain-containing protein 4 isoform X1	Tursiops truncatus	0.77	8.4	0.515	
+26382
+AF-A0A850Y6S2-F1-model_v4	FBX42 protein	Aegithalos caudatus	0.75	5.8	0.515	
+10380
+AF-A0A4W4HEN4-F1-model_v4	F-box domain-containing protein	Electrophorus electricus	0.77	5.5	0.515	
+11384
+AF-A0A401GP28-F1-model_v4	Kelch repeat-containing protein	Sparassis crispa	0.82	7.2	0.515	
+4384
+AF-A0A480NAC4-F1-model_v4	Kelch domain-containing protein 4 isoform X2	Sus scrofa	0.28	10.4	0.515	
+92320
+AF-A0A4T0J5G6-F1-model_v4	DUF4110 domain-containing protein	Wallemia ichthyophaga	0.82	7.8	0.515	
+1383
+AF-A0A4Z1NMS9-F1-model_v4	Calcium-dependent phosphotriesterase	Venturia nashicola	0.54	9.2	0.514	
+6321
+AF-A0A834E9H6-F1-model_v4	F-box protein 42	Phyllostomus discolor	0.47	6.5	0.514	
+42374
+AF-A0A7J7V088-F1-model_v4	Kelch domain containing 4	Pipistrellus kuhlii	0.47	11.7	0.514	
+26319
+AF-A0A5B6WBC7-F1-model_v4	F-box/kelch-repeat protein	Gossypium australe	0.72	6.7	0.514	
+14377
+AF-A0A507CSC4-F1-model_v4	DUF4110 domain-containing protein	Synchytrium endobioticum	0.82	9.2	0.514	
+26382
+AF-A0A2P6RZQ7-F1-model_v4	Putative F-box domain, kelch-type beta propeller	Rosa chinensis	0.72	7.7	0.513	
+13377
+AF-A0A0M4AQR0-F1-model_v4	RAG2	Auxis rochei	0.11	41.3	0.512	
+190321
+AF-A0A7K5LM81-F1-model_v4	FBX42 protein	Vireo altiloquus	0.75	5.8	0.512	
+11380
+AF-A0A2K8BQW5-F1-model_v4	Recombination activating protein 2	Chelonoidis carbonarius	0.12	72.1	0.512	
+190322
+AF-A0A0E0ASH4-F1-model_v4	Uncharacterized protein	Oryza glumipatula	0.63	6.2	0.512	
+2317
+AF-A0A4Y7JFY3-F1-model_v4	Uncharacterized protein	Papaver somniferum	0.77	6.5	0.512	
+1362
+AF-F6Q2Y4-F1-model_v4	Kelch domain containing 4	Macaca mulatta	0.82	7	0.512	
+2384
+AF-A0A6P6HLM8-F1-model_v4	kelch domain-containing protein 4	Puma concolor	0.77	8	0.511	
+26382
+AF-A0A3N5KL15-F1-model_v4	T9SS C-terminal target domain-containing protein	Ignavibacteriae bacterium	0.63	7	0.511	
+1384
+AF-A0A1M8A1B1-F1-model_v4	DUF4110 domain-containing protein	Malassezia sympodialis ATCC 42132	0.82	6.7	0.511	
+1384
+AF-A0A6M2DMV4-F1-model_v4	Putative f-box only protein 42	Xenopsylla cheopis	0.77	4.6	0.510	
+10379
+AF-A0A847F2D6-F1-model_v4	Uncharacterized protein	Sandaracinaceae bacterium	0.60	9.1	0.510	
+2320
+AF-R7UWS7-F1-model_v4	F-box domain-containing protein	Capitella teleta	0.80	5.7	0.510	
+10381
+AF-A0A7K5RPC8-F1-model_v4	FBX42 protein	Lanius ludovicianus	0.75	5.7	0.509	
+11378
+AF-Q4DZ80-F1-model_v4	Uncharacterized protein	Trypanosoma cruzi strain CL Brener	0.80	7.5	0.508	
+3384
+AF-E0W278-F1-model_v4	F-box protein, putative	Pediculus humanus corporis	0.77	5.6	0.508	
+10379
+AF-G0QY48-F1-model_v4	Kelch motif family protein, putative	Ichthyophthirius multifiliis strain G5	0.75	5.7	0.508	
+13384
+AF-A0A1S3HGP7-F1-model_v4	F-box only protein 42	Lingula anatina	0.75	6.1	0.507	
+10379
+AF-A0A7N0RII9-F1-model_v4	DUF4110 domain-containing protein	Kalanchoe fedtschenkoi	0.75	9.4	0.507	
+4318
+AF-A0A5A9N5P1-F1-model_v4	Kelch domain-containing protein 3	Triplophysa tibetana	0.57	5.7	0.507	
+6381
+AF-S8CGG2-F1-model_v4	DUF4110 domain-containing protein	Genlisea aurea	0.75	8	0.506	
+1356
+AF-A0A6P1NAB7-F1-model_v4	Uncharacterized protein	Bombella sp. KACC 21507	0.18	6.1	0.506	
+16300
+AF-A0A2V5MEM9-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.30	7.2	0.506	
+69316
+AF-A0A1F8PWI2-F1-model_v4	Uncharacterized protein	Chloroflexi bacterium RBG_16_54_18	0.63	5.4	0.505	
+2332
+AF-A0A5F9C3N8-F1-model_v4	Uncharacterized protein	Oryctolagus cuniculus	0.77	8.2	0.504	
+26382
+AF-A0A2I3S4Q8-F1-model_v4	Uncharacterized protein	Pan troglodytes	0.77	7.9	0.504	
+26382
+AF-A0A182HEP2-F1-model_v4	F-box domain-containing protein	Aedes albopictus	0.77	5.2	0.504	
+10382
+AF-A0A2V3J0H0-F1-model_v4	Kelch domain-containing protein 4	Gracilariopsis chorda	0.82	7.3	0.504	
+1364
+AF-A0A507FIK2-F1-model_v4	DUF4110 domain-containing protein	Chytriomyces confervae	0.80	6.1	0.504	
+1362
+AF-J9EI50-F1-model_v4	Kelch domain-containing protein family protein	Wuchereria bancrofti	0.18	11	0.503	
+90329
+AF-A0A7J6ZNX9-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.72	7.1	0.503	
+26382
+AF-A0A1Y1XEK0-F1-model_v4	DUF4110 domain-containing protein	Basidiobolus meristosporus CBS 931.73	0.80	6.1	0.503	
+1384
+AF-A0A6G0S587-F1-model_v4	Uncharacterized protein	Phytophthora fragariae	0.51	4.6	0.502	
+4316
+AF-A0A7S4GIP4-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	0.75	4.6	0.502	
+14343
+AF-U5EVF4-F1-model_v4	Putative f-box only protein 42	Corethrella appendiculata	0.80	6.1	0.501	
+10379
+AF-W7TTW5-F1-model_v4	Kelch-type beta propeller	Nannochloropsis gaditana	0.80	6.5	0.501	
+1383
+AF-A0A4Q2Y0M6-F1-model_v4	Uncharacterized protein	Verrucomicrobiaceae bacterium	0.69	8.2	0.501	
+3314
+AF-A0A444UN65-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Acipenser ruthenus	0.72	8.8	0.501	
+12380
+AF-A0A2C6KHX7-F1-model_v4	Kelch repeat-containing protein	Cystoisospora suis	0.72	7	0.501	
+2320
+AF-A0A7S2ZVZ8-F1-model_v4	Hypothetical protein	Rhodosorus marinus	0.75	8.6	0.501	
+26382
+AF-A0A8B6GU53-F1-model_v4	F-box protein 42	Mytilus galloprovincialis	0.75	6.5	0.501	
+9382
+AF-A0A1V9YYI3-F1-model_v4	Uncharacterized protein	Achlya hypogyna	0.75	11.2	0.501	
+13327
+AF-A0A812HY68-F1-model_v4	ODA11 protein	Symbiodinium sp. CCMP2592	0.84	4.5	0.500	
+2317
+AF-A0A7K9J2R8-F1-model_v4	FBX42 protein	Myiagra hebetior	0.75	5.6	0.500	
+11382
+AF-A0A2A9M5D7-F1-model_v4	Kelch repeat-containing protein	Besnoitia besnoiti	0.75	8.7	0.500	
+2320
+AF-A0A0W0G7M2-F1-model_v4	Putative galactose oxidase	Moniliophthora roreri	0.80	6.8	0.500	
+1365
+AF-A0A1I8AYT5-F1-model_v4	F-box domain-containing protein	Meloidogyne hapla	0.77	5.6	0.500	
+11351
+AF-A0A4P9ZYR7-F1-model_v4	Uncharacterized protein	Dimargaris cristalligena	0.80	8.7	0.500	
+2353
+AF-A0A817UYN1-F1-model_v4	Hypothetical protein	Rotaria socialis	0.47	5.5	0.499	
+11345
+AF-A0A6P8QMQ7-F1-model_v4	kelch domain-containing protein 4	Geotrypetes seraphini	0.82	5.6	0.499	
+1362
+AF-A0A067PBK4-F1-model_v4	DUF4110 domain-containing protein	Jaapia argillacea MUCL 33604	0.82	6.9	0.499	
+1384
+AF-A0A4D5RPJ9-F1-model_v4	Uncharacterized protein	Ixodes scapularis	0.72	7.8	0.499	
+26382
+AF-A0A0M3JWI4-F1-model_v4	F-box only protein 42 (inferred by orthology to a human protein)	Anisakis simplex	0.75	5	0.499	
+11379
+AF-A0A0S4JCZ7-F1-model_v4	Uncharacterized protein	Bodo saltans	0.77	7.2	0.498	
+1377
+AF-A0A3Q0JBF4-F1-model_v4	kelch domain-containing protein 4	Diaphorina citri	0.72	7.7	0.498	
+26382
+AF-Q7Q0B3-F1-model_v4	AGAP012367-PA	Anopheles gambiae	0.80	4.7	0.498	
+10381
+AF-A0A3N0YMZ9-F1-model_v4	Exo-alpha-sialidase	Anabarilius grahami	0.51	2.3	0.497	
+34384
+AF-A0A484BKH2-F1-model_v4	F-box domain-containing protein	Drosophila navojoa	0.82	4.4	0.497	
+10382
+AF-A0C7L7-F1-model_v4	Uncharacterized protein	Paramecium tetraurelia	0.77	7.6	0.497	
+1328
+AF-E1ZAF5-F1-model_v4	F-box domain-containing protein	Chlorella variabilis	0.77	6.1	0.496	
+2317
+AF-A0A2T7PU50-F1-model_v4	F-box domain-containing protein	Pomacea canaliculata	0.75	5.4	0.496	
+9379
+AF-A0A6J1LE32-F1-model_v4	F-box only protein 42	Drosophila hydei	0.82	4.4	0.496	
+10382
+AF-A0A1Y2CUN1-F1-model_v4	Galactose oxidase	Rhizoclosmatium globosum	0.66	7.1	0.495	
+2362
+AF-A0BGX4-F1-model_v4	Uncharacterized protein	Paramecium tetraurelia	0.69	8.4	0.495	
+1314
+AF-A0A6L2PQQ5-F1-model_v4	F-box domain-containing protein	Coptotermes formosanus	0.82	5.3	0.495	
+10381
+AF-A0A2P6NR87-F1-model_v4	Uncharacterized protein	Planoprotostelium fungivorum	0.69	5.6	0.494	
+11342
+AF-A0A2P8YQD9-F1-model_v4	Uncharacterized protein	Blattella germanica	0.77	6.4	0.494	
+26382
+AF-A0A6V7NXA3-F1-model_v4	F-box domain-containing protein	Ananas comosus var. bracteatus	0.41	7.2	0.493	
+12376
+AF-A0A1I7XPE5-F1-model_v4	Uncharacterized protein	Heterorhabditis bacteriophora	0.51	6.5	0.493	
+2317
+AF-A0A7J9JG44-F1-model_v4	Uncharacterized protein	Gossypium armourianum	0.51	11.6	0.493	
+40317
+AF-A0A0L0SB53-F1-model_v4	DUF4110 domain-containing protein	Allomyces macrogynus ATCC 38327	0.77	6.5	0.493	
+26382
+AF-A0A2S2PNU7-F1-model_v4	Kelch domain-containing protein 4	Schizaphis graminum	0.25	9.3	0.492	
+91317
+AF-A0A6P4ZCM1-F1-model_v4	kelch domain-containing protein 4-like	Branchiostoma belcheri	0.77	8.6	0.492	
+26382
+AF-A0A0D2WPQ7-F1-model_v4	Uncharacterized protein	Capsaspora owczarzaki ATCC 30864	0.72	6.9	0.492	
+3331
+AF-A0A4S8L7B0-F1-model_v4	Uncharacterized protein	Dendrothele bispora CBS 962.96	0.69	5.7	0.492	
+1380
+AF-A0A6A2WTG6-F1-model_v4	F-box/kelch-repeat protein	Hibiscus syriacus	0.38	12.8	0.492	
+18259
+AF-A0A2V5R6A0-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.57	4.6	0.491	
+32373
+AF-A0A6A5BXN5-F1-model_v4	Uncharacterized protein	Naegleria fowleri	0.80	5	0.491	
+13374
+AF-A0A4W2HJZ7-F1-model_v4	Kelch domain containing 4	Bos indicus x Bos taurus	0.75	8.4	0.491	
+26382
+AF-A0A2P2KNP3-F1-model_v4	DUF4110 domain-containing protein	Rhizophora mucronata	0.72	7.5	0.491	
+3359
+AF-A0A2V5YYU5-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.69	6.6	0.491	
+4333
+AF-A0A6P6NSW9-F1-model_v4	F-box only protein 42-like	Carassius auratus	0.75	5.3	0.491	
+10384
+AF-A0A7K4K8W3-F1-model_v4	FBX42 protein	Crypturellus soui	0.60	6.1	0.490	
+24316
+AF-A0A6J2TRE0-F1-model_v4	uncharacterized protein LOC115626441	Scaptodrosophila lebanonensis	0.80	5	0.490	
+10382
+AF-A0A158NWA0-F1-model_v4	Uncharacterized protein	Atta cephalotes	0.38	7.9	0.490	
+4259
+AF-A0A6P8YCR6-F1-model_v4	F-box only protein 42	Thrips palmi	0.77	4.8	0.489	
+10379
+AF-A0A5J5MU34-F1-model_v4	Uncharacterized protein	Muntiacus reevesi	0.75	7.7	0.488	
+26382
+AF-A0A2P8YI94-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Blattella germanica	0.77	7.3	0.488	
+13382
+AF-A0A670IU08-F1-model_v4	Kelch domain containing 4	Podarcis muralis	0.82	8	0.487	
+1384
+AF-A0A6I8V6Z0-F1-model_v4	F-box only protein 42 isoform X1	Drosophila pseudoobscura pseudoobscura	0.82	4.3	0.487	
+11382
+AF-A0A0B6YUD2-F1-model_v4	F-box domain-containing protein	Arion vulgaris	0.80	5.5	0.486	
+9382
+AF-J9IQ78-F1-model_v4	Uncharacterized protein	Oxytricha trifallax	0.77	8.8	0.486	
+1319
+AF-A0A819CSE1-F1-model_v4	Hypothetical protein	Adineta steineri	0.54	7.1	0.486	
+5376
+AF-A0A2G4T614-F1-model_v4	Galactose oxidase	Rhizopus microsporus ATCC 52813	0.75	9	0.485	
+13377
+AF-U3KT50-F1-model_v4	V(D)J recombination-activating protein 2	Schizothorax yunnanensis weiningensis	0.21	41.8	0.484	
+158320
+AF-Q0JC97-F1-model_v4	Os04g0483600 protein	Oryza sativa Japonica Group	0.77	4.2	0.484	
+26384
+AF-A0A7L2MQR1-F1-model_v4	FBX42 protein	Rhadina sibilatrix	0.75	4.2	0.484	
+9378
+AF-A0A152A5M9-F1-model_v4	F-box domain-containing protein	Tieghemostelium lacteum	0.72	10.5	0.484	
+3320
+AF-A0A1X6PD07-F1-model_v4	DUF4110 domain-containing protein	Porphyra umbilicalis	0.80	6	0.483	
+26382
+AF-A0A7M7P730-F1-model_v4	[Phosphatase 2A protein]-leucine-carboxy methyltransferase 1	Strongylocentrotus purpuratus	0.80	11.5	0.483	
+2317
+AF-A0A6I8PVX0-F1-model_v4	Tip elongation aberrant protein 1	Xenopus tropicalis	0.69	9.1	0.483	
+1377
+AF-A0A0V0R774-F1-model_v4	Galactose oxidase/kelch, beta-propeller	Pseudocohnilembus persalinus	0.77	9.1	0.483	
+1327
+AF-A0A6G0URR6-F1-model_v4	Uncharacterized protein	Halicephalobus sp. NKZ332	0.77	6	0.483	
+11380
+AF-A0A0M3HVH6-F1-model_v4	F-box domain-containing protein	Ascaris lumbricoides	0.75	4.9	0.482	
+11379
+AF-A0CT24-F1-model_v4	Uncharacterized protein	Paramecium tetraurelia	0.30	6.2	0.482	
+36317
+AF-A0A521IE47-F1-model_v4	Exo-alpha-sialidase	Chloroflexi bacterium	0.57	6.1	0.482	
+1329
+AF-A0A7C4QZ67-F1-model_v4	Uncharacterized protein	bacterium	0.72	4.7	0.482	
+11331
+AF-U3IGC9-F1-model_v4	Kelch domain containing 4	Anas platyrhynchos platyrhynchos	0.75	7.8	0.481	
+26382
+AF-A0A6G0XMA9-F1-model_v4	Uncharacterized protein	Aphanomyces euteiches	0.77	7.9	0.481	
+12338
+AF-A0A6I9JBW2-F1-model_v4	kelch domain-containing protein 4	Chrysochloris asiatica	0.75	7.9	0.481	
+26382
+AF-A0A4P9W7U3-F1-model_v4	Uncharacterized protein	Blyttiomyces helicus	0.60	8.9	0.481	
+11327
+AF-A0A7K7TFZ4-F1-model_v4	FBX42 protein	Sapayoa aenigma	0.77	5.1	0.480	
+11384
+AF-A0A6P5N1N9-F1-model_v4	acyl-CoA-binding domain-containing protein 5	Arachis duranensis	0.75	7.5	0.480	
+2341
+AF-A0A674H1E4-F1-model_v4	F-box domain-containing protein	Taeniopygia guttata	0.72	5.3	0.480	
+11363
+AF-A0A0L0H4J4-F1-model_v4	SH3 domain-containing protein	Spizellomyces punctatus DAOM BR117	0.80	4.6	0.478	
+1384
+AF-A0A1Y2G974-F1-model_v4	DUF4110 domain-containing protein	Lobosporangium transversale	0.85	4.2	0.478	
+1370
+AF-A0A7K5R9E4-F1-model_v4	FBX42 protein	Prunella himalayana	0.77	4.5	0.478	
+10380
+AF-A0A2R4G9F2-F1-model_v4	Recombination activating protein 2	Anodontostoma chacunda	0.18	27.6	0.478	
+175378
+AF-A0A812I7D9-F1-model_v4	GefF protein	Symbiodinium natans	0.57	4.4	0.478	
+3384
+AF-M1DP41-F1-model_v4	F-box protein	Solanum tuberosum	0.28	5.1	0.478	
+64380
+AF-A0A812RL55-F1-model_v4	Hypothetical protein	Symbiodinium sp. CCMP2592	0.51	5	0.477	
+1357
+AF-A0A7K6PVB4-F1-model_v4	FBX42 protein	Ifrita kowaldi	0.35	8.6	0.476	
+22381
+AF-A0A813VAU7-F1-model_v4	Hypothetical protein	Adineta ricciae	0.38	7.3	0.476	
+32379
+AF-A0A812XH48-F1-model_v4	LZTR1 protein	Symbiodinium microadriaticum	0.38	10.1	0.476	
+11260
+AF-A0A7K9W1Z4-F1-model_v4	FBX42 protein	Rhipidura dahli	0.77	4.7	0.476	
+11378
+AF-A0A4P9WK64-F1-model_v4	Uncharacterized protein	Blyttiomyces helicus	0.57	4.6	0.476	
+25380
+AF-F7BVB1-F1-model_v4	Kelch domain containing 4	Equus caballus	0.77	9.9	0.475	
+26382
+AF-A0A0L8GHY4-F1-model_v4	F-box domain-containing protein	Octopus bimaculoides	0.77	6.5	0.475	
+9381
+AF-A0A7S0QRY7-F1-model_v4	Hypothetical protein	Pyramimonas obovata	0.51	5	0.474	
+2342
+AF-A0A6P7SU21-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Octopus vulgaris	0.77	10.5	0.473	
+1316
+AF-A0A7I4F708-F1-model_v4	DUF4110 domain-containing protein	Physcomitrium patens	0.82	4.8	0.473	
+1362
+AF-A0A7S2AZD4-F1-model_v4	Hypothetical protein	Florenciella parvula	0.44	10.7	0.473	
+2255
+AF-F4R623-F1-model_v4	DUF4110 domain-containing protein	Melampsora larici-populina 98AG31	0.77	6.7	0.473	
+26382
+AF-A0A2T4VEV6-F1-model_v4	Uncharacterized protein	Vitiosangium sp. GDMCC 1.1324	0.69	9.7	0.473	
+3315
+AF-A0A6P3W3E8-F1-model_v4	F-box only protein 42	Clupea harengus	0.77	4.5	0.473	
+10380
+AF-A0A066V4Z8-F1-model_v4	DUF4110 domain-containing protein	Tilletiaria anomala UBC 951	0.82	5.4	0.473	
+1365
+AF-A0A2V5Y8R7-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.25	4.3	0.472	
+55317
+AF-A0A1S8WA63-F1-model_v4	DUF4110 domain-containing protein	Batrachochytrium salamandrivorans	0.77	7.1	0.472	
+26382
+AF-A0A077ZYP0-F1-model_v4	Uncharacterized protein	Stylonychia lemnae	0.57	4.9	0.471	
+1384
+AF-A0A813AML7-F1-model_v4	Hypothetical protein	Symbiodinium microadriaticum	0.20	5.3	0.471	
+44353
+AF-A0A7J9ZA63-F1-model_v4	Uncharacterized protein	Streptosporangiales bacterium	0.51	3.8	0.471	
+2380
+AF-A0A287ET62-F1-model_v4	Serine/threonine-protein phosphatase	Hordeum vulgare subsp. vulgare	0.72	8.3	0.471	
+8380
+AF-A0A388LUJ8-F1-model_v4	DUF4110 domain-containing protein	Chara braunii	0.77	5.6	0.471	
+26381
+AF-A0A7N9CEH9-F1-model_v4	F-box protein 42	Macaca fascicularis	0.77	4.6	0.471	
+10380
+AF-A0A6J0T9A1-F1-model_v4	kelch domain-containing protein 4	Pogona vitticeps	0.72	8.2	0.471	
+26382
+AF-A0A7M5V9A1-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Clytia hemisphaerica	0.72	8.6	0.470	
+1317
+AF-A0A3L6RUZ2-F1-model_v4	Putative LOV domain-containing protein	Panicum miliaceum	0.77	9.8	0.470	
+2320
+AF-A0A200QVW8-F1-model_v4	Kelch repeat type 1	Macleaya cordata	0.77	6.4	0.470	
+2362
+AF-A0A520R5E9-F1-model_v4	Uncharacterized protein	Sandaracinaceae bacterium	0.69	4.7	0.470	
+4336
+AF-G1N083-F1-model_v4	F-box domain-containing protein	Meleagris gallopavo	0.77	4.9	0.470	
+11384
+AF-A0A2K6NUZ0-F1-model_v4	Uncharacterized protein	Rhinopithecus roxellana	0.72	5.9	0.469	
+2316
+AF-A0A2V8Z6S8-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.47	4.7	0.469	
+1317
+AF-A0A1R2B5Y5-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.80	4.4	0.469	
+12374
+AF-A0A1Q9NEN7-F1-model_v4	Uncharacterized protein	Candidatus Heimdallarchaeota archaeon LC_2	0.57	4.3	0.469	
+1357
+AF-G8ZE41-F1-model_v4	Recombination activation protein 2	Pseudemys concinna floridana	0.10	59	0.469	
+197342
+AF-D3BE69-F1-model_v4	F-box domain-containing protein	Heterostelium album PN500	0.72	8.5	0.468	
+12328
+AF-A0A0B7B642-F1-model_v4	Uncharacterized protein	Arion vulgaris	0.38	2.9	0.468	
+1382
+AF-A0A0N8PZD4-F1-model_v4	Uncharacterized protein	Rhodotorula graminis WP1	0.82	9.3	0.468	
+1328
+AF-A0A4S2KF59-F1-model_v4	NFU1 iron-sulfur cluster scaffold homolog, mitochondrial	Temnothorax longispinosus	0.80	6	0.467	
+11382
+AF-A0A3M0IT60-F1-model_v4	F-box domain-containing protein	Hirundo rustica rustica	0.77	4.5	0.467	
+10382
+AF-A0A2V6J048-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.16	7.5	0.467	
+4202
+AF-A0A6J0NYG4-F1-model_v4	Serine/threonine-protein phosphatase	Raphanus sativus	0.77	10.3	0.467	
+2335
+AF-F0ZEI4-F1-model_v4	RING-type domain-containing protein	Dictyostelium purpureum	0.82	7.4	0.467	
+2362
+AF-A0A182Y5V9-F1-model_v4	Uncharacterized protein	Anopheles stephensi	0.80	8	0.466	
+3355
+AF-A0A151Z9Q7-F1-model_v4	B box-type domain-containing protein	Tieghemostelium lacteum	0.54	7.6	0.466	
+3382
+AF-L8WPQ8-F1-model_v4	Pkinase domain-containing protein	Rhizoctonia solani AG-1 IA	0.80	5.9	0.466	
+13358
+AF-A0A6B0SMH0-F1-model_v4	Uncharacterized protein	Bos mutus	0.14	14.7	0.466	
+78258
+AF-A0A1F9FID8-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium RBG_16_71_12	0.60	5.7	0.466	
+13380
+AF-A0A1S3IW60-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Lingula anatina	0.80	9.9	0.465	
+1315
+AF-K1REP9-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Crassostrea gigas	0.77	10.4	0.465	
+1315
+AF-A0A3S1HZG8-F1-model_v4	F-box domain-containing protein	Elysia chlorotica	0.77	4.4	0.465	
+9382
+AF-A0A1Q9F5M1-F1-model_v4	Leucine-zipper-like transcriptional regulator 1	Symbiodinium microadriaticum	0.77	4.2	0.465	
+1318
+AF-A0A814DCN3-F1-model_v4	Hypothetical protein	Rotaria sordida	0.57	6.1	0.464	
+4366
+AF-A0A367R6Q0-F1-model_v4	Uncharacterized protein	Nostoc minutum NIES-26	0.21	6.6	0.463	
+6311
+AF-A0A7S3CRJ7-F1-model_v4	Hypothetical protein	Strombidium rassoulzadegani	0.51	10.7	0.461	
+3313
+AF-A0A7N0UHU0-F1-model_v4	tRNA(Phe) 7-((3-amino-3-carboxypropyl)-4-demethylwyosine(37)-N(4))-methyltransferase	Kalanchoe fedtschenkoi	0.72	7.5	0.460	
+2317
+AF-A0A1Z4QVP2-F1-model_v4	Ankyrin repeat-containing protein	Calothrix sp. NIES-4101	0.14	10.2	0.459	
+57266
+AF-A0A6I9WPP2-F1-model_v4	F-box only protein 42	Pogonomyrmex barbatus	0.35	6.4	0.459	
+4259
+AF-A0A6I8PV08-F1-model_v4	Kelch domain containing 4	Xenopus tropicalis	0.75	7.9	0.458	
+26382
+AF-A0A355GR11-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.66	10.8	0.457	
+4317
+AF-A0A6V7UE48-F1-model_v4	Hypothetical protein	Meloidogyne enterolobii	0.72	4.1	0.456	
+11379
+AF-A0A1X0NV74-F1-model_v4	Uncharacterized protein	Trypanosoma theileri	0.80	5.2	0.456	
+13382
+AF-A0A1J4JEI9-F1-model_v4	Uncharacterized protein	Tritrichomonas foetus	0.85	4.7	0.455	
+3333
+AF-A0A2R6I856-F1-model_v4	PKD domain-containing protein	Halobacteriales archaeon QS_4_69_31	0.44	4.4	0.455	
+18380
+AF-A0A061GHU1-F1-model_v4	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase	Theobroma cacao	0.75	4.3	0.455	
+13381
+AF-A0A812DXJ2-F1-model_v4	FBXO42	Sepia pharaonis	0.77	5	0.455	
+11341
+AF-A0A6A4X985-F1-model_v4	F-box only protein 42	Amphibalanus amphitrite	0.69	7.1	0.455	
+11324
+AF-A0A7Y4R8T3-F1-model_v4	Uncharacterized protein	Phycisphaerales bacterium	0.38	3.3	0.455	
+1384
+AF-A0A2G1VZI1-F1-model_v4	Uncharacterized protein	Rhodopirellula bahusiensis	0.41	3.1	0.455	
+4378
+AF-A0A316UFY2-F1-model_v4	DUF4110 domain-containing protein	Pseudomicrostroma glucosiphilum	0.80	4.5	0.454	
+26382
+AF-A0A822GRB2-F1-model_v4	(mimic poison frog) hypothetical protein	Ranitomeya imitator	0.13	7.9	0.454	
+36277
+AF-A0A167L8N6-F1-model_v4	Uncharacterized protein	Phycomyces blakesleeanus NRRL 1555(-)	0.63	4.3	0.453	
+5368
+AF-A0A7S2I2G0-F1-model_v4	Hypothetical protein	Helicotheca tamesis	0.41	4.5	0.453	
+12345
+AF-A0A2G5EVI8-F1-model_v4	Serine/threonine-protein phosphatase	Aquilegia coerulea	0.80	6.8	0.452	
+13355
+AF-A0A851ZFG3-F1-model_v4	FBX42 protein	Halcyon senegalensis	0.69	5.5	0.451	
+2316
+AF-A0A3N5KZU3-F1-model_v4	T9SS C-terminal target domain-containing protein	Ignavibacteriae bacterium	0.60	7.4	0.451	
+11377
+AF-C3XQ14-F1-model_v4	F-box domain-containing protein	Branchiostoma floridae	0.77	3.9	0.451	
+11379
+AF-A0A2P4Z006-F1-model_v4	WD domain G-beta repeat family protein	Cryptosporidium meleagridis	0.38	4.9	0.450	
+1353
+AF-D3B3Y6-F1-model_v4	F-box domain-containing protein	Heterostelium album PN500	0.75	8.8	0.449	
+2320
+AF-A0A4P9W8F2-F1-model_v4	Uncharacterized protein	Blyttiomyces helicus	0.51	3.9	0.449	
+72374
+AF-A0A250VFM5-F1-model_v4	Uncharacterized protein	Streptomyces olivochromogenes	0.72	8.9	0.449	
+2315
+AF-A0A812V3X4-F1-model_v4	IPP protein	Symbiodinium necroappetens	0.57	4.2	0.448	
+52369
+AF-A0A0G4IFC2-F1-model_v4	Uncharacterized protein	Chromera velia CCMP2878	0.80	3.8	0.447	
+4366
+AF-D8QWJ2-F1-model_v4	Serine/threonine-protein phosphatase	Selaginella moellendorffii	0.77	7.3	0.447	
+12383
+AF-K9KF02-F1-model_v4	Protein VPRBP-like protein	Equus caballus	0.28	5.2	0.447	
+1315
+AF-A0A1F4ELN4-F1-model_v4	Uncharacterized protein	Burkholderiales bacterium RIFCSPHIGHO2_01_FULL_64_960	0.25	5.3	0.447	
+1267
+AF-A0A383VTU2-F1-model_v4	BTB domain-containing protein	Tetradesmus obliquus	0.66	7.1	0.446	
+5316
+AF-A0A1X2I900-F1-model_v4	Uncharacterized protein	Absidia repens	0.23	10.8	0.445	
+72294
+AF-A0A5F9DB52-F1-model_v4	Uncharacterized protein	Oryctolagus cuniculus	0.77	7.9	0.445	
+25382
+AF-A0A835H314-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.77	7.5	0.445	
+2330
+AF-A0A1I8HMX9-F1-model_v4	CUB domain-containing protein	Macrostomum lignano	0.77	6.7	0.445	
+1384
+AF-A0A4P9WEQ4-F1-model_v4	Uncharacterized protein	Blyttiomyces helicus	0.72	3.8	0.445	
+25378
+AF-A0A4S4KWL2-F1-model_v4	Protein kinase domain-containing protein	Phellinidium pouzarii	0.77	4.5	0.444	
+11359
+AF-A0A7S3PVG3-F1-model_v4	Hypothetical protein	Chaetoceros debilis	0.47	5.1	0.444	
+1317
+AF-A0A1V6H0M0-F1-model_v4	N-acetylneuraminate epimerase	Verrucomicrobia bacterium ADurb.Bin070	0.63	8.4	0.443	
+3313
+AF-A0A1H6WVA3-F1-model_v4	Transporter, SSS family	Cyclobacterium xiamenense	0.75	6.1	0.442	
+3330
+AF-A0A5N5L263-F1-model_v4	F-box domain-containing protein	Pangasianodon hypophthalmus	0.66	3.8	0.441	
+11380
+AF-A0A452GUR5-F1-model_v4	F-box protein 42	Gopherus agassizii	0.75	4.6	0.441	
+9380
+AF-A0A0A9ZAZ4-F1-model_v4	Kelch domain-containing protein 2	Lygus hesperus	0.82	3.5	0.441	
+2339
+AF-A0A3N4LDL3-F1-model_v4	Leucine carboxyl methyltransferase 2	Terfezia boudieri ATCC MYA-4762	0.84	4.1	0.440	
+3363
+AF-A0A0S4IVD5-F1-model_v4	Uncharacterized protein	Bodo saltans	0.77	6.9	0.440	
+1374
+AF-A0A7S1PMV8-F1-model_v4	Hypothetical protein	Neobodo designis	0.51	3.9	0.440	
+3343
+AF-A0A6A5AU45-F1-model_v4	Uncharacterized protein	Naegleria fowleri	0.33	5	0.439	
+2258
+AF-A0A2R6DDQ8-F1-model_v4	PKD domain-containing protein	Halobacteriales archaeon QH_10_70_21	0.16	3.6	0.439	
+97382
+AF-K9VW07-F1-model_v4	Ankyrin	Crinalium epipsammum PCC 9333	0.25	4.7	0.439	
+2314
+AF-A0A4R0S0U7-F1-model_v4	DUF4110 domain-containing protein	Steccherinum ochraceum	0.82	6.4	0.438	
+1360
+AF-B9GTB6-F1-model_v4	Serine/threonine-protein phosphatase	Populus trichocarpa	0.72	8.9	0.438	
+11338
+AF-A0A812I7H3-F1-model_v4	GefF protein	Symbiodinium sp. CCMP2592	0.16	4.1	0.437	
+11320
+AF-A0A1R3JW32-F1-model_v4	Kelch repeat type 2	Corchorus capsularis	0.75	4.8	0.437	
+26384
+AF-M5C8X5-F1-model_v4	Rhizoctonia solani AG1-IB WGS project CAOJ00000000 data, isolate 7/3/14, contig 21430	Rhizoctonia solani AG-1 IB	0.47	5.6	0.436	
+22384
+AF-A0A1R2B0V3-F1-model_v4	Ephrin_rec_like domain-containing protein	Stentor coeruleus	0.84	5	0.435	
+2379
+AF-A0A4V1IRP9-F1-model_v4	SH3 domain-containing protein	Blyttiomyces helicus	0.30	5.9	0.434	
+42384
+AF-V3Z9J7-F1-model_v4	BTB domain-containing protein	Lottia gigantea	0.54	5.4	0.434	
+2384
+AF-A0A1D1YIN6-F1-model_v4	Acyl-CoA-binding domain-containing protein 4	Anthurium amnicola	0.66	6.4	0.433	
+8336
+AF-A0A2P1DP54-F1-model_v4	Serine/threonine-protein phosphatase	Triticum aestivum	0.77	6.2	0.433	
+13361
+AF-A0A814HDK6-F1-model_v4	Hypothetical protein	Brachionus calyciflorus	0.60	6.9	0.433	
+12384
+AF-W9RF09-F1-model_v4	Uncharacterized protein	Morus notabilis	0.30	2.2	0.433	
+13332
+AF-A0A3B0MYL8-F1-model_v4	Galactose oxidase, central domain/Kelch motif containing protein, putative	Theileria annulata	0.35	6.9	0.432	
+25380
+AF-A0A8B6GT19-F1-model_v4	Uncharacterized protein	Mytilus galloprovincialis	0.35	5.6	0.432	
+4262
+AF-A0A1B0FCG4-F1-model_v4	Uncharacterized protein	Glossina morsitans morsitans	0.82	4.3	0.432	
+10365
+AF-M4C8T9-F1-model_v4	Uncharacterized protein	Brassica rapa subsp. pekinensis	0.77	5.8	0.432	
+26383
+AF-A0A2Z6N2K8-F1-model_v4	General transcription factor IIF subunit 1	Trifolium subterraneum	0.77	4.3	0.432	
+13338
+AF-A0A1I1DGT6-F1-model_v4	Uncharacterized protein	Brevinema andersonii	0.66	7.4	0.432	
+3317
+AF-A0A7S0A5G4-F1-model_v4	Hypothetical protein	Pyrodinium bahamense	0.80	2.6	0.431	
+1357
+AF-A0A444V084-F1-model_v4	F-box only protein 42	Acipenser ruthenus	0.75	6	0.430	
+10367
+AF-A0A1J4JYG6-F1-model_v4	DH domain-containing protein	Tritrichomonas foetus	0.69	7	0.429	
+3371
+AF-A0A1R2CK59-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.82	4.4	0.429	
+3379
+AF-A0A4R4D248-F1-model_v4	Uncharacterized protein	Dehalobacter sp. 12DCB1	0.51	3.2	0.428	
+1382
+AF-A7NGG7-F1-model_v4	Integrin alpha beta-propellor repeat protein	Roseiflexus castenholzii DSM 13941	0.66	2.6	0.428	
+2359
+AF-A0A1G2Y7A4-F1-model_v4	Uncharacterized protein	Planctomycetes bacterium GWF2_42_9	0.72	5.9	0.427	
+3320
+AF-A0A425DGZ8-F1-model_v4	DUF4110 domain-containing protein	Aphanomyces astaci	0.75	5.4	0.426	
+26382
+AF-A0A831Y9X0-F1-model_v4	Uncharacterized protein	Chlamydiae bacterium	0.57	2.5	0.426	
+1356
+AF-A0A0C1EMB4-F1-model_v4	Uncharacterized protein	Parachlamydia acanthamoebae	0.41	2.6	0.426	
+11384
+AF-A0A3N0Z951-F1-model_v4	F-box only protein 42	Anabarilius grahami	0.57	4.5	0.426	
+18383
+AF-A0A6M5XV42-F1-model_v4	Uncharacterized protein	Ramlibacter sp. H242	0.35	3.7	0.426	
+11361
+AF-J9IGH0-F1-model_v4	RING domain containing protein	Oxytricha trifallax	0.66	6.6	0.426	
+1381
+AF-A0A5J4XTH9-F1-model_v4	Uncharacterized protein	Trebouxia sp. A1-2	0.77	3.4	0.425	
+11372
+AF-A0A820BR25-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	0.25	3.5	0.425	
+6344
+AF-A0A2K1X185-F1-model_v4	F-box domain-containing protein	Populus trichocarpa	0.23	4.5	0.424	
+43379
+AF-A0A1R2D012-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.80	4.1	0.424	
+1331
+AF-A0A7G2FJ54-F1-model_v4	(thale cress) hypothetical protein	Arabidopsis thaliana	0.75	7.3	0.424	
+26382
+AF-A0A1R2CEK3-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.80	5.6	0.424	
+1329
+AF-A0A5M9K3N9-F1-model_v4	Uncharacterized protein	Monilinia fructicola	0.41	8.5	0.423	
+12308
+AF-A0A7V5ZHY9-F1-model_v4	Fibronectin type-III domain-containing protein	Acidobacteria bacterium	0.51	4.2	0.423	
+1384
+AF-A0A660Q5I6-F1-model_v4	Uncharacterized protein	candidate division Zixibacteria bacterium	0.38	4.8	0.423	
+32317
+AF-R7QFA8-F1-model_v4	Rab-GAP TBC domain-containing protein	Chondrus crispus	0.77	8.2	0.422	
+26382
+AF-A0A3T0RNI6-F1-model_v4	Uncharacterized protein	Bdellovibrio sp. qaytius	0.47	3.7	0.421	
+8343
+AF-A0A432RNM9-F1-model_v4	Peptidoglycan-binding protein	Methylococcus sp.	0.44	3.8	0.421	
+5344
+AF-A0A812H3T5-F1-model_v4	Tea3 protein	Symbiodinium sp. CCMP2592	0.72	10.2	0.421	
+3351
+AF-A0A2E9RYH3-F1-model_v4	Sodium transporter	Opitutae bacterium	0.69	5.8	0.420	
+12331
+AF-A0A2V3ISU0-F1-model_v4	Uncharacterized protein	Gracilariopsis chorda	0.44	3.8	0.420	
+1320
+AF-A0A6P2DAJ6-F1-model_v4	Ankyrin: Uncharacterized protein	Gemmata massiliana	0.21	6.3	0.420	
+27309
+AF-A0A3D3NRE3-F1-model_v4	Galactose oxidase	Verrucomicrobiales bacterium	0.47	5.5	0.420	
+1377
+AF-A0A7S1PV23-F1-model_v4	Hypothetical protein	Neobodo designis	0.82	5.9	0.419	
+1380
+AF-A0A553MRA5-F1-model_v4	F-box domain-containing protein	Danionella translucida	0.35	4.2	0.418	
+13316
+AF-A0A8B6H103-F1-model_v4	WD repeat-containing protein 32	Mytilus galloprovincialis	0.41	2.1	0.418	
+11384
+AF-A0A5A7P5C7-F1-model_v4	Galactose oxidase/kelch repeat superfamily protein	Striga asiatica	0.33	6	0.417	
+1308
+AF-A0A6L5BBH4-F1-model_v4	Uncharacterized protein	Stenotrophomonas maltophilia	0.20	3.1	0.415	
+1384
+AF-G1XSG2-F1-model_v4	Uncharacterized protein	Orbilia oligospora ATCC 24927	0.41	3.4	0.414	
+1382
+AF-A0A836CMD6-F1-model_v4	Uncharacterized protein	Tribonema minus	0.57	3.6	0.414	
+2362
+AF-A0A6A3D6L1-F1-model_v4	Serine/threonine-protein phosphatase BSL2	Hibiscus syriacus	0.75	7.4	0.414	
+2327
+AF-A0A401SF79-F1-model_v4	F-box domain-containing protein	Chiloscyllium punctatum	0.75	4.8	0.413	
+10380
+AF-A0A3D6EWH2-F1-model_v4	Uncharacterized protein	Cytophagales bacterium	0.51	6.8	0.413	
+2317
+AF-A0A1F4IIP7-F1-model_v4	Uncharacterized protein	Burkholderiales bacterium RIFCSPHIGHO2_12_FULL_65_48	0.25	5.1	0.412	
+1267
+AF-A0A1Q9DFE2-F1-model_v4	RING finger protein B	Symbiodinium microadriaticum	0.77	3.9	0.412	
+1379
+AF-M5C0Z1-F1-model_v4	Rhizoctonia solani AG1-IB WGS project CAOJ00000000 data, isolate 7/3/14, contig 15915	Rhizoctonia solani AG-1 IB	0.69	8	0.412	
+22365
+AF-A0A502GEQ6-F1-model_v4	Uncharacterized protein	Ewingella americana	0.54	4.4	0.412	
+4368
+AF-A0A1A9WTW8-F1-model_v4	BACK domain-containing protein	Glossina brevipalpis	0.38	6.6	0.412	
+4359
+AF-A0A0D9ZU42-F1-model_v4	Serine/threonine-protein phosphatase	Oryza glumipatula	0.75	10	0.411	
+2317
+AF-A0A1R2B7B9-F1-model_v4	Ephrin_rec_like domain-containing protein	Stentor coeruleus	0.69	7.2	0.411	
+1328
+AF-V6LVP2-F1-model_v4	Uncharacterized protein	Spironucleus salmonicida	0.69	4.5	0.410	
+4353
+AF-A0A1A8LVF8-F1-model_v4	Uncharacterized protein	Nothobranchius pienaari	0.18	12.5	0.410	
+12210
+AF-A0A7S0A4F6-F1-model_v4	Hypothetical protein	Pyrodinium bahamense	0.80	3.1	0.409	
+1356
+AF-A0A2T5IVW2-F1-model_v4	Subtilisin family serine protease	Nitrosomonas ureae	0.63	8.2	0.408	
+3314
+AF-A0A5J4XAN7-F1-model_v4	Putative kelch repeat protein	Streblomastix strix	0.77	4.5	0.408	
+11372
+AF-A0A078A536-F1-model_v4	Kelch repeat	Stylonychia lemnae	0.80	5.9	0.408	
+2333
+AF-B6K6I9-F1-model_v4	Cell end marker Tea3	Schizosaccharomyces japonicus yFS275	0.75	8.6	0.408	
+2317
+AF-A0A1J4JYK0-F1-model_v4	DH domain-containing protein	Tritrichomonas foetus	0.72	6.4	0.408	
+1336
+AF-A0A7S4MM73-F1-model_v4	Hypothetical protein	Vannella robusta	0.69	9	0.408	
+2315
+AF-A0A444UZ76-F1-model_v4	V(D)J recombination activating protein 2	Acipenser ruthenus	0.15	33.1	0.407	
+177369
+AF-A0A212CI30-F1-model_v4	KLHDC9	Cervus elaphus hippelaphus	0.60	7.6	0.406	
+13381
+AF-A0A7I4EHK6-F1-model_v4	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase	Physcomitrium patens	0.75	5.4	0.406	
+13381
+AF-A0A517L6X5-F1-model_v4	DUF4110 domain-containing protein	Venturia effusa	0.72	7	0.405	
+26382
+AF-E9IG53-F1-model_v4	Uncharacterized protein	Solenopsis invicta	0.16	4.7	0.404	
+3209
+AF-A0A5N6P3Y8-F1-model_v4	Serine/threonine-protein phosphatase	Mikania micrantha	0.75	6.9	0.404	
+13332
+AF-A0A6V7NEM8-F1-model_v4	Serine/threonine-protein phosphatase	Ananas comosus var. bracteatus	0.75	4.5	0.404	
+1335
+AF-A0A1J4KA04-F1-model_v4	Kelch repeat protein	Tritrichomonas foetus	0.75	4.4	0.404	
+2335
+AF-A0A197JER3-F1-model_v4	Uncharacterized protein	Linnemannia elongata AG-77	0.23	5.4	0.404	
+1328
+AF-A0A382FK40-F1-model_v4	Uncharacterized protein	marine metagenome	0.13	4.8	0.404	
+148333
+AF-A0A7C8MSD9-F1-model_v4	Uncharacterized protein	Xylaria multiplex	0.47	2.3	0.403	
+13373
+AF-F8PXZ0-F1-model_v4	Uncharacterized protein	Serpula lacrymans var. lacrymans S7.3	0.72	3.3	0.403	
+25357
+AF-A0A0F7SQM6-F1-model_v4	Kelch-type beta propeller	Phaffia rhodozyma	0.75	5.9	0.402	
+2364
+AF-A0A2V6KMV6-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.12	6.4	0.401	
+128316
+AF-A0A813KRZ1-F1-model_v4	Hypothetical protein	Polarella glacialis	0.57	2.5	0.401	
+4370
+AF-A0A4S4EB30-F1-model_v4	Uncharacterized protein	Camellia sinensis var. sinensis	0.47	3.4	0.401	
+1319
+AF-A0A7S4UYU3-F1-model_v4	Hypothetical protein	Alexandrium monilatum	0.35	3.3	0.401	
+1382
+AF-A0A835S9A9-F1-model_v4	Uncharacterized protein	Vanilla planifolia	0.23	5.5	0.400	
+15324
+AF-A0A3M2FZU6-F1-model_v4	Uncharacterized protein	Gemmatimonadetes bacterium	0.57	2.2	0.400	
+13361
+AF-A0A6A6Z1M3-F1-model_v4	uncharacterized protein	Mytilinidion resinicola	0.16	3.3	0.398	
+4383
+AF-A0A1Y2H8U8-F1-model_v4	G_PROTEIN_RECEP_F3_4 domain-containing protein	Catenaria anguillulae PL171	0.41	8.1	0.398	
+3258
+AF-A0A1A8WSV8-F1-model_v4	Protein phosphatase containing kelch-like domains, putative (PPKL)	Plasmodium ovale curtisi	0.30	3.6	0.398	
+58374
+AF-A0A348NZV1-F1-model_v4	Uncharacterized protein	Candidatus Delongbacteria bacterium	0.54	3.2	0.398	
+1354
+AF-A0A2M7TWW7-F1-model_v4	Uncharacterized protein	Candidatus Saccharibacteria bacterium CG_4_10_14_0_2_um_filter_52_9	0.75	7.4	0.398	
+12332
+AF-A0A2G6FDQ0-F1-model_v4	Uncharacterized protein	Desulfobulbus propionicus	0.72	6.9	0.398	
+10330
+AF-A0A812LXU7-F1-model_v4	Lcmt2 protein	Symbiodinium natans	0.69	6.1	0.397	
+12377
+AF-A0A6J8DRU0-F1-model_v4	PPM2	Mytilus coruscus	0.33	5.6	0.397	
+2294
+AF-A0A2U1KMM3-F1-model_v4	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase	Artemisia annua	0.72	4.9	0.396	
+1358
+AF-A0A7C3WQD8-F1-model_v4	Non-reducing end alpha-L-arabinofuranosidase	Planctomycetota bacterium	0.35	3.3	0.395	
+14316
+AF-A0A433DFL2-F1-model_v4	Uncharacterized protein	Jimgerdemannia flammicorona	0.30	6	0.395	
+13359
+AF-A0A1E7FX08-F1-model_v4	BTB domain-containing protein	Fragilariopsis cylindrus CCMP1102	0.54	4.9	0.395	
+1318
+AF-A0A3A0C1Y1-F1-model_v4	Uncharacterized protein	candidate division KSB1 bacterium	0.54	4.5	0.394	
+18332
+AF-F2UJ48-F1-model_v4	Uncharacterized protein	Salpingoeca rosetta	0.38	4.4	0.394	
+26362
+AF-A0A7J7BQ34-F1-model_v4	C3H1-type domain-containing protein	Abscondita terminalis	0.44	5.7	0.394	
+3367
+AF-N6T099-F1-model_v4	Uncharacterized protein	Dendroctonus ponderosae	0.12	4	0.393	
+94370
+AF-A0A812ZPQ5-F1-model_v4	Tea1 protein	Symbiodinium sp. CCMP2592	0.72	6.1	0.393	
+2364
+AF-A0A7S4ANA1-F1-model_v4	Hypothetical protein	Pseudo-nitzschia australis	0.51	4.9	0.393	
+1317
+AF-A0A5B6VRY9-F1-model_v4	Protein-serine/threonine phosphatase	Gossypium australe	0.44	6.7	0.392	
+14321
+AF-A0A1J4L6U2-F1-model_v4	Kelch motif family protein	Tritrichomonas foetus	0.69	5.9	0.391	
+4354
+AF-A0A835QET2-F1-model_v4	Uncharacterized protein	Vanilla planifolia	0.41	4.5	0.391	
+66371
+AF-A0A7S3YEF0-F1-model_v4	Hypothetical protein	Lotharella globosa	0.66	5.5	0.390	
+26376
+AF-B9NUV1-F1-model_v4	Uncharacterized protein	Rhodobacteraceae bacterium KLH11	0.60	3.9	0.386	
+1381
+AF-A0A7S0EUA4-F1-model_v4	Hypothetical protein	Hanusia phi	0.51	9.7	0.386	
+5259
+AF-A0A0D2JED2-F1-model_v4	Uncharacterized protein	candidate division TM6 bacterium JCVI TM6SC1	0.30	2.1	0.385	
+1331
+AF-A0A7C4KRB6-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.25	3.8	0.384	
+1335
+AF-A0A2T4DK25-F1-model_v4	OmpA-like domain-containing protein	Marivirga lumbricoides	0.25	3.1	0.382	
+35360
+AF-K1RGU4-F1-model_v4	WD repeat and coiled-coil-containing protein	Crassostrea gigas	0.41	1.8	0.382	
+24363
+AF-A0A1W0XB27-F1-model_v4	Uncharacterized protein	Hypsibius dujardini	0.54	1.6	0.382	
+1317
+AF-A0A1S3J9V7-F1-model_v4	WD repeat-containing protein 93 isoform X7	Lingula anatina	0.38	2.6	0.382	
+1384
+AF-B5JF18-F1-model_v4	Kelch repeat protein	Verrucomicrobiae bacterium DG1235	0.38	10	0.381	
+1256
+AF-A0A2P6TFI4-F1-model_v4	Katanin p80 WD40 repeat-containing subunit B1	Chlorella sorokiniana	0.38	4.2	0.381	
+21341
+AF-A0A553MRB1-F1-model_v4	F-box domain-containing protein	Danionella translucida	0.33	4.6	0.381	
+13316
+AF-A0A1R2B1S6-F1-model_v4	Uncharacterized protein	Stentor coeruleus	0.63	6	0.381	
+23367
+AF-A0A1Z1W4E3-F1-model_v4	Uncharacterized protein	Streptomyces alboflavus	0.13	2.7	0.380	
+22364
+AF-A0A5E4BWU2-F1-model_v4	BTB domain-containing protein	Marmota monax	0.38	8.3	0.378	
+2263
+AF-A0A814CDJ7-F1-model_v4	Hypothetical protein	Adineta steineri	0.51	6.6	0.377	
+5364
+AF-A0A250EYS7-F1-model_v4	ABC transporter substrate-binding protein	Capnocytophaga canimorsus	0.51	4.3	0.377	
+76377
+AF-A0A1K0GX37-F1-model_v4	Uncharacterized protein	Ustilago bromivora	0.54	6.6	0.375	
+1346
+AF-V5HGE1-F1-model_v4	Putative f-box only protein 42	Ixodes ricinus	0.12	6.9	0.374	
+99378
+AF-A0A484DF14-F1-model_v4	F-box domain-containing protein	Perca flavescens	0.44	3.2	0.374	
+44375
+AF-A0A1Z5KFG6-F1-model_v4	Uncharacterized protein	Fistulifera solaris	0.47	2.5	0.372	
+3360
+AF-A0A6A6MVD9-F1-model_v4	LOB domain-containing protein	Hevea brasiliensis	0.30	3.2	0.372	
+3360
+AF-A0A7W6J2T4-F1-model_v4	Ankyrin_rpt-contain_dom domain-containing protein	Gellertiella hungarica	0.23	4.1	0.371	
+1266
+AF-A0A016U819-F1-model_v4	RING-type domain-containing protein	Ancylostoma ceylanicum	0.47	5	0.370	
+2317
+AF-A0A444TZH6-F1-model_v4	Large neutral amino acids transporter small subunit 1	Acipenser ruthenus	0.54	7	0.369	
+61382
+AF-A0A1Y1XQN1-F1-model_v4	Uncharacterized protein	Basidiobolus meristosporus CBS 931.73	0.63	7.5	0.368	
+13343
+AF-F0Y4A2-F1-model_v4	Uncharacterized protein	Aureococcus anophagefferens	0.47	2.4	0.368	
+1359
+AF-A0A1I8JR40-F1-model_v4	SH3 domain-containing protein	Macrostomum lignano	0.35	3.5	0.367	
+12381
+AF-A0A078AT79-F1-model_v4	Uncharacterized protein	Stylonychia lemnae	0.38	10.8	0.366	
+3271
+AF-A0A2E0ZG58-F1-model_v4	Uncharacterized protein	Anaerolineaceae bacterium	0.44	3.1	0.366	
+1329
+AF-A0A7W9HMQ8-F1-model_v4	Mrr_cat domain-containing protein	Saccharothrix ecbatanensis	0.38	5.8	0.366	
+1317
+AF-A0A848WK95-F1-model_v4	Uncharacterized protein	Silicimonas sp.	0.23	6.6	0.365	
+2264
+AF-A0A814FQQ2-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.54	8.5	0.363	
+4330
+AF-A0A554KUI4-F1-model_v4	LamGL domain-containing protein	Parcubacteria group bacterium Gr01-1014_13	0.54	2.9	0.363	
+12357
+AF-A0A210QQN0-F1-model_v4	tRNA wybutosine-synthesizing protein 4	Mizuhopecten yessoensis	0.44	8	0.363	
+1260
+AF-A0A1R2BBG1-F1-model_v4	Ephrin_rec_like domain-containing protein	Stentor coeruleus	0.54	9.7	0.361	
+27326
+AF-A0A2N6BN42-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.54	6	0.359	
+2250
+AF-A0A7S1KMD4-F1-model_v4	Hypothetical protein	Percolomonas cosmopolitus	0.38	6.3	0.356	
+18317
+AF-D2W184-F1-model_v4	Predicted protein	Naegleria gruberi	0.51	7.7	0.356	
+1298
+AF-A0A3M6UDH9-F1-model_v4	Uncharacterized protein	Pocillopora damicornis	0.51	5	0.353	
+5375
+AF-A0A1S3J9L1-F1-model_v4	WD repeat-containing protein 93-like	Lingula anatina	0.16	1.6	0.353	
+12258
+AF-A0A254QIH0-F1-model_v4	Uncharacterized protein	Armatimonadetes bacterium Cent15-Ar3	0.18	2.4	0.352	
+1384
+AF-A0A5C7A8Q6-F1-model_v4	Ankyrin repeat domain-containing protein	Mitsuaria sp. TWR114	0.20	2.5	0.350	
+4384
+AF-A0A813KQS2-F1-model_v4	Hypothetical protein	Polarella glacialis	0.41	3.8	0.348	
+3327
+AF-A0A126WYF4-F1-model_v4	Putative LOV domain-containing protein	Pseudoscourfieldia marina	0.44	6.2	0.347	
+43382
+AF-A0A1Y3EYX8-F1-model_v4	Plexin repeat-containing domain protein	Trichinella nativa	0.44	4.4	0.345	
+3305
+AF-A0A5J5C343-F1-model_v4	Serine/threonine-protein phosphatase	Nyssa sinensis	0.47	4.4	0.344	
+47381
+AF-A0A1P8UVI9-F1-model_v4	Ankyrin repeat protein	Salipiger abyssi	0.16	2.2	0.343	
+10382
+AF-A0A1C0VMZ3-F1-model_v4	Uncharacterized protein	Nostoc sp. MBR 210	0.18	2.3	0.341	
+4384
+AF-F2UHX7-F1-model_v4	Uncharacterized protein	Salpingoeca rosetta	0.38	1.9	0.340	
+3338
+AF-A0A1Z4RRW4-F1-model_v4	Ankyrin	Chondrocystis sp. NIES-4102	0.20	3.3	0.339	
+24384
+AF-A0A3N7GUN4-F1-model_v4	Uncharacterized protein	Populus trichocarpa	0.35	2.9	0.338	
+2375
+AF-A0A6A3AL65-F1-model_v4	XB3 in, putative isoform 1	Hibiscus syriacus	0.35	2.6	0.337	
+6378
+AF-A0A4Y2CPL6-F1-model_v4	Uncharacterized protein	Araneus ventricosus	0.41	1.3	0.334	
+1384
+AF-A0A1S8FHP9-F1-model_v4	Ankyrin_rpt-contain_dom domain-containing protein	Polaromonas sp. A23	0.20	2.6	0.332	
+1381
+AF-A0A7R9KZV6-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.35	3.4	0.331	
+2352
+AF-A0A1I9LTP1-F1-model_v4	Regulator of chromosome condensation (RCC1) family with FYVE zinc finger domain-containing protein	Arabidopsis thaliana	0.35	1.5	0.331	
+1376
+AF-A0A2A2TAX7-F1-model_v4	Uncharacterized protein	Calothrix elsteri CCALA 953	0.18	3.4	0.329	
+1384
+AF-A0A1E3YYT3-F1-model_v4	Uncharacterized protein	Acidovorax sp. SCN 65-108	0.20	2.9	0.328	
+25384
+AF-A0A1P8B4X4-F1-model_v4	Regulator of chromosome condensation (RCC1) family protein	Arabidopsis thaliana	0.35	2.2	0.327	
+6376
+AF-A0A7W7ZJ34-F1-model_v4	Ankyrin repeat protein	Granulicella aggregans	0.18	3.1	0.327	
+24384
+AF-A0A3L6PQ81-F1-model_v4	E3 ubiquitin-protein ligase HERC2-like	Panicum miliaceum	0.33	2.9	0.326	
+5378
+AF-A0A5C5ZVM3-F1-model_v4	Ankyrin repeats (3 copies)	Rhodopirellula pilleata	0.16	4.1	0.325	
+4384
+AF-A0A1P8B500-F1-model_v4	Regulator of chromosome condensation (RCC1) family protein	Arabidopsis thaliana	0.35	2	0.324	
+1376
+AF-A0A3M6ZLQ2-F1-model_v4	Uncharacterized protein	Hortaea werneckii	0.35	2.9	0.324	
+3365
+AF-A0A287KV18-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.11	4.4	0.323	
+15300
+AF-A0A078IHE6-F1-model_v4	BnaCnng17260D protein	Brassica napus	0.33	2.1	0.321	
+1378
+AF-A0A7J7LZE1-F1-model_v4	Uncharacterized protein	Kingdonia uniflora	0.35	2.4	0.318	
+6374
+AF-A0A6M2A7J3-F1-model_v4	Protein kinase domain-containing protein	Chlamydiae bacterium	0.23	1.2	0.317	
+100381
+AF-A0A239M2V3-F1-model_v4	Hemolysin-type calcium-binding repeat-containing protein	Tropicimonas sediminicola	0.30	2.2	0.316	
+21336
+AF-A0A858RHT1-F1-model_v4	Ankyrin repeat domain-containing protein	Luteolibacter luteus	0.16	3.4	0.315	
+4384
+AF-A0A7R9PW70-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.25	2.3	0.308	
+1351
+AF-D2UZ78-F1-model_v4	WD40 repeat-containing protein	Naegleria gruberi	0.25	4.4	0.307	
+1314
+AF-A0A292PPE3-F1-model_v4	Uncharacterized protein	Tuber aestivum	0.18	3.1	0.303	
+1381
+AF-A0A0L0HGK8-F1-model_v4	RWD domain-containing protein	Spizellomyces punctatus DAOM BR117	0.28	2.6	0.297	
+1326
+AF-F1SCW1-F1-model_v4	Kelch like family member 29	Sus scrofa	0.23	2.1	0.297	
+46382
+AF-A0A151ZEG5-F1-model_v4	Kelch repeat-containing protein	Tieghemostelium lacteum	0.23	3.7	0.282	
+2374
+AF-A0A1I8IDE6-F1-model_v4	Eukaryotic translation initiation factor 3 subunit E	Macrostomum lignano	0.10	4.4	0.239	
+59285

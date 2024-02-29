@@ -1,0 +1,2006 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR POLYKETIDE SYNTHASE (M9V112)
+AFDB50 1000 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-N0BRP6-F1-model_v4	Ketosynthase	uncultured bacterium	1.00	55.5	0.968	
+1225
+AF-N0BR13-F1-model_v4	Ketosynthase	uncultured bacterium	1.00	51.3	0.950	
+1224
+AF-D4NX90-F1-model_v4	Type I ketosynthase	uncultured bacterium	1.00	50.2	0.939	
+1225
+AF-Q156C3-F1-model_v4	Modular polyketide synthase	uncultured bacterium	1.00	50.9	0.936	
+1218
+AF-C9K4N9-F1-model_v4	Polyketide synthase	Streptomyces marinus	1.00	42	0.918	
+3217
+AF-D4NX96-F1-model_v4	Type I ketosynthase	uncultured bacterium	1.00	43.1	0.910	
+1225
+AF-D4NX74-F1-model_v4	Type I ketosynthase	uncultured bacterium	1.00	43.1	0.909	
+1225
+AF-N0BJ50-F1-model_v4	Ketosynthase	uncultured bacterium	1.00	41.4	0.906	
+1224
+AF-Q14VG1-F1-model_v4	Modular polyketide synthase	uncultured bacterium	1.00	35.8	0.905	
+1225
+AF-M4JBP8-F1-model_v4	Polyketide synthase	uncultured bacterium	1.00	36.5	0.904	
+1225
+AF-N0BS10-F1-model_v4	Ketosynthase	uncultured bacterium	1.00	36.4	0.904	
+2224
+AF-Q2Q413-F1-model_v4	Beta ketosynthase	uncultured bacterium	1.00	36.4	0.904	
+1225
+AF-A0A097QHG2-F1-model_v4	Ketosynthase	Bacillus sp. LX-107	1.00	39.2	0.903	
+1222
+AF-D4NX92-F1-model_v4	Type I ketosynthase	uncultured bacterium	1.00	38.7	0.902	
+1225
+AF-D5MAY7-F1-model_v4	Polyketide synthase	uncultured bacterium	1.00	35.6	0.901	
+1225
+AF-B4YVP5-F1-model_v4	Polyketide synthase	Prorocentrum lima	1.00	33.1	0.900	
+2225
+AF-K9S0A7-F1-model_v4	Polyketide synthase	Alkalihalobacillus gibsonii	1.00	40.9	0.900	
+1225
+AF-A6N8G3-F1-model_v4	Pks	Mammaliicoccus lentus	1.00	41.8	0.899	
+1225
+AF-N0BJJ0-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	32.4	0.898	
+3225
+AF-N0BJG4-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	31.3	0.894	
+4218
+AF-D0EFN7-F1-model_v4	Type I ketosynthase	Streptomyces sp. T8-44	1.00	36.5	0.893	
+1225
+AF-E2FYK6-F1-model_v4	Putative beta ketosynthase	Mycobacterium sp. AQ1GA1	0.99	41.9	0.893	
+3217
+AF-C9K4P5-F1-model_v4	Polyketide synthase	Streptomyces tateyamensis	0.99	39.6	0.892	
+3217
+AF-N0BRX2-F1-model_v4	Ketosynthase	uncultured bacterium	1.00	33	0.891	
+1225
+AF-N0BQV4-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	28.7	0.891	
+4220
+AF-B5BQT8-F1-model_v4	Polyketide synthase	Enhygromyxa sp. SYM-1	0.99	36.4	0.891	
+3217
+AF-A0A3G6VEV7-F1-model_v4	Polyketide synthase	Saccharomonospora azurea	1.00	39	0.891	
+1225
+AF-D4NX11-F1-model_v4	Type I ketosynthase	uncultured bacterium	1.00	29.5	0.890	
+1225
+AF-A0A191M5P5-F1-model_v4	Type I polyketide synthase	Sneathiella glossodoripedis	0.99	31.8	0.890	
+1218
+AF-A0A7L8H6V0-F1-model_v4	Polyketide synthase	Streptomyces diastaticus	0.99	35.2	0.888	
+1223
+AF-G9MAY4-F1-model_v4	Polyketide synthase	Actinoplanes sp. MN07-A0363	0.99	37.3	0.887	
+3217
+AF-N0BHL6-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	37	0.887	
+1222
+AF-A0A6M3RFN2-F1-model_v4	Polyketide synthase	Monilinia fructicola	0.99	29.5	0.886	
+1218
+AF-N0BRS5-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	37.7	0.886	
+1223
+AF-C9K4Q1-F1-model_v4	Polyketide synthase	Streptomyces haliclonae	0.99	33.6	0.885	
+3217
+AF-G9MAY2-F1-model_v4	Polyketide synthase	Actinoplanes sp. MN07-A0363	0.99	35.4	0.885	
+3217
+AF-A0A0F4ISB3-F1-model_v4	PKS_KS domain-containing protein	Streptomyces katrae	1.00	38.3	0.884	
+1225
+AF-C4MR00-F1-model_v4	PKS/FAS ketosynthase domain	Pseudovibrio sp. PV1	0.99	32.1	0.884	
+1225
+AF-Q0Z8J3-F1-model_v4	Polyketide synthase BKS1	Candidatus Endobugula sertula	0.99	36.5	0.884	
+1225
+AF-K9S0A3-F1-model_v4	Polyketide synthase	Streptomyces griseus subsp. griseus	0.99	36.8	0.883	
+1218
+AF-N0BRY7-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	38.3	0.883	
+1224
+AF-W5SC42-F1-model_v4	Polyketide synthase	Aspergillus penicillioides	0.99	34.2	0.879	
+4222
+AF-A0A345TTJ2-F1-model_v4	Polyketide synthase	Cercospora sp.	1.00	33.9	0.877	
+1225
+AF-A0A1Y2DRY0-F1-model_v4	Polyketide synthase	Neocallimastix californiae	1.00	33.7	0.877	
+1225
+AF-N0BJB3-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	35.2	0.875	
+1220
+AF-V9TKV7-F1-model_v4	Fumonisin biosynthetic polyketide synthase	Fusarium proliferatum	0.99	29.5	0.875	
+5213
+AF-N0BRP0-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	36.6	0.872	
+3217
+AF-C6K2N7-F1-model_v4	Non-reduced type polyketide synthase protein	Ascochyta rabiei	1.00	31	0.872	
+1224
+AF-N0BRR4-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	29.9	0.871	
+4218
+AF-A0A6G4X915-F1-model_v4	Polyketide synthase	Streptomyces boncukensis	0.98	39.6	0.865	
+23223
+AF-A0A097C0T1-F1-model_v4	MmpD	Pseudomonas fluorescens	0.99	39.8	0.861	
+13225
+AF-I4EPP4-F1-model_v4	PKS ketosynthase domain protein	Aquimarina sp. Aq132	0.99	29.9	0.860	
+14218
+AF-A0A2S1ZR84-F1-model_v4	Polyketide synthase	Bacillus sp. (in: Bacteria)	0.99	38	0.858	
+1211
+AF-Q2KT16-F1-model_v4	WA-type polyketide synthase	Aspergillus ochraceus	0.99	32.6	0.857	
+1224
+AF-N0BRN6-F1-model_v4	Ketosynthase	uncultured bacterium	0.99	35.4	0.857	
+1207
+AF-A0A2Z5YIG4-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium marinum	0.99	38	0.853	
+2225
+AF-A0A1C3RAD6-F1-model_v4	PKS ketosynthase domain protein	Pseudovibrio sp. AU243	0.98	30.4	0.851	
+3207
+AF-A0A7K2QEE6-F1-model_v4	Polyketide synthase	Streptomyces sp. SID7760	0.98	37.9	0.847	
+1201
+AF-A0A0M8Z5L6-F1-model_v4	Acyl transferase	Streptomyces sp. NRRL F-7442	1.00	40.5	0.841	
+1225
+AF-K9LM67-F1-model_v4	PtzD	Candidatus Endolissoclinum faulkneri	0.97	40.5	0.840	
+30222
+AF-A0A7G9U9F5-F1-model_v4	NodE	Rhizobium leguminosarum bv. trifolii	0.99	24.5	0.839	
+12225
+AF-A0A4R5GXK3-F1-model_v4	Polyketide synthase	Streptomyces sp. WAC05374	0.99	52.5	0.838	
+1195
+AF-A0A0L8QD99-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	0.98	39.5	0.837	
+27225
+AF-A0A418GMR3-F1-model_v4	Polyketide synthase	Escherichia coli	1.00	46.9	0.837	
+1225
+AF-A0A7R9QM92-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.98	28.8	0.835	
+15225
+AF-A7SXS0-F1-model_v4	Predicted protein	Nematostella vectensis	0.99	31.1	0.833	
+15225
+AF-C9K4P7-F1-model_v4	Polyketide synthase	Streptomyces tateyamensis	0.99	38.3	0.828	
+1217
+AF-A0A192GPU5-F1-model_v4	PKS protein	Roseimaritima ulvae	0.96	33.1	0.826	
+16203
+AF-A0A0B7K542-F1-model_v4	PKS_KS domain-containing protein	Clonostachys rosea	1.00	28.6	0.825	
+1225
+AF-A0A1B1XXY7-F1-model_v4	Type I polyketide synthase	Streptomyces sp.	0.97	37.5	0.825	
+12203
+AF-A0A059UCX4-F1-model_v4	Polyketide synthase	Aspergillus westerdijkiae	0.97	31.8	0.824	
+4200
+AF-I4EPN9-F1-model_v4	PKS ketosynthase domain protein	Pseudovibrio sp. Pv248	0.97	29.9	0.823	
+18213
+AF-N0BJJ3-F1-model_v4	Ketosynthase	uncultured bacterium	0.96	29.1	0.822	
+7196
+AF-G9MAY1-F1-model_v4	Polyketide synthase	Actinoplanes sp. MN07-A0362	0.99	29.5	0.820	
+3217
+AF-A0A5C9AXX4-F1-model_v4	Polyketide synthase	Planctomycetota bacterium	1.00	37	0.819	
+1225
+AF-N0BJH4-F1-model_v4	Ketosynthase	uncultured bacterium	0.96	31.7	0.818	
+1188
+AF-C0Z297-F1-model_v4	AT1G74960 protein	Arabidopsis thaliana	0.99	20.2	0.816	
+1217
+AF-A0A0L8M0Y0-F1-model_v4	Polyketide synthase	Streptomyces varsoviensis	0.96	39.2	0.816	
+11199
+AF-I0CKX8-F1-model_v4	Polyketide synthase	Phoma sp. F41	0.94	35.3	0.814	
+46222
+AF-A0A2U9K831-F1-model_v4	Type I polyketide synthase	Streptomyces sp.	0.95	39.6	0.812	
+44225
+AF-A0A6B3IGA3-F1-model_v4	Polyketide synthase	Streptomyces sp. SID8455	0.97	37.5	0.811	
+1195
+AF-A0A6B1N2G4-F1-model_v4	Polyketide synthase	Streptomyces sp. SID69	0.98	38.3	0.811	
+1196
+AF-A0A0C5G9C3-F1-model_v4	PKS_KS domain-containing protein	Streptomyces cyaneogriseus subsp. noncyanogenus	0.92	41.7	0.810	
+54222
+AF-A0A7G1IEP9-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium kansasii	0.99	35.9	0.810	
+11225
+AF-A0A7K2MM30-F1-model_v4	Polyketide synthase	Streptomyces sp. SID6013	0.94	39.3	0.809	
+26202
+AF-A0A429SVI9-F1-model_v4	Polyketide synthase	Streptomyces sp. WAC05374	0.90	43.5	0.806	
+62223
+AF-F1BCS7-F1-model_v4	Nonreducing polyketide synthase	Epicoccum sp. CBMAI 1029	0.96	30.4	0.806	
+15204
+AF-A0A192GQI2-F1-model_v4	PKS protein	Rubinisphaera brasiliensis	0.94	33.1	0.806	
+16200
+AF-A0A7J7Q660-F1-model_v4	Thiolase-like protein	Scenedesmus sp. NREL 46B-D3	0.99	31.9	0.804	
+9225
+AF-A0A100W009-F1-model_v4	Beta-ketoacyl synthase	Mycolicibacterium brisbanense	0.94	40.7	0.803	
+1177
+AF-A0A2S9FJJ8-F1-model_v4	Polyketide synthase	Mycobacterium sp. ITM-2017-0098	0.96	43.5	0.802	
+42225
+AF-N0BQU0-F1-model_v4	Ketosynthase	uncultured bacterium	0.95	41.2	0.802	
+47222
+AF-I2CPR8-F1-model_v4	Beta-ketoacyl synthase	Nannochloropsis gaditana CCMP526	0.97	23.4	0.802	
+1209
+AF-I1V375-F1-model_v4	Polyketide synthase	Cryptosporidium fayeri	0.99	26.1	0.802	
+1208
+AF-A0A1Y3N2N4-F1-model_v4	PKS_KS domain-containing protein	Piromyces sp. E2	1.00	34.2	0.800	
+1225
+AF-A0A0M2GG32-F1-model_v4	Polyketide synthase	Streptomyces variegatus	1.00	35.6	0.798	
+1225
+AF-W5SC52-F1-model_v4	Polyketide synthase	Penicillium brevissimum	0.89	37	0.797	
+66225
+AF-A0A383C9Y0-F1-model_v4	PKS_KS domain-containing protein	marine metagenome	0.99	19.3	0.795	
+13225
+AF-A0A1X4HSC5-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. 13-12-16	1.00	49.5	0.793	
+1225
+AF-A0A1X0EKZ0-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium intermedium	1.00	37.4	0.792	
+1225
+AF-A0A6G9IWZ8-F1-model_v4	Putative type I polyketide synthase	Streptomyces sp.	0.93	37.9	0.790	
+49225
+AF-A0A7R8ZY67-F1-model_v4	Hypothetical protein	Cyprideis torosa	0.98	28.5	0.789	
+1208
+AF-Q9LAZ4-F1-model_v4	Putative polyketide synthase type I	Streptomyces noursei	0.92	32.2	0.788	
+1181
+AF-N0BLC9-F1-model_v4	Ketosynthase	uncultured bacterium	0.91	32.7	0.786	
+49217
+AF-A0A286TWM5-F1-model_v4	Mixed type I polyketide synthase-peptide synthetase	Candidatus Scalindua japonica	0.98	39.3	0.785	
+1199
+AF-A0A6B3GA03-F1-model_v4	Polyketide synthase	Streptomyces sp. SID7982	1.00	41.4	0.785	
+1225
+AF-A0A109SWP9-F1-model_v4	Polyketide synthase	Mycobacterium tuberculosis variant africanum	1.00	36.1	0.782	
+1225
+AF-A0A352NQN5-F1-model_v4	Polyketide synthase	Pelotomaculum sp.	1.00	38.3	0.781	
+1225
+AF-A0A1R0L6N2-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. IMTB 2501	0.90	38.9	0.778	
+1170
+AF-A0A0L8QX80-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	1.00	44.8	0.776	
+1225
+AF-A0A6G2UH86-F1-model_v4	Polyketide synthase	Streptomyces sp. SID4931	0.99	40.6	0.775	
+1197
+AF-A0A7C5SSG5-F1-model_v4	Polyketide synthase	Thiotrichales bacterium	1.00	52.8	0.775	
+1225
+AF-A0A0K2CWT6-F1-model_v4	Pyoluteorin	Pseudomonas fluorescens	0.94	37.6	0.775	
+50225
+AF-I7FQX3-F1-model_v4	Putative polyketide synthase	uncultured fungus	0.96	33.5	0.774	
+1193
+AF-A0A7V2JHV8-F1-model_v4	Polyketide synthase	Bacteroidetes bacterium	0.97	29.3	0.774	
+33225
+AF-A0A7Y9BPY1-F1-model_v4	Polyketide synthase	Streptomyces sp. BR123	1.00	39.6	0.773	
+1225
+AF-K9LK93-F1-model_v4	PtzD	Candidatus Endolissoclinum faulkneri	0.85	39.7	0.771	
+16180
+AF-A0A6J1QPF8-F1-model_v4	fatty acid synthase-like	Temnothorax curvispinosus	0.99	25.1	0.771	
+1225
+AF-B1GXY6-F1-model_v4	Polyketide synthase	Fusarium proliferatum	0.84	30	0.769	
+23183
+AF-A0A831DQT9-F1-model_v4	Polyketide synthase	Escherichia coli	1.00	44.8	0.768	
+1219
+AF-K4GWJ0-F1-model_v4	Polyketide synthetase	Cylindrospermopsis raciborskii MVCC19	0.82	41.5	0.768	
+51202
+AF-A0A0L8NUH5-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	0.87	38.5	0.767	
+4172
+AF-A0A2S9F0X1-F1-model_v4	Polyketide synthase	Mycobacterium sp. ITM-2017-0098	1.00	39.2	0.764	
+1225
+AF-K9LK45-F1-model_v4	PtzD	Candidatus Endolissoclinum faulkneri	0.82	38.2	0.764	
+19179
+AF-A0A7K2W3F4-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. SID2888	1.00	36.1	0.763	
+1225
+AF-A0A1M9L042-F1-model_v4	Mycocerosate synthase	Mycobacteroides abscessus subsp. abscessus	1.00	36.7	0.762	
+1225
+AF-A0A1X0JAJ8-F1-model_v4	PKS_KS domain-containing protein	Mycolicibacterium tusciae	0.84	36.5	0.762	
+15176
+AF-A0A455V4G1-F1-model_v4	PKS_KS domain-containing protein	Halomonas axialensis	0.77	37.8	0.761	
+71217
+AF-A0A6G1JJM8-F1-model_v4	Ketoacyl-synt-domain-containing protein	Lentithecium fluviatile CBS 122367	1.00	31.8	0.761	
+1225
+AF-A0A0L8QD65-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	0.97	39.4	0.759	
+32225
+AF-A0A3M5C4A5-F1-model_v4	Non-ribosomal peptide synthetase/polyketide synthetase	Pseudomonas coronafaciens pv. garcae	1.00	40.8	0.757	
+1225
+AF-A0A0M8NX07-F1-model_v4	PKS_KS domain-containing protein	Penicillium nordicum	1.00	29	0.757	
+1225
+AF-K8YXS4-F1-model_v4	Beta-ketoacyl synthase	Nannochloropsis gaditana CCMP526	0.99	36.2	0.756	
+1225
+AF-A0A519UVH5-F1-model_v4	Polyketide synthase	Hymenobacter sp.	1.00	50.8	0.756	
+1225
+AF-A0A2A5C4D5-F1-model_v4	PKS_KS domain-containing protein	Moraxellaceae bacterium	1.00	36.1	0.755	
+1225
+AF-A0A6B3G7L0-F1-model_v4	Polyketide synthase	Streptomyces sp. SID7982	0.89	37.2	0.754	
+1170
+AF-A0A418GHC5-F1-model_v4	Polyketide synthase	Escherichia coli	1.00	46.2	0.751	
+1225
+AF-A0A2V6G4F7-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Verrucomicrobia bacterium	0.99	18.8	0.750	
+2225
+AF-A0A6P0LS96-F1-model_v4	Polyketide synthase	Moorena sp. SIO3G5	1.00	42.7	0.750	
+1225
+AF-A0A0J7MP29-F1-model_v4	Fatty acid synthase	Lasius niger	0.90	21.2	0.748	
+1176
+AF-F3G491-F1-model_v4	Beta-ketoacyl synthase	Pseudomonas syringae pv. pisi str. 1704B	0.99	34.5	0.748	
+5225
+AF-A0A7I7KPW8-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium simiae	1.00	33.9	0.748	
+1225
+AF-A0A354B5V0-F1-model_v4	Beta-ketoacyl synthase	Acidimicrobiaceae bacterium	0.99	24.5	0.748	
+1216
+AF-F8PDD4-F1-model_v4	PKS_KS domain-containing protein	Serpula lacrymans var. lacrymans S7.9	0.90	42	0.747	
+63225
+AF-A0A2H8TE21-F1-model_v4	Fatty acid synthase	Melanaphis sacchari	0.99	20.2	0.747	
+1225
+AF-A0A4R4P426-F1-model_v4	Polyketide synthase	Streptomyces sp. 8K308	1.00	40.9	0.747	
+1225
+AF-D6X7I9-F1-model_v4	Beta-ketoacyl synthase domain-containing protein	Streptomyces pristinaespiralis ATCC 25486	1.00	38.3	0.747	
+1225
+AF-A0A7S0SCL4-F1-model_v4	Hypothetical protein	Mantoniella antarctica	0.87	27.1	0.747	
+21225
+AF-A0A1V4CRY6-F1-model_v4	6-deoxyerythronolide-B synthase	Streptomyces antioxidans	0.99	38.7	0.746	
+1220
+AF-A0A1V4CLT4-F1-model_v4	PKS_KS domain-containing protein	Streptomyces antioxidans	0.84	37.6	0.744	
+1160
+AF-A0A6B3CVJ5-F1-model_v4	Polyketide synthase	Streptomyces sp. SID6648	0.80	35.1	0.744	
+31190
+AF-A0A455L7P0-F1-model_v4	Polyketide synthase	Streptomyces sp.	0.69	43	0.743	
+50192
+AF-A0A418GIF8-F1-model_v4	Colibactin polyketide synthase ClbC	Escherichia coli	0.99	45.8	0.742	
+1200
+AF-C4TDE7-F1-model_v4	Polyketide synthase	Actinoplanes sp. ID05-A0661	1.00	37.8	0.741	
+1225
+AF-D9W5M1-F1-model_v4	Modular polyketide synthase	Streptomyces sp. C	1.00	42.7	0.740	
+1225
+AF-A0A097QHF1-F1-model_v4	Ketosynthase	Bacillus sp. LX-40	0.66	44.2	0.740	
+65200
+AF-A0A559KR78-F1-model_v4	Reducing polyketide synthase DEP5	Fusarium oxysporum f. sp. cubense	1.00	33.1	0.738	
+1225
+AF-A0A1L9DTC6-F1-model_v4	PKS_KS domain-containing protein	Streptomyces viridifaciens	1.00	50.8	0.738	
+1225
+AF-S6GKN9-F1-model_v4	Beta-ketoacyl synthase	Osedax symbiont Rs1	1.00	49.1	0.738	
+1225
+AF-A0A1W1HKX6-F1-model_v4	Carrier domain-containing protein	Desulfamplus magnetovallimortis	1.00	51.7	0.737	
+1225
+AF-A0A2S9FB07-F1-model_v4	Beta-ketoacyl synthase	Mycobacterium sp. ITM-2017-0098	0.99	28.3	0.736	
+1225
+AF-R7RW86-F1-model_v4	Thiolase-like protein	Stereum hirsutum FP-91666 SS1	1.00	24.1	0.736	
+1225
+AF-B3KYD6-F1-model_v4	Putative polyketide synthase	Vibrio sp. MJ.5	0.54	54.4	0.735	
+102224
+AF-A0A7S3MCD8-F1-model_v4	Hypothetical protein	Spumella elongata	0.98	30	0.734	
+1208
+AF-K4IZ07-F1-model_v4	Polyketide synthase	Phormidium autumnale CYN53	0.63	43	0.734	
+60194
+AF-I0CKX4-F1-model_v4	Polyketide synthase	Cladosporium sp. F5	0.95	36.5	0.734	
+1183
+AF-C4TAR9-F1-model_v4	Polyketide synthase	Streptomyces aculeolatus	1.00	37	0.734	
+1225
+AF-A0A1V1SYS8-F1-model_v4	PKS_KS domain-containing protein	Xylariales sp. No.14919	1.00	32.4	0.733	
+1225
+AF-C4TDF6-F1-model_v4	Polyketide synthase	Streptomyces sp. ID05-A0813	1.00	37	0.733	
+1225
+AF-C4TAW8-F1-model_v4	Polyketide synthase	Streptomyces netropsis	1.00	42.2	0.733	
+1225
+AF-A0A4Q5QUI5-F1-model_v4	PKS_KS domain-containing protein	Alphaproteobacteria bacterium	0.99	24.6	0.732	
+1225
+AF-A0A2T1G7F5-F1-model_v4	3-oxoacyl-ACP synthase	Chamaesiphon polymorphus CCALA 037	0.99	20.5	0.732	
+2225
+AF-C4TCH4-F1-model_v4	Polyketide synthase	Streptomyces sp. ID05-A0356	1.00	38.7	0.732	
+1225
+AF-A0A1Z2TI17-F1-model_v4	Polyketide synthase	Scytonema sp. N11	0.60	47	0.732	
+78209
+AF-A0A838PPL2-F1-model_v4	Beta-ketoacyl-ACP synthase II	Thermoleophilaceae bacterium	0.99	23.3	0.731	
+4225
+AF-A0A848WIM4-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Silicimonas sp.	0.99	22.4	0.731	
+1225
+AF-C4TBX4-F1-model_v4	Polyketide synthase	Streptomyces sp. ID05-A0174	0.99	38.5	0.730	
+1225
+AF-A0A4S3JDL0-F1-model_v4	PKS_KS domain-containing protein	Aspergillus tanneri	1.00	29.5	0.730	
+1225
+AF-T2IEJ7-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Crocosphaera watsonii WH 8502	1.00	34.8	0.730	
+1225
+AF-A0A7Y3PVK8-F1-model_v4	Polyketide synthase	Streptomyces sp. S3(2020)	1.00	41.5	0.729	
+1225
+AF-A0A6B2SMW4-F1-model_v4	3-oxoacyl-ACP synthase	Streptomyces sp. SID10115	0.91	22.8	0.729	
+1178
+AF-A0A4R4MF68-F1-model_v4	Polyketide synthase subunit	Micromonospora fluostatini	1.00	38.7	0.728	
+1225
+AF-A0A0Q5DMH8-F1-model_v4	PKS_KS domain-containing protein	Duganella sp. Leaf126	1.00	38.3	0.727	
+1225
+AF-A0A834HSB8-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.72	22.9	0.727	
+27181
+AF-A0A3D2UI12-F1-model_v4	3-oxoacyl-ACP reductase	Gemmatimonadetes bacterium	1.00	27.4	0.727	
+1225
+AF-A0A834HYA3-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.99	24.5	0.727	
+1225
+AF-A0A319A0G3-F1-model_v4	Ketoacyl-synt-domain-containing protein	Aspergillus saccharolyticus JOP 1030-1	0.99	33.4	0.726	
+1225
+AF-A0A366NVJ1-F1-model_v4	PKS_KS domain-containing protein	Verticillium dahliae	1.00	30.7	0.725	
+1225
+AF-M2U9N1-F1-model_v4	PKS_KS domain-containing protein	Bipolaris maydis C5	0.63	31.1	0.724	
+79213
+AF-A0A6J3LPS5-F1-model_v4	ketoacyl-synt-domain-containing protein	Dissoconium aciculare CBS 342.82	0.99	31.5	0.724	
+1214
+AF-A0A0P9U0Q5-F1-model_v4	Bactin polyketide/non-ribosomal peptide synthetase	Pseudomonas syringae pv. helianthi	1.00	47.8	0.724	
+1225
+AF-I0CKX2-F1-model_v4	Polyketide synthase	Bipolaris sp. F2	0.66	31.1	0.724	
+39188
+AF-A0A239PB32-F1-model_v4	Ketoacyl-synthetase C-terminal extension	Actinomadura meyerae	1.00	40	0.722	
+1225
+AF-A0A399HP97-F1-model_v4	Putative Non-ribosomal peptide synthetase	Alternaria sp. MG1	1.00	35.5	0.722	
+1225
+AF-A0A7R9QI66-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.98	27.1	0.721	
+1205
+AF-A0A6G3RZY2-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID14478	1.00	38.3	0.721	
+1225
+AF-A0A0S7YR02-F1-model_v4	PKS_KS domain-containing protein	Deltaproteobacteria bacterium SG8_13	0.99	30.5	0.720	
+1225
+AF-A0A3R8SXD1-F1-model_v4	Polyketide synthase	Streptomyces sp. RP5T	1.00	50.4	0.720	
+1225
+AF-A0A7R9QCD4-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.99	26.1	0.719	
+13225
+AF-A0A357A9W0-F1-model_v4	Short-chain dehydrogenase	Cyanobacteria bacterium UBA11691	0.99	40	0.719	
+1210
+AF-A0A6G9F9T8-F1-model_v4	Polyketide synthase	Streptomyces sp. Tu 2975	0.99	40.7	0.719	
+1199
+AF-F9X1Z1-F1-model_v4	Ketoacyl synthase domain-containing protein	Zymoseptoria tritici IPO323	1.00	29.8	0.718	
+1225
+AF-A0A6B3IE85-F1-model_v4	Polyketide synthase	Streptomyces sp. SID8455	0.94	36.6	0.717	
+1178
+AF-A0A7C7Q5M6-F1-model_v4	Polyketide synthase	Armatimonadetes bacterium	1.00	35.2	0.716	
+1225
+AF-A0A0N0B4P2-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. NRRL F-7442	1.00	38.3	0.716	
+1225
+AF-A0A6J1QTX9-F1-model_v4	fatty acid synthase-like	Temnothorax curvispinosus	0.91	21.9	0.716	
+1180
+AF-A0A2N3JSK0-F1-model_v4	Modular polyketide synthase	Streptomyces sp. EAG2	0.89	44	0.715	
+66225
+AF-A0A845XGP9-F1-model_v4	Polyketide synthase	Moorena sp. SIO3B2	1.00	43.1	0.714	
+1225
+AF-A0A3M7NDZ2-F1-model_v4	PKS_KS domain-containing protein	Chaetothyriales sp. CBS 132003	1.00	32.8	0.714	
+1225
+AF-A0A4S3JFY2-F1-model_v4	PKS_KS domain-containing protein	Aspergillus tanneri	1.00	36.4	0.712	
+1225
+AF-A0A7K2MIY0-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID6013	0.63	36.1	0.712	
+26167
+AF-A0A1A3CZ50-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium asiaticum	0.99	35.1	0.712	
+1225
+AF-A0A6G3SDT3-F1-model_v4	Polyketide synthase	Streptomyces sp. SID14478	1.00	36.5	0.712	
+1225
+AF-A0A7G1IDH6-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium kansasii	1.00	39.9	0.711	
+1225
+AF-A0A0M8Z717-F1-model_v4	Polyketide synthase	Streptomyces sp. NRRL F-7442	0.51	45.2	0.711	
+55179
+AF-W0AHA6-F1-model_v4	PKS_KS domain-containing protein	Sphingomonas sanxanigenens DSM 19645 = NX02	1.00	56.3	0.710	
+1225
+AF-A0A6B3G325-F1-model_v4	Polyketide synthase	Streptomyces sp. SID7982	1.00	41.4	0.710	
+1225
+AF-Q7X5E4-F1-model_v4	Modular type 1 polyketide synthase	Saccharopolyspora erythraea	1.00	37.4	0.710	
+1225
+AF-W7VQG4-F1-model_v4	Type I polyketide synthase AVES 3	Micromonospora sp. M42	1.00	40.5	0.710	
+1225
+AF-A0A2G6PCC5-F1-model_v4	PKS_KS domain-containing protein	Candidatus Delongbacteria bacterium	0.96	50.8	0.710	
+46225
+AF-A0A4S3J8D7-F1-model_v4	PKS_KS domain-containing protein	Aspergillus tanneri	1.00	29.5	0.710	
+1225
+AF-A0A6B3CPI5-F1-model_v4	Polyketide synthase	Streptomyces sp. SID6648	0.91	45.1	0.710	
+61225
+AF-A0A6V8KLU1-F1-model_v4	Ketoacyl_synth_N domain-containing protein	Phytohabitans houttuyneae	0.99	18.6	0.708	
+1225
+AF-A0A087SNH8-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsC	Auxenochlorella protothecoides	0.99	30.3	0.708	
+1225
+AF-A0A370B8P2-F1-model_v4	Polyketide synthase	Streptomyces corynorhini	1.00	39.2	0.707	
+1225
+AF-W1J6B5-F1-model_v4	Uncharacterized protein	Xenorhabdus cabanillasii JM26	0.57	24.6	0.706	
+94225
+AF-A0A353KJB2-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp.	1.00	38.7	0.706	
+1225
+AF-A0A4C1WUA5-F1-model_v4	Fatty acid synthase	Eumeta japonica	0.97	24.1	0.706	
+1213
+AF-D9WB03-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	40	0.704	
+1225
+AF-A0A7K2M7Q8-F1-model_v4	Erythronolide synthase	Streptomyces sp. SID5998	1.00	38.7	0.704	
+1225
+AF-A0A0R8Z2Q9-F1-model_v4	Putative polyketide synthase 1	Cladonia rangiferina	0.57	34	0.704	
+20160
+AF-A0A7K2VLN4-F1-model_v4	Polyketide synthase	Streptomyces sp. SID1328	1.00	40.3	0.704	
+1225
+AF-Q20BN4-F1-model_v4	Polyketide synthase	Fusarium verticillioides	0.99	28.4	0.704	
+1210
+AF-A0A167H1N2-F1-model_v4	Beta-ketoacyl synthase	Beauveria brongniartii RCEF 3172	1.00	33.4	0.704	
+1225
+AF-A0A1X4HUL4-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. 13-12-16	1.00	44.9	0.703	
+1225
+AF-A0A6B2SLE7-F1-model_v4	Polyketide synthase	Streptomyces sp. SID10115	1.00	45.4	0.703	
+1225
+AF-A0A6J1R3U2-F1-model_v4	fatty acid synthase-like	Temnothorax curvispinosus	0.92	26.4	0.703	
+50225
+AF-A0A7C3HHJ8-F1-model_v4	Type I polyketide synthase	Bacteroidetes bacterium	1.00	61.5	0.703	
+1225
+AF-A0A1L9DTD0-F1-model_v4	PKS_KS domain-containing protein	Streptomyces viridifaciens	1.00	57	0.702	
+1225
+AF-A0A2P9IXS1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Actinomadura parvosata subsp. kistnae	1.00	53.7	0.701	
+1225
+AF-A0A6G3CCJ2-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID5643	0.44	40.9	0.701	
+91211
+AF-A0A6P0RXL9-F1-model_v4	Polyketide synthase	Symploca sp. SIO2D2	1.00	40.5	0.701	
+1225
+AF-D9W5N2-F1-model_v4	Polyketide synthase type I	Streptomyces sp. C	0.99	44	0.701	
+1209
+AF-A0A094CWF1-F1-model_v4	PKS_KS domain-containing protein	Pseudogymnoascus sp. VKM F-3775	1.00	33.7	0.699	
+1225
+AF-A0A7X0AJ94-F1-model_v4	Acyl transferase domain-containing protein	Rhodanobacter sp. MP1X3	1.00	49.1	0.699	
+1225
+AF-A0A3D9TWP4-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase II	Rhodococcus sp. OK269	0.99	24.5	0.698	
+1225
+AF-A0A1W1ZNK3-F1-model_v4	Beta-ketoacyl synthase, C-terminal domain	Lentzea albidocapillata	1.00	37.7	0.698	
+1225
+AF-A0A0L8QDJ0-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	0.97	38.1	0.698	
+1192
+AF-A0A851XAR6-F1-model_v4	ACTS3 synthase	Corvus moneduloides	0.85	26.7	0.697	
+1169
+AF-A0A120J1I5-F1-model_v4	Polyketide synthase	Mycobacterium tuberculosis variant africanum	0.97	40.7	0.697	
+38225
+AF-A0A1Y3NBZ3-F1-model_v4	PKS_KS domain-containing protein	Piromyces sp. E2	1.00	35	0.696	
+1225
+AF-A0A6G2UV83-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID4931	0.44	42.9	0.696	
+71190
+AF-A0A6B3G500-F1-model_v4	Polyketide synthase	Streptomyces sp. SID7982	0.99	52	0.696	
+33225
+AF-A0A6N2HMM1-F1-model_v4	Polyketide synthase	Streptomyces sp. sk2.1	1.00	39.6	0.696	
+1225
+AF-A0A158NWL7-F1-model_v4	PKS_KS domain-containing protein	Atta cephalotes	0.92	26.1	0.695	
+47225
+AF-A0A0R0GCG1-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Glycine max	0.99	19	0.695	
+1225
+AF-A0A1Q5DAL1-F1-model_v4	3-oxoacyl-ACP synthase	Streptomyces sp. CB02058	0.99	23.5	0.694	
+1225
+AF-A0A0Q6T7G4-F1-model_v4	PKS_KS domain-containing protein	Massilia sp. Root335	1.00	39.6	0.694	
+1225
+AF-A0A022W140-F1-model_v4	PKS_KS domain-containing protein	Trichophyton rubrum CBS 288.86	0.99	29.3	0.693	
+1225
+AF-A0A1Y2DS98-F1-model_v4	Ketoacyl-synt-domain-containing protein	Neocallimastix californiae	0.60	32.6	0.693	
+45186
+AF-A0A1Y2F8G1-F1-model_v4	Beta-ketoacyl synthase	Neocallimastix californiae	0.98	29.4	0.693	
+1202
+AF-G3XUG1-F1-model_v4	PKS_KS domain-containing protein	Aspergillus niger ATCC 1015	1.00	35	0.693	
+1225
+AF-A0A0R8Z2C3-F1-model_v4	Putative polyketide synthase 16	Cladonia rangiferina	0.44	34.8	0.692	
+50174
+AF-A0A109SXE2-F1-model_v4	Polyketide synthase	Mycobacterium tuberculosis variant africanum	1.00	38.7	0.692	
+1225
+AF-G3Y8C6-F1-model_v4	PKS_KS domain-containing protein	Aspergillus niger ATCC 1015	0.99	29.4	0.692	
+1225
+AF-A0A6G2PUA2-F1-model_v4	Polyketide synthase	Streptomyces sp. SID685	1.00	39.9	0.691	
+1225
+AF-A0A846ELJ6-F1-model_v4	Polyketide synthase	Sphaerospermopsis sp. SIO1G1	1.00	41.4	0.691	
+1225
+AF-A0A6A6END6-F1-model_v4	Thiolase-like protein	Zopfia rhizophila CBS 207.26	0.38	35.5	0.690	
+64179
+AF-A0A6I5E2C3-F1-model_v4	Polyketide synthase	Streptomyces sp. SID5474	0.99	38.3	0.690	
+1225
+AF-H1SA24-F1-model_v4	Beta-ketoacyl synthase	Cupriavidus basilensis OR16	0.98	35.2	0.690	
+1191
+AF-A0A2Z5YCI4-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium marinum	1.00	50.2	0.690	
+1225
+AF-A0A3L8KUZ1-F1-model_v4	Polyketide synthase	Streptomyces griseocarneus	1.00	41.2	0.689	
+1225
+AF-A0A7S3WJ07-F1-model_v4	Hypothetical protein	Emiliania huxleyi	0.99	30.8	0.689	
+1225
+AF-A0A6J4S9J0-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase 2	uncultured Solirubrobacteraceae bacterium	0.99	26.4	0.688	
+1225
+AF-A0A7I9XZX3-F1-model_v4	Polyketide synthase	Mycobacterium botniense	0.99	35.6	0.688	
+1225
+AF-A0A7K0NA16-F1-model_v4	Beta-ketoacyl-ACP synthase II	Actinomycetia bacterium	0.99	24.4	0.688	
+1225
+AF-A0A838CFE9-F1-model_v4	Polyketide synthase	Burkholderia gladioli	1.00	42.5	0.687	
+1225
+AF-A0A7J6NID1-F1-model_v4	PKS_KS domain-containing protein	Perkinsus olseni	1.00	38.1	0.687	
+1225
+AF-A0A1L9E175-F1-model_v4	PKS_KS domain-containing protein	Streptomyces viridifaciens	0.99	35	0.687	
+1225
+AF-A0A813EB87-F1-model_v4	Hypothetical protein	Polarella glacialis	0.80	26.9	0.686	
+76225
+AF-B4NLL8-F1-model_v4	PKS_KS domain-containing protein	Drosophila willistoni	0.98	26.1	0.686	
+1207
+AF-I3VKB4-F1-model_v4	Putative PKS	Streptomyces sp. WAC05292	0.99	36.5	0.686	
+1225
+AF-A0A355AEM8-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Flavobacteriaceae bacterium	0.99	20.7	0.685	
+1225
+AF-A0A7S1YN13-F1-model_v4	Hypothetical protein	Grammatophora oceanica	0.44	32.5	0.685	
+50181
+AF-A0A0U1NHY6-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase 2	Nereida ignava	0.99	24.5	0.685	
+1225
+AF-V7J1P5-F1-model_v4	Beta-ketoacyl synthase	Mycobacterium avium 10-5581	1.00	29.9	0.685	
+1225
+AF-A0A0C1XER9-F1-model_v4	Polyketide synthase	Streptomyces sp. 150FB	1.00	40	0.685	
+1225
+AF-A0A2V4FM92-F1-model_v4	Polyketide synthase	Serratia marcescens	1.00	37.8	0.685	
+1225
+AF-A0A093YVQ2-F1-model_v4	PKS_KS domain-containing protein	Pseudogymnoascus sp. VKM F-3775	0.96	35.9	0.684	
+1187
+AF-A0A7K2M6R6-F1-model_v4	Polyketide synthase	Streptomyces sp. SID5998	0.99	36.5	0.684	
+1225
+AF-A0A6G3S4F4-F1-model_v4	Type I polyketide synthase	Streptomyces sp. SID14478	1.00	38.3	0.682	
+1225
+AF-A0A2V8EHE5-F1-model_v4	Non-ribosomal peptide synthetase	Acidobacteria bacterium	1.00	51.3	0.682	
+1225
+AF-A0A1D1URW3-F1-model_v4	PKS_KS domain-containing protein	Ramazzottius varieornatus	0.96	27.3	0.681	
+1192
+AF-A0A329K4I1-F1-model_v4	Polyketide synthase	Mycolicibacter senuensis	1.00	42.2	0.681	
+1225
+AF-A0A109T1T3-F1-model_v4	Polyketide synthase	Mycobacterium tuberculosis variant africanum	1.00	37.7	0.681	
+1225
+AF-A0A6P0LQ84-F1-model_v4	Polyketide synthase	Moorena sp. SIO3H5	0.98	37.1	0.681	
+1197
+AF-A0A1X0IG00-F1-model_v4	Polyketide synthase	Mycobacterium paraseoulense	1.00	32.5	0.680	
+1225
+AF-A0A7Z9LRL3-F1-model_v4	PKS_KS domain-containing protein	Candidatus Hydrogenedentes bacterium	1.00	25.7	0.680	
+1225
+AF-A0A6B2YQ73-F1-model_v4	Polyketide synthase	Streptomyces sp. SID14515	1.00	39.2	0.680	
+1225
+AF-A0A5C4IYE0-F1-model_v4	Polyketide synthase	Actinomadura soli	0.97	40.2	0.680	
+38225
+AF-A0A1X4HRI3-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. 13-12-16	0.44	38.4	0.680	
+33161
+AF-A0A4R4M4U3-F1-model_v4	Polyketide synthase	Micromonospora fluostatini	1.00	41.8	0.680	
+1225
+AF-A0A286FQP5-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase II	Streptomyces sp. Ag109_G2-15	0.99	23	0.679	
+1225
+AF-E6TEK3-F1-model_v4	Beta-ketoacyl synthase	Mycolicibacterium gilvum Spyr1	0.99	35.2	0.679	
+1225
+AF-A0A1X0BYY4-F1-model_v4	Polyketide synthase	Mycobacterium bouchedurhonense	0.99	35.2	0.678	
+1225
+AF-A0A1E7JRK4-F1-model_v4	Polyketide synthase	Streptomyces oceani	1.00	41.4	0.678	
+1225
+AF-A0A6P0JJ74-F1-model_v4	Polyketide synthase	Moorena sp. SIO4A5	1.00	37.8	0.678	
+1225
+AF-A0A7K2TGD1-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID8352	1.00	39	0.677	
+1225
+AF-A0A2N6K183-F1-model_v4	Polyketide synthase	Fischerella muscicola CCMEE 5323	1.00	57.9	0.677	
+1225
+AF-A0A0C4EC37-F1-model_v4	PKS_KS domain-containing protein	Magnaporthiopsis poae ATCC 64411	0.93	27.4	0.677	
+1180
+AF-D9WB08-F1-model_v4	Putative Type I modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	37.4	0.677	
+1225
+AF-A0A1E3SKS3-F1-model_v4	Beta-ketoacyl synthase	Mycobacterium intermedium	0.99	37.4	0.677	
+1225
+AF-A0A1H9NJS6-F1-model_v4	Candicidin polyketide synthase FscE	Lentzea xinjiangensis	1.00	33	0.676	
+1225
+AF-A0A6G4X668-F1-model_v4	PKS_KS domain-containing protein	Streptomyces boncukensis	1.00	36.5	0.676	
+1225
+AF-A0A2H6FDM5-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase 2	bacterium BMS3Abin07	0.99	20.3	0.676	
+1225
+AF-A0A0Q4JXI8-F1-model_v4	PKS_KS domain-containing protein	Sphingomonas sp. Leaf28	0.99	32.1	0.675	
+1221
+AF-A0A382HUY6-F1-model_v4	PKS_KS domain-containing protein	marine metagenome	1.00	30	0.675	
+1225
+AF-A0A328G3G9-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium tuberculosis variant pinnipedii	1.00	38.7	0.674	
+1225
+AF-A0A2V2Q5D7-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. ZEA17I	1.00	40.9	0.674	
+1225
+AF-E8R363-F1-model_v4	Beta-ketoacyl synthase	Isosphaera pallida ATCC 43644	0.99	23.6	0.673	
+1225
+AF-A0A4S3JGZ9-F1-model_v4	PKS_KS domain-containing protein	Aspergillus tanneri	0.96	38.8	0.673	
+39225
+AF-A0A5J5JT94-F1-model_v4	Polyketide synthase	Microbispora cellulosiformans	0.90	37.7	0.673	
+1186
+AF-A0A370Q409-F1-model_v4	Ketoacyl-synthetase-like protein	Enterobacillus tribolii	1.00	40.9	0.671	
+1225
+AF-A0A5C7MMG3-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Elusimicrobia bacterium	0.99	21.5	0.671	
+1225
+AF-A0A370BBZ3-F1-model_v4	PKS_KS domain-containing protein	Streptomyces corynorhini	1.00	40.5	0.671	
+1225
+AF-U7QWG0-F1-model_v4	PKS_KS domain-containing protein	Photorhabdus temperata J3	0.94	42.6	0.671	
+1171
+AF-A0A2M9I1D8-F1-model_v4	Polyketide synthase	Streptomyces sp. TSRI0384-2	1.00	37.8	0.671	
+1225
+AF-A0A3R9XRI2-F1-model_v4	Polyketide synthase	Streptomyces sp. WAC05950	1.00	35.3	0.671	
+1225
+AF-A0A521XT81-F1-model_v4	Polyketide synthase	Gammaproteobacteria bacterium	1.00	39.4	0.670	
+1225
+AF-A0A7K2MBT8-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. SID5998	1.00	43.8	0.670	
+1225
+AF-I3VKA9-F1-model_v4	Putative PKS	Streptomyces sp. WAC05292	1.00	36.5	0.669	
+1225
+AF-A0A2V2PPK3-F1-model_v4	Type-I PKS	Streptomyces sp. ZEA17I	1.00	40	0.669	
+1225
+AF-A0A4Q5ZBQ1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Myxococcaceae bacterium	1.00	53.7	0.669	
+1225
+AF-A0A1G3QIW5-F1-model_v4	PKS_KS domain-containing protein	Spirochaetes bacterium GWF1_41_5	0.99	21.7	0.668	
+1225
+AF-A0A0L8N1T3-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	0.90	34.4	0.667	
+1159
+AF-A0A6B3I0V6-F1-model_v4	Ketoacyl-synt_C domain-containing protein	Streptomyces sp. SID8455	0.14	60.4	0.667	
+140220
+AF-A0A3E0WRI6-F1-model_v4	PKS_KS domain-containing protein	Alkalilimnicola ehrlichii	1.00	48.4	0.666	
+1225
+AF-A0A1Y3NB83-F1-model_v4	PKS_KS domain-containing protein	Piromyces sp. E2	0.99	29.5	0.666	
+1225
+AF-D9XPH4-F1-model_v4	Non-ribosomal peptide synthetase/polyketide synthase Ta1	Streptomyces griseoflavus Tu4000	1.00	38.2	0.666	
+1225
+AF-A0A520D5L2-F1-model_v4	Type I polyketide synthase	Pedobacter sp.	1.00	45	0.665	
+16225
+AF-A0A6V8KPQ9-F1-model_v4	PKS_KS domain-containing protein	Phytohabitans rumicis	1.00	37.4	0.665	
+1225
+AF-A0A7J0CFL7-F1-model_v4	PKS_KS domain-containing protein	Streptomyces fulvorobeus	1.00	37.8	0.665	
+1225
+AF-A0A6I3T4N6-F1-model_v4	6-deoxyerythronolide-B synthase	Pseudoduganella buxea	0.99	37.8	0.665	
+1225
+AF-A0A6B3IPS7-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID8455	0.28	42.2	0.665	
+89195
+AF-A0A090MC99-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Ostreococcus tauri	0.99	26.4	0.664	
+1225
+AF-A0A6A6DUA7-F1-model_v4	Polyketide synthase	Zopfia rhizophila CBS 207.26	0.66	26	0.664	
+45188
+AF-A0A449GPV1-F1-model_v4	Beta-ketoacyl-acyl-carrier-protein synthase I	Nocardia farcinica	1.00	38.5	0.664	
+1225
+AF-A0A524GKT8-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Desulfobacterales bacterium	0.99	20.3	0.664	
+1225
+AF-A0A6I3T5K8-F1-model_v4	PKS_KS domain-containing protein	Pseudoduganella buxea	1.00	45.7	0.663	
+1225
+AF-A0A5C2CZ68-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	1.00	60.4	0.661	
+1225
+AF-A0A7K3Q299-F1-model_v4	Polyketide synthase	Streptomyces diastaticus	1.00	41.4	0.661	
+1225
+AF-A0A0S3QTV2-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase II	Thermosulfidibacter takaii ABI70S6	0.99	17.7	0.660	
+1225
+AF-A0A221P5R9-F1-model_v4	PKS_KS domain-containing protein	Streptomyces pluripotens	0.99	39.7	0.660	
+1207
+AF-A0A7Z0SW05-F1-model_v4	Polyketide synthase docking domain-containing protein	Salinispora sp. H7-4	1.00	37.4	0.660	
+1225
+AF-A0A0N1NKT2-F1-model_v4	6-deoxyerythronolide-B synthase	Actinobacteria bacterium OK074	1.00	33.5	0.659	
+1225
+AF-A0A2Z5YJ09-F1-model_v4	Carrier domain-containing protein	Mycobacterium marinum	1.00	38.7	0.659	
+1225
+AF-F0ID29-F1-model_v4	3-oxoacyl-(Acyl-carrier-protein) synthase	Capnocytophaga sp. oral taxon 338 str. F0234	0.99	15.2	0.659	
+1225
+AF-D9WQN1-F1-model_v4	Polyketide synthase type I	Streptomyces himastatinicus ATCC 53653	1.00	46.6	0.658	
+1225
+AF-A0A1E7KQX8-F1-model_v4	PKS_KS domain-containing protein	Streptomyces oceani	0.96	37.5	0.658	
+1187
+AF-A0A5B7AQP6-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase	Davidia involucrata	0.99	22.9	0.658	
+1225
+AF-A0A4S3JL09-F1-model_v4	PKS_KS domain-containing protein	Aspergillus tanneri	1.00	33.1	0.656	
+1225
+AF-A0A7S0I5Z8-F1-model_v4	Hypothetical protein	Phaeocystis antarctica	1.00	25.8	0.656	
+1225
+AF-A0A1C4KK38-F1-model_v4	Phosphopantetheine attachment site	Streptomyces sp. DvalAA-14	1.00	39.6	0.655	
+1225
+AF-A0A0D7KJE5-F1-model_v4	PKS_KS domain-containing protein	Paenibacillus sp. E194	1.00	31.2	0.655	
+1225
+AF-A0A6I3T4E9-F1-model_v4	PKS_KS domain-containing protein	Pseudoduganella buxea	1.00	36.1	0.654	
+1225
+AF-A0A6B1N4R8-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. SID69	0.99	28.8	0.654	
+1225
+AF-A0A450X6X6-F1-model_v4	Ketoacyl-synthetase C-terminal extension	Candidatus Kentron sp. LFY	1.00	38.1	0.654	
+1225
+AF-A0A516RPU0-F1-model_v4	Type I polyketide synthase	Streptomyces sp.	0.23	43.8	0.653	
+82183
+AF-A0A7H8KCQ5-F1-model_v4	PKS_KS domain-containing protein	Verrucosispora sp. NA02020	0.99	22.4	0.653	
+1225
+AF-A0A4Q3TFS6-F1-model_v4	Type I polyketide synthase	Chitinophagaceae bacterium	1.00	38.3	0.653	
+1225
+AF-A0A841WH84-F1-model_v4	Type I polyketide synthase	Nostoc sp. 2RC	1.00	59.2	0.653	
+1225
+AF-A0A0M8TBG8-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. WM4235	0.95	56.2	0.653	
+1168
+AF-A0A838EVS7-F1-model_v4	Type I polyketide synthase	Ktedonobacteraceae bacterium	1.00	37.9	0.652	
+1225
+AF-A0A2W1GTY0-F1-model_v4	Polyketide synthase module protein	Pyrenophora tritici-repentis	1.00	29.5	0.652	
+1225
+AF-A0A2E5ESR5-F1-model_v4	Polyketide synthase	Verrucomicrobiales bacterium	1.00	54.6	0.652	
+1225
+AF-A0A5A9ZHA7-F1-model_v4	Polyketide synthase	Streptomyces apricus	1.00	39.2	0.652	
+1225
+AF-A0A7R9M6U7-F1-model_v4	Hypothetical protein	Oppiella nova	0.99	26.2	0.651	
+1225
+AF-A0A5J6GPS7-F1-model_v4	PKS_KS domain-containing protein	Streptomyces kanamyceticus	1.00	39.2	0.651	
+1225
+AF-X8AQE2-F1-model_v4	Beta-ketoacyl synthase, C-terminal domain protein	Mycobacterium xenopi 4042	0.96	36	0.651	
+44225
+AF-A0A499USS1-F1-model_v4	PKS_KS domain-containing protein	Streptomyces antimycoticus	1.00	40.9	0.650	
+1225
+AF-A0A499UBY6-F1-model_v4	PKS_KS domain-containing protein	Streptomyces antimycoticus	1.00	37.8	0.650	
+1225
+AF-A0A5J4ZZW3-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Nyssa sinensis	0.99	18.7	0.649	
+1225
+AF-A0A0F4I731-F1-model_v4	PKS_KS domain-containing protein	Streptomyces katrae	0.21	44.1	0.649	
+80178
+AF-A0A451AJM9-F1-model_v4	Beta-ketoacyl synthase, N-terminal domain	Candidatus Kentron sp. TUN	0.77	49.3	0.649	
+81225
+AF-A0A2I1BTT2-F1-model_v4	Thiolase-like protein	Aspergillus novofumigatus IBT 16806	0.25	32.1	0.649	
+89195
+AF-A0A7C0WNE5-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Nitrospirae bacterium	0.99	19.5	0.649	
+1225
+AF-A0A152A757-F1-model_v4	PKS_KS domain-containing protein	Tieghemostelium lacteum	1.00	31.5	0.648	
+1225
+AF-A0A2V2QIT5-F1-model_v4	Polyketide synthase	Streptomyces sp. ZEA17I	1.00	39.2	0.648	
+1225
+AF-W7W5V3-F1-model_v4	Modular polyketide synthase	Micromonospora sp. M42	1.00	40	0.647	
+1225
+AF-A0A1X0DZR6-F1-model_v4	Polyketide synthase	Mycobacterium intermedium	0.20	45.5	0.647	
+82178
+AF-A0A818SD26-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	1.00	36.9	0.647	
+1225
+AF-D6X8B4-F1-model_v4	Predicted protein	Streptomyces pristinaespiralis ATCC 25486	0.87	40	0.647	
+1168
+AF-A0A0M2WCW5-F1-model_v4	Polyketide synthase	Mycolicibacterium obuense	1.00	39.6	0.647	
+1225
+AF-A5Y781-F1-model_v4	Putative 6-MSAS-type polyketide synthase	Pertusaria corallina	1.00	37	0.646	
+1225
+AF-A0A4U2XZW4-F1-model_v4	Ketoacyl_synth_N domain-containing protein	Lysinibacillus mangiferihumi	0.63	14.7	0.645	
+2173
+AF-A0A0F3IMX3-F1-model_v4	PKS_KS domain-containing protein	Methylocucumis oryzae	1.00	38.8	0.645	
+1225
+AF-A0A6J7NHJ4-F1-model_v4	Unannotated protein	freshwater metagenome	0.94	24	0.645	
+38225
+AF-A0A2S6WAA9-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. 46	1.00	40	0.645	
+1225
+AF-A0A838CGS0-F1-model_v4	Polyketide synthase	Burkholderia gladioli	1.00	39.8	0.645	
+1225
+AF-A0A139ALH5-F1-model_v4	Ketoacyl-synt-domain-containing protein	Gonapodya prolifera JEL478	0.99	33.6	0.645	
+1225
+AF-A0A8A3HJR0-F1-model_v4	Polyketide synthase docking domain-containing protein	Streptomyces griseocarneus	1.00	38.3	0.644	
+1225
+AF-A0A6G4WQS0-F1-model_v4	Polyketide synthase	Streptomyces boncukensis	1.00	40	0.644	
+1225
+AF-A0A172Q9R1-F1-model_v4	Polyketide synthase	Streptococcus pantholopis	1.00	43.6	0.644	
+1225
+AF-B1G608-F1-model_v4	Erythronolide synthase	Paraburkholderia graminis C4D1M	1.00	39.9	0.644	
+1225
+AF-A0A1Y3MT17-F1-model_v4	PKS_KS domain-containing protein	Piromyces sp. E2	0.99	30.3	0.644	
+1225
+AF-A0A0H2TYL9-F1-model_v4	PKS_KS domain-containing protein	Magnaporthiopsis poae ATCC 64411	1.00	32.5	0.643	
+1225
+AF-A0A138ZYL0-F1-model_v4	Thiolase-like protein	Gonapodya prolifera JEL478	1.00	28.8	0.643	
+1225
+AF-A0A5A9ZUG3-F1-model_v4	Polyketide synthase	Streptomyces apricus	1.00	43.6	0.643	
+1225
+AF-A0A2N3JSN5-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. EAG2	1.00	41.8	0.643	
+1225
+AF-A0A6G2Q5P9-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID685	1.00	52.6	0.642	
+1225
+AF-A0A832E2L0-F1-model_v4	Type I polyketide synthase	Calditrichia bacterium	1.00	59.7	0.642	
+1225
+AF-A0A2T7TBI2-F1-model_v4	PKS_KS domain-containing protein	Streptomyces scopuliridis RB72	0.99	27.9	0.640	
+1225
+AF-A5Y793-F1-model_v4	Putative non-reducing polyketide synthase	Pertusaria plittiana	0.99	34.1	0.640	
+1225
+AF-A0A7Z9HXH2-F1-model_v4	Polyketide synthase	Candidatus Hydrogenedentes bacterium	0.96	23.8	0.640	
+1194
+AF-A0A450ZCR8-F1-model_v4	Beta-ketoacyl synthase, C-terminal domain	Candidatus Kentron sp. TUN	1.00	34.6	0.639	
+1225
+AF-A0A7K2N0R4-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID6013	1.00	39.6	0.639	
+1225
+AF-C0E5Y7-F1-model_v4	Beta-ketoacyl synthase, N-terminal domain protein	Corynebacterium matruchotii ATCC 33806	1.00	39.2	0.639	
+1225
+AF-A0A6B3CC58-F1-model_v4	Modular polyketide synthase	Streptomyces sp. SID6648	0.20	42	0.639	
+75171
+AF-A0A0K9Q1F4-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Zostera marina	0.99	20.4	0.638	
+1225
+AF-T2IAB0-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Crocosphaera watsonii WH 8502	1.00	40	0.638	
+1225
+AF-A0A5P2VEB6-F1-model_v4	Polyketide synthase	Streptomyces viridifaciens	1.00	38.1	0.638	
+1225
+AF-A0A3D4Q644-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Cellvibrio sp.	1.00	34.8	0.637	
+1225
+AF-A0A537RJJ5-F1-model_v4	Beta-ketoacyl synthase	Alphaproteobacteria bacterium	1.00	36.5	0.637	
+1225
+AF-K9R177-F1-model_v4	Beta-ketoacyl synthase	Nostoc sp. PCC 7524	0.99	23	0.637	
+1225
+AF-H0B5Q2-F1-model_v4	Putative type-I PKS	Streptomyces sp. W007	1.00	40.4	0.637	
+1225
+AF-A0A2E0JAS9-F1-model_v4	PKS_KS domain-containing protein	Nitratireductor sp.	1.00	34.8	0.637	
+1225
+AF-A0A3R8Y2E0-F1-model_v4	Polyketide synthase	Streptomyces sp. RP5T	1.00	38.3	0.636	
+1225
+AF-A0A841WF80-F1-model_v4	Polyketide synthase	Nostoc sp. 2RC	0.94	28.1	0.636	
+1183
+AF-A0A3R9VWX0-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. WAC05950	0.99	39.6	0.636	
+1225
+AF-A0A0P9SNE4-F1-model_v4	Non-ribosomal peptide synthetase/polyketide synthetase	Pseudomonas syringae pv. cerasicola	1.00	40	0.636	
+1225
+AF-A0A7U3VSZ6-F1-model_v4	Putative polyketide synthase	Streptomyces sp. SN-593	1.00	48.6	0.635	
+1225
+AF-A0A1U7N5M4-F1-model_v4	PKS_KS domain-containing protein	Moorena bouillonii PNG	0.98	23.9	0.635	
+1211
+AF-A0A3B8R4E5-F1-model_v4	Polyketide synthase	Rhodobacteraceae bacterium	0.92	41.1	0.635	
+1178
+AF-A0A7K3XD07-F1-model_v4	Polyketide synthase	Micromonospora sp. PPF5-17B	1.00	40	0.634	
+1225
+AF-A0A1V4CTQ9-F1-model_v4	Polyketide synthase	Streptomyces antioxidans	1.00	38.7	0.634	
+1225
+AF-A0A6G3S2V1-F1-model_v4	Type I polyketide synthase	Streptomyces sp. SID14478	1.00	36.5	0.633	
+1225
+AF-A0A0L8QXB9-F1-model_v4	PKS_KS domain-containing protein	Streptomyces varsoviensis	1.00	40	0.633	
+1225
+AF-A0A176VDK7-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Marchantia polymorpha subsp. ruderalis	0.99	20.8	0.633	
+1225
+AF-A0A370Q2F5-F1-model_v4	Beta-ketoacyl synthase-like protein	Enterobacillus tribolii	0.99	37.5	0.632	
+1212
+AF-A0A4S8PFE1-F1-model_v4	Polyketide synthase	Glycomyces paridis	1.00	33.9	0.631	
+1225
+AF-A0A7I7Q5P4-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium stomatepiae	1.00	41.4	0.631	
+1225
+AF-A0A7C5Z9J3-F1-model_v4	Type I polyketide synthase	Phycisphaerae bacterium	1.00	58.5	0.631	
+1225
+AF-A0A109SZP5-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsB	Mycobacterium tuberculosis variant africanum	1.00	44.4	0.629	
+1225
+AF-A0A4Q5HEL0-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase family protein	Phocaeicola dorei	0.89	19.8	0.628	
+1177
+AF-A0A0N0T1Y3-F1-model_v4	Polyketide synthase	Streptomyces sp. MMG1121	1.00	38.3	0.628	
+1225
+AF-A0A3M7KCN5-F1-model_v4	Polyketide synthase	Aspergillus flavus	1.00	35.6	0.628	
+1225
+AF-A0A318LIV8-F1-model_v4	PKS_KS domain-containing protein	Prauserella flavalba	1.00	33.7	0.628	
+1225
+AF-A0A1V4CUN7-F1-model_v4	Polyketide synthase	Streptomyces antioxidans	1.00	38.7	0.627	
+1225
+AF-D9WQ66-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	38.7	0.627	
+1225
+AF-A0A1Q9TGY2-F1-model_v4	PKS_KS domain-containing protein	Nocardiopsis sp. CNR-923	1.00	35.6	0.627	
+1225
+AF-E9SEZ0-F1-model_v4	Beta-ketoacyl synthase, N-terminal domain protein	Ruminococcus albus 8	1.00	38.6	0.626	
+1225
+AF-A0A1X0C7G0-F1-model_v4	Polyketide synthase	Mycobacterium bouchedurhonense	1.00	40.5	0.626	
+1225
+AF-A0A538DR88-F1-model_v4	Type I polyketide synthase	Actinomycetia bacterium	1.00	57.2	0.626	
+1225
+AF-A0A1V4CTK2-F1-model_v4	Polyketide synthase	Streptomyces antioxidans	1.00	38.7	0.626	
+1225
+AF-A0A810Z0P9-F1-model_v4	Uncharacterized protein	Erwinia rhapontici	1.00	45.5	0.626	
+1225
+AF-A0A6B1KVP2-F1-model_v4	Ketoacyl_synth_N domain-containing protein	Streptomyces sp. SID5464	0.16	44.2	0.626	
+81172
+AF-A0A1V4CWL5-F1-model_v4	Carrier domain-containing protein	Streptomyces antioxidans	1.00	38.7	0.626	
+1225
+AF-A0A1X4HYN9-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. 13-12-16	1.00	38.7	0.626	
+1225
+AF-A0A0D6LAC6-F1-model_v4	Beta-ketoacyl synthase protein	Ancylostoma ceylanicum	1.00	44.4	0.625	
+1225
+AF-A0A837GPQ9-F1-model_v4	Polyketide synthase	Streptomyces sp. WM6391	0.96	40.7	0.625	
+1187
+AF-Q7NJ88-F1-model_v4	Gll1944 protein	Gloeobacter violaceus PCC 7421	1.00	41.4	0.625	
+1225
+AF-A0A5C7MHK6-F1-model_v4	Type I polyketide synthase	Elusimicrobia bacterium	1.00	38.7	0.625	
+1225
+AF-A0A521XZ25-F1-model_v4	Thioester reductase	Gammaproteobacteria bacterium	0.99	33.9	0.624	
+1225
+AF-A0A4Q8A581-F1-model_v4	Phosphopantetheine binding protein	Micromonospora sp. CNZ295	1.00	48.6	0.624	
+1225
+AF-A0A0L8QFD7-F1-model_v4	Beta-ketoacyl synthase	Streptomyces varsoviensis	0.98	26.3	0.624	
+25225
+AF-A0A6I5I2U0-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. SID4913	1.00	40.9	0.624	
+1225
+AF-A0A6G4X813-F1-model_v4	Polyketide synthase	Streptomyces boncukensis	1.00	30.8	0.623	
+1225
+AF-A0A6G4X8X1-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces boncukensis	1.00	38.7	0.623	
+1225
+AF-A0A2V9MN40-F1-model_v4	Thioester reductase	Acidobacteria bacterium	1.00	36.5	0.623	
+1225
+AF-A0A2W1HN92-F1-model_v4	Non-ribosomal peptide synthetase	Pyrenophora tritici-repentis	0.97	29.4	0.622	
+1206
+AF-A0A841N7B3-F1-model_v4	Acyl transferase domain-containing protein	Chryseobacterium shigense	1.00	26.9	0.622	
+1225
+AF-A0A838J9H5-F1-model_v4	Acyltransferase domain-containing protein	Ktedonobacteraceae bacterium	1.00	40.9	0.622	
+1225
+AF-A0A3D9AZ82-F1-model_v4	PKS_KS domain-containing protein	Chryseobacterium pennipullorum	1.00	37.8	0.621	
+1225
+AF-A0A382QB80-F1-model_v4	PKS_KS domain-containing protein	marine metagenome	0.85	34.1	0.621	
+1170
+AF-A0A0F9PRQ9-F1-model_v4	Uncharacterized protein	marine sediment metagenome	1.00	49.5	0.621	
+1225
+AF-A0A0D2N4X5-F1-model_v4	PKS_KS domain-containing protein	Gossypium raimondii	0.98	19.1	0.621	
+1210
+AF-A0A4Y3RIH6-F1-model_v4	Uncharacterized protein	Streptomyces gardneri	1.00	51.7	0.621	
+1225
+AF-A0A1X0JDV1-F1-model_v4	PKS_KS domain-containing protein	Mycolicibacterium tusciae	0.92	35.9	0.621	
+1176
+AF-A0A2T0SDV8-F1-model_v4	Erythronolide synthase docking protein	Umezawaea tangerina	1.00	39.2	0.621	
+1225
+AF-A0A3A8IWZ9-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Corallococcus sp. CA049B	1.00	33.9	0.620	
+1225
+AF-A0A2E8MCA3-F1-model_v4	Polyketide synthase	Verrucomicrobiales bacterium	1.00	49.1	0.620	
+1225
+AF-A0A7K2GF96-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. SID4950	1.00	35	0.619	
+1225
+AF-A0A7K2QCS4-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. SID7760	0.99	37	0.619	
+1225
+AF-U0ZZB4-F1-model_v4	Ketoacyl_synth_N domain-containing protein	Pseudogulbenkiania ferrooxidans EGD-HP2	0.85	22.4	0.619	
+1173
+AF-V4GYK9-F1-model_v4	Beta-ketoacyl synthase	Pseudoalteromonas luteoviolacea 2ta16	1.00	44.1	0.618	
+1225
+AF-A0A2S9F0D4-F1-model_v4	Polyketide synthase	Mycobacterium sp. ITM-2017-0098	1.00	40.5	0.618	
+1225
+AF-A0A3A4A406-F1-model_v4	3-ketoacyl-ACP reductase	Bailinhaonella thermotolerans	1.00	37.8	0.618	
+1225
+AF-A0A854EIS8-F1-model_v4	Polyketide synthase	Burkholderia pseudomallei	1.00	36	0.618	
+1225
+AF-A0A373LBN8-F1-model_v4	PKS_KS domain-containing protein	Eubacterium sp. AF36-5BH	1.00	38.4	0.617	
+1225
+AF-A0A5C2CX96-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	1.00	51.7	0.616	
+1225
+AF-A0A1L9E1A0-F1-model_v4	Carrier domain-containing protein	Streptomyces viridifaciens	1.00	39.2	0.616	
+1225
+AF-A0A370ATE0-F1-model_v4	Polyketide synthase	Streptomyces corynorhini	1.00	38.7	0.615	
+1225
+AF-A0A1X4HY48-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. 13-12-16	1.00	38.7	0.615	
+1225
+AF-D9WB16-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	37.1	0.615	
+1225
+AF-A0A103E307-F1-model_v4	Carrier domain-containing protein	Burkholderia singularis	1.00	48.8	0.615	
+1225
+AF-A0A1Q9TV85-F1-model_v4	Uncharacterized protein	Nocardiopsis sp. CNR-923	1.00	36.5	0.615	
+1225
+AF-Q0AEK6-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Nitrosomonas eutropha C91	1.00	36.5	0.615	
+1225
+AF-Q2KT10-F1-model_v4	Polyketide synthase	Aspergillus ochraceus	1.00	33.6	0.614	
+1225
+AF-A0A100IS58-F1-model_v4	PKS_KS domain-containing protein	Aspergillus niger	0.85	28	0.613	
+1170
+AF-A0A2J5HI73-F1-model_v4	Thiolase-like protein	Aspergillus taichungensis	1.00	33.3	0.612	
+1225
+AF-A0A2E5EUP2-F1-model_v4	Carrier domain-containing protein	Actinomycetia bacterium	1.00	42	0.612	
+1225
+AF-A0A3D2TGM5-F1-model_v4	Polyketide synthase	Planctomycetaceae bacterium	0.84	57.7	0.611	
+1149
+AF-H3D809-F1-model_v4	PKS_KS domain-containing protein	Tetraodon nigroviridis	0.99	33	0.611	
+1225
+AF-A0A2P8C574-F1-model_v4	Beta-ketoacyl synthase-like protein	Murinocardiopsis flavida	0.77	33.7	0.611	
+1155
+AF-A0A1V4CTW3-F1-model_v4	Polyketide synthase	Streptomyces antioxidans	1.00	38.3	0.611	
+1225
+AF-A0A2Z5Y9A1-F1-model_v4	Carrier domain-containing protein	Mycobacterium marinum	1.00	39.2	0.610	
+1225
+AF-A0A6B1N1L1-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID69	1.00	48.6	0.610	
+1225
+AF-A0A7R9F3S8-F1-model_v4	Hypothetical protein	Timema bartmani	0.99	25.9	0.610	
+8225
+AF-R7ML21-F1-model_v4	Erythronolide synthase	Ruminococcus sp. CAG:624	1.00	34.3	0.609	
+1225
+AF-D9XPI0-F1-model_v4	Polyketide synthase	Streptomyces griseoflavus Tu4000	1.00	43.6	0.609	
+1225
+AF-A0A081D6P3-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase	Nonlabens ulvanivorans	0.82	13.7	0.609	
+1181
+AF-A0A499UH90-F1-model_v4	Uncharacterized protein	Streptomyces antimycoticus	1.00	43.1	0.608	
+1225
+AF-A0A3E0X1V8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Alkalilimnicola ehrlichii	1.00	53.9	0.608	
+1225
+AF-A0A2S9F1V3-F1-model_v4	Polyketide synthase	Mycobacterium sp. ITM-2017-0098	1.00	48.2	0.608	
+1225
+AF-A0A2Z5YF90-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium marinum	1.00	37.8	0.608	
+1225
+AF-A0A838J383-F1-model_v4	Type I polyketide synthase	Ktedonobacteraceae bacterium	1.00	51.5	0.608	
+1225
+AF-A0A239Y6E4-F1-model_v4	Polyketide synthase PksJ	Veillonella rodentium	1.00	35.2	0.607	
+1225
+AF-A0A1Q4P011-F1-model_v4	Polyketide synthase	Serratia marcescens	1.00	46.2	0.606	
+1225
+AF-A0A838CGE3-F1-model_v4	Polyketide synthase	Burkholderia gladioli	1.00	39.6	0.606	
+1225
+AF-A0A819XBK5-F1-model_v4	Hypothetical protein	Rotaria sordida	1.00	30.5	0.605	
+1225
+AF-A0A0A6NZC0-F1-model_v4	Protein containing Beta-ketoacyl synthase	Candidatus Thiomargarita nelsonii	1.00	57.3	0.605	
+1225
+AF-A0A429TS83-F1-model_v4	Polyketide synthase	Streptomyces sp. WAC05374	1.00	53	0.604	
+1225
+AF-A0A7Y5XBI4-F1-model_v4	Type I polyketide synthase	Streptomycetaceae bacterium	1.00	41.4	0.604	
+1225
+AF-A0A0T6LUZ6-F1-model_v4	Ketoacyl_synth_N domain-containing protein	Wenjunlia vitaminophila	0.92	17.8	0.604	
+1190
+AF-A0A0M9DYB9-F1-model_v4	Beta-ketoacyl synthase	Candidatus Magnetomorum sp. HK-1	1.00	37.7	0.604	
+1225
+AF-A0A3B8XVV4-F1-model_v4	Type I polyketide synthase	Cyanothece sp. UBA12306	1.00	57.1	0.604	
+1225
+AF-A0A2A2XZ72-F1-model_v4	Uncharacterized protein	Spartobacteria bacterium AMD-G5	0.99	12.8	0.604	
+1225
+AF-A0A7Z0WSE2-F1-model_v4	Carrier domain-containing protein	Actinophytocola xinjiangensis	1.00	48.4	0.604	
+1225
+AF-A0A2P8ALL3-F1-model_v4	Putative inactive phenolphthiocerol synthesis polyketide synthase type I Pks15	Micromonospora sp. MH33	1.00	40.4	0.603	
+1225
+AF-A7SH25-F1-model_v4	Predicted protein	Nematostella vectensis	1.00	31.7	0.603	
+1225
+AF-A0A450X6M6-F1-model_v4	Phosphopantetheine attachment site	Candidatus Kentron sp. LFY	1.00	41.2	0.603	
+1225
+AF-A0A7Z1B1D6-F1-model_v4	Carrier domain-containing protein	Actinophytocola xinjiangensis	1.00	51.1	0.603	
+1225
+AF-A0A451A962-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Candidatus Kentron sp. TUN	1.00	40.1	0.603	
+1225
+AF-A0A1I6L142-F1-model_v4	Acyl transferase domain-containing protein	[Clostridium] populeti	1.00	44.9	0.603	
+1225
+AF-A0A1Y2F1Y5-F1-model_v4	Thiolase-like protein	Neocallimastix californiae	1.00	28	0.603	
+1225
+AF-A0A3B9CZF9-F1-model_v4	Uncharacterized protein	Planctomycetaceae bacterium	1.00	37.6	0.603	
+1225
+AF-A0A1V2RA24-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Pectobacterium actinidiae	1.00	56.8	0.602	
+1225
+AF-A0A6B1QP66-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID335	1.00	45.4	0.602	
+1225
+AF-A0A812JXJ6-F1-model_v4	PikAII protein	Symbiodinium sp. KB8	0.99	29.2	0.602	
+1217
+AF-A0A7X6CY19-F1-model_v4	Polyketide synthase	Streptomyces lonarensis	1.00	30.8	0.602	
+1225
+AF-A0A6G2UHR0-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. SID4931	1.00	40	0.602	
+1225
+AF-A0A656GIR1-F1-model_v4	Non-ribosomal peptide synthetase/polyketide synthetase	Pseudomonas amygdali pv. mori str. 301020	0.94	36	0.602	
+1169
+AF-A0A370B210-F1-model_v4	Carrier domain-containing protein	Streptomyces corynorhini	1.00	54.4	0.602	
+1225
+AF-A0A3A9J9P8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Roseomonas wenyumeiae	1.00	35.6	0.601	
+1225
+AF-A0A7G1IFH0-F1-model_v4	Uncharacterized protein	Mycobacterium kansasii	0.99	41.8	0.601	
+6225
+AF-A0A495DCB7-F1-model_v4	Phosphopantetheine binding protein	Alteromonadaceae bacterium 2052S.S.stab0a.01	1.00	40.4	0.601	
+1225
+AF-A0A2S1TCY8-F1-model_v4	Polyketide synthase	Lactiplantibacillus plantarum	1.00	44.2	0.601	
+1225
+AF-A0A367RLL1-F1-model_v4	Carrier domain-containing protein	Nostoc punctiforme NIES-2108	1.00	35.2	0.601	
+1225
+AF-D9WMJ0-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	0.96	33.3	0.600	
+1199
+AF-A0A643ESP8-F1-model_v4	Carrier domain-containing protein	Brucella pituitosa	1.00	47.7	0.600	
+1225
+AF-A0A7G1IG18-F1-model_v4	Carrier domain-containing protein	Mycobacterium kansasii	1.00	51	0.600	
+1225
+AF-A0A2P4UEP3-F1-model_v4	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1	Actinomadura rubteroloni	0.99	40	0.600	
+1225
+AF-A0A6V8K6K4-F1-model_v4	Carrier domain-containing protein	Phytohabitans houttuyneae	1.00	47.3	0.599	
+1225
+AF-A0A7K3Q3U9-F1-model_v4	Type I polyketide synthase	Streptomyces diastaticus	1.00	49.5	0.599	
+1225
+AF-A0A1I6LZ61-F1-model_v4	Ketoacyl-synthetase C-terminal extension	[Clostridium] populeti	0.99	28.1	0.599	
+1225
+AF-A0A3A4WMC4-F1-model_v4	PKS_KS domain-containing protein	Desulfobacteraceae bacterium	1.00	39.2	0.599	
+1225
+AF-A0A286TWG9-F1-model_v4	PKS_KS domain-containing protein	Candidatus Scalindua japonica	1.00	40	0.599	
+1225
+AF-A0A3M2LM33-F1-model_v4	Erythronolide synthase	Actinomadura harenae	0.99	21	0.599	
+1225
+AF-A0A6J3LRQ4-F1-model_v4	thiolase-like protein	Dissoconium aciculare CBS 342.82	1.00	35.2	0.599	
+1225
+AF-A0A2N3XMR5-F1-model_v4	Phosphopantetheine binding protein	Streptomyces sp. 5112.2	1.00	51.3	0.599	
+1225
+AF-A0A6G9YI58-F1-model_v4	Acyltransferase domain-containing protein	Nocardia arthritidis	1.00	54.6	0.598	
+1225
+AF-A0A089KG98-F1-model_v4	Carrier domain-containing protein	Paenibacillus sp. FSL R7-0273	1.00	41.4	0.598	
+1225
+AF-A0A2T0T7I5-F1-model_v4	Acyl transferase domain-containing protein	Umezawaea tangerina	1.00	57.5	0.598	
+1225
+AF-A0A1H8NMM1-F1-model_v4	Ketoacyl-synthetase C-terminal extension	Bradyrhizobium sp. OK095	1.00	36.5	0.598	
+1225
+AF-A0A5B9QLR9-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsE	Roseimaritima ulvae	1.00	47.8	0.597	
+1225
+AF-A0A6I3JPF8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Providencia sp. wls1948	1.00	42.2	0.597	
+1225
+AF-A0A545SLB0-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Exilibacterium tricleocarpae	1.00	33.4	0.597	
+1225
+AF-D9WQ75-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	39.2	0.597	
+1225
+AF-A0A0D7KJ23-F1-model_v4	Carrier domain-containing protein	Paenibacillus sp. E194	1.00	47.3	0.596	
+1225
+AF-A0A0J6VPJ5-F1-model_v4	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsA	Mycolicibacterium obuense	1.00	37.2	0.596	
+1225
+AF-A0A7X1Z6K0-F1-model_v4	Carrier domain-containing protein	Lactococcus hircilactis	1.00	42.7	0.596	
+1225
+AF-A0A1S9M3M5-F1-model_v4	Carrier domain-containing protein	Arthrobacter sp. SRS-W-1-2016	1.00	48.6	0.596	
+1225
+AF-A0A838JF85-F1-model_v4	Polyketide synthase	Ktedonobacteraceae bacterium	0.89	37	0.596	
+1168
+AF-A0A3A4VZA1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Desulfobacteraceae bacterium	1.00	52.5	0.596	
+1225
+AF-A0A1V9FS34-F1-model_v4	Carrier domain-containing protein	Niastella vici	1.00	46.9	0.596	
+1225
+AF-A0A4Z0KJ15-F1-model_v4	Carrier domain-containing protein	Brevibacterium aurantiacum	1.00	39.3	0.596	
+1225
+AF-A0A1X4HTJ7-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. 13-12-16	0.92	43.1	0.596	
+58225
+AF-B5HKH5-F1-model_v4	Polyketide biosynthesis enoyl-CoA hydratase	Streptomyces pristinaespiralis ATCC 25486	1.00	30.7	0.596	
+1225
+AF-A0A1W5XHX7-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. MOE7	1.00	44.6	0.596	
+1225
+AF-W4E041-F1-model_v4	Polyketide synthase type I	Paenibacillus sp. FSL R7-277	1.00	49.5	0.596	
+1225
+AF-A0A528JKQ0-F1-model_v4	Polyketide synthase	Mesorhizobium sp.	0.82	44.3	0.596	
+1145
+AF-A0A6L6X0V5-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces typhae	1.00	48.8	0.595	
+1225
+AF-A0A6B3FVZ1-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID7982	1.00	40.5	0.595	
+1225
+AF-A0A4Y9R1U7-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Oxalobacteraceae bacterium OM1	1.00	48	0.595	
+1225
+AF-A0A0N1G8N0-F1-model_v4	6-deoxyerythronolide-B synthase	Actinobacteria bacterium OK074	1.00	54.2	0.595	
+1225
+AF-A0A2W2GIJ0-F1-model_v4	Beta-ketoacyl synthase	Spongiactinospora gelatinilytica	1.00	53.3	0.595	
+1225
+AF-I3VKA8-F1-model_v4	Putative PKS	Streptomyces sp. WAC05292	1.00	44.4	0.595	
+1225
+AF-A0A066UGU0-F1-model_v4	Carrier domain-containing protein	Amycolatopsis rifamycinica	1.00	50.2	0.594	
+1225
+AF-A0A0W0G4P7-F1-model_v4	Putative polyketide synthase	Moniliophthora roreri	0.99	34.8	0.594	
+1225
+AF-A0A250JXU2-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Corallococcus macrosporus DSM 14697	1.00	57.5	0.594	
+1225
+AF-A0A7S0P6D7-F1-model_v4	Hypothetical protein	Calcidiscus leptoporus	1.00	27	0.593	
+1225
+AF-A0A117IW35-F1-model_v4	Carrier domain-containing protein	Streptomyces kanasensis	1.00	37.8	0.593	
+1225
+AF-A0A0J6VPJ0-F1-model_v4	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsA	Mycolicibacterium obuense	1.00	39.6	0.592	
+1225
+AF-A0A6G4XA98-F1-model_v4	Beta-ketoacyl synthase	Streptomyces boncukensis	0.99	39.2	0.592	
+1225
+AF-A0A1Z4QUU9-F1-model_v4	Polyketide synthase	Cylindrospermum sp. NIES-4074	1.00	59.4	0.592	
+1225
+AF-A0A4R7IFK3-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces sp. BK208	1.00	42.4	0.592	
+1225
+AF-A0A512N7U4-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Reyranella soli	1.00	50	0.592	
+1225
+AF-A0A2N1UXR3-F1-model_v4	Polyketide synthase	Candidatus Melainabacteria bacterium HGW-Melainabacteria-1	1.00	39.6	0.592	
+1225
+AF-H2JD32-F1-model_v4	Beta-ketoacyl synthase family protein,phosphopantetheine-containing protein	Clostridium sp. BNL1100	1.00	39.7	0.591	
+1225
+AF-A0A3D2THM1-F1-model_v4	Polyketide synthase	Planctomycetaceae bacterium	1.00	56	0.591	
+1225
+AF-A0A2S5LTB4-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Methylocystis sp.	0.99	34.2	0.591	
+14225
+AF-A0A4R5HQS9-F1-model_v4	Type I polyketide synthase	Streptomyces sp. WAC05374	1.00	38.7	0.591	
+1225
+AF-A0A2G8KFK3-F1-model_v4	Polyketide synthase 2	Apostichopus japonicus	1.00	38.7	0.590	
+1225
+AF-A0A249T198-F1-model_v4	Uncharacterized protein	Chitinophaga sp. MD30	1.00	49.5	0.590	
+1225
+AF-A0A1G9Y186-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Ensifer sp. YR511	1.00	43.3	0.590	
+1225
+AF-A0A1G9Y2C2-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Ensifer sp. YR511	1.00	42	0.590	
+1225
+AF-A0A6P9EH42-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase II, chloroplastic-like	Juglans regia	0.97	18.3	0.590	
+1208
+AF-A0A7Y5P5E2-F1-model_v4	Type I polyketide synthase	Streptomycetaceae bacterium	1.00	34.6	0.590	
+1225
+AF-A0A1Q4P5G4-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Serratia marcescens	1.00	44.6	0.590	
+1225
+AF-A0A7Z0NQ02-F1-model_v4	Acyltransferase domain-containing protein	Salinispora sp. H7-4	1.00	50.8	0.590	
+1225
+AF-A0A838WDL9-F1-model_v4	Acyltransferase domain-containing protein	Gemmatimonadetes bacterium	1.00	32.5	0.589	
+1225
+AF-A0A520E9V4-F1-model_v4	Amino acid adenylation domain-containing protein	Pedobacter sp.	1.00	49.5	0.589	
+1225
+AF-W7VK57-F1-model_v4	Polyketide synthase type I	Micromonospora sp. M42	1.00	50.8	0.589	
+1225
+AF-A0A848UE02-F1-model_v4	AMP-binding protein	Granulosicoccus sp.	1.00	43.5	0.589	
+1225
+AF-A0A1X0BL05-F1-model_v4	PKS_KS domain-containing protein	Mycobacterium bouchedurhonense	0.87	36.9	0.589	
+1171
+AF-A0A4S3ZU34-F1-model_v4	Beta-ketoacyl synthase	Allorhizobium terrae	1.00	35	0.588	
+1225
+AF-K9T8P9-F1-model_v4	Beta-ketoacyl synthase/acyltransferase	Pleurocapsa sp. PCC 7327	1.00	39.6	0.588	
+1225
+AF-A0A0M9EC30-F1-model_v4	Beta-ketoacyl synthase	Candidatus Magnetomorum sp. HK-1	1.00	35.2	0.587	
+1225
+AF-A0A7K1GVN0-F1-model_v4	Polyketide synthase	Micromonospora sp. CP22	1.00	35.6	0.587	
+1225
+AF-K9LK41-F1-model_v4	PtzB	Candidatus Endolissoclinum faulkneri	1.00	39.6	0.587	
+1225
+AF-D9WQN0-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	38.7	0.587	
+1225
+AF-D9WAZ2-F1-model_v4	Polyketide synthase type I	Streptomyces himastatinicus ATCC 53653	1.00	40.9	0.587	
+1225
+AF-A0A2A4ETZ6-F1-model_v4	Carrier domain-containing protein	Paraburkholderia acidicola	1.00	37.4	0.587	
+1225
+AF-A0A1Y3MRM2-F1-model_v4	Uncharacterized protein	Piromyces sp. E2	1.00	29.6	0.586	
+1225
+AF-A0A2L2NKU3-F1-model_v4	Polyketide synthase	Nostoc sp. 'Lobaria pulmonaria (5183) cyanobiont'	1.00	53	0.586	
+1225
+AF-A0A1Q9VRK4-F1-model_v4	Carrier domain-containing protein	Gordonia sp. CNJ-863	1.00	42.2	0.586	
+1225
+AF-A0A5J5K381-F1-model_v4	Polyketide synthase	Microbispora cellulosiformans	1.00	40.5	0.586	
+1225
+AF-A0A0F4J1Z8-F1-model_v4	Uncharacterized protein	Streptomyces katrae	1.00	49.1	0.586	
+1225
+AF-A0A269PTW8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Pseudoalteromonas sp. NBT06-2	1.00	50.6	0.586	
+1225
+AF-A0A1V4CUE7-F1-model_v4	Uncharacterized protein	Streptomyces antioxidans	1.00	37.4	0.585	
+1225
+AF-A0A1V4CS67-F1-model_v4	Polyketide synthase	Streptomyces antioxidans	1.00	39.6	0.585	
+1225
+AF-A0A368LGW7-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Vibrio casei	1.00	41.9	0.585	
+1225
+AF-A0A7W4LEV8-F1-model_v4	MBL fold metallo-hydrolase	Bacillus sp. APMAM	1.00	37.3	0.585	
+1225
+AF-A0A2W1PQJ9-F1-model_v4	PKS_KS domain-containing protein	Curtobacterium sp. MCLR17_042	0.99	23.4	0.585	
+1225
+AF-A0A7T9DVZ7-F1-model_v4	Type I polyketide synthase	Sphingobacteriales bacterium	1.00	30.8	0.584	
+1225
+AF-A0A060PXV8-F1-model_v4	Putative polyketide synthase	Nocardia brasiliensis	1.00	56.8	0.584	
+1225
+AF-A0A845XPL5-F1-model_v4	Acyltransferase domain-containing protein	Moorena sp. SIO3B2	1.00	55.2	0.584	
+1225
+AF-A0A0H2TW06-F1-model_v4	PKS_KS domain-containing protein	Magnaporthiopsis poae ATCC 64411	0.99	35.2	0.584	
+1225
+AF-A0A6V8KU36-F1-model_v4	Carrier domain-containing protein	Phytohabitans houttuyneae	1.00	37.8	0.584	
+1225
+AF-A0A2N2CZR6-F1-model_v4	Carrier domain-containing protein	Firmicutes bacterium HGW-Firmicutes-15	1.00	40	0.583	
+1225
+AF-A0A5S9IQJ8-F1-model_v4	Polyketide synthase PksM	Candidatus Uabimicrobium amorphum	1.00	34.5	0.583	
+1225
+AF-A0A0W0YVA0-F1-model_v4	Carrier domain-containing protein	Legionella shakespearei DSM 23087	1.00	31.7	0.583	
+1225
+AF-A0A455ZKT2-F1-model_v4	Type I polyketide synthase	Streptomyces sp. NRRL F-4335	1.00	54.4	0.583	
+1225
+AF-A0A124I152-F1-model_v4	Carrier domain-containing protein	Streptomyces griseoruber	1.00	51.1	0.583	
+1225
+AF-F8JL88-F1-model_v4	Beta-ketoacyl synthase	Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488	1.00	48.6	0.583	
+1225
+AF-A0A1X4HXD2-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. 13-12-16	1.00	38.3	0.583	
+1225
+AF-A0A450VC02-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Candidatus Kentron sp. LFY	1.00	41.2	0.582	
+1225
+AF-A0A3L8B786-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Ketobacter sp.	1.00	48	0.582	
+1225
+AF-A0A4V1A073-F1-model_v4	Type I polyketide synthase	Streptomyces seoulensis	1.00	43.7	0.582	
+1225
+AF-A0A7C2F577-F1-model_v4	Acyltransferase domain-containing protein	Blastocatellia bacterium	1.00	45.8	0.582	
+1225
+AF-A0A5C2CYQ3-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	1.00	60.4	0.582	
+1225
+AF-A0A6V8KJE2-F1-model_v4	Uncharacterized protein	Phytohabitans houttuyneae	1.00	39.2	0.582	
+1225
+AF-A0A8B6FQA0-F1-model_v4	Uncharacterized protein	Mytilus galloprovincialis	1.00	34.8	0.582	
+1225
+AF-A0A7Y5CTX1-F1-model_v4	Type I polyketide synthase	candidate division KSB1 bacterium	1.00	42.3	0.582	
+1225
+AF-A0A081RWK1-F1-model_v4	Putative polyketide synthase component,beta-ketoacyl synthase family protein	Photorhabdus temperata subsp. temperata Meg1	1.00	35	0.582	
+1225
+AF-A0A1F7ZV34-F1-model_v4	PKS_KS domain-containing protein	Aspergillus bombycis	0.99	34.1	0.581	
+1225
+AF-A0A366P7W3-F1-model_v4	Uncharacterized protein	Verticillium dahliae	1.00	33.7	0.581	
+1225
+AF-D9WG11-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	39.6	0.580	
+1225
+AF-A0A0L8QQ13-F1-model_v4	Polyketide synthase	Streptomyces varsoviensis	1.00	38.1	0.580	
+1225
+AF-A0A286TTF5-F1-model_v4	Beta-ketoacyl synthase	Candidatus Scalindua japonica	1.00	32.9	0.580	
+1225
+AF-A0A7I7KDC7-F1-model_v4	Uncharacterized protein	Mycobacterium simiae	1.00	42.7	0.580	
+1225
+AF-A0A600CFE2-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Salmonella enterica subsp. enterica serovar Enteritidis	1.00	48.2	0.580	
+1225
+AF-A0A2V9MG55-F1-model_v4	Carrier domain-containing protein	Acidobacteria bacterium	1.00	34.4	0.579	
+1225
+AF-A0A2J7TD68-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Methylocella silvestris	1.00	48.2	0.579	
+1225
+AF-A0A6B3G2D3-F1-model_v4	Type I polyketide synthase	Streptomyces sp. SID7982	0.99	40.5	0.579	
+1225
+AF-A0A0J8S5C4-F1-model_v4	Fatty acid synthase S-acetyltransferase	Coccidioides immitis H538.4	1.00	33.4	0.579	
+1225
+AF-U1AIQ6-F1-model_v4	Uncharacterized protein	Pseudogulbenkiania ferrooxidans EGD-HP2	1.00	35	0.579	
+1225
+AF-N9TYR8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Aeromonas diversa CDC 2478-85	1.00	43.2	0.579	
+1225
+AF-A0A353B392-F1-model_v4	Thioester reductase	Planctomycetaceae bacterium	1.00	45.1	0.578	
+1225
+AF-A0A3B9R8B5-F1-model_v4	Type I polyketide synthase	Maribacter sp.	1.00	48.6	0.578	
+1225
+AF-A0A3A4X2Q7-F1-model_v4	Uncharacterized protein	Desulfobacteraceae bacterium	1.00	38.5	0.578	
+1225
+AF-A0A0L8PPQ2-F1-model_v4	Polyketide synthase	Streptomyces varsoviensis	0.99	40.4	0.578	
+17225
+AF-A0A7R9EYS4-F1-model_v4	Hypothetical protein	Timema bartmani	0.99	21.7	0.578	
+1225
+AF-A0A2V8RZC9-F1-model_v4	Type I polyketide synthase	Acidobacteria bacterium	1.00	44	0.578	
+1225
+AF-A0A521XWA0-F1-model_v4	PKS_KS domain-containing protein	Gammaproteobacteria bacterium	1.00	39.6	0.578	
+1225
+AF-A0A2V2PLD3-F1-model_v4	Polyketide synthase	Streptomyces sp. ZEA17I	1.00	40.5	0.578	
+1225
+AF-A0A7D5AVQ3-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp.	1.00	39.2	0.577	
+1225
+AF-A0A6P0LUZ4-F1-model_v4	AMP-binding protein	Moorena sp. SIO3G5	1.00	58.8	0.577	
+1225
+AF-D9XPH6-F1-model_v4	Non-ribosomal peptide synthetase/polyketide synthase Ta1	Streptomyces griseoflavus Tu4000	1.00	37.1	0.577	
+1225
+AF-A0A429TGJ9-F1-model_v4	Polyketide synthase	Streptomyces sp. WAC05374	1.00	36.5	0.577	
+1225
+AF-A0A4S3JD06-F1-model_v4	Uncharacterized protein	Aspergillus tanneri	1.00	35	0.576	
+1225
+AF-A0A4U0PWK1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Chitiniphilus eburneus	1.00	55.4	0.576	
+1225
+AF-A0A370B015-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces corynorhini	1.00	40.5	0.575	
+1225
+AF-A0A429TX48-F1-model_v4	Polyketide synthase	Streptomyces sp. WAC05950	1.00	40.5	0.575	
+1225
+AF-A0A6G9YHC8-F1-model_v4	Carrier domain-containing protein	Nocardia arthritidis	1.00	38	0.575	
+1225
+AF-A0A357MRE5-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Coxiellaceae bacterium	1.00	50	0.575	
+1225
+AF-A0A6P0LJT0-F1-model_v4	Type I polyketide synthase	Moorena sp. SIO3H5	1.00	40.9	0.575	
+1225
+AF-A0A249T2N7-F1-model_v4	Uncharacterized protein	Chitinophaga sp. MD30	1.00	38.3	0.575	
+1225
+AF-A0A6P0JKL9-F1-model_v4	Acyltransferase domain-containing protein	Moorena sp. SIO4A5	1.00	61	0.575	
+1225
+AF-A0A2V1N8Y6-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. V2	1.00	41.9	0.575	
+1225
+AF-A0A7G1IG93-F1-model_v4	Polyketide synthase	Mycobacterium kansasii	1.00	37.8	0.575	
+1225
+AF-A0A0J7L238-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Lasius niger	0.99	20.5	0.575	
+1225
+AF-A0A0P0K088-F1-model_v4	Type I PKS module-1	Streptomyces thermotolerans	1.00	40.9	0.574	
+1225
+AF-A0A151Z7N3-F1-model_v4	Putative fatty acid synthase	Tieghemostelium lacteum	1.00	32	0.574	
+1225
+AF-A0A7W7BX83-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces haliclonae	1.00	44.1	0.574	
+1225
+AF-A0A7K3RG79-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces anulatus	1.00	51.9	0.574	
+1225
+AF-A0A1Y3NEY1-F1-model_v4	Uncharacterized protein	Piromyces sp. E2	1.00	30.8	0.574	
+1225
+AF-A0A2V2PK88-F1-model_v4	Type-I PKS	Streptomyces sp. ZEA17I	1.00	37.4	0.573	
+1225
+AF-A0A269PQT8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Pseudoalteromonas sp. NBT06-2	1.00	48.8	0.573	
+1225
+AF-A0A120J2H9-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsD	Mycobacterium tuberculosis variant africanum	1.00	41.8	0.572	
+1225
+AF-A0A1C0TJV0-F1-model_v4	Uncharacterized protein	Pseudoalteromonas luteoviolacea	1.00	29	0.572	
+1225
+AF-A0A4Q5QTF1-F1-model_v4	Polyketide synthase	Alphaproteobacteria bacterium	0.72	38.4	0.572	
+84225
+AF-A0A7R9IK76-F1-model_v4	Beta-ketoacyl-[acyl-carrier-protein] synthase I	Timema tahoe	0.99	23.9	0.572	
+1225
+AF-R7ML18-F1-model_v4	Polyketide synthase module containing protein	Ruminococcus sp. CAG:624	0.85	35.8	0.572	
+1168
+AF-A0A381WM74-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	36.4	0.572	
+1225
+AF-A0A528UR67-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Mesorhizobium sp.	1.00	48.4	0.571	
+1225
+AF-A0A2N1UV57-F1-model_v4	PKS_KS domain-containing protein	Candidatus Melainabacteria bacterium HGW-Melainabacteria-1	1.00	37.2	0.571	
+1225
+AF-A0A6G4X6X6-F1-model_v4	Type I polyketide synthase	Streptomyces boncukensis	1.00	38.3	0.571	
+1225
+AF-A0A451A9Y7-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Candidatus Kentron sp. TUN	1.00	39.9	0.570	
+1225
+AF-A0A4Q6U7H5-F1-model_v4	3-ketoacyl-ACP synthase	Streptomyces sp. SCA2-2	1.00	39.6	0.570	
+1225
+AF-A0A0P9JI09-F1-model_v4	Phthioceranic/hydroxyphthioceranic acid synthase	Pseudomonas syringae pv. berberidis	1.00	33.9	0.570	
+1225
+AF-A0A7K2LYX4-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. SID5998	0.94	37.5	0.570	
+1182
+AF-A0A7U9KNM0-F1-model_v4	Polyketide synthase	Streptomyces chrestomyceticus JCM 4735	1.00	33.9	0.570	
+1225
+AF-A0A7S3QW51-F1-model_v4	Hypothetical protein	Dunaliella tertiolecta	0.99	34.5	0.569	
+17225
+AF-A2R1Z2-F1-model_v4	Aspergillus niger contig An13c0080, genomic contig	Aspergillus niger CBS 513.88	1.00	30.3	0.569	
+1225
+AF-A0A521XWD9-F1-model_v4	Polyketide synthase	Gammaproteobacteria bacterium	1.00	33.1	0.569	
+1225
+AF-A0A1X4I7M9-F1-model_v4	Uncharacterized protein	Streptomyces sp. 13-12-16	1.00	37	0.569	
+1225
+AF-A0A1F3BST4-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Anaeromyxobacter sp. RBG_16_69_14	1.00	50.4	0.568	
+1225
+AF-A0A2K8TAB7-F1-model_v4	Acyl carrier protein	Nostoc flagelliforme CCNUN1	1.00	41.4	0.568	
+1225
+AF-A0A450V610-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Candidatus Kentron sp. LFY	1.00	41.2	0.568	
+1225
+AF-A0A7X3V134-F1-model_v4	Type I polyketide synthase	Gemmatimonadetes bacterium	1.00	41.2	0.568	
+1225
+AF-A0A559KV43-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsD	Fusarium oxysporum f. sp. cubense	1.00	36.1	0.568	
+1225
+AF-A0A6J1RLE0-F1-model_v4	fatty acid synthase-like	Temnothorax curvispinosus	0.98	24.2	0.568	
+1225
+AF-A0A1J0R3J6-F1-model_v4	Type I polyketide synthase 5	Streptomyces sp.	1.00	38.7	0.567	
+1225
+AF-A0A1Y0RJL0-F1-model_v4	Beta-ketoacyl synthase	Nostocales cyanobacterium HT-58-2	1.00	39.9	0.567	
+1225
+AF-A0A1Q2TNK2-F1-model_v4	Mixed type I polyketide synthase-peptide synthetase	Actinomyces sp. Chiba101	1.00	37	0.567	
+1225
+AF-D9W9B4-F1-model_v4	Mycocerosic acid synthase	Streptomyces himastatinicus ATCC 53653	1.00	42.5	0.567	
+1225
+AF-W7VQS9-F1-model_v4	Polyketide synthase	Micromonospora sp. M42	1.00	40.7	0.567	
+1225
+AF-A0A0M8TAS0-F1-model_v4	6-deoxyerythronolide-B synthase	Streptomyces sp. WM4235	1.00	37.6	0.567	
+1225
+AF-A0A2S6W9S3-F1-model_v4	Polyketide synthase subunit	Streptomyces sp. 46	1.00	39.2	0.567	
+1225
+AF-A0A7X3RAD6-F1-model_v4	Type I polyketide synthase	Gemmatimonadetes bacterium	1.00	39.4	0.566	
+1225
+AF-A0A2S0K3A0-F1-model_v4	Type I polyketide synthase	Lysinibacillus sphaericus	1.00	33.3	0.566	
+1225
+AF-A0A7K2TIF0-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. SID8352	1.00	50.8	0.566	
+1225
+AF-A0A7Y2FYA5-F1-model_v4	Amino acid adenylation domain-containing protein	Saprospiraceae bacterium	1.00	44.6	0.566	
+1225
+AF-A0A397QB80-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces sp. 19	1.00	38.3	0.566	
+1225
+AF-A0A7X1KK63-F1-model_v4	Type I polyketide synthase	Pseudomonas sp. MSSRFD41	1.00	40.7	0.566	
+1225
+AF-G5J9U0-F1-model_v4	Beta-ketoacyl synthase:Beta-ketoacyl synthase	Crocosphaera watsonii WH 0003	1.00	35.2	0.566	
+1225
+AF-A0A4Q3TTM1-F1-model_v4	KR domain-containing protein	Chitinophagaceae bacterium	1.00	41.4	0.566	
+1225
+AF-A0A074L1Y3-F1-model_v4	PKS_KS domain-containing protein	Paenibacillus polymyxa	1.00	38.5	0.565	
+1225
+AF-A0A3L8BCJ4-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Ketobacter sp.	1.00	47.5	0.565	
+1225
+AF-A0A6M3RFA0-F1-model_v4	Polyketide synthase	Monilinia fructicola	1.00	32.3	0.565	
+2225
+AF-A0A7I9YS86-F1-model_v4	Uncharacterized protein	Mycobacterium bourgelatii	1.00	35.6	0.564	
+1225
+AF-A0A656L3Y7-F1-model_v4	Polyketide synthase	Mycobacterium avium 10-5560	1.00	40	0.564	
+1225
+AF-A0A1G1ACC4-F1-model_v4	Uncharacterized protein	Lentisphaerae bacterium RIFOXYC12_FULL_60_16	1.00	35.2	0.564	
+1225
+AF-A0A428ZRM7-F1-model_v4	Type I polyketide synthase	Kibdelosporangium aridum	1.00	52.4	0.564	
+1225
+AF-A0A7Z0WCY1-F1-model_v4	Carrier domain-containing protein	Actinophytocola xinjiangensis	0.99	37.7	0.563	
+1215
+AF-A0A7G6UWH9-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Burkholderia cenocepacia	1.00	39.6	0.563	
+1225
+AF-A0A814CGX2-F1-model_v4	Hypothetical protein	Rotaria sordida	0.89	30.1	0.563	
+17225
+AF-A0A0F3IKS9-F1-model_v4	Uncharacterized protein	Methylocucumis oryzae	0.99	32.3	0.563	
+4225
+AF-A0A6N2HF95-F1-model_v4	Polyketide synthase	Streptomyces sp. sk2.1	1.00	38.7	0.563	
+1225
+AF-A0A545U955-F1-model_v4	Uncharacterized protein	Aliikangiella coralliicola	1.00	32.1	0.563	
+1225
+AF-A0A378U9F0-F1-model_v4	Acyl transferase domain-containing protein	Mycolicibacterium fortuitum	1.00	39.2	0.563	
+1225
+AF-A0A2A5RB02-F1-model_v4	Carrier domain-containing protein	Pseudomonas fluorescens	1.00	30.3	0.563	
+1225
+AF-A0A1A2DW99-F1-model_v4	Polyketide synthase	Mycobacterium sp. 852014-52450_SCH5900713	1.00	38.3	0.563	
+1225
+AF-A0A1C4SFR3-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces sp. DvalAA-14	1.00	42.7	0.563	
+1225
+AF-D9XKT0-F1-model_v4	Polyunsaturated fatty acid synthase PfaA	Streptomyces griseoflavus Tu4000	1.00	28.2	0.562	
+1225
+AF-A0A5C2CYS4-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	1.00	50.4	0.562	
+1225
+AF-A0A6N9XNI6-F1-model_v4	SDR family oxidoreductase	Micromonospora aurantiaca	0.99	38.7	0.562	
+1225
+AF-C5BIB6-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Teredinibacter turnerae T7901	1.00	45.8	0.561	
+1225
+AF-A0A353KG00-F1-model_v4	Polyketide synthase	Streptomyces sp.	1.00	41.4	0.561	
+1225
+AF-A0A1I0K5I5-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Stigmatella erecta	0.99	33.7	0.561	
+1225
+AF-A0A1J0R1Z2-F1-model_v4	Type I polyketide synthase 5	Streptomyces sp.	1.00	32.5	0.561	
+1225
+AF-A0A4E0N884-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Escherichia coli	1.00	46.2	0.560	
+1225
+AF-A0A0B2XE25-F1-model_v4	Uncharacterized protein	Metarhizium robertsii ARSEF 23	1.00	37.2	0.560	
+1225
+AF-S5TUF7-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	uncultured bacterium esnapd10	1.00	37.4	0.560	
+1225
+AF-A0A6P0M7B1-F1-model_v4	3-hydroxyacyl-CoA dehydrogenase	Moorena sp. SIO3G5	1.00	38.1	0.560	
+1225
+AF-A0A2S8R310-F1-model_v4	Peptide synthetase	Photorhabdus luminescens	1.00	44.4	0.560	
+1225
+AF-A0A6G3S8F5-F1-model_v4	Type I polyketide synthase	Streptomyces sp. SID14478	0.96	35.2	0.560	
+1185
+AF-A0A499UCG2-F1-model_v4	Uncharacterized protein	Streptomyces antimycoticus	1.00	44.2	0.559	
+1225
+AF-A0A4R5HRL5-F1-model_v4	Alpha/beta fold hydrolase	Streptomyces sp. WAC05374	1.00	53.5	0.559	
+1225
+AF-A0A838CGB7-F1-model_v4	Type I polyketide synthase	Burkholderia gladioli	1.00	35.2	0.559	
+1225
+AF-A0A7C3HEN9-F1-model_v4	Acyltransferase domain-containing protein	Bacteroidetes bacterium	1.00	41.8	0.559	
+1225
+AF-A0A2P8FQP9-F1-model_v4	Phosphopantetheine binding protein	Chitinophaga ginsengisoli	1.00	35.5	0.559	
+1225
+AF-A0A854B3C2-F1-model_v4	Beta-ketoacyl synthase	Pseudomonas fluorescens	1.00	44.4	0.558	
+1225
+AF-D4HVB5-F1-model_v4	Polyketide synthase type I	Erwinia amylovora CFBP1430	1.00	43.3	0.558	
+1225
+AF-A0A838CEQ4-F1-model_v4	Uncharacterized protein	Burkholderia gladioli	1.00	39.8	0.558	
+1225
+AF-C5BKB6-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Teredinibacter turnerae T7901	1.00	37.4	0.558	
+1225
+AF-A0A1Y2WML7-F1-model_v4	Uncharacterized protein	Daldinia sp. EC12	1.00	35.2	0.558	
+1225
+AF-A0A2M9I1G7-F1-model_v4	PKS_KS domain-containing protein	Streptomyces sp. TSRI0384-2	0.99	32.6	0.558	
+1223
+AF-A0A1Y0RIH9-F1-model_v4	Type I polyketide synthase	Nostocales cyanobacterium HT-58-2	1.00	36.5	0.558	
+1225
+AF-A0A1W9YN06-F1-model_v4	Polyketide synthase	Mycolicibacterium bacteremicum	1.00	37.8	0.557	
+1225
+AF-A0A7K3XBC8-F1-model_v4	KR domain-containing protein	Micromonospora sp. PPF5-17B	1.00	40.9	0.557	
+1225
+AF-A0A2Z5YCJ4-F1-model_v4	Carrier domain-containing protein	Mycobacterium marinum	1.00	42.2	0.557	
+1225
+AF-A0A5Q4BRQ9-F1-model_v4	Highly reducing polyketide synthase FUM1	Colletotrichum shisoi	1.00	32.4	0.557	
+1225
+AF-A0A2S8R1W7-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Photorhabdus luminescens	1.00	47.1	0.557	
+1225
+AF-A0A0H2TZI7-F1-model_v4	Uncharacterized protein	Magnaporthiopsis poae ATCC 64411	1.00	35.3	0.557	
+1225
+AF-A0A158NML0-F1-model_v4	Uncharacterized protein	Atta cephalotes	0.99	21.3	0.557	
+2225
+AF-A0A7Y5P5V2-F1-model_v4	Type I polyketide synthase	Streptomycetaceae bacterium	1.00	38.7	0.557	
+1225
+AF-A0A6G3RYF4-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID14478	1.00	38.3	0.556	
+1225
+AF-A0A2V8M0H7-F1-model_v4	Carrier domain-containing protein	Acidobacteria bacterium	1.00	36.5	0.556	
+1225
+AF-H3D808-F1-model_v4	Uncharacterized protein	Tetraodon nigroviridis	1.00	32.5	0.556	
+1225
+AF-A0A3S0GIN1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Ancylobacter aquaticus	1.00	41.4	0.556	
+1225
+AF-R7MMZ9-F1-model_v4	DfnG	Ruminococcus sp. CAG:624	1.00	35.2	0.556	
+1225
+AF-A0A3N0DQT4-F1-model_v4	Acyltransferase domain-containing protein	Nocardiopsaceae bacterium YIM 96095	1.00	40.5	0.556	
+1225
+AF-D9W7G1-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	0.80	37.7	0.556	
+1157
+AF-K9W594-F1-model_v4	6-deoxyerythronolide-B synthase	Crinalium epipsammum PCC 9333	1.00	36.6	0.555	
+1225
+AF-A0A286TWH7-F1-model_v4	Beta-ketoacyl synthase	Candidatus Scalindua japonica	1.00	39.6	0.555	
+1225
+AF-A0A4R2QE98-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces sp. BK438	1.00	38.7	0.555	
+1225
+AF-A0A2S6AJK3-F1-model_v4	Carrier domain-containing protein	Nocardia nova	1.00	40.5	0.555	
+1225
+AF-A0A4C1WNT9-F1-model_v4	Fatty acid synthase	Eumeta japonica	0.99	18.8	0.555	
+1224
+AF-A0A7W7W555-F1-model_v4	Acyl transferase domain-containing protein	Lipingzhangella halophila	1.00	32.1	0.555	
+1225
+AF-A0A0J8RSY0-F1-model_v4	Phenolpthiocerol synthesis polyketide synthase ppsB	Coccidioides immitis H538.4	1.00	31.7	0.555	
+1225
+AF-A3INX6-F1-model_v4	Beta-ketoacyl synthase	Crocosphaera chwakensis CCY0110	1.00	42.2	0.555	
+1225
+AF-A0A2P8CY74-F1-model_v4	Acyl transferase domain-containing protein	Murinocardiopsis flavida	1.00	32.5	0.555	
+1225
+AF-A0A2W2EJQ1-F1-model_v4	Carrier domain-containing protein	Spongiactinospora gelatinilytica	1.00	39.6	0.554	
+1225
+AF-A0A0L8KF91-F1-model_v4	PKS_KS domain-containing protein	Streptomyces viridochromogenes	0.80	39.8	0.554	
+1155
+AF-A0A7K2M0H7-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID5998	1.00	38.7	0.554	
+1225
+AF-D5PHA4-F1-model_v4	Beta-ketoacyl synthase, N-terminal domain protein	Mycobacterium parascrofulaceum ATCC BAA-614	1.00	40.9	0.554	
+1225
+AF-A0A5B0BCJ4-F1-model_v4	Type I polyketide synthase	Streptomyces apricus	0.99	37	0.554	
+1225
+AF-A0A2S5MMZ9-F1-model_v4	Erythronolide synthase	Methylocystis sp.	1.00	30.3	0.554	
+1225
+AF-A0A6I5HMR9-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID4913	1.00	38.3	0.554	
+1225
+AF-A0A6B2SCE8-F1-model_v4	Type I polyketide synthase	Streptomyces sp. SID10115	0.99	42.2	0.553	
+1225
+AF-A0A4V2D3B4-F1-model_v4	Beta-ketoacyl synthase	Streptomyces sp. SCA2-2	1.00	40.5	0.553	
+1225
+AF-A0A1L9DZE5-F1-model_v4	Carrier domain-containing protein	Streptomyces viridifaciens	1.00	46	0.553	
+1225
+AF-A0A239P0M8-F1-model_v4	Acyl transferase domain-containing protein	Actinacidiphila glaucinigra	1.00	37.8	0.553	
+1225
+AF-A0A6P0LKX2-F1-model_v4	Acyltransferase domain-containing protein	Moorena sp. SIO3G5	1.00	37	0.553	
+1225
+AF-I3VKA5-F1-model_v4	Putative PKS	Streptomyces sp. WAC05292	0.99	34.8	0.553	
+1225
+AF-A0A1V4CYS6-F1-model_v4	Carrier domain-containing protein	Streptomyces antioxidans	1.00	39.6	0.552	
+1225
+AF-A0A894JPX8-F1-model_v4	Polyketide synthase	Verrucosispora sp.	1.00	38.3	0.552	
+1225
+AF-A0A377GBM8-F1-model_v4	Beta-ketoacyl-acyl-carrier-protein synthase I	Fluoribacter dumoffii	1.00	38.3	0.551	
+1225
+AF-A0A3S1AGR4-F1-model_v4	Type-I PKS	Microbacterium sp. HSID17254	0.96	34.7	0.551	
+1188
+AF-A0A7K3QIW1-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces diastaticus	1.00	37.8	0.550	
+1225
+AF-A0A2H5DYU7-F1-model_v4	Carrier domain-containing protein	Chromobacterium sp. ATCC 53434	1.00	37.8	0.550	
+1225
+AF-A0A316VXL9-F1-model_v4	Ketoacyl-synt-domain-containing protein	Ceraceosorus guamensis	1.00	33.3	0.550	
+1225
+AF-A0A2T7TEL6-F1-model_v4	Carrier domain-containing protein	Streptomyces scopuliridis RB72	1.00	36.1	0.550	
+1225
+AF-A0A4D4JWE0-F1-model_v4	Uncharacterized protein	Streptomyces antimycoticus	1.00	37	0.550	
+1225
+AF-L7HP79-F1-model_v4	Uncharacterized protein	Pyricularia oryzae Y34	0.99	29.4	0.550	
+1225
+AF-A0A5P8K402-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces phaeolivaceus	1.00	39.6	0.550	
+1225
+AF-A0A6B3I6Z5-F1-model_v4	KR domain-containing protein	Streptomyces sp. SID8455	1.00	41.8	0.550	
+1225
+AF-A0A534IXK1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Gammaproteobacteria bacterium	1.00	42.2	0.550	
+1225
+AF-A0A4Z2FHG4-F1-model_v4	Lovastatin nonaketide synthase	Liparis tanakae	1.00	30.5	0.550	
+1225
+AF-A0A3E2MUY5-F1-model_v4	Phenolphthiocerol synthesis polyketide synthase type I Pks15/1	Mycobacterium marinum	1.00	38.5	0.549	
+1225
+AF-A0A6G3S723-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID14478	0.99	34.9	0.549	
+1225
+AF-A0A257P268-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Thiomonas sp. 20-64-9	1.00	40.5	0.549	
+1225
+AF-A0A0F4JPW6-F1-model_v4	Beta-ketoacyl synthase	Streptomyces katrae	1.00	28.8	0.549	
+1225
+AF-A0A3N0EEI1-F1-model_v4	Acyltransferase domain-containing protein	Nocardiopsaceae bacterium YIM 96095	1.00	39.2	0.549	
+1225
+AF-B8MLT4-F1-model_v4	Polyketide synthase, putative	Talaromyces stipitatus ATCC 10500	0.99	31.6	0.549	
+1225
+AF-A0A5J6GJW0-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces kanamyceticus	1.00	38.7	0.549	
+1225
+AF-A0A853SNQ9-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsC	Janthinobacterium lividum	1.00	39.4	0.549	
+1225
+AF-A0A3D0X954-F1-model_v4	Polyketide synthase	Ruminococcus sp.	1.00	34	0.549	
+1225
+AF-A0A5C2CXL5-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	1.00	41.4	0.549	
+1225
+AF-A0A499UCG1-F1-model_v4	Uncharacterized protein	Streptomyces antimycoticus	1.00	37	0.549	
+1225
+AF-U1BKI2-F1-model_v4	PKS_KS domain-containing protein	Pseudogulbenkiania ferrooxidans EGD-HP2	1.00	34.8	0.549	
+1225
+AF-A0A2S8HYH6-F1-model_v4	Carrier domain-containing protein	Burkholderia cepacia	1.00	40.3	0.549	
+1225
+AF-A0A2A3LE98-F1-model_v4	Polyketide synthase	Mycobacterium avium subsp. hominissuis	1.00	38.3	0.548	
+1225
+AF-A0A6G4X909-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces boncukensis	0.99	40.5	0.547	
+1225
+AF-A0A1X4I1M7-F1-model_v4	Polyketide synthase	Streptomyces sp. 13-12-16	1.00	38.3	0.547	
+1225
+AF-A0A7G8KAK9-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces buecherae	1.00	37.8	0.547	
+1225
+AF-A0A499VB38-F1-model_v4	Uncharacterized protein	Streptomyces antimycoticus	1.00	38.7	0.547	
+1225
+AF-A0A4R7JF74-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces sp. BK447	1.00	38.3	0.546	
+1225
+AF-A0A4Q3L746-F1-model_v4	Type I polyketide synthase	Flavobacteriales bacterium	0.98	44	0.546	
+1198
+AF-Q3M3U7-F1-model_v4	Beta-ketoacyl synthase	Trichormus variabilis ATCC 29413	1.00	41.4	0.546	
+1225
+AF-A0A7X4CW08-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Boseongicola sp. SB0677_bin_26	1.00	36.5	0.546	
+1225
+AF-D9WIU7-F1-model_v4	Modular polyketide synthase	Streptomyces himastatinicus ATCC 53653	1.00	40.8	0.546	
+1225
+AF-Q7NCZ7-F1-model_v4	Gll2829 protein	Gloeobacter violaceus PCC 7421	1.00	41.8	0.546	
+1225
+AF-A0A3F2V1N0-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Ketobacter sp.	1.00	35.2	0.546	
+1225
+AF-A0A2V2PN71-F1-model_v4	Type-I PKS	Streptomyces sp. ZEA17I	0.99	32.1	0.545	
+1225
+AF-A0A6V8L2Z0-F1-model_v4	Carrier domain-containing protein	Phytohabitans rumicis	1.00	40	0.545	
+1225
+AF-A0A6G4X7M5-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces boncukensis	0.99	37	0.545	
+1225
+AF-A0A1J0R237-F1-model_v4	Type I polyketide synthase 4	Streptomyces sp.	1.00	36.5	0.545	
+1225
+AF-A0A2H9U0Y6-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Aeromonas cavernicola	1.00	36.2	0.545	
+1225
+AF-A0A2G8MGH2-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Methylobacterium frigidaeris	1.00	36.4	0.545	
+1225
+AF-A0A1B6ADY6-F1-model_v4	Polyketide synthase Pks13	Streptomyces sp. NBRC 110611	1.00	39.4	0.545	
+1225
+AF-A0A6J4IQ49-F1-model_v4	Modular polyketide synthase	uncultured Corynebacteriales bacterium	1.00	39.6	0.544	
+1225
+AF-A0A0D7KF32-F1-model_v4	Carrier domain-containing protein	Paenibacillus sp. E194	1.00	31.1	0.544	
+1225
+AF-A0A2A4F7P1-F1-model_v4	Uncharacterized protein	Paraburkholderia acidicola	0.99	35.5	0.544	
+1225
+AF-W7VNN5-F1-model_v4	Modular polyketide synthase	Micromonospora sp. M42	1.00	42.2	0.544	
+1225
+AF-A0A1Y2M6A1-F1-model_v4	Uncharacterized protein	Epicoccum nigrum	1.00	28.9	0.544	
+1225
+AF-K7SIF8-F1-model_v4	CylD	Cylindrospermum licheniforme UTEX B 2014	1.00	42.2	0.544	
+1225
+AF-A0A5P9YND7-F1-model_v4	Acyltransferase domain-containing protein	Nonomuraea phyllanthi	1.00	36.4	0.544	
+1225
+AF-Q8DTJ4-F1-model_v4	Putative polyketide synthase	Streptococcus mutans UA159	1.00	35.6	0.544	
+1225
+AF-A4ZPY3-F1-model_v4	DepC	Chromobacterium violaceum	1.00	37.4	0.543	
+1225
+AF-A0A402DEK0-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsA	Microcystis aeruginosa NIES-4285	1.00	36.5	0.543	
+1225
+AF-A0A6G3SBN6-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID14478	1.00	38.4	0.543	
+1225
+AF-A0A6G3SH69-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID14478	1.00	39.6	0.543	
+1225
+AF-A0A1J0R2H4-F1-model_v4	Type I polyketide synthase 10	Streptomyces sp.	0.99	36.7	0.543	
+1225
+AF-A0A7S3WJS9-F1-model_v4	Hypothetical protein	Emiliania huxleyi	0.99	30.8	0.542	
+1225
+AF-A0A5C6W9A1-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. ISID311	0.99	27.2	0.542	
+1225
+AF-A0A6P5ADI9-F1-model_v4	uncharacterized protein LOC109485299 isoform X2	Branchiostoma belcheri	1.00	37.8	0.542	
+1225
+AF-A0A1R0LL45-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. IMTB 2501	1.00	36.9	0.542	
+1225
+AF-A0A841IW33-F1-model_v4	3-oxoacyl-(Acyl-carrier-protein) synthase/acyl carrier protein/short-subunit dehydrogenase involved in D-alanine esterification of teichoic acids	Sphingobium subterraneum	1.00	37.8	0.542	
+1225
+AF-W4BCK0-F1-model_v4	Beta-ketoacyl synthase family protein,phosphopantetheine-containing protein	Paenibacillus sp. FSL R5-192	1.00	43.4	0.542	
+1225
+AF-A0A499VDK4-F1-model_v4	Carrier domain-containing protein	Streptomyces antimycoticus	1.00	40	0.542	
+1225
+AF-A0A6G4X577-F1-model_v4	Type I polyketide synthase	Streptomyces boncukensis	1.00	38.3	0.542	
+1225
+AF-A0A1M6MSN7-F1-model_v4	Ketoacyl-synthetase C-terminal extension	Clostridium cavendishii DSM 21758	1.00	35.1	0.541	
+1225
+AF-A0A6G1JK30-F1-model_v4	Ketoacyl-synt-domain-containing protein	Lentithecium fluviatile CBS 122367	1.00	34.3	0.541	
+1225
+AF-A0A429SHW7-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. WAC05292	0.99	26.9	0.541	
+1225
+AF-A0A7Y5XMJ2-F1-model_v4	Type I polyketide synthase	Streptomycetaceae bacterium	1.00	38.3	0.541	
+1225
+AF-A0A6H1JZH9-F1-model_v4	Type I polyketide synthase	Streptomyces sp. RPA4-5	1.00	34.8	0.541	
+1225
+AF-A0A0F3IMW8-F1-model_v4	Carrier domain-containing protein	Methylocucumis oryzae	1.00	33	0.541	
+1225
+AF-A0A1U9QLL0-F1-model_v4	Carrier domain-containing protein	Streptomyces niveus	1.00	39.2	0.541	
+1225
+AF-A0A1J0R396-F1-model_v4	Type I polyketide synthase 7	Streptomyces sp.	1.00	36.5	0.541	
+1225
+AF-A0A2N0FHM6-F1-model_v4	Acyl transferase domain-containing protein	Streptomyces sp. 4121.5	1.00	39.9	0.540	
+1225
+AF-A0A7G6RWK4-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Rhizobium lusitanum	1.00	37.8	0.540	
+1225
+AF-A0A7K3Q6Y3-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces diastaticus	1.00	40.9	0.540	
+1225
+AF-A0A838JJS3-F1-model_v4	AMP-binding protein	Ktedonobacteraceae bacterium	0.99	40.9	0.540	
+1218
+AF-A0A545U932-F1-model_v4	Uncharacterized protein	Aliikangiella coralliicola	1.00	32.8	0.540	
+1225
+AF-A0A2V7UDX9-F1-model_v4	Polyketide synthase	Acidobacteria bacterium	1.00	28	0.539	
+1225
+AF-A0A7Y6M9D3-F1-model_v4	Type I polyketide synthase	Nonomuraea montanisoli	1.00	40.5	0.539	
+1225
+AF-A0A2T0ST97-F1-model_v4	Acyl transferase domain-containing protein	Umezawaea tangerina	1.00	37	0.539	
+1225
+AF-A0A6H1JWA5-F1-model_v4	Type I polyketide synthase	Streptomyces sp. RPA4-5	1.00	38.3	0.539	
+1225
+AF-A0A7Y5P3B6-F1-model_v4	Type I polyketide synthase	Streptomycetaceae bacterium	1.00	37.7	0.539	
+1225
+AF-D9XPH7-F1-model_v4	Mixed type I polyketide synthase	Streptomyces griseoflavus Tu4000	0.99	37.4	0.539	
+1225
+AF-A0A7Y5XGB9-F1-model_v4	Acyltransferase domain-containing protein	Streptomycetaceae bacterium	1.00	37.4	0.539	
+1225
+AF-A0A545SS61-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Exilibacterium tricleocarpae	1.00	35	0.539	
+1225
+AF-A0A2U3NFU5-F1-model_v4	Acyl transferase domain in polyketide synthase (PKS) enzymes	Mycobacterium terramassiliense	1.00	42.7	0.539	
+1225
+AF-A0A455ZMT6-F1-model_v4	Type I polyketide synthase	Streptomyces sp. NRRL F-4335	1.00	37.4	0.538	
+1225
+AF-A0A1B6AS12-F1-model_v4	Polyketide synthase	Streptomyces sp. NBRC 110611	1.00	37	0.538	
+1225
+AF-A3KLM1-F1-model_v4	Polyketide synthase LC35-12	Aspergillus ochraceus	0.99	29.3	0.538	
+1225
+AF-A0A6I5I2L8-F1-model_v4	Type I polyketide synthase	Streptomyces sp. SID4913	1.00	40	0.538	
+1225
+AF-B5GFJ5-F1-model_v4	Mixed type I polyketide synthase-peptide synthetase	Streptomyces sp. SPB074	0.99	29.5	0.538	
+1224
+AF-A0A348AQQ8-F1-model_v4	Polyketide synthase PksL	Methylomusa anaerophila	1.00	38	0.538	
+1225
+AF-A0A1S9DK68-F1-model_v4	Acyl transferase	Aspergillus oryzae	1.00	31	0.538	
+1225
+AF-A0A0B2X6Z2-F1-model_v4	Ribonuclease H-like protein	Metarhizium robertsii ARSEF 23	0.95	20	0.537	
+17225
+AF-A0A2A4HIQ1-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Halomonas nigrificans	1.00	36.1	0.537	
+1225
+AF-A0A6G2WXB5-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID8375	1.00	40	0.537	
+1225
+AF-A0A1X7H025-F1-model_v4	Ketoacyl-synthetase C-terminal extension	Paenibacillus uliginis N3/975	1.00	39.3	0.537	
+1225
+AF-Q8RJX8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Stigmatella aurantiaca	1.00	36.8	0.537	
+1225
+AF-A0A7R9K631-F1-model_v4	Hypothetical protein	Timema genevievae	0.98	22.5	0.537	
+15225
+AF-I3VKA2-F1-model_v4	Putative PKS	Streptomyces sp. WAC05292	1.00	37.4	0.537	
+1225
+AF-A0A1K1REW4-F1-model_v4	Acyl transferase domain-containing protein	Amycolatopsis australiensis	1.00	36.8	0.537	
+1225
+AF-A0A6H1K360-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. RPA4-5	1.00	39.6	0.537	
+1225
+AF-A0A2V5HLL3-F1-model_v4	Thiolase-like protein	Aspergillus violaceofuscus CBS 115571	1.00	34	0.537	
+1225
+AF-R7MNW5-F1-model_v4	JamJ	Ruminococcus sp. CAG:624	0.75	29	0.536	
+1159
+AF-A0A7T8UCU0-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Saccharothrix sp. 6-C	1.00	37.8	0.536	
+1225
+AF-A0A1M5VW29-F1-model_v4	Phosphopantetheine attachment site	Streptomyces sp. 3214.6	1.00	40.9	0.536	
+1225
+AF-A0A451A287-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Candidatus Kentron sp. TUN	1.00	35.2	0.536	
+1225
+AF-A0A0L8P4M7-F1-model_v4	Carrier domain-containing protein	Streptomyces antibioticus	1.00	39.6	0.536	
+1225
+AF-A0A257T5U1-F1-model_v4	Beta-ketoacyl synthase	Planctomycetia bacterium 21-64-5	0.85	37.9	0.536	
+1164
+AF-A0A093Z352-F1-model_v4	Uncharacterized protein	Pseudogymnoascus sp. VKM F-3775	0.99	30.3	0.536	
+1225
+AF-A0A319D1G4-F1-model_v4	Ketoacyl-synt-domain-containing protein	Aspergillus uvarum CBS 121591	0.98	28.6	0.536	
+1225
+AF-A0A2N8TQJ2-F1-model_v4	Polyketide synthase	Streptomyces cahuitamycinicus	1.00	33.4	0.536	
+1225
+AF-A0A022W0S4-F1-model_v4	Conidial yellow pigment biosynthesis polyketide synthase nscA	Trichophyton rubrum CBS 288.86	0.99	32.9	0.535	
+1225
+AF-A0A0C2BEW6-F1-model_v4	Polyketide synthase	Streptomyces sp. 150FB	1.00	40.5	0.535	
+1225
+AF-A0A5C2CYS0-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	1.00	39.9	0.535	
+1225
+AF-A0A7V9FV35-F1-model_v4	Type I polyketide synthase	Pseudonocardiales bacterium	0.99	27.6	0.535	
+1225
+AF-A0A2W2KPV1-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. NTH33	1.00	41.4	0.534	
+1225
+AF-A0A1C0TQI6-F1-model_v4	Uncharacterized protein	Pseudoalteromonas luteoviolacea	1.00	33.1	0.533	
+1225
+AF-A0A0M8VTS4-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. MMG1121	1.00	37.4	0.533	
+1225
+AF-A0A117DUE2-F1-model_v4	Protein kinase subdomain-containing protein	Aspergillus niger	0.99	33.4	0.533	
+1225
+AF-A0A4T0BMR7-F1-model_v4	Polyketide synthase	Aureobasidium pullulans	0.99	32.6	0.533	
+1225
+AF-A0A6N7Z8N9-F1-model_v4	Acyltransferase domain-containing protein	Amycolatopsis pithecellobii	1.00	27.7	0.533	
+1225
+AF-A0A7K3QAE3-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces diastaticus	1.00	36.5	0.531	
+1225
+AF-A0A370Q2S5-F1-model_v4	Beta-ketoacyl synthase-like protein	Enterobacillus tribolii	0.99	38.4	0.531	
+1212
+AF-A0A6I5I536-F1-model_v4	Polyketide synthase	Streptomyces sp. SID4913	0.92	36.5	0.531	
+1184
+AF-A0A2X4YVG7-F1-model_v4	Irp1	Klebsiella oxytoca	0.47	21.2	0.531	
+1225
+AF-A0A4S4KG50-F1-model_v4	Carrier domain-containing protein	Hermanssonia centrifuga	0.99	25.2	0.530	
+1223
+AF-A0A428TF91-F1-model_v4	Uncharacterized protein	Fusarium oligoseptatum	0.99	33	0.529	
+1225
+AF-A0A6B3FR45-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID7982	0.99	41.8	0.526	
+1225
+AF-A0A537P931-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Alphaproteobacteria bacterium	0.98	54.8	0.525	
+33225
+AF-A0A1L9DYN1-F1-model_v4	Uncharacterized protein	Streptomyces viridifaciens	0.99	28.4	0.525	
+1225
+AF-A0A4R4T9D1-F1-model_v4	NAD-dependent epimerase/dehydratase family protein	Streptomyces hainanensis	0.99	36.7	0.524	
+1225
+AF-A0A6M3RAR9-F1-model_v4	Polyketide synthase	Monilinia fructicola	0.99	30.3	0.524	
+1225
+AF-A0A1V4CTF9-F1-model_v4	Polyketide synthase	Streptomyces antioxidans	0.98	37.8	0.523	
+26225
+AF-W7W5U9-F1-model_v4	Modular polyketide synthase	Micromonospora sp. M42	0.90	41.7	0.519	
+64225
+AF-A0A1C5G102-F1-model_v4	Phosphopantetheine attachment site	Streptomyces sp. MnatMP-M27	0.95	37.2	0.519	
+1183
+AF-A0A4R4NAY7-F1-model_v4	Polyketide synthase	Streptomyces sp. 8K308	0.97	40.7	0.519	
+1192
+AF-A0A6G2X6S0-F1-model_v4	Polyketide synthase	Streptomyces sp. SID8375	0.92	38.2	0.518	
+1176
+AF-Q9CB70-F1-model_v4	Polyketide synthase	Mycobacterium leprae TN	1.00	40.9	0.516	
+1225
+AF-A0A3D0QW26-F1-model_v4	Polyketide synthase	Streptomyces sp.	0.84	36.5	0.516	
+1162
+AF-G3XNF4-F1-model_v4	PKS-NRPS hybrid synthetase ATPKS	Aspergillus niger ATCC 1015	1.00	37.7	0.510	
+1225
+AF-A0A6B1ND19-F1-model_v4	AMP-binding protein	Streptomyces sp. SID69	0.99	40.5	0.509	
+1205
+AF-Q9CD78-F1-model_v4	Putative mycocerosic synthase	Mycobacterium leprae TN	1.00	38.7	0.507	
+1225
+AF-B4XYB8-F1-model_v4	5-methyl-1-naphthoate synthase	Streptomyces sahachiroi	1.00	33.4	0.507	
+1225
+AF-A0A7K2M4E6-F1-model_v4	Acyltransferase domain-containing protein	Streptomyces sp. SID5998	0.91	45.7	0.504	
+61225
+AF-A0A6G2UU06-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID4931	0.96	37.5	0.504	
+1190
+AF-A0A0M8VPK8-F1-model_v4	Carrier domain-containing protein	Streptomyces sp. MMG1121	0.98	43.6	0.503	
+1202
+AF-A0A6G1K8Y4-F1-model_v4	FabD/lysophospholipase-like protein	Pleomassaria siparia CBS 279.74	0.98	26.2	0.496	
+1225
+AF-K3VA96-F1-model_v4	Highly reducing polyketide synthase 40	Fusarium pseudograminearum CS3096	1.00	36.5	0.495	
+1225
+AF-P0DUK1-F1-model_v4	Highly reducing polyketide synthase pspA	Penicillium soppii	1.00	32	0.494	
+1225
+AF-W3X2Q9-F1-model_v4	Uncharacterized protein	Pestalotiopsis fici W106-1	0.98	29.5	0.494	
+1225
+AF-D2E9X0-F1-model_v4	Reducing polyketide synthase DEP5	Alternaria brassicicola	1.00	32.7	0.494	
+1225
+AF-A0A6G4X9G7-F1-model_v4	Type I polyketide synthase	Streptomyces boncukensis	0.98	39.8	0.493	
+26225
+AF-C0NFI9-F1-model_v4	Polyketide synthase	Histoplasma capsulatum G186AR	1.00	32.5	0.491	
+1225
+AF-C0P128-F1-model_v4	Polyketide synthase	Histoplasma capsulatum G186AR	1.00	32.1	0.490	
+1225
+AF-S3D9F1-F1-model_v4	Highly reducing polyketide synthase gloL	Glarea lozoyensis ATCC 20868	1.00	31.8	0.489	
+1225
+AF-A0A7G1IIK1-F1-model_v4	Uncharacterized protein	Mycobacterium kansasii	0.99	37.3	0.488	
+18225
+AF-C0NU23-F1-model_v4	Conidial yellow pigment biosynthesis polyketide synthase nscA	Histoplasma capsulatum G186AR	1.00	31.7	0.486	
+1225
+AF-E9F8M3-F1-model_v4	PKS-NRPS hybrid synthetase swnK	Metarhizium robertsii ARSEF 23	0.99	37	0.485	
+1225
+AF-A0A2X4YVL7-F1-model_v4	Iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase)	Klebsiella oxytoca	0.28	55.1	0.485	
+128225
+AF-G3XMC4-F1-model_v4	Non-reducing polyketide synthase azaA	Aspergillus niger ATCC 1015	0.99	32.3	0.484	
+1225
+AF-U6ZKR4-F1-model_v4	Uncharacterized protein	Pseudomonas aestus	0.96	42.5	0.482	
+32225
+AF-A0A3M9JND8-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Micromonospora aurantiaca	0.98	38.8	0.480	
+1199
+AF-A0A6G3BVN8-F1-model_v4	KR domain-containing protein	Streptomyces sp. SID5643	0.97	37.3	0.479	
+1191
+AF-A0A7R9FNE8-F1-model_v4	Hypothetical protein	Timema tahoe	0.87	16.2	0.474	
+1225
+AF-A0A6G4X9V3-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces boncukensis	0.97	41.7	0.473	
+1192
+AF-A0A2M9KXV3-F1-model_v4	Polyketide synthase	Streptomyces sp. CB02613	0.98	35	0.472	
+1212
+AF-A0A1Q9EWR4-F1-model_v4	3-oxoacyl-[acyl-carrier-protein] synthase I, chloroplastic	Symbiodinium microadriaticum	0.87	8.6	0.468	
+1217
+AF-A0A6B1N7P7-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID69	0.90	36.3	0.466	
+1174
+AF-A0A6I5HRV2-F1-model_v4	SDR family NAD(P)-dependent oxidoreductase	Streptomyces sp. SID4913	0.96	41.8	0.465	
+1189
+AF-A0A2H0HQ51-F1-model_v4	Type I polyketide synthase	Xanthomonadales bacterium CG17_big_fil_post_rev_8_21_14_2_50_64_11	0.97	44.3	0.461	
+1177
+AF-B2VSE5-F1-model_v4	Non-ribosomal peptide synthetase	Pyrenophora tritici-repentis Pt-1C-BFP	0.96	29.1	0.458	
+1205
+AF-A0A7V2JIS3-F1-model_v4	Acyltransferase domain-containing protein	Bacteroidetes bacterium	0.95	35.4	0.454	
+42225
+AF-A0A5C2CZN5-F1-model_v4	AMP-dependent synthetase and ligase	uncultured bacterium	0.95	38.6	0.445	
+1187
+AF-D9W7E3-F1-model_v4	Polyketide synthase Pks7	Streptomyces himastatinicus ATCC 53653	0.90	7.6	0.443	
+1224
+AF-A0A6P0RQR9-F1-model_v4	3-hydroxyacyl-CoA dehydrogenase	Symploca sp. SIO2D2	0.91	40	0.423	
+1173
+AF-A0A5C2CXA9-F1-model_v4	Beta-ketoacyl synthase	uncultured bacterium	0.89	61	0.421	
+72225
+AF-A0A4P7KQA8-F1-model_v4	Phthiocerol synthesis polyketide synthase type I PpsE	Arsenophonus nasoniae	0.93	45	0.416	
+64225
+AF-A0A418GKH8-F1-model_v4	Malonyl CoA-acyl carrier protein transacylase	Escherichia coli	0.72	59.5	0.413	
+90225
+AF-A0A4Q3LPC2-F1-model_v4	Aminotransferase class III-fold pyridoxal phosphate-dependent enzyme	Flavobacteriales bacterium	0.89	48	0.392	
+74225

@@ -1,0 +1,2002 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR 6-PHOSPHOFRUCTO-2-KINASE/FRUCTOSE-2, 6-BIPHOSPHATASE (A0A7I6MYZ9)
+AFDB50 998 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-A0A7I6MYD8-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase	Saprolegnia monilifera	1.00	66.4	0.958	
+3279
+AF-A0A2K6QIP1-F1-model_v4	6-phosphofructo-2-kinase	Rhinopithecus roxellana	1.00	40.6	0.915	
+1287
+AF-A0A7I6MZ13-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase	Lagenidium sp. SLG-2014a	0.99	75.6	0.911	
+3252
+AF-A0A6A0HAS4-F1-model_v4	6-phosphofructo-2-kinase	Hyalella azteca	1.00	38	0.903	
+1287
+AF-A0A0R3SLX4-F1-model_v4	6-phosphofructo-2-kinase	Hymenolepis diminuta	1.00	38.5	0.883	
+1287
+AF-A0A819ZK94-F1-model_v4	Hypothetical protein	Rotaria sordida	1.00	36.6	0.871	
+1287
+AF-A0DB75-F1-model_v4	6PF2K domain-containing protein	Paramecium tetraurelia	1.00	38.8	0.870	
+1287
+AF-A0A287P5C1-F1-model_v4	6PF2K domain-containing protein	Hordeum vulgare subsp. vulgare	0.98	38.6	0.870	
+30275
+AF-A0A7Y3GWJ7-F1-model_v4	AAA family ATPase	Myxococcales bacterium	1.00	37.2	0.867	
+1287
+AF-A0A2K6SW26-F1-model_v4	6-phosphofructo-2-kinase	Saimiri boliviensis boliviensis	1.00	32.9	0.867	
+1287
+AF-A0A673MLP3-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	38	0.857	
+1287
+AF-A0A2S2QU90-F1-model_v4	6-phosphofructo-2-kinase	Sipha flava	1.00	36.8	0.846	
+1287
+AF-B0ZTH9-F1-model_v4	6-phosphofructo-2-kinase	Rattus norvegicus	1.00	39.2	0.841	
+1287
+AF-A0A5N5LTT8-F1-model_v4	6-phosphofructo-2-kinase	Pangasianodon hypophthalmus	1.00	38.1	0.840	
+1287
+AF-A0A0D1X081-F1-model_v4	6PF2K domain-containing protein	Exophiala sideris	1.00	36.8	0.839	
+1286
+AF-A0A0N4YM79-F1-model_v4	6-phosphofructo-2-kinase	Nippostrongylus brasiliensis	1.00	35.3	0.839	
+1287
+AF-A0A1X0QXQ4-F1-model_v4	6PF2K-domain-containing protein	Rhizopus microsporus var. microsporus	1.00	30.9	0.834	
+1287
+AF-B0ZTH8-F1-model_v4	6-phosphofructo-2-kinase	Rattus norvegicus	1.00	39.2	0.834	
+1287
+AF-A0A7K7PUY5-F1-model_v4	6-phosphofructo-2-kinase	Acrocephalus arundinaceus	1.00	39.4	0.833	
+1287
+AF-A0A1A8V1T1-F1-model_v4	6-phosphofructo-2-kinase	Nothobranchius furzeri	1.00	37.7	0.830	
+1287
+AF-A0A452RT44-F1-model_v4	6-phosphofructo-2-kinase	Ursus americanus	0.99	38.2	0.830	
+1265
+AF-A0A7K6BK91-F1-model_v4	6-phosphofructo-2-kinase	Upupa epops	1.00	38.7	0.828	
+1287
+AF-A0A1I7UVD3-F1-model_v4	6-phosphofructo-2-kinase	Caenorhabditis tropicalis	1.00	35.3	0.827	
+1287
+AF-A0A0S7GQ26-F1-model_v4	6-phosphofructo-2-kinase	Poeciliopsis prolifica	1.00	39.9	0.823	
+1287
+AF-A0A6B2LFU4-F1-model_v4	6PF2K domain-containing protein	Arcella intermedia	0.96	22.8	0.819	
+31275
+AF-A0A7S1VL62-F1-model_v4	Hypothetical protein	Sexangularia sp. CB-2014	0.99	36.9	0.819	
+1260
+AF-G9KG45-F1-model_v4	6-phosphofructo-2-kinase	Mustela putorius furo	0.93	38.9	0.818	
+42257
+AF-A0A3S1C7B2-F1-model_v4	6-phosphofructo-2-kinase	Elysia chlorotica	1.00	36.4	0.817	
+1287
+AF-A0A7K4X2Z3-F1-model_v4	6-phosphofructo-2-kinase	Regulus satrapa	1.00	39.9	0.817	
+1287
+AF-A0A091L0B2-F1-model_v4	6-phosphofructo-2-kinase	Chlamydotis macqueenii	1.00	39.5	0.817	
+1287
+AF-A0A4W4FCR8-F1-model_v4	6-phosphofructo-2-kinase	Electrophorus electricus	1.00	38	0.816	
+1287
+AF-A0A196SM76-F1-model_v4	6-phosphofructo-2-kinase / fructose-2,6-bisphosphatase	Blastocystis sp. ATCC 50177/Nand II	1.00	32.6	0.816	
+1287
+AF-A0A0S7GSQ8-F1-model_v4	6-phosphofructo-2-kinase	Poeciliopsis prolifica	1.00	39.9	0.814	
+1287
+AF-A0A1B6HPQ5-F1-model_v4	6-phosphofructo-2-kinase	Homalodisca liturata	0.91	38.9	0.814	
+35246
+AF-A0A6G1RJQ6-F1-model_v4	6-phosphofructo-2-kinase	Hypotaenidia okinawae	1.00	38.7	0.812	
+1287
+AF-A0A162NFG9-F1-model_v4	6PF2K domain-containing protein	Phycomyces blakesleeanus NRRL 1555(-)	1.00	43.2	0.811	
+1287
+AF-A0A672RLY9-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	39.5	0.811	
+1287
+AF-A0A430Q1R6-F1-model_v4	6-phosphofructo-2-kinase	Schistosoma bovis	0.99	33.7	0.811	
+1271
+AF-A0A1V9XZA1-F1-model_v4	6-phosphofructo-2-kinase	Tropilaelaps mercedesae	0.99	39	0.811	
+1263
+AF-A0A3B3T3X1-F1-model_v4	6-phosphofructo-2-kinase	Paramormyrops kingsleyae	1.00	37.5	0.810	
+1287
+AF-A0A183C5Q3-F1-model_v4	6-phosphofructo-2-kinase	Globodera pallida	1.00	34.9	0.810	
+1276
+AF-A0A4S4KKT8-F1-model_v4	6PF2K domain-containing protein	Hermanssonia centrifuga	1.00	36.3	0.808	
+1287
+AF-F7IH15-F1-model_v4	6-phosphofructo-2-kinase	Callithrix jacchus	1.00	40.2	0.807	
+1287
+AF-H9JK44-F1-model_v4	6-phosphofructo-2-kinase	Bombyx mori	1.00	38	0.806	
+1287
+AF-A0A4W5QIW9-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	39.5	0.806	
+1287
+AF-V5GJA2-F1-model_v4	6-phosphofructo-2-kinase	Anoplophora glabripennis	0.99	34.5	0.805	
+1277
+AF-A0A7F8Q9B6-F1-model_v4	6-phosphofructo-2-kinase	Leptonychotes weddellii	1.00	36.1	0.804	
+1284
+AF-A0A7I8W6V0-F1-model_v4	6-phosphofructo-2-kinase	Dimorphilus gyrociliatus	1.00	36.8	0.804	
+7287
+AF-A0A672RNJ3-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	39.5	0.804	
+1287
+AF-A0A4W5R3A6-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	40.2	0.803	
+1287
+AF-A0A3P9P7Y7-F1-model_v4	6-phosphofructo-2-kinase	Poecilia reticulata	1.00	39.2	0.802	
+1287
+AF-A0A7L2L9W5-F1-model_v4	6-phosphofructo-2-kinase	Hippolais icterina	1.00	34.1	0.802	
+1287
+AF-A0A016VPN8-F1-model_v4	6-phosphofructo-2-kinase	Ancylostoma ceylanicum	1.00	37.8	0.800	
+1287
+AF-Q4S686-F1-model_v4	6-phosphofructo-2-kinase	Tetraodon nigroviridis	1.00	41.3	0.800	
+1287
+AF-A0A091IT62-F1-model_v4	6-phosphofructo-2-kinase	Egretta garzetta	1.00	38.4	0.800	
+1287
+AF-A0A178CZG7-F1-model_v4	6PF2K domain-containing protein	Fonsecaea nubica	1.00	39.7	0.800	
+1287
+AF-A0A075AX60-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphate 2-phosphatase domain-containing protein	Rozella allomycis CSF55	1.00	42.6	0.800	
+1287
+AF-A0A093FG62-F1-model_v4	6-phosphofructo-2-kinase	Tyto alba	1.00	39.1	0.799	
+1287
+AF-A0A381U8Z5-F1-model_v4	6PF2K domain-containing protein	marine metagenome	1.00	32.5	0.799	
+1287
+AF-A0A7N6F800-F1-model_v4	6-phosphofructo-2-kinase	Anabas testudineus	1.00	38.5	0.799	
+1287
+AF-A0A093PB03-F1-model_v4	6-phosphofructo-2-kinase	Pygoscelis adeliae	1.00	38.4	0.799	
+1287
+AF-A0A7N6B8D1-F1-model_v4	6-phosphofructo-2-kinase	Anabas testudineus	1.00	34.6	0.798	
+1287
+AF-A0A3Q1B2D2-F1-model_v4	6-phosphofructo-2-kinase	Amphiprion ocellaris	1.00	37.5	0.797	
+1287
+AF-A0A6J2EBK6-F1-model_v4	6-phosphofructo-2-kinase	Zalophus californianus	1.00	36.6	0.797	
+1287
+AF-A0A3P9Q935-F1-model_v4	6-phosphofructo-2-kinase	Poecilia reticulata	1.00	38.1	0.796	
+1287
+AF-A0A671KCF4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	1.00	38.5	0.796	
+1287
+AF-A0A4W5QUQ0-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	36.4	0.796	
+1287
+AF-A0A0S7I9G5-F1-model_v4	6-phosphofructo-2-kinase	Poeciliopsis prolifica	0.99	39.1	0.796	
+1261
+AF-A0A0L8FIG8-F1-model_v4	6-phosphofructo-2-kinase	Octopus bimaculoides	1.00	37.5	0.795	
+1287
+AF-A0A0L0GGB9-F1-model_v4	6PF2K domain-containing protein	Sphaeroforma arctica JP610	1.00	40.1	0.795	
+1287
+AF-A0A1Y2E994-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Neocallimastix californiae	1.00	32	0.795	
+1287
+AF-A0A4W5KS04-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	38.4	0.795	
+1287
+AF-A0A672IR26-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	39.7	0.794	
+10287
+AF-A0A0N4X068-F1-model_v4	6-phosphofructo-2-kinase	Haemonchus placei	1.00	36.7	0.793	
+1287
+AF-A0A672LFA5-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	39.5	0.793	
+1287
+AF-A0A1V9YY18-F1-model_v4	Fructose-2,6-bisphosphate 2-phosphatase	Thraustotheca clavata	1.00	34	0.792	
+1287
+AF-A0A7D9KGK5-F1-model_v4	6-phosphofructo-2-kinase	Paramuricea clavata	0.91	40	0.792	
+77287
+AF-A0A4W5ND05-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	36.6	0.792	
+1287
+AF-A0A2D0SLX6-F1-model_v4	6-phosphofructo-2-kinase	Ictalurus punctatus	1.00	39.5	0.792	
+1287
+AF-A0A6P6MLA6-F1-model_v4	6-phosphofructo-2-kinase	Carassius auratus	1.00	37.8	0.791	
+1287
+AF-A0A6I8NGU1-F1-model_v4	6-phosphofructo-2-kinase	Ornithorhynchus anatinus	1.00	39.9	0.791	
+1287
+AF-D8U0I3-F1-model_v4	6PF2K domain-containing protein	Volvox carteri f. nagariensis	1.00	32.3	0.790	
+1287
+AF-A0A671MKW4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	1.00	37.7	0.790	
+1287
+AF-A0A4W3KKR4-F1-model_v4	6-phosphofructo-2-kinase	Callorhinchus milii	1.00	38.8	0.790	
+1287
+AF-A0A091CPJ0-F1-model_v4	6-phosphofructo-2-kinase	Fukomys damarensis	1.00	39.5	0.790	
+1287
+AF-A0A6J2APS3-F1-model_v4	6-phosphofructo-2-kinase	Acinonyx jubatus	1.00	38	0.789	
+1287
+AF-A0A3Q0CYL2-F1-model_v4	6-phosphofructo-2-kinase	Mesocricetus auratus	1.00	39.5	0.789	
+1287
+AF-A0A672ITN8-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	36.8	0.789	
+1287
+AF-A0A803W5N8-F1-model_v4	Uncharacterized protein	Ficedula albicollis	1.00	38.4	0.789	
+1287
+AF-A0A673ZTB7-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	38.8	0.789	
+1287
+AF-A0A7S0E932-F1-model_v4	Hypothetical protein	Hanusia phi	0.98	32	0.789	
+1253
+AF-A0A674AXK7-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	38.1	0.788	
+1287
+AF-A0A1Y1W7Z3-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Linderina pennispora	1.00	39.3	0.788	
+1287
+AF-A0A7N6BDB9-F1-model_v4	6-phosphofructo-2-kinase	Anabas testudineus	1.00	38.5	0.788	
+1287
+AF-A0A6P7MHW5-F1-model_v4	6-phosphofructo-2-kinase	Betta splendens	1.00	38.8	0.788	
+1287
+AF-A0A059LDW7-F1-model_v4	6-phosphofructo-2-kinase	Helicosporidium sp. ATCC 50920	1.00	33.7	0.787	
+1287
+AF-A0A0L8FIL0-F1-model_v4	6-phosphofructo-2-kinase	Octopus bimaculoides	1.00	37.5	0.787	
+1287
+AF-V5I8Q1-F1-model_v4	6-phosphofructo-2-kinase	Anoplophora glabripennis	1.00	38.1	0.787	
+1287
+AF-R0LMV5-F1-model_v4	6-phosphofructo-2-kinase	Anas platyrhynchos	1.00	38.4	0.787	
+1287
+AF-A0A2D4SSA6-F1-model_v4	Fructose-2,6-bisphosphatase	Deltaproteobacteria bacterium	1.00	38.6	0.787	
+1287
+AF-A0A6Q2YZK6-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38.4	0.787	
+1287
+AF-F0Y3G3-F1-model_v4	6PF2K domain-containing protein	Aureococcus anophagefferens	1.00	32.6	0.786	
+1287
+AF-A0A0C2HCU6-F1-model_v4	6-phosphofructo-2-kinase	Ancylostoma duodenale	0.89	38.5	0.786	
+38239
+AF-A0A7K4RWV4-F1-model_v4	6-phosphofructo-2-kinase	Columbina picui	1.00	39.4	0.785	
+1287
+AF-A0A7S0HA45-F1-model_v4	Hypothetical protein	Amorphochlora amoebiformis	1.00	36.2	0.785	
+1287
+AF-A0A196SEX5-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase	Blastocystis sp. ATCC 50177/Nand II	1.00	33.3	0.785	
+1287
+AF-A0A6I8NDX1-F1-model_v4	6-phosphofructo-2-kinase	Ornithorhynchus anatinus	1.00	39.9	0.785	
+1287
+AF-A0A851NGX7-F1-model_v4	F262 bisphosphatase	Penelope pileata	1.00	36.9	0.785	
+1287
+AF-U3KM32-F1-model_v4	6-phosphofructo-2-kinase	Oryctolagus cuniculus	1.00	38.7	0.784	
+1287
+AF-A0A4W5Q4G8-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	38.4	0.784	
+1287
+AF-A0A7K7KCG2-F1-model_v4	6-phosphofructo-2-kinase	Agelaius phoeniceus	1.00	39.4	0.784	
+1287
+AF-D8M5R5-F1-model_v4	6PF2K domain-containing protein	Blastocystis hominis	0.99	30.9	0.784	
+24287
+AF-A0A671NRG2-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	1.00	39.1	0.783	
+1287
+AF-A0A668UVI9-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	37.8	0.783	
+1287
+AF-A0A6T6AIQ6-F1-model_v4	Hypothetical protein	Compsopogon caeruleus	1.00	33.3	0.783	
+1287
+AF-A0A671MKT2-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	1.00	37.7	0.783	
+1287
+AF-H2YWM7-F1-model_v4	6-phosphofructo-2-kinase	Ciona savignyi	1.00	37.8	0.783	
+1287
+AF-A0A138ZYM9-F1-model_v4	Fructose-2,6-bisphosphatase	Gonapodya prolifera JEL478	1.00	34	0.783	
+1287
+AF-A0A168PSH0-F1-model_v4	6PF2K domain-containing protein	Mucor lusitanicus CBS 277.49	1.00	29.3	0.782	
+1287
+AF-A0A665TG28-F1-model_v4	6-phosphofructo-2-kinase	Echeneis naucrates	1.00	37.5	0.782	
+1287
+AF-A0A1U8Q3Y6-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase isoform X1	Nelumbo nucifera	0.99	39	0.781	
+24287
+AF-A0A2K6SW39-F1-model_v4	6-phosphofructo-2-kinase	Saimiri boliviensis boliviensis	1.00	36.6	0.781	
+1287
+AF-A0A6Q2WPB1-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38.8	0.781	
+1287
+AF-A0A667ZU41-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	1.00	39.9	0.781	
+1287
+AF-A0A2U3XTR0-F1-model_v4	6-phosphofructo-2-kinase	Leptonychotes weddellii	1.00	39.1	0.781	
+1287
+AF-A0A6Q2Y5Y8-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38.8	0.780	
+1287
+AF-A0A1I8CXS8-F1-model_v4	6-phosphofructo-2-kinase	Rhabditophanes sp. KR3021	1.00	39.9	0.780	
+1287
+AF-A0A287EXZ8-F1-model_v4	6PF2K domain-containing protein	Hordeum vulgare subsp. vulgare	1.00	39	0.780	
+1287
+AF-A0A673X2Q7-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	38.8	0.780	
+1287
+AF-A0A4W3GWT3-F1-model_v4	6-phosphofructo-2-kinase	Callorhinchus milii	1.00	39.7	0.780	
+1287
+AF-A0A674MH77-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	38.1	0.780	
+1287
+AF-A0A6J1YX38-F1-model_v4	6-phosphofructo-2-kinase	Acinonyx jubatus	0.99	39.9	0.779	
+21287
+AF-A0A0B7A4W9-F1-model_v4	6-phosphofructo-2-kinase	Arion vulgaris	0.96	34.5	0.779	
+1222
+AF-A0A369S819-F1-model_v4	6-phosphofructo-2-kinase	Trichoplax sp. H2	1.00	37.9	0.779	
+1287
+AF-A0A5E4NBF9-F1-model_v4	6-phosphofructo-2-kinase	Cinara cedri	1.00	29.9	0.778	
+1287
+AF-A0A452RXU3-F1-model_v4	6-phosphofructo-2-kinase	Ursus americanus	1.00	39.2	0.778	
+1287
+AF-A0A2A4JGJ3-F1-model_v4	6-phosphofructo-2-kinase	Heliothis virescens	1.00	37	0.778	
+1287
+AF-A0A672J2S5-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	38.7	0.778	
+1287
+AF-W2TV58-F1-model_v4	6-phosphofructo-2-kinase	Necator americanus	0.99	36.8	0.777	
+35287
+AF-A0A4V1IZ42-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Rozella allomycis CSF55	0.99	42.2	0.775	
+29287
+AF-E0VK81-F1-model_v4	6-phosphofructo-2-kinase	Pediculus humanus corporis	1.00	39.2	0.775	
+1287
+AF-A0BTB1-F1-model_v4	6PF2K domain-containing protein	Paramecium tetraurelia	1.00	36.8	0.774	
+1287
+AF-A0A835ZH30-F1-model_v4	Uncharacterized protein	Ovis aries	1.00	40.2	0.774	
+1287
+AF-A0A4X1VFG5-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	40.2	0.773	
+1287
+AF-A0A061I7E2-F1-model_v4	6-phosphofructo-2-kinase	Cricetulus griseus	1.00	39.2	0.773	
+1287
+AF-A0A6P5DNW2-F1-model_v4	6-phosphofructo-2-kinase	Bos indicus	1.00	39.5	0.772	
+1287
+AF-C0NDG1-F1-model_v4	Fructose-2,6-bisphosphatase	Histoplasma capsulatum G186AR	1.00	40.1	0.772	
+1287
+AF-A0A671Q6W1-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	1.00	39.5	0.772	
+1287
+AF-A0A3Q4N8F9-F1-model_v4	6-phosphofructo-2-kinase	Neolamprologus brichardi	1.00	34.7	0.772	
+1287
+AF-A0A1B6I8L1-F1-model_v4	6-phosphofructo-2-kinase	Homalodisca liturata	0.98	33.8	0.772	
+1241
+AF-A0A812V7H7-F1-model_v4	Hypothetical protein	Symbiodinium natans	0.99	26.7	0.771	
+1270
+AF-A0A6P4UPL3-F1-model_v4	6-phosphofructo-2-kinase	Panthera pardus	1.00	34.6	0.771	
+1287
+AF-A0A1B6CPW8-F1-model_v4	6-phosphofructo-2-kinase	Clastoptera arizonana	1.00	38.5	0.771	
+1287
+AF-H9JD51-F1-model_v4	6-phosphofructo-2-kinase	Bombyx mori	1.00	32.8	0.771	
+5287
+AF-A0A674CRU1-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	37.3	0.771	
+1287
+AF-A0A674HDK8-F1-model_v4	6-phosphofructo-2-kinase	Taeniopygia guttata	1.00	40.9	0.770	
+1287
+AF-A0A672NF07-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	39.4	0.770	
+1287
+AF-A0A2D4I3H2-F1-model_v4	6-phosphofructo-2-kinase	Micrurus lemniscatus lemniscatus	0.99	40.3	0.770	
+24287
+AF-A0A293MY65-F1-model_v4	6-phosphofructo-2-kinase	Ornithodoros erraticus	1.00	38.1	0.770	
+1287
+AF-A0A3B3CVE8-F1-model_v4	6-phosphofructo-2-kinase	Oryzias melastigma	1.00	38.8	0.770	
+1287
+AF-A0A0D2X3E3-F1-model_v4	6PF2K domain-containing protein	Capsaspora owczarzaki ATCC 30864	1.00	24.3	0.770	
+1287
+AF-A0A673JHU2-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.5	0.770	
+1287
+AF-A0A6B2L3P3-F1-model_v4	6PF2K domain-containing protein	Arcella intermedia	1.00	40	0.769	
+1287
+AF-A0A1Q3FWV0-F1-model_v4	6-phosphofructo-2-kinase	Culex tarsalis	1.00	37.8	0.769	
+1287
+AF-A0A1B6HL22-F1-model_v4	6-phosphofructo-2-kinase	Homalodisca liturata	0.77	38.6	0.768	
+59246
+AF-A0A6Q2Y6A4-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	37.3	0.768	
+1287
+AF-A0A669Q323-F1-model_v4	6-phosphofructo-2-kinase	Phasianus colchicus	1.00	39.9	0.768	
+1287
+AF-A0A667X0S9-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	1.00	40.1	0.768	
+1287
+AF-A0A6P4ZIQ1-F1-model_v4	6-phosphofructo-2-kinase	Branchiostoma belcheri	1.00	40.6	0.768	
+1287
+AF-A0A0G4J8A9-F1-model_v4	6PF2K domain-containing protein	Plasmodiophora brassicae	1.00	36.1	0.767	
+1287
+AF-V5G2C7-F1-model_v4	6-phosphofructo-2-kinase	Anoplophora glabripennis	0.99	33.9	0.767	
+1282
+AF-A0A670K593-F1-model_v4	6-phosphofructo-2-kinase	Podarcis muralis	1.00	40.2	0.767	
+1287
+AF-A0A5G2R1Y2-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	40.2	0.767	
+1287
+AF-A0A7K6DKB9-F1-model_v4	6-phosphofructo-2-kinase	Origma solitaria	1.00	34.9	0.767	
+1287
+AF-A0A7K7GRP6-F1-model_v4	6-phosphofructo-2-kinase	Erithacus rubecula	1.00	35.2	0.767	
+1287
+AF-A0A7L3ZKA3-F1-model_v4	6-phosphofructo-2-kinase	Circaetus pectoralis	1.00	33.3	0.767	
+1287
+AF-T1HM25-F1-model_v4	6-phosphofructo-2-kinase	Rhodnius prolixus	1.00	35.1	0.767	
+1287
+AF-G0W5I7-F1-model_v4	6PF2K domain-containing protein	Naumovozyma dairenensis CBS 421	1.00	38.1	0.767	
+1287
+AF-A0A7R7VQP0-F1-model_v4	6PF2K domain-containing protein	Aspergillus chevalieri	1.00	26.6	0.767	
+1287
+AF-A0A3Q3RXA4-F1-model_v4	6-phosphofructo-2-kinase	Mastacembelus armatus	1.00	37.5	0.766	
+1287
+AF-A0A6Q2YDR9-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	39.2	0.766	
+1287
+AF-A0A671NXY4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	1.00	39.1	0.766	
+1287
+AF-A0A670K6S0-F1-model_v4	6-phosphofructo-2-kinase	Podarcis muralis	1.00	40.2	0.765	
+1287
+AF-A0A850ZPM7-F1-model_v4	F264 bisphosphatase	Tichodroma muraria	0.99	39.4	0.765	
+28287
+AF-A0A0G4N9V9-F1-model_v4	6PF2K domain-containing protein	Verticillium longisporum	0.99	34.4	0.765	
+1287
+AF-Q6DTY7-F1-model_v4	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 4	Mus musculus	1.00	38.8	0.765	
+1287
+AF-A0A1A7WQH5-F1-model_v4	6-phosphofructo-2-kinase	Iconisemion striatum	1.00	40.6	0.765	
+1287
+AF-A0A7M7KMY1-F1-model_v4	6-phosphofructo-2-kinase	Varroa destructor	1.00	39.5	0.765	
+1287
+AF-A0A7K9WRN7-F1-model_v4	6-phosphofructo-2-kinase	Rhipidura dahli	1.00	37.7	0.765	
+1287
+AF-A0A3P8Q728-F1-model_v4	6-phosphofructo-2-kinase	Astatotilapia calliptera	1.00	39.9	0.765	
+1287
+AF-A0A069DU84-F1-model_v4	6-phosphofructo-2-kinase	Panstrongylus megistus	1.00	36.3	0.765	
+1287
+AF-A0A4W3KKQ8-F1-model_v4	6-phosphofructo-2-kinase	Callorhinchus milii	1.00	38.8	0.765	
+1287
+AF-A0A668T837-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	38.8	0.765	
+1287
+AF-A0A1A8G527-F1-model_v4	6-phosphofructo-2-kinase	Nothobranchius korthausae	1.00	40.2	0.764	
+1287
+AF-A0A7S3JY63-F1-model_v4	Hypothetical protein	Aureoumbra lagunensis	1.00	29.6	0.764	
+1284
+AF-A0A0V1K440-F1-model_v4	6-phosphofructo-2-kinase	Trichinella pseudospiralis	1.00	39.3	0.763	
+1287
+AF-A0A7G5ISS8-F1-model_v4	6PF2K domain-containing protein	Aspergillus flavus NRRL3357	1.00	40.4	0.763	
+1287
+AF-A0A6Q2ZAL9-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	37.3	0.763	
+1287
+AF-D8MAH1-F1-model_v4	6PF2K domain-containing protein	Blastocystis hominis	0.99	29.2	0.763	
+1287
+AF-K7GN43-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	40.2	0.763	
+1287
+AF-A0A672LVU4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	37.5	0.763	
+1287
+AF-A0A452RNF3-F1-model_v4	6-phosphofructo-2-kinase	Ursus americanus	1.00	39.9	0.763	
+1287
+AF-A0A1B6D6F3-F1-model_v4	6-phosphofructo-2-kinase	Clastoptera arizonana	1.00	38.5	0.763	
+1287
+AF-A0A836CLP1-F1-model_v4	Histidine phosphatase superfamily	Tribonema minus	0.99	42.2	0.762	
+1287
+AF-A0A815W5J6-F1-model_v4	Hypothetical protein	Adineta ricciae	1.00	38	0.762	
+1287
+AF-A0A667X4Q9-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	1.00	40.1	0.762	
+1287
+AF-A0A668UAD0-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	37.7	0.762	
+1287
+AF-A0A3Q1G4W6-F1-model_v4	6-phosphofructo-2-kinase	Acanthochromis polyacanthus	1.00	39.2	0.761	
+1287
+AF-A0A6B2G4L9-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase (Trinotate prediction)	Myxobolus squamalis	0.75	32.7	0.761	
+36216
+AF-H0YS35-F1-model_v4	6-phosphofructo-2-kinase	Taeniopygia guttata	1.00	38	0.761	
+1287
+AF-A0A7R9K587-F1-model_v4	6-phosphofructo-2-kinase	Timema genevievae	1.00	34.2	0.761	
+1287
+AF-D8M406-F1-model_v4	6PF2K domain-containing protein	Blastocystis hominis	0.95	30.7	0.760	
+1224
+AF-A0A6A6TNS7-F1-model_v4	Fructose-2,6-bisphosphatase-like protein	Lophiostoma macrostomum CBS 122681	1.00	29.8	0.760	
+8287
+AF-A0A1D5R0P3-F1-model_v4	6-phosphofructo-2-kinase	Macaca mulatta	1.00	39.1	0.760	
+1287
+AF-A0A7S2XGI8-F1-model_v4	Hypothetical protein	Lotharella oceanica	1.00	30.5	0.760	
+1287
+AF-A0A7S0PZM0-F1-model_v4	Hypothetical protein	Coccolithus braarudii	1.00	30.5	0.760	
+1287
+AF-S9PMU8-F1-model_v4	Fructose-2,6-bisphosphate 2-phosphatase activity	Schizosaccharomyces octosporus yFS286	0.99	29.9	0.760	
+1287
+AF-A0A4W4ETK1-F1-model_v4	6-phosphofructo-2-kinase	Electrophorus electricus	1.00	38.4	0.760	
+1287
+AF-A0A6I8NAK0-F1-model_v4	6-phosphofructo-2-kinase	Ornithorhynchus anatinus	1.00	40.2	0.759	
+1287
+AF-A0A7L2FAE5-F1-model_v4	6-phosphofructo-2-kinase	Quiscalus mexicanus	1.00	39.4	0.759	
+1287
+AF-A0A672IZG2-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	38.7	0.759	
+1287
+AF-A0A4W5L8S5-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	39.2	0.759	
+1287
+AF-A0A0V1E7A2-F1-model_v4	6-phosphofructo-2-kinase	Trichinella pseudospiralis	1.00	37.8	0.759	
+1287
+AF-A0A7K9KE29-F1-model_v4	6-phosphofructo-2-kinase	Dicaeum eximium	1.00	35.2	0.759	
+1287
+AF-A0A2R5L6N1-F1-model_v4	6-phosphofructo-2-kinase	Ornithodoros turicata	1.00	38.1	0.759	
+1287
+AF-A0A7I4XX72-F1-model_v4	6-phosphofructo-2-kinase	Haemonchus contortus	1.00	36.4	0.759	
+1287
+AF-A0A293MGQ0-F1-model_v4	6-phosphofructo-2-kinase	Ornithodoros erraticus	1.00	38.1	0.759	
+1287
+AF-A0A6P5PS34-F1-model_v4	6-phosphofructo-2-kinase	Mus caroli	1.00	38.7	0.758	
+1287
+AF-A0A674HK85-F1-model_v4	6-phosphofructo-2-kinase	Taeniopygia guttata	1.00	39.9	0.758	
+1287
+AF-A0A6P6MTC1-F1-model_v4	6-phosphofructo-2-kinase	Carassius auratus	1.00	39.2	0.758	
+1287
+AF-A0A7S0Q2T8-F1-model_v4	Hypothetical protein	Coccolithus braarudii	0.95	22.8	0.758	
+8254
+AF-A0A3B5Q2U1-F1-model_v4	6-phosphofructo-2-kinase	Xiphophorus maculatus	1.00	37.8	0.758	
+1287
+AF-A0A6V7TLA7-F1-model_v4	6-phosphofructo-2-kinase	Meloidogyne enterolobii	1.00	38.4	0.758	
+1287
+AF-A0A7R9FL62-F1-model_v4	6-phosphofructo-2-kinase	Timema tahoe	1.00	34.2	0.758	
+1287
+AF-A0A0F4YEW0-F1-model_v4	Fructose-6-phosphate 2-kinase/fructose-2	Rasamsonia emersonii CBS 393.64	0.99	30.7	0.758	
+12287
+AF-A0A1U7LVS7-F1-model_v4	Putative 6-phosphofructo-2-kinase	Neolecta irregularis DAH-3	1.00	32.4	0.758	
+1287
+AF-A0A803WDF2-F1-model_v4	Uncharacterized protein	Ficedula albicollis	1.00	38.4	0.757	
+1287
+AF-A0A0P6D8H6-F1-model_v4	6-phosphofructo-2-kinase	Daphnia magna	1.00	38.1	0.757	
+1287
+AF-A0A3P8ZU23-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38.4	0.757	
+1287
+AF-A0A425BNT1-F1-model_v4	6PF2K domain-containing protein	Scytalidium sp. 3C	0.99	25.5	0.757	
+1287
+AF-A0A2D0SKP1-F1-model_v4	6-phosphofructo-2-kinase	Ictalurus punctatus	1.00	39.5	0.757	
+1287
+AF-A0A3B4D2V7-F1-model_v4	6-phosphofructo-2-kinase	Pygocentrus nattereri	1.00	38.1	0.757	
+1287
+AF-A0A2I0M072-F1-model_v4	6-phosphofructo-2-kinase	Columba livia	1.00	38.4	0.756	
+1287
+AF-A0A671W511-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	39.9	0.756	
+1287
+AF-A0A671Y6F9-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	39.1	0.756	
+1287
+AF-A0A7I0Z942-F1-model_v4	6-phosphofructo-2-kinase	Danaus plexippus plexippus	1.00	37.3	0.756	
+1287
+AF-A0A0P6E2U6-F1-model_v4	6-phosphofructo-2-kinase	Daphnia magna	1.00	38.1	0.756	
+1287
+AF-A0A4W5PSK2-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	33.6	0.756	
+1287
+AF-A0A1B8ECF5-F1-model_v4	6PF2K domain-containing protein	Pseudogymnoascus sp. 23342-1-I1	1.00	27.5	0.756	
+1287
+AF-A0A662YPX8-F1-model_v4	6-phosphofructo-2-kinase	Acipenser ruthenus	1.00	32.5	0.756	
+1287
+AF-A0A667YX63-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	1.00	37	0.756	
+1287
+AF-A0A674H6Y5-F1-model_v4	6-phosphofructo-2-kinase	Taeniopygia guttata	1.00	40.9	0.756	
+1287
+AF-A0A0D9RI84-F1-model_v4	6-phosphofructo-2-kinase	Chlorocebus sabaeus	1.00	40.6	0.756	
+1287
+AF-A0A3P8ZKS3-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38.8	0.756	
+1287
+AF-A0A7R8AQU7-F1-model_v4	Fructose-2,6-bisphosphatase	Aspergillus puulaauensis	1.00	38	0.756	
+1287
+AF-A0A060VXB7-F1-model_v4	6-phosphofructo-2-kinase	Oncorhynchus mykiss	1.00	37.9	0.756	
+1287
+AF-A0A6P3IN70-F1-model_v4	6-phosphofructo-2-kinase	Bison bison bison	1.00	38	0.756	
+1287
+AF-A0A6Q2XHH5-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38.8	0.756	
+1287
+AF-A0A0V0J663-F1-model_v4	6-phosphofructo-2-kinase	Schistocephalus solidus	1.00	40.2	0.755	
+1287
+AF-A0A7N8WZL1-F1-model_v4	6-phosphofructo-2-kinase	Mastacembelus armatus	1.00	37.5	0.755	
+1287
+AF-A0A3B4B984-F1-model_v4	6-phosphofructo-2-kinase	Periophthalmus magnuspinnatus	1.00	40.9	0.755	
+1287
+AF-A0A819B8S1-F1-model_v4	Hypothetical protein	Rotaria sordida	1.00	37	0.755	
+1287
+AF-A0A668T5V2-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	38.8	0.755	
+1287
+AF-A0A3B4CG80-F1-model_v4	6-phosphofructo-2-kinase	Pygocentrus nattereri	1.00	40.6	0.755	
+1287
+AF-A0A1B8D1T3-F1-model_v4	6PF2K domain-containing protein	Pseudogymnoascus sp. 24MN13	0.99	24.3	0.755	
+4287
+AF-A0A3B3CB12-F1-model_v4	6-phosphofructo-2-kinase	Oryzias melastigma	1.00	35.9	0.755	
+1287
+AF-A0A6A7C638-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Piedraia hortae CBS 480.64	1.00	42.5	0.755	
+1287
+AF-A0A151Z3F7-F1-model_v4	Fructose-6-phosphate 2-kinase/fructose-2	Tieghemostelium lacteum	1.00	33.7	0.755	
+1287
+AF-A0A3B3U391-F1-model_v4	6-phosphofructo-2-kinase	Poecilia latipinna	1.00	38.7	0.755	
+1287
+AF-A0A6I8TNE7-F1-model_v4	6-phosphofructo-2-kinase	Aedes aegypti	1.00	35.5	0.755	
+1287
+AF-M2WSK6-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase / fructose-2,6-bisphosphatase	Galdieria sulphuraria	1.00	36.1	0.754	
+1287
+AF-A0A0L0HPG8-F1-model_v4	Uncharacterized protein	Spizellomyces punctatus DAOM BR117	1.00	37.2	0.754	
+1287
+AF-A0A4W5QUL7-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	39.5	0.754	
+1287
+AF-A0A6P8PGM0-F1-model_v4	6-phosphofructo-2-kinase	Geotrypetes seraphini	1.00	39.1	0.754	
+1287
+AF-A0A3Q1H9U7-F1-model_v4	6-phosphofructo-2-kinase	Anabas testudineus	1.00	37.8	0.754	
+1287
+AF-A0A4V5P5H7-F1-model_v4	6-phosphofructo-2-kinase	Monodon monoceros	0.99	36.8	0.754	
+1287
+AF-A0A2H5RA96-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase bifunctional enzyme	Rhizophagus irregularis DAOM 181602=DAOM 197198	1.00	44.5	0.754	
+1287
+AF-A0A7M7IX84-F1-model_v4	6-phosphofructo-2-kinase	Nasonia vitripennis	1.00	38.1	0.754	
+1287
+AF-A0A1A8REB9-F1-model_v4	6-phosphofructo-2-kinase	Nothobranchius rachovii	1.00	37.7	0.754	
+1287
+AF-A0A452RWR5-F1-model_v4	6-phosphofructo-2-kinase	Ursus americanus	0.99	37.4	0.754	
+1274
+AF-A0A4W3GV40-F1-model_v4	6-phosphofructo-2-kinase	Callorhinchus milii	1.00	39.7	0.754	
+1287
+AF-A0A3Q2ZFC4-F1-model_v4	6-phosphofructo-2-kinase	Kryptolebias marmoratus	1.00	39.5	0.754	
+1287
+AF-A0A674N1Z5-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	38.8	0.754	
+1287
+AF-A0A672MEH6-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	38.8	0.753	
+1287
+AF-A0A4W5QYI4-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	39.5	0.753	
+1287
+AF-A0A674AXZ2-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	38.4	0.753	
+1287
+AF-A0A673LKD5-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	38.5	0.753	
+1287
+AF-A0A674MFV0-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	37	0.752	
+1287
+AF-A0A6P8ZN74-F1-model_v4	6-phosphofructo-2-kinase	Thrips palmi	1.00	36.3	0.752	
+1287
+AF-A0A668UX43-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	37.8	0.752	
+1287
+AF-A0A1D1UZD3-F1-model_v4	6-phosphofructo-2-kinase	Ramazzottius varieornatus	1.00	37.2	0.752	
+1287
+AF-A0A668UQE3-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	35	0.752	
+1287
+AF-A0A672T919-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	39.1	0.752	
+1287
+AF-A0A1D6JZG3-F1-model_v4	6-phosphofructo-2-kinase/fructose-26-bisphosphatase	Zea mays	1.00	37.6	0.752	
+1287
+AF-A0A5G2QB11-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	40.2	0.752	
+1287
+AF-A0A226MZF9-F1-model_v4	6-phosphofructo-2-kinase	Callipepla squamata	0.99	35.4	0.752	
+1287
+AF-A0A6J2EDC1-F1-model_v4	6-phosphofructo-2-kinase	Zalophus californianus	1.00	38.7	0.752	
+1287
+AF-A0A2R5GW11-F1-model_v4	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase	Hondaea fermentalgiana	1.00	35.3	0.752	
+1287
+AF-A0A3B5KH45-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	37.8	0.752	
+1287
+AF-A0A3R7MSA5-F1-model_v4	6-phosphofructo-2-kinase	Penaeus vannamei	1.00	39.2	0.751	
+1287
+AF-A0A812XCR3-F1-model_v4	Hypothetical protein	Symbiodinium necroappetens	1.00	24.2	0.751	
+1287
+AF-A0A803VJW9-F1-model_v4	Uncharacterized protein	Ficedula albicollis	1.00	33.6	0.751	
+1287
+AF-A0A6P3CZL5-F1-model_v4	6-phosphofructo-2-kinase	Ixodes scapularis	1.00	39.2	0.751	
+1287
+AF-A0BXN8-F1-model_v4	6PF2K domain-containing protein	Paramecium tetraurelia	0.99	27.5	0.751	
+1287
+AF-A0A5J4NQY8-F1-model_v4	6-phosphofructo-2-kinase	Paragonimus westermani	1.00	36.2	0.751	
+1287
+AF-A0A5F8GQH6-F1-model_v4	6-phosphofructo-2-kinase	Monodelphis domestica	1.00	40.2	0.751	
+1287
+AF-W2TW60-F1-model_v4	6-phosphofructo-2-kinase	Necator americanus	1.00	38.6	0.751	
+1287
+AF-A0A6P5DSK4-F1-model_v4	6-phosphofructo-2-kinase	Bos indicus	1.00	39.5	0.751	
+1287
+AF-A0A1B6DGN2-F1-model_v4	6-phosphofructo-2-kinase	Clastoptera arizonana	1.00	38.5	0.751	
+1287
+AF-A0A668US87-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	35	0.751	
+1287
+AF-A0A167JCA0-F1-model_v4	6PF2K domain-containing protein	Phycomyces blakesleeanus NRRL 1555(-)	1.00	27.5	0.751	
+1287
+AF-A0A674MGP2-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	39.9	0.751	
+1287
+AF-A0A672T8M2-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	39.1	0.751	
+1287
+AF-A0A1Y1XPF1-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Anaeromyces robustus	1.00	39.5	0.750	
+1287
+AF-A7SNT5-F1-model_v4	6-phosphofructo-2-kinase	Nematostella vectensis	1.00	37.9	0.750	
+1287
+AF-A0A3P6TB74-F1-model_v4	6-phosphofructo-2-kinase	Cylicostephanus goldi	0.80	38.2	0.750	
+88276
+AF-A0A507DU65-F1-model_v4	6PF2K domain-containing protein	Chytriomyces confervae	1.00	27.9	0.750	
+1287
+AF-A0A7L3IN29-F1-model_v4	6-phosphofructo-2-kinase	Pardalotus punctatus	0.99	35.2	0.750	
+1287
+AF-A0A3Q1FVZ6-F1-model_v4	6-phosphofructo-2-kinase	Acanthochromis polyacanthus	1.00	40.2	0.749	
+1287
+AF-A0A673TSF7-F1-model_v4	6-phosphofructo-2-kinase	Suricata suricatta	1.00	38	0.749	
+1287
+AF-A0A6P6YJQ8-F1-model_v4	6-phosphofructo-2-kinase	Dermatophagoides pteronyssinus	1.00	37.1	0.749	
+1287
+AF-A0A665W3W9-F1-model_v4	6-phosphofructo-2-kinase	Echeneis naucrates	1.00	36.6	0.749	
+1287
+AF-A0A672FFI7-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	39.2	0.749	
+1287
+AF-N1QD14-F1-model_v4	6PF2K domain-containing protein	Pseudocercospora fijiensis CIRAD86	1.00	40.7	0.749	
+1287
+AF-A0A1B6FZV5-F1-model_v4	6-phosphofructo-2-kinase	Cuerna arida	0.98	37.7	0.749	
+1248
+AF-A0A671W4D2-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	39.9	0.749	
+1287
+AF-A0A0F4Z0V8-F1-model_v4	6-phosphofructo-2-kinase	Rasamsonia emersonii CBS 393.64	1.00	39.4	0.749	
+1287
+AF-A0A4W4EUH0-F1-model_v4	6-phosphofructo-2-kinase	Electrophorus electricus	1.00	38.4	0.748	
+1287
+AF-A0A7L2EJA6-F1-model_v4	6-phosphofructo-2-kinase	Anthoscopus minutus	1.00	34.7	0.748	
+1287
+AF-A0A668UP92-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	37.8	0.748	
+1287
+AF-A0A669QDP6-F1-model_v4	6-phosphofructo-2-kinase	Phasianus colchicus	1.00	42.3	0.747	
+1287
+AF-A0A1Y1MT84-F1-model_v4	6PF2K domain-containing protein	Photinus pyralis	0.72	29.1	0.747	
+34217
+AF-A0A7S3JXG0-F1-model_v4	Hypothetical protein	Aureoumbra lagunensis	0.90	31.9	0.747	
+79284
+AF-A0A0M3KIT2-F1-model_v4	6PF2K domain-containing protein	Anisakis simplex	0.60	32.2	0.747	
+22202
+AF-A0A3B3RCK2-F1-model_v4	6-phosphofructo-2-kinase	Paramormyrops kingsleyae	1.00	39.4	0.747	
+1287
+AF-D8LZK8-F1-model_v4	6PF2K domain-containing protein	Blastocystis hominis	1.00	29.9	0.746	
+1287
+AF-A0A3Q2UBC8-F1-model_v4	6-phosphofructo-2-kinase	Gallus gallus	1.00	39.9	0.746	
+1287
+AF-A0A811JU13-F1-model_v4	Hypothetical protein	Bursaphelenchus okinawaensis	1.00	37.4	0.746	
+1287
+AF-A0A507EI42-F1-model_v4	Uncharacterized protein	Powellomyces hirtus	1.00	34.6	0.746	
+1287
+AF-A0A673FXS7-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	37.7	0.746	
+1287
+AF-H3BHT4-F1-model_v4	6-phosphofructo-2-kinase	Latimeria chalumnae	1.00	38	0.746	
+1287
+AF-R7QEV4-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase 4	Chondrus crispus	1.00	37.8	0.745	
+1287
+AF-A0A2U4CQR5-F1-model_v4	6-phosphofructo-2-kinase	Tursiops truncatus	1.00	39.1	0.745	
+1287
+AF-A0A835TM09-F1-model_v4	Uncharacterized protein	Lamprotornis superbus	1.00	32.7	0.745	
+1287
+AF-A0A803WH00-F1-model_v4	Uncharacterized protein	Ficedula albicollis	1.00	38.4	0.745	
+1287
+AF-A0A673JPU7-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.5	0.745	
+1287
+AF-A0A672LVJ5-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	1.00	37.5	0.745	
+1287
+AF-A0A0D1VX55-F1-model_v4	6PF2K domain-containing protein	Exophiala sideris	1.00	39.4	0.745	
+1287
+AF-D3B2K8-F1-model_v4	Fructose-6-phosphate 2-kinase/fructose-2,6-bisphosphatase	Heterostelium album PN500	1.00	35	0.744	
+1287
+AF-G1XFJ1-F1-model_v4	6PF2K domain-containing protein	Orbilia oligospora ATCC 24927	0.99	40.5	0.744	
+26287
+AF-A0A3M7PFX5-F1-model_v4	6-phosphofructo-2-kinase	Brachionus plicatilis	1.00	37.1	0.744	
+1287
+AF-A0A673JXI8-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	38.3	0.744	
+1287
+AF-A0A7E6CWC9-F1-model_v4	6-phosphofructo-2-kinase	Phyllostomus discolor	1.00	38.4	0.744	
+1287
+AF-A0A5F4WEE4-F1-model_v4	6-phosphofructo-2-kinase	Callithrix jacchus	1.00	40.2	0.744	
+1287
+AF-D3BV36-F1-model_v4	Fructose-6-phosphate-2-kinase	Heterostelium album PN500	1.00	41.7	0.744	
+1287
+AF-A0A7N5P5V4-F1-model_v4	6-phosphofructo-2-kinase	Ailuropoda melanoleuca	1.00	39.2	0.744	
+1287
+AF-A0A673LGD6-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	37.8	0.743	
+1287
+AF-A0A369S8L7-F1-model_v4	6-phosphofructo-2-kinase	Trichoplax sp. H2	1.00	34.7	0.743	
+1287
+AF-A0A0S7GNM9-F1-model_v4	6-phosphofructo-2-kinase	Poeciliopsis prolifica	1.00	39.2	0.743	
+1287
+AF-A0A674MAT1-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	37.8	0.743	
+1287
+AF-A0A673JT48-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.5	0.742	
+1287
+AF-A0A137PG89-F1-model_v4	6PF2K-domain-containing protein	Conidiobolus coronatus NRRL 28638	1.00	24.5	0.742	
+1287
+AF-A0A3B3RUW2-F1-model_v4	6-phosphofructo-2-kinase	Paramormyrops kingsleyae	1.00	39.9	0.742	
+1287
+AF-A0A7S1NJB0-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	0.99	24.5	0.742	
+1287
+AF-A0A673IME7-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.1	0.742	
+1287
+AF-Q4RXU7-F1-model_v4	6-phosphofructo-2-kinase	Tetraodon nigroviridis	1.00	38.8	0.741	
+1287
+AF-A0A507DSI2-F1-model_v4	6PF2K domain-containing protein	Synchytrium endobioticum	1.00	38.2	0.741	
+1287
+AF-A0A7N6BJY0-F1-model_v4	6-phosphofructo-2-kinase	Anabas testudineus	1.00	38.8	0.741	
+1287
+AF-A0A2T9Z6L9-F1-model_v4	6PF2K domain-containing protein	Furculomyces boomerangus	1.00	28.6	0.741	
+1287
+AF-A0A671UXZ7-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	38.8	0.741	
+1287
+AF-A0A3B3B512-F1-model_v4	6-phosphofructo-2-kinase	Oryzias melastigma	1.00	38.8	0.741	
+1287
+AF-A0A673N9I5-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.1	0.741	
+1287
+AF-A0A2H3IK17-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphate 2-phosphatase	Penicillium occitanis (nom. inval.)	1.00	40.1	0.741	
+1287
+AF-A0A3Q3N721-F1-model_v4	6-phosphofructo-2-kinase	Mastacembelus armatus	1.00	38.8	0.741	
+1287
+AF-A0A6Q2Y942-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	37.8	0.741	
+1287
+AF-A0A667YJX5-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	1.00	36.8	0.740	
+1287
+AF-A0A673LKC1-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	37.8	0.740	
+1287
+AF-A0A7K6KJG8-F1-model_v4	6-phosphofructo-2-kinase	Oreocharis arfaki	1.00	35.2	0.740	
+1287
+AF-A0A6A4X9U4-F1-model_v4	6-phosphofructo-2-kinase	Amphibalanus amphitrite	1.00	38.5	0.740	
+1287
+AF-A0A668UH57-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	37.7	0.740	
+1287
+AF-A0A4Y7QHR3-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Rickenella mellea	1.00	35.2	0.740	
+1287
+AF-A0A183IT61-F1-model_v4	6-phosphofructo-2-kinase	Soboliphyme baturini	0.82	22.2	0.740	
+2287
+AF-A0A1S8W6K3-F1-model_v4	Uncharacterized protein	Batrachochytrium salamandrivorans	1.00	25.6	0.740	
+1287
+AF-A0A5F8GCZ5-F1-model_v4	6-phosphofructo-2-kinase	Monodelphis domestica	1.00	40.2	0.739	
+1287
+AF-M7TQ19-F1-model_v4	Putative 6-phosphofructo-2-kinase protein	Eutypa lata UCREL1	1.00	26	0.739	
+1287
+AF-A0A0N8K1E7-F1-model_v4	6-phosphofructo-2-kinase	Scleropages formosus	1.00	36.9	0.739	
+1287
+AF-A0A6A4SXJ0-F1-model_v4	6-phosphofructo-2-kinase	Scophthalmus maximus	1.00	38.4	0.739	
+1287
+AF-F7G783-F1-model_v4	6-phosphofructo-2-kinase	Monodelphis domestica	1.00	37	0.739	
+1287
+AF-A0A1D5PNS9-F1-model_v4	6-phosphofructo-2-kinase	Gallus gallus	1.00	39.9	0.739	
+1287
+AF-A0A4W5LGS1-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	35.9	0.739	
+1287
+AF-A0A4W5MP59-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	38.4	0.739	
+1287
+AF-A0A287BT84-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	39.4	0.739	
+1287
+AF-A0A4W5QR95-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	38.1	0.739	
+1287
+AF-A0A226MBJ5-F1-model_v4	6-phosphofructo-2-kinase	Callipepla squamata	0.99	32.9	0.739	
+1286
+AF-A0A6J3EDY7-F1-model_v4	6-phosphofructo-2-kinase	Aythya fuligula	1.00	39.1	0.739	
+1287
+AF-A0A2D0SLC4-F1-model_v4	6-phosphofructo-2-kinase	Ictalurus punctatus	1.00	35.2	0.739	
+1287
+AF-A0A674NHC0-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	38.8	0.738	
+1287
+AF-A0A287P6E6-F1-model_v4	6PF2K domain-containing protein	Hordeum vulgare subsp. vulgare	1.00	38.2	0.738	
+1287
+AF-A0A815K3B1-F1-model_v4	Hypothetical protein	Rotaria sordida	1.00	38.4	0.738	
+1287
+AF-A0A817E724-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood2	0.77	26.3	0.738	
+1233
+AF-A0A822EZR3-F1-model_v4	(mimic poison frog) hypothetical protein	Ranitomeya imitator	1.00	38.4	0.738	
+1287
+AF-F0Y0P0-F1-model_v4	6PF2K domain-containing protein	Aureococcus anophagefferens	1.00	27	0.738	
+1287
+AF-A0A5N3V7I4-F1-model_v4	6-phosphofructo-2-kinase	Muntiacus muntjak	1.00	38.4	0.738	
+1287
+AF-A0A5E4BBY0-F1-model_v4	6-phosphofructo-2-kinase	Marmota monax	1.00	38.4	0.737	
+1287
+AF-A0A5F4W2M4-F1-model_v4	6-phosphofructo-2-kinase	Callithrix jacchus	1.00	39.4	0.737	
+1287
+AF-A0A673JSG4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.5	0.737	
+1287
+AF-A0A7N8WSF1-F1-model_v4	6-phosphofructo-2-kinase	Mastacembelus armatus	1.00	38.7	0.737	
+1287
+AF-A0A0V1IQ79-F1-model_v4	6-phosphofructo-2-kinase	Trichinella pseudospiralis	1.00	39.3	0.737	
+1287
+AF-A0A0D2WNN8-F1-model_v4	6-phosphofructo-2-kinase	Capsaspora owczarzaki ATCC 30864	1.00	40.6	0.737	
+1287
+AF-A0A6J1YVN9-F1-model_v4	6-phosphofructo-2-kinase	Acinonyx jubatus	1.00	39.9	0.736	
+1287
+AF-A0A674GZT2-F1-model_v4	6-phosphofructo-2-kinase	Taeniopygia guttata	1.00	39.9	0.736	
+1287
+AF-A4RQC4-F1-model_v4	6PF2K domain-containing protein	Ostreococcus lucimarinus CCE9901	1.00	31.4	0.736	
+1287
+AF-A0A1E3Q5D8-F1-model_v4	6PF2K domain-containing protein	Lipomyces starkeyi NRRL Y-11557	1.00	26.7	0.736	
+1287
+AF-A0A6Q2WTT1-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	1.00	38	0.736	
+1287
+AF-A0A7K5H7K4-F1-model_v4	6-phosphofructo-2-kinase	Chunga burmeisteri	0.57	42.1	0.736	
+95259
+AF-A0A4W5LSX5-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	37.5	0.736	
+1287
+AF-A0A2V3IKX4-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase 4	Gracilariopsis chorda	1.00	37.8	0.736	
+1287
+AF-A0A383Z9N7-F1-model_v4	6-phosphofructo-2-kinase	Balaenoptera acutorostrata scammoni	1.00	38.7	0.736	
+1287
+AF-A0A419QA60-F1-model_v4	6-phosphofructo-2-kinase	Clonorchis sinensis	0.99	32.9	0.736	
+1287
+AF-A0A0K2TN45-F1-model_v4	6-phosphofructo-2-kinase	Lepeophtheirus salmonis	1.00	37.2	0.736	
+1287
+AF-A0A7L3GXR5-F1-model_v4	6-phosphofructo-2-kinase	Anhinga rufa	0.57	39.2	0.736	
+92259
+AF-A0A672IQL6-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	0.99	30.1	0.736	
+1287
+AF-A0A7L2V916-F1-model_v4	6-phosphofructo-2-kinase	Brachypteracias leptosomus	0.57	39	0.736	
+92259
+AF-F1Q3K3-F1-model_v4	6-phosphofructo-2-kinase	Canis lupus familiaris	1.00	39.9	0.735	
+1287
+AF-A0A7M7MIZ9-F1-model_v4	6-phosphofructo-2-kinase	Varroa destructor	1.00	39.5	0.735	
+1287
+AF-A0A669EEC1-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis niloticus	1.00	40.2	0.735	
+1287
+AF-A0A7L3MD55-F1-model_v4	6-phosphofructo-2-kinase	Horornis vulcanius	0.57	39.6	0.735	
+93259
+AF-A0A7R9XKI7-F1-model_v4	6-phosphofructo-2-kinase	Argulus foliaceus	1.00	37.8	0.735	
+1287
+AF-A0A1D5QVN3-F1-model_v4	6-phosphofructo-2-kinase	Macaca mulatta	1.00	40.6	0.734	
+1287
+AF-A0A4D5RPL6-F1-model_v4	6-phosphofructo-2-kinase	Ixodes scapularis	1.00	39.2	0.734	
+1287
+AF-A0A0P5IEM8-F1-model_v4	6-phosphofructo-2-kinase	Daphnia magna	1.00	37.5	0.734	
+1287
+AF-A0A4X2JPC1-F1-model_v4	6-phosphofructo-2-kinase	Vombatus ursinus	0.99	38	0.733	
+22287
+AF-A0A6F9B2I9-F1-model_v4	6-phosphofructo-2-kinase	Coregonus sp. 'balchen'	0.99	36.4	0.733	
+1287
+AF-A0A6J2S3A8-F1-model_v4	6-phosphofructo-2-kinase	Cottoperca gobio	1.00	38.4	0.733	
+1287
+AF-A0A6J0SB17-F1-model_v4	6-phosphofructo-2-kinase	Pogona vitticeps	1.00	38.7	0.733	
+1287
+AF-A0A7K4XG57-F1-model_v4	6-phosphofructo-2-kinase	Regulus satrapa	1.00	35.3	0.733	
+1287
+AF-A0A2R7WFZ6-F1-model_v4	6-phosphofructo-2-kinase	Oncopeltus fasciatus	1.00	28.6	0.732	
+1287
+AF-A0A061IBE2-F1-model_v4	6-phosphofructo-2-kinase	Cricetulus griseus	1.00	38.4	0.732	
+1287
+AF-A0A452RT23-F1-model_v4	6-phosphofructo-2-kinase	Ursus americanus	1.00	39.4	0.732	
+1287
+AF-F0UK56-F1-model_v4	Fructose 2,6-bisphosphatase	Histoplasma capsulatum H88	1.00	40.8	0.732	
+1287
+AF-A0A3Q2HE60-F1-model_v4	6-phosphofructo-2-kinase	Equus caballus	1.00	39.7	0.732	
+1287
+AF-A0A803VGR3-F1-model_v4	Uncharacterized protein	Ficedula albicollis	1.00	38.4	0.732	
+1287
+AF-A0A287BI64-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	33.3	0.732	
+1287
+AF-A0A668UT26-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	37.8	0.732	
+1287
+AF-A0A7J7UDN8-F1-model_v4	6-phosphofructo-2-kinase	Myotis myotis	1.00	40.6	0.732	
+1287
+AF-A0A665TTL4-F1-model_v4	6-phosphofructo-2-kinase	Echeneis naucrates	1.00	37.5	0.731	
+1287
+AF-A0A7S0FM49-F1-model_v4	Hypothetical protein	Pyrodinium bahamense	1.00	27.8	0.731	
+1287
+AF-A0A7L2EN19-F1-model_v4	6-phosphofructo-2-kinase	Anthoscopus minutus	1.00	39.4	0.731	
+1287
+AF-A0A2K6SZP3-F1-model_v4	6-phosphofructo-2-kinase	Saimiri boliviensis boliviensis	1.00	39.1	0.731	
+1287
+AF-A0A669E4Z9-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis niloticus	1.00	37.5	0.730	
+1287
+AF-A0A674AWB0-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	38.4	0.730	
+1287
+AF-A0A672IQJ3-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	37.5	0.730	
+1287
+AF-A0A819AG32-F1-model_v4	Hypothetical protein	Rotaria socialis	1.00	38	0.730	
+1287
+AF-A0A3B3DNA4-F1-model_v4	6-phosphofructo-2-kinase	Oryzias melastigma	1.00	40.2	0.730	
+1287
+AF-A0A672J9A4-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	38.7	0.730	
+1287
+AF-A0A085MY51-F1-model_v4	6-phosphofructo-2-kinase	Trichuris suis	1.00	37.5	0.729	
+1287
+AF-A0A3B0K700-F1-model_v4	6-phosphofructo-2-kinase	Drosophila guanche	1.00	39.2	0.729	
+1287
+AF-A0A0B1PM46-F1-model_v4	6-phosphofructo-2-kinase	Trichuris suis	1.00	37.5	0.729	
+1287
+AF-A0A811Z948-F1-model_v4	(raccoon dog) hypothetical protein	Nyctereutes procyonoides	1.00	39.2	0.729	
+1287
+AF-A0A7J7SS83-F1-model_v4	6-phosphofructo-2-kinase	Myotis myotis	1.00	39.1	0.729	
+1287
+AF-A0A7J8HTE4-F1-model_v4	6-phosphofructo-2-kinase	Rousettus aegyptiacus	1.00	31.9	0.729	
+1287
+AF-R8BKW0-F1-model_v4	Putative 6-phosphofructo-2-kinase 1 protein	Phaeoacremonium minimum UCRPA7	1.00	24.6	0.729	
+1287
+AF-A0A0M8ZWA5-F1-model_v4	6-phosphofructo-2-kinase	Melipona quadrifasciata	1.00	36.4	0.729	
+1287
+AF-A0A6P7MIM1-F1-model_v4	6-phosphofructo-2-kinase	Betta splendens	1.00	39.1	0.729	
+1287
+AF-A0A7S2AW67-F1-model_v4	Hypothetical protein	Pycnococcus provasolii	1.00	26.2	0.729	
+1287
+AF-A0A072PKQ1-F1-model_v4	6PF2K domain-containing protein	Exophiala aquamarina CBS 119918	0.92	30.6	0.729	
+1210
+AF-A0A814C4E4-F1-model_v4	Hypothetical protein	Didymodactylos carnosus	1.00	35.8	0.728	
+1287
+AF-A0A2G4SQI8-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Rhizopus microsporus ATCC 52813	1.00	30.3	0.728	
+1287
+AF-A0A665TTP2-F1-model_v4	6-phosphofructo-2-kinase	Echeneis naucrates	1.00	37.5	0.728	
+1287
+AF-A0A671W330-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	39.9	0.728	
+1287
+AF-A0A642VDH8-F1-model_v4	6PF2K domain-containing protein	Trichomonascus ciferrii	0.98	38.2	0.728	
+38287
+AF-A0A665VFX6-F1-model_v4	6-phosphofructo-2-kinase	Echeneis naucrates	1.00	37.8	0.728	
+1287
+AF-H6U5A2-F1-model_v4	Fructose-2,6-bisphosphatase	Aspergillus flavus	0.44	36	0.728	
+1146
+AF-A0A0C2FNX9-F1-model_v4	6-phosphofructo-2-kinase	Ancylostoma duodenale	0.72	31.4	0.728	
+1202
+AF-A0A4W5PV04-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	38.4	0.728	
+1287
+AF-A0A232F125-F1-model_v4	6-phosphofructo-2-kinase	Trichomalopsis sarcophagae	1.00	38	0.728	
+1287
+AF-A0A484DEY2-F1-model_v4	6-phosphofructo-2-kinase	Perca flavescens	1.00	38.7	0.727	
+1287
+AF-A0A4W5KXH6-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	39.2	0.727	
+1287
+AF-A0A1Q3F913-F1-model_v4	6-phosphofructo-2-kinase	Culex tarsalis	1.00	37.8	0.727	
+1287
+AF-A0A811Y670-F1-model_v4	(raccoon dog) hypothetical protein	Nyctereutes procyonoides	1.00	39.1	0.727	
+1287
+AF-A0A672J9H3-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	38.7	0.727	
+1287
+AF-A0A485M8Y5-F1-model_v4	6-phosphofructo-2-kinase	Lynx pardinus	1.00	27.6	0.727	
+1287
+AF-A0A553P9X6-F1-model_v4	6-phosphofructo-2-kinase	Tigriopus californicus	1.00	36.4	0.727	
+1287
+AF-A0A6G1PH46-F1-model_v4	6-phosphofructo-2-kinase	Channa argus	1.00	39.2	0.726	
+1287
+AF-A0A665W3N5-F1-model_v4	6-phosphofructo-2-kinase	Echeneis naucrates	1.00	36.6	0.726	
+1287
+AF-A0A136JIG4-F1-model_v4	Histidine phosphatase superfamily	Microdochium bolleyi	1.00	24.2	0.726	
+1287
+AF-A0A673ICZ4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.1	0.725	
+1287
+AF-A0A4W5MR52-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	38.4	0.725	
+1287
+AF-A0A4W5LPG5-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	37.8	0.725	
+1287
+AF-A0A811YX96-F1-model_v4	(raccoon dog) hypothetical protein	Nyctereutes procyonoides	1.00	39.9	0.725	
+1287
+AF-A0A0F8AG03-F1-model_v4	6-phosphofructo-2-kinase	Larimichthys crocea	1.00	37.7	0.725	
+1287
+AF-A0A6J1SLC1-F1-model_v4	6-phosphofructo-2-kinase	Frankliniella occidentalis	1.00	39.1	0.724	
+1287
+AF-A0A813L5U2-F1-model_v4	Hypothetical protein	Polarella glacialis	1.00	25.6	0.724	
+1287
+AF-A0A673JSE7-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	38.3	0.724	
+1287
+AF-A0A4W5MMS6-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	0.99	38.7	0.724	
+24287
+AF-A0A3P9I5B1-F1-model_v4	6-phosphofructo-2-kinase	Oryzias latipes	1.00	37.1	0.724	
+1287
+AF-A0A3P8UG34-F1-model_v4	6-phosphofructo-2-kinase	Cynoglossus semilaevis	1.00	37.5	0.724	
+1287
+AF-A0A2Y9QKQ8-F1-model_v4	6-phosphofructo-2-kinase	Trichechus manatus latirostris	0.98	41	0.724	
+48287
+AF-A0A673N9J4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.1	0.724	
+1287
+AF-A0A1X6NMW9-F1-model_v4	6PF2K domain-containing protein	Porphyra umbilicalis	1.00	37.3	0.723	
+1287
+AF-A0A6J3S1K2-F1-model_v4	6-phosphofructo-2-kinase	Tursiops truncatus	1.00	38.8	0.723	
+1287
+AF-A0A0D2A0K6-F1-model_v4	Uncharacterized protein	Exophiala mesophila	1.00	23.7	0.722	
+1287
+AF-A0A7N5JC86-F1-model_v4	6-phosphofructo-2-kinase	Ailuropoda melanoleuca	1.00	39.4	0.722	
+1287
+AF-A0A3B4GTF2-F1-model_v4	6-phosphofructo-2-kinase	Pundamilia nyererei	1.00	37	0.722	
+1287
+AF-A0A182GE03-F1-model_v4	6-phosphofructo-2-kinase	Aedes albopictus	1.00	38.8	0.722	
+1287
+AF-O24559-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase	Zea mays	0.99	35.3	0.722	
+2287
+AF-A0A1Y1LIG1-F1-model_v4	6-phosphofructo-2-kinase	Photinus pyralis	1.00	31.6	0.722	
+1287
+AF-A0A3Q2SYW3-F1-model_v4	6-phosphofructo-2-kinase	Fundulus heteroclitus	1.00	38.1	0.722	
+1287
+AF-L5L6X3-F1-model_v4	6-phosphofructo-2-kinase	Pteropus alecto	0.95	31.9	0.721	
+4287
+AF-A0A7N6FDL0-F1-model_v4	6-phosphofructo-2-kinase	Anabas testudineus	1.00	38.7	0.721	
+1287
+AF-A0A5C3M670-F1-model_v4	6-phosphofructo-2-kinase-domain-containing protein	Crucibulum laeve	1.00	36	0.721	
+1287
+AF-A0A4D9DT07-F1-model_v4	6-phosphofructo-2-kinase	Platysternon megacephalum	1.00	37.7	0.721	
+1287
+AF-A0A182VCH2-F1-model_v4	6-phosphofructo-2-kinase	Anopheles merus	1.00	40.2	0.721	
+1287
+AF-A0A673N9I0-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.1	0.721	
+1287
+AF-A0A3A3A6A5-F1-model_v4	Fructose-2,6-bisphosphatase	Aspergillus sclerotialis	1.00	40.1	0.720	
+1287
+AF-A0A1G4BLY8-F1-model_v4	6-phosphofructo-2-kinase	Colletotrichum orchidophilum	1.00	41.3	0.720	
+1287
+AF-A0A6J2ZZ57-F1-model_v4	6-phosphofructo-2-kinase	Vicugna pacos	1.00	39.4	0.720	
+1287
+AF-A0A1Y2FF56-F1-model_v4	6-phosphofructo-2-kinase-domain-containing protein	Protomyces lactucae-debilis	1.00	27.3	0.720	
+1287
+AF-A0A669PZV5-F1-model_v4	6-phosphofructo-2-kinase	Phasianus colchicus	1.00	39.9	0.720	
+1287
+AF-A0A6A4S8K9-F1-model_v4	6-phosphofructo-2-kinase	Scophthalmus maximus	1.00	38.7	0.719	
+1287
+AF-A0A4W5LPH0-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	37.8	0.719	
+1287
+AF-A0A194S8N7-F1-model_v4	6PF2K domain-containing protein	Rhodotorula graminis WP1	1.00	41.9	0.719	
+1287
+AF-A0A3M0KBB1-F1-model_v4	6-phosphofructo-2-kinase	Hirundo rustica rustica	1.00	39.4	0.718	
+1287
+AF-A0A1V4K8P9-F1-model_v4	6-phosphofructo-2-kinase	Patagioenas fasciata monilis	1.00	40.2	0.718	
+1287
+AF-R7YR39-F1-model_v4	6PF2K domain-containing protein	Coniosporium apollinis CBS 100218	1.00	25.3	0.718	
+1287
+AF-A0A6P7G0C8-F1-model_v4	6-phosphofructo-2-kinase	Diabrotica virgifera virgifera	0.99	31.9	0.718	
+1287
+AF-A0A2D4M3N9-F1-model_v4	6-phosphofructo-2-kinase	Micrurus spixii	0.38	42.4	0.717	
+136281
+AF-A0A6B2L905-F1-model_v4	6PF2K domain-containing protein	Arcella intermedia	0.97	20.3	0.717	
+30287
+AF-A0A6P6YHX3-F1-model_v4	6-phosphofructo-2-kinase	Dermatophagoides pteronyssinus	1.00	37.1	0.717	
+1287
+AF-A0A2K6A258-F1-model_v4	6-phosphofructo-2-kinase	Mandrillus leucophaeus	1.00	39.1	0.716	
+1287
+AF-A0A667YDK8-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	1.00	37	0.716	
+1287
+AF-H2TRY6-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	38.7	0.716	
+1287
+AF-A0A433CWV2-F1-model_v4	6-phosphofructo-2-kinase	Jimgerdemannia flammicorona	0.80	41.1	0.716	
+1180
+AF-A0A5G2R0Z1-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	40.2	0.716	
+1287
+AF-J7S1T8-F1-model_v4	6PF2K domain-containing protein	Kazachstania naganishii CBS 8797	1.00	29.6	0.716	
+1287
+AF-A0A674CS63-F1-model_v4	6-phosphofructo-2-kinase	Salmo trutta	1.00	37.3	0.715	
+1287
+AF-A0A4W3GWJ8-F1-model_v4	6-phosphofructo-2-kinase	Callorhinchus milii	1.00	39.7	0.715	
+1287
+AF-A0A7S1Z0G1-F1-model_v4	Hypothetical protein	Ditylum brightwellii	1.00	25.9	0.715	
+1287
+AF-A0A1E4TEA9-F1-model_v4	6PF2K domain-containing protein	Tortispora caseinolytica NRRL Y-17796	1.00	28	0.715	
+1287
+AF-A0A7M7KQ34-F1-model_v4	6-phosphofructo-2-kinase	Varroa destructor	1.00	39.5	0.715	
+1287
+AF-A0A6I8NCS0-F1-model_v4	6-phosphofructo-2-kinase	Ornithorhynchus anatinus	1.00	38	0.715	
+1287
+AF-A0A673N7A9-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	39.1	0.715	
+1287
+AF-A0A7M7QKW1-F1-model_v4	6-phosphofructo-2-kinase	Nasonia vitripennis	0.99	33.1	0.715	
+1287
+AF-A0A2G4SK94-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Rhizopus microsporus ATCC 52813	1.00	26.4	0.715	
+1287
+AF-A0A3P8UQ88-F1-model_v4	6-phosphofructo-2-kinase	Cynoglossus semilaevis	1.00	37.1	0.715	
+1287
+AF-A0A7S3YAC3-F1-model_v4	Hypothetical protein	Heterosigma akashiwo	0.96	38.3	0.714	
+1222
+AF-A0A1I8GD93-F1-model_v4	6-phosphofructo-2-kinase	Macrostomum lignano	1.00	38.2	0.714	
+1287
+AF-A0A1R1YPF1-F1-model_v4	Putative 6-phosphofructo-2-kinase	Smittium culicis	1.00	28.1	0.714	
+1287
+AF-A0A673JT13-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	37.1	0.714	
+1287
+AF-A0A5E3X852-F1-model_v4	6PF2K domain-containing protein	Peniophora sp. CBMAI 1063	1.00	37.1	0.714	
+1287
+AF-L5L0X8-F1-model_v4	6-phosphofructo-2-kinase	Pteropus alecto	1.00	38.7	0.714	
+1287
+AF-A0A420HE06-F1-model_v4	Putative 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase	Erysiphe neolycopersici	0.99	23.3	0.714	
+5287
+AF-A0A6J2EL38-F1-model_v4	6-phosphofructo-2-kinase	Zalophus californianus	0.99	38.7	0.713	
+24287
+AF-H2TRY5-F1-model_v4	6-phosphofructo-2-kinase	Takifugu rubripes	1.00	38.7	0.713	
+1287
+AF-A0A010R487-F1-model_v4	6-phosphofructo-2-kinase	Colletotrichum fioriniae PJ7	1.00	40.6	0.713	
+1287
+AF-A0A402FRF2-F1-model_v4	6-phosphofructo-2-kinase	Paroedura picta	1.00	39.5	0.713	
+1287
+AF-A0A0D8JV46-F1-model_v4	Fructose-2,6-bisphosphatase, variant	Coccidioides immitis RS	1.00	39.1	0.713	
+1287
+AF-A0A3Q2GUI2-F1-model_v4	6-phosphofructo-2-kinase	Equus caballus	1.00	39.4	0.713	
+1287
+AF-A0A7S3JYS1-F1-model_v4	Hypothetical protein	Aureoumbra lagunensis	1.00	30.2	0.712	
+1287
+AF-A0A669B739-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis niloticus	1.00	29.6	0.712	
+1287
+AF-A0A024TK20-F1-model_v4	6PF2K domain-containing protein	Aphanomyces invadans	1.00	30	0.712	
+1287
+AF-A0A671QF37-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus anshuiensis	0.99	33.9	0.712	
+1287
+AF-A0A6J3EC80-F1-model_v4	6-phosphofructo-2-kinase	Aythya fuligula	1.00	39.1	0.712	
+1287
+AF-A0A671V111-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	0.99	34.4	0.711	
+1287
+AF-A0A150GDY7-F1-model_v4	6PF2K domain-containing protein	Gonium pectorale	0.99	34.2	0.711	
+1287
+AF-A0A6J3A0A6-F1-model_v4	6-phosphofructo-2-kinase	Vicugna pacos	1.00	39.4	0.711	
+1287
+AF-A0A4T0FBR7-F1-model_v4	6PF2K domain-containing protein	Wallemia hederae	1.00	40	0.711	
+1287
+AF-W6UNF0-F1-model_v4	6-phosphofructo-2-kinase	Echinococcus granulosus	1.00	39.5	0.710	
+1287
+AF-G4U314-F1-model_v4	Probable FBP26-fructose-2,6-bisphosphatase	Serendipita indica DSM 11827	1.00	37.7	0.710	
+1287
+AF-A0A091EGF1-F1-model_v4	6-phosphofructo-2-kinase	Fukomys damarensis	1.00	38	0.710	
+1287
+AF-S9VWZ5-F1-model_v4	6-phosphofructo-2-kinase	Schizosaccharomyces cryophilus OY26	1.00	30	0.710	
+1287
+AF-A0A5C6N3S3-F1-model_v4	6-phosphofructo-2-kinase	Takifugu flavidus	1.00	38.8	0.710	
+1287
+AF-A0A3G2S722-F1-model_v4	Fructose-2,6-bisphosphatase	Malassezia restricta CBS 7877	1.00	37.9	0.710	
+1287
+AF-F1RUL2-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	1.00	36.1	0.710	
+1287
+AF-A0A671UXB4-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	38.8	0.709	
+1287
+AF-A0A2R6RLM4-F1-model_v4	6PF2K domain-containing protein	Hermanssonia centrifuga	0.98	34.8	0.709	
+33287
+AF-A0A0R3X0M0-F1-model_v4	6-phosphofructo-2-kinase	Hydatigera taeniaeformis	0.99	32.9	0.708	
+1287
+AF-A0A0B7A5T1-F1-model_v4	6-phosphofructo-2-kinase	Arion vulgaris	0.96	34.5	0.708	
+1222
+AF-A0A163IT85-F1-model_v4	6PF2K domain-containing protein	Absidia glauca	1.00	26	0.708	
+1287
+AF-A0A668SV24-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	1.00	39.1	0.708	
+1287
+AF-K1QSQ6-F1-model_v4	6-phosphofructo-2-kinase	Crassostrea gigas	1.00	37.8	0.707	
+1287
+AF-A0A3Q1N7K4-F1-model_v4	6-phosphofructo-2-kinase	Bos taurus	1.00	39.1	0.707	
+1287
+AF-A0A814YHG6-F1-model_v4	Hypothetical protein	Rotaria sordida	1.00	37.3	0.707	
+1287
+AF-A0A0A9VWN8-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase 1	Lygus hesperus	0.85	24.4	0.707	
+1264
+AF-A0A068RYT9-F1-model_v4	Fructose-6-phosphate 2-kinase fructose-6-biphosphatase	Lichtheimia corymbifera JMRC:FSU:9682	1.00	29.4	0.707	
+1287
+AF-F6WV72-F1-model_v4	6-phosphofructo-2-kinase	Callithrix jacchus	1.00	27.6	0.707	
+1287
+AF-A0A6H5KPW9-F1-model_v4	6PF2K domain-containing protein	Ectocarpus sp. CCAP 1310/34	1.00	34.7	0.707	
+1287
+AF-I3KBX8-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis niloticus	1.00	35	0.707	
+1287
+AF-A0A815NVU8-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	1.00	38.4	0.707	
+1287
+AF-A0A674HJR1-F1-model_v4	6-phosphofructo-2-kinase	Taeniopygia guttata	1.00	38	0.706	
+1287
+AF-A0A444UKC8-F1-model_v4	6-phosphofructo-2-kinase	Acipenser ruthenus	1.00	37.3	0.705	
+1287
+AF-W0TJY0-F1-model_v4	6-phosphofructo-2-kinase/fructose-2	Kluyveromyces marxianus DMKU3-1042	1.00	31.7	0.705	
+1287
+AF-A0A7S2DPH6-F1-model_v4	Hypothetical protein	Dictyocha speculum	0.44	28.1	0.705	
+64213
+AF-F0WP72-F1-model_v4	6phosphofructo2kinase/fructose2 putative	Albugo laibachii Nc14	1.00	25.8	0.705	
+1287
+AF-A0A812QC91-F1-model_v4	FKFBP protein	Symbiodinium sp. KB8	0.99	25	0.705	
+1287
+AF-A0A316W3Q6-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Ceraceosorus guamensis	1.00	38.7	0.704	
+1287
+AF-A0A1D6JZG7-F1-model_v4	6-phosphofructo-2-kinase/fructose-26-bisphosphatase	Zea mays	1.00	37.6	0.704	
+1287
+AF-A0A7S1I9N9-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	0.97	25.2	0.704	
+45287
+AF-A0A7S0MPG7-F1-model_v4	Hypothetical protein	Cryptomonas curvata	0.98	35.6	0.704	
+44287
+AF-A0A0A9X378-F1-model_v4	Putative 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase	Lygus hesperus	0.63	26	0.704	
+63245
+AF-A0A668US86-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis aureus	0.99	32.8	0.703	
+1287
+AF-G7E1E4-F1-model_v4	6PF2K domain-containing protein	Mixia osmundae IAM 14324	1.00	39.9	0.703	
+1287
+AF-A0A2H1CMI7-F1-model_v4	6-phosphofructo-2-kinase	Fasciola hepatica	0.51	32.2	0.703	
+38212
+AF-A0A672J9P8-F1-model_v4	6-phosphofructo-2-kinase	Salarias fasciatus	1.00	38.7	0.701	
+1287
+AF-A0A671XZS3-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	1.00	39.1	0.701	
+1287
+AF-Q10MV4-F1-model_v4	6-phosphofructo-2-kinase family protein, expressed	Oryza sativa Japonica Group	1.00	36.9	0.701	
+1287
+AF-A0A7S2CKK4-F1-model_v4	Hypothetical protein	Florenciella parvula	0.44	31.3	0.701	
+1150
+AF-A0A673JHG1-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	1.00	36.8	0.701	
+1287
+AF-A0A1I7XJP2-F1-model_v4	6-phosphofructo-2-kinase	Heterorhabditis bacteriophora	1.00	21.6	0.701	
+1287
+AF-A0A3N4LGX2-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Morchella conica CCBAS932	1.00	27.4	0.701	
+1287
+AF-A0A3M7N7Y2-F1-model_v4	6PF2K domain-containing protein	Chaetothyriales sp. CBS 132003	1.00	39.4	0.700	
+1287
+AF-A0A0C9RBZ6-F1-model_v4	6-phosphofructo-2-kinase	Fopius arisanus	1.00	29.2	0.700	
+1287
+AF-A0A1X2GHU5-F1-model_v4	Fructose-2,6-bisphosphatase	Hesseltinella vesiculosa	0.99	27.9	0.700	
+1287
+AF-A0A6P6M7N0-F1-model_v4	6-phosphofructo-2-kinase	Carassius auratus	0.97	34.7	0.700	
+35287
+AF-A0A7S3YVT1-F1-model_v4	Hypothetical protein	Lotharella globosa	1.00	31.1	0.700	
+1287
+AF-A0A673TRQ7-F1-model_v4	6-phosphofructo-2-kinase	Suricata suricatta	1.00	38	0.700	
+1287
+AF-A0A5C6N7D7-F1-model_v4	6-phosphofructo-2-kinase	Takifugu flavidus	1.00	38	0.699	
+1287
+AF-A0A6J3S295-F1-model_v4	6-phosphofructo-2-kinase	Tursiops truncatus	1.00	38.8	0.699	
+1287
+AF-A0A4D9D6W8-F1-model_v4	6PF2K domain-containing protein	Nannochloropsis salina CCMP1776	1.00	36.8	0.698	
+1287
+AF-A0A2X0NMJ8-F1-model_v4	BZ3500_MvSof-1268-A1-R1_Chr4-3g07304 protein	Microbotryum saponariae	1.00	41.2	0.698	
+1287
+AF-A0A0J7KVK5-F1-model_v4	6-phosphofructo-2-kinase	Lasius niger	1.00	38.1	0.698	
+1287
+AF-U5HDV6-F1-model_v4	6PF2K domain-containing protein	Microbotryum lychnidis-dioicae p1A1 Lamole	1.00	41.2	0.697	
+1287
+AF-A0A836CFB6-F1-model_v4	Histidine phosphatase superfamily	Tribonema minus	0.99	24.6	0.697	
+5287
+AF-F2UMA7-F1-model_v4	Fructose-2,6-bisphosphatase	Salpingoeca rosetta	1.00	37.8	0.697	
+1287
+AF-A0A2P6P0A0-F1-model_v4	Uncharacterized protein	Planoprotostelium fungivorum	1.00	39.9	0.696	
+1287
+AF-A0A6A6V460-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Sporormia fimetaria CBS 119925	1.00	24.9	0.696	
+1287
+AF-A0A2U9C5F9-F1-model_v4	6-phosphofructo-2-kinase	Scophthalmus maximus	1.00	38.4	0.696	
+1287
+AF-A0A484D6M9-F1-model_v4	6-phosphofructo-2-kinase	Perca flavescens	1.00	38	0.696	
+1287
+AF-A0A2D0RW90-F1-model_v4	6-phosphofructo-2-kinase	Ictalurus punctatus	1.00	36.8	0.696	
+1287
+AF-A0A091CPT8-F1-model_v4	6-phosphofructo-2-kinase	Fukomys damarensis	1.00	38.4	0.696	
+1287
+AF-A0A6J3A0A1-F1-model_v4	6-phosphofructo-2-kinase	Vicugna pacos	1.00	39.4	0.696	
+1287
+AF-A0A7I0ZC34-F1-model_v4	6-phosphofructo-2-kinase	Danaus plexippus plexippus	1.00	33.1	0.696	
+1287
+AF-A0A7S3YVX3-F1-model_v4	Hypothetical protein	Lotharella globosa	1.00	30.6	0.695	
+1287
+AF-A0A2K5V8T7-F1-model_v4	6-phosphofructo-2-kinase	Macaca fascicularis	1.00	39.1	0.695	
+1287
+AF-A0A3M6ZGI2-F1-model_v4	6PF2K domain-containing protein	Hortaea werneckii	1.00	41.8	0.694	
+1287
+AF-A0A1X7RAI7-F1-model_v4	Similar to Saccharomyces cerevisiae YIL107C PFK26 6-phosphofructo-2-kinase, inhibited by phosphoenolpyruvate and sn-glycerol 3-phosphate	Kazachstania saulgeensis	1.00	28.8	0.694	
+1287
+AF-A0A0W0G8Z4-F1-model_v4	6PF2K domain-containing protein	Moniliophthora roreri	0.92	25.7	0.694	
+1247
+AF-A0A3Q2UF77-F1-model_v4	6-phosphofructo-2-kinase	Gallus gallus	1.00	39.9	0.694	
+1287
+AF-A0A1Q2YDM3-F1-model_v4	6PF2K domain-containing protein	Pichia membranifaciens	1.00	27.1	0.694	
+1287
+AF-I7GP97-F1-model_v4	6-phosphofructo-2-kinase	Macaca fascicularis	1.00	39.1	0.693	
+1287
+AF-A0A077YZZ1-F1-model_v4	6-phosphofructo-2-kinase	Trichuris trichiura	1.00	37.2	0.692	
+1287
+AF-A0A3N0YVC8-F1-model_v4	6-phosphofructo-2-kinase	Anabarilius grahami	1.00	39.1	0.692	
+1287
+AF-A0A2R8N4X5-F1-model_v4	6-phosphofructo-2-kinase	Callithrix jacchus	1.00	30.6	0.692	
+1287
+AF-A0A815NXP7-F1-model_v4	Hypothetical protein	Adineta steineri	0.95	38.5	0.692	
+1217
+AF-A0A7S3KV15-F1-model_v4	Hypothetical protein	Moneuplotes crassus	0.60	30.1	0.691	
+97262
+AF-A0A094ELC9-F1-model_v4	6PF2K domain-containing protein	Pseudogymnoascus sp. VKM F-103	1.00	23.5	0.691	
+1287
+AF-A0A484ED07-F1-model_v4	Uncharacterized protein	Bremia lactucae	1.00	83.6	0.691	
+1287
+AF-G3AWG1-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Yamadazyma tenuis ATCC 10573	1.00	23.9	0.690	
+1287
+AF-A0A6B2LFM4-F1-model_v4	6PF2K domain-containing protein	Arcella intermedia	0.84	19.9	0.690	
+1282
+AF-G8BRV2-F1-model_v4	6PF2K domain-containing protein	Tetrapisispora phaffii CBS 4417	1.00	24.7	0.690	
+1287
+AF-A0A6Q2XC66-F1-model_v4	6-phosphofructo-2-kinase	Esox lucius	0.98	32.9	0.690	
+1287
+AF-A0A0E0DMJ8-F1-model_v4	CBM20 domain-containing protein	Oryza meridionalis	1.00	38.6	0.690	
+1287
+AF-A0A4R8Q7Z8-F1-model_v4	Putative 6-phosphofructo-2-kinase	Colletotrichum spinosum	1.00	25.3	0.690	
+1287
+AF-A0A7S3USH1-F1-model_v4	Hypothetical protein	Heterosigma akashiwo	0.94	26.6	0.689	
+1222
+AF-A0A2N1J7B3-F1-model_v4	Fbp26p	Malassezia vespertilionis	1.00	37.4	0.689	
+1287
+AF-A0A179G0W9-F1-model_v4	Fructose-2,6-bisphosphatase	Pochonia chlamydosporia 170	1.00	37.9	0.689	
+1287
+AF-A0A448YP88-F1-model_v4	DEKNAAC103738	Brettanomyces naardenensis	1.00	25.2	0.688	
+1287
+AF-A0A3R7MI93-F1-model_v4	6-phosphofructo-2-kinase	Penaeus vannamei	1.00	37.8	0.688	
+1287
+AF-A0A3M0JWG4-F1-model_v4	6-phosphofructo-2-kinase	Hirundo rustica rustica	0.99	34.6	0.687	
+1287
+AF-A0A084GFM1-F1-model_v4	Uncharacterized protein	Scedosporium apiospermum	1.00	24.4	0.687	
+1287
+AF-A6QVH8-F1-model_v4	Uncharacterized protein	Histoplasma mississippiense (nom. inval.)	1.00	22.7	0.686	
+1287
+AF-A0A667ZQ09-F1-model_v4	6-phosphofructo-2-kinase	Myripristis murdjan	0.99	33.1	0.686	
+1287
+AF-A0A3N6R0K5-F1-model_v4	6PF2K domain-containing protein	Brassica cretica	1.00	35.8	0.686	
+1287
+AF-A0A072PLY3-F1-model_v4	6PF2K domain-containing protein	Exophiala aquamarina CBS 119918	0.99	23.6	0.686	
+1287
+AF-A0A511KHT1-F1-model_v4	6-phosphofructo-2-kinase / fructose-2,6-bisphosphatase	Rhodotorula toruloides	1.00	39.7	0.686	
+1287
+AF-A0A507FEM3-F1-model_v4	Uncharacterized protein	Chytriomyces confervae	1.00	26.9	0.685	
+1287
+AF-G2RFS7-F1-model_v4	Uncharacterized protein	Thermothielavioides terrestris NRRL 8126	1.00	25.4	0.685	
+1287
+AF-A0A7D8V0J8-F1-model_v4	6PF2K domain-containing protein	Vanrija humicola	1.00	38.7	0.684	
+1287
+AF-A0A0L0VRX0-F1-model_v4	6PF2K domain-containing protein	Puccinia striiformis f. sp. tritici PST-78	1.00	37.7	0.684	
+1287
+AF-M5ECM9-F1-model_v4	Similar to S.cerevisiae protein FBP26 (Fructose-2,6-bisphosphatase, required for glucose metabolism)	Malassezia sympodialis ATCC 42132	1.00	36.1	0.684	
+1287
+AF-A0A409WF99-F1-model_v4	6PF2K domain-containing protein	Psilocybe cyanescens	0.99	32.6	0.683	
+1287
+AF-A0A485LJZ2-F1-model_v4	Aste57867_21581 protein	Aphanomyces stellatus	1.00	64.9	0.683	
+1287
+AF-W1QC30-F1-model_v4	Fructose-6-phosphate 2-kinase/fructose-2,6-biphosphatase	Ogataea parapolymorpha DL-1	0.99	24.6	0.682	
+1287
+AF-A0A7S2F699-F1-model_v4	Hypothetical protein	Alexandrium andersonii	0.28	25.3	0.682	
+24154
+AF-A0A2P6NTW2-F1-model_v4	6-phosphofructo-2-kinase (Predicted)	Planoprotostelium fungivorum	1.00	20.7	0.682	
+1287
+AF-A0A7S3LXQ4-F1-model_v4	Hypothetical protein	Spumella elongata	0.94	24.6	0.681	
+1223
+AF-A0A010SHF4-F1-model_v4	6-phosphofructo-2-kinase	Colletotrichum fioriniae PJ7	1.00	25.2	0.681	
+1287
+AF-W9WRW8-F1-model_v4	6-phosphofructo-2-kinase	Cladophialophora yegresii CBS 114405	1.00	23	0.681	
+1287
+AF-A0A667FHN8-F1-model_v4	6-phosphofructo-2-kinase	Lynx canadensis	1.00	39.4	0.680	
+1287
+AF-F0XZP3-F1-model_v4	6PF2K domain-containing protein	Aureococcus anophagefferens	0.92	27.2	0.680	
+75287
+AF-A0A3M6YCL5-F1-model_v4	Uncharacterized protein	Hortaea werneckii	1.00	20.2	0.680	
+1287
+AF-A0A1E3QQL5-F1-model_v4	6PF2K domain-containing protein	Babjeviella inositovora NRRL Y-12698	1.00	23.6	0.680	
+1287
+AF-A0A067CC54-F1-model_v4	Uncharacterized protein	Saprolegnia parasitica CBS 223.65	1.00	66.2	0.680	
+1287
+AF-A0A835HWN5-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.97	22.5	0.680	
+1286
+AF-A0A6H5KHB4-F1-model_v4	6PF2K domain-containing protein	Ectocarpus sp. CCAP 1310/34	1.00	29.9	0.680	
+1287
+AF-A0A669QDT1-F1-model_v4	6-phosphofructo-2-kinase	Phasianus colchicus	1.00	38.7	0.678	
+1287
+AF-A0A813HSV0-F1-model_v4	Hypothetical protein	Polarella glacialis	0.99	23.2	0.678	
+1287
+AF-A0A7J8CSW6-F1-model_v4	6-phosphofructo-2-kinase	Molossus molossus	0.95	38.9	0.678	
+64287
+AF-A0A6P6YIR9-F1-model_v4	6-phosphofructo-2-kinase	Dermatophagoides pteronyssinus	1.00	37.1	0.678	
+1287
+AF-A0A7S4LI50-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	0.99	21.5	0.678	
+1287
+AF-G7LGY8-F1-model_v4	Fructose-6-phosphate-2-kinase/fructose-2, 6-bisphosphatase	Medicago truncatula	0.57	19.7	0.678	
+1253
+AF-A0A3M6XX77-F1-model_v4	6PF2K domain-containing protein	Hortaea werneckii	0.99	27	0.678	
+7287
+AF-A0A813QY00-F1-model_v4	Hypothetical protein	Didymodactylos carnosus	1.00	37.2	0.677	
+1287
+AF-A0A3M6WP56-F1-model_v4	6PF2K domain-containing protein	Hortaea werneckii	0.94	26.4	0.677	
+1222
+AF-A0A0D1ZD38-F1-model_v4	Uncharacterized protein	Exophiala mesophila	1.00	23.7	0.677	
+1287
+AF-A0A0L0DME8-F1-model_v4	Fructose-2,6-bisphosphate 2-phosphatase	Thecamonas trahens ATCC 50062	1.00	37.5	0.677	
+1287
+AF-I2CQU3-F1-model_v4	6-phosphofructo-2-kinase / fructose-2,6-bisphosphatase	Nannochloropsis gaditana CCMP526	0.99	28.1	0.677	
+1287
+AF-A0A6A7BQF3-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Piedraia hortae CBS 480.64	1.00	28.5	0.677	
+1287
+AF-A0A2T0FKG3-F1-model_v4	6-phosphofructo-2-kinase 1	Wickerhamiella sorbophila	1.00	27.6	0.677	
+1287
+AF-A0A1B7SPU2-F1-model_v4	6PF2K domain-containing protein	Ogataea polymorpha	1.00	27.1	0.677	
+1287
+AF-A0A1Y1XN99-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Anaeromyces robustus	1.00	31.7	0.677	
+1287
+AF-A0A6P4G034-F1-model_v4	6-phosphofructo-2-kinase	Drosophila takahashii	1.00	39.9	0.676	
+1287
+AF-A0A672P356-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	0.99	31.1	0.676	
+1287
+AF-A0A3D8SAG9-F1-model_v4	Uncharacterized protein	Coleophoma crateriformis	1.00	23.9	0.676	
+1287
+AF-A0A061AYW0-F1-model_v4	RHTO0S07e03510g1_1	Rhodotorula toruloides	1.00	39.9	0.676	
+1287
+AF-W2S698-F1-model_v4	Uncharacterized protein	Cyphellophora europaea CBS 101466	1.00	23.8	0.676	
+1287
+AF-A0A7N4V2T2-F1-model_v4	6-phosphofructo-2-kinase	Sarcophilus harrisii	0.99	35.6	0.676	
+1287
+AF-A0A0C4ETA4-F1-model_v4	6PF2K domain-containing protein	Puccinia triticina 1-1 BBBD Race 1	1.00	38	0.676	
+1287
+AF-A0A672LVC4-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus grahami	0.98	31.7	0.676	
+16287
+AF-A0A7S1HRH9-F1-model_v4	Hypothetical protein	Phaeocystis cordata	1.00	26.6	0.676	
+1287
+AF-S9XAY6-F1-model_v4	6-phosphofructo-2-kinase	Schizosaccharomyces cryophilus OY26	1.00	30	0.675	
+1287
+AF-A0A8A3PCD1-F1-model_v4	Uncharacterized protein	Monilinia vaccinii-corymbosi	1.00	23.4	0.674	
+1287
+AF-A0A7R9G079-F1-model_v4	6-phosphofructo-2-kinase	Timema shepardi	0.99	30.5	0.674	
+1272
+AF-A0A2T0FPK5-F1-model_v4	6PF2K domain-containing protein	Wickerhamiella sorbophila	0.99	19.3	0.674	
+1287
+AF-A0A5F8GIN2-F1-model_v4	6-phosphofructo-2-kinase	Monodelphis domestica	1.00	23.2	0.673	
+1287
+AF-A0A1Y2BZZ7-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Rhizoclosmatium globosum	1.00	23.3	0.673	
+1287
+AF-A0A834VGY0-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase 1	Sarcoptes scabiei	1.00	36.8	0.673	
+1287
+AF-D5GGH9-F1-model_v4	6PF2K domain-containing protein	Tuber melanosporum Mel28	1.00	26.2	0.673	
+1287
+AF-A0A161M8L5-F1-model_v4	6-phosphofructo-2-kinase	Triatoma infestans	0.30	35.7	0.672	
+84217
+AF-A0A1Y2WNS0-F1-model_v4	Uncharacterized protein	Daldinia sp. EC12	1.00	24.3	0.672	
+1287
+AF-A0A087UCG2-F1-model_v4	6-phosphofructo-2-kinase	Stegodyphus mimosarum	1.00	30.9	0.671	
+1287
+AF-E1BXR3-F1-model_v4	6-phosphofructo-2-kinase	Gallus gallus	1.00	38.7	0.671	
+1287
+AF-A0A0D6LUX2-F1-model_v4	6-phosphofructo-2-kinase	Ancylostoma ceylanicum	0.97	27.9	0.671	
+1287
+AF-A0A0N7LA53-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase fructose--bisphosphate 2-phosphatase	Ceraceosorus bombacis	1.00	38.7	0.671	
+1287
+AF-A0A1B7SQ77-F1-model_v4	6PF2K domain-containing protein	Ogataea polymorpha	1.00	27.5	0.671	
+1287
+AF-A0A2I2FXP5-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Aspergillus steynii IBT 23096	1.00	24.4	0.671	
+1287
+AF-A0A6J1MFD6-F1-model_v4	6-phosphofructo-2-kinase	Drosophila hydei	1.00	39.5	0.671	
+1287
+AF-A0A317VXS4-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Aspergillus sclerotioniger CBS 115572	1.00	24.5	0.670	
+1287
+AF-Q10MV5-F1-model_v4	6-phosphofructo-2-kinase family protein, expressed	Oryza sativa Japonica Group	1.00	36.9	0.670	
+1287
+AF-A0A4Q1BRD6-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase	Tremella mesenterica	1.00	37.7	0.670	
+1287
+AF-A0A1F7ZJL6-F1-model_v4	Uncharacterized protein	Aspergillus bombycis	1.00	24.1	0.670	
+1287
+AF-A0A7L3X602-F1-model_v4	6-phosphofructo-2-kinase	Atlantisia rogersi	0.20	41.4	0.670	
+137259
+AF-A0A0F4ZK66-F1-model_v4	Uncharacterized protein	Thielaviopsis punctulata	1.00	23.7	0.669	
+1287
+AF-A0A835WHE3-F1-model_v4	Uncharacterized protein	Chlamydomonas schloesseri	1.00	34.1	0.669	
+1287
+AF-A0A5E4DAT7-F1-model_v4	6-phosphofructo-2-kinase	Marmota monax	0.20	41.9	0.669	
+136259
+AF-A0A315W854-F1-model_v4	6-phosphofructo-2-kinase	Gambusia affinis	1.00	37.8	0.669	
+1287
+AF-A0A7L2MGC4-F1-model_v4	6-phosphofructo-2-kinase	Rhadina sibilatrix	0.20	45.4	0.669	
+139259
+AF-S3DFV8-F1-model_v4	Phosphoglycerate mutase-like protein	Glarea lozoyensis ATCC 20868	1.00	24.4	0.668	
+1287
+AF-A0A671YHY1-F1-model_v4	6-phosphofructo-2-kinase	Sparus aurata	0.99	33.3	0.668	
+1287
+AF-A0A6P4J0K7-F1-model_v4	6-phosphofructo-2-kinase	Drosophila kikkawai	1.00	39.9	0.668	
+1287
+AF-A0A7L2SP38-F1-model_v4	6-phosphofructo-2-kinase	Mystacornis crossleyi	0.20	41.4	0.668	
+137259
+AF-A0A5C3E5Y6-F1-model_v4	Probable FBP26 - fructose-2,6-bisphosphatase	Ustilago trichophora	1.00	38.7	0.668	
+1287
+AF-A0A443I289-F1-model_v4	6-phosphofructo-2-kinase 1	Paecilomyces variotii	1.00	23	0.667	
+1287
+AF-A0A1A9YJD0-F1-model_v4	6-phosphofructo-2-kinase	Glossina fuscipes fuscipes	1.00	38.8	0.667	
+1287
+AF-A0A439D5U9-F1-model_v4	Uncharacterized protein	Xylaria grammica	1.00	24.3	0.667	
+1287
+AF-A0A1Y2DXS8-F1-model_v4	6-phosphofructo-2-kinase	Pseudomassariella vexata	1.00	24.1	0.666	
+1287
+AF-A0A3A2ZWZ1-F1-model_v4	6-phosphofructo-2-kinase	Aspergillus sclerotialis	1.00	23.7	0.666	
+1287
+AF-A0A0N1NXL6-F1-model_v4	Putative 6-phosphofructo-2-kinase PB17E12.14c	Phialophora attinorum	1.00	23.3	0.666	
+1287
+AF-A0A0C4E7Y6-F1-model_v4	6-phosphofructo-2-kinase 1	Magnaporthiopsis poae ATCC 64411	1.00	23.2	0.666	
+1287
+AF-A0A183PQ76-F1-model_v4	6PF2K domain-containing protein	Schistosoma mattheei	0.57	33.7	0.666	
+1162
+AF-A0A7S0U2K2-F1-model_v4	Hypothetical protein	Hemiselmis andersenii	0.44	23.3	0.666	
+1157
+AF-A0A194QMU1-F1-model_v4	6-phosphofructo-2-kinase	Papilio xuthus	1.00	33.7	0.665	
+1287
+AF-A0A5M9J807-F1-model_v4	Uncharacterized protein	Monilinia fructicola	1.00	23.5	0.665	
+1287
+AF-A0A4Q4X223-F1-model_v4	6PF2K domain-containing protein	Monosporascus sp. CRB-8-3	1.00	25.2	0.665	
+1287
+AF-A0A1Y2CND6-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Rhizoclosmatium globosum	0.99	25.2	0.665	
+1287
+AF-A0A507B164-F1-model_v4	Uncharacterized protein	Thyridium curvatum	1.00	24.7	0.665	
+1287
+AF-A0A425BIQ6-F1-model_v4	Uncharacterized protein	Scytalidium sp. 3C	1.00	23.3	0.665	
+1287
+AF-H6CC08-F1-model_v4	6-phosphofructo-2-kinase	Exophiala dermatitidis NIH/UT8656	1.00	23.8	0.664	
+1287
+AF-A0A1F5LE85-F1-model_v4	Uncharacterized protein	Penicillium arizonense	1.00	22.7	0.664	
+1287
+AF-A0A1D6JZG4-F1-model_v4	6-phosphofructo-2-kinase/fructose-26-bisphosphatase	Zea mays	1.00	37.6	0.664	
+1287
+AF-A0A316VLY7-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Meira miltonrushii	1.00	37.1	0.664	
+1287
+AF-A0A370TRS3-F1-model_v4	Phosphoglycerate mutase-like protein	Venustampulla echinocandica	1.00	25	0.663	
+1287
+AF-A0A0F7SV45-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase fructose--bisphosphate 2-phosphatase	Phaffia rhodozyma	1.00	37.7	0.663	
+1287
+AF-A0A642VCH1-F1-model_v4	Uncharacterized protein	Trichomonascus ciferrii	1.00	25.2	0.663	
+1287
+AF-A0A287P590-F1-model_v4	CBM20 domain-containing protein	Hordeum vulgare subsp. vulgare	1.00	38.3	0.663	
+1287
+AF-A0A669Q724-F1-model_v4	6-phosphofructo-2-kinase	Phasianus colchicus	0.99	35.4	0.663	
+1287
+AF-A0A6G0WU94-F1-model_v4	6PF2K domain-containing protein	Aphanomyces euteiches	1.00	27.6	0.663	
+1287
+AF-K0KN96-F1-model_v4	Putative 6-phosphofructose-2-kinase	Wickerhamomyces ciferrii NRRL Y-1031	1.00	27.2	0.663	
+1287
+AF-A0A1V6PS17-F1-model_v4	Uncharacterized protein	Penicillium antarcticum	1.00	23	0.663	
+1287
+AF-S4PRM6-F1-model_v4	6-phosphofructo-2-kinase	Pararge aegeria	0.16	40.1	0.662	
+140256
+AF-A0A5N3XGH1-F1-model_v4	6-phosphofructo-2-kinase	Muntiacus reevesi	0.97	27.7	0.662	
+1287
+AF-A0A316ZAL7-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Tilletiopsis washingtonensis	1.00	37.4	0.662	
+1287
+AF-A0A0P1KUT7-F1-model_v4	LAQU0S13e01068g1_1	Lachancea quebecensis	1.00	30.2	0.662	
+1287
+AF-A0A811X2X8-F1-model_v4	(diamondback moth) hypothetical protein	Plutella xylostella	1.00	32.9	0.662	
+1287
+AF-A0A7S0KVR2-F1-model_v4	Hypothetical protein	Micromonas pusilla	1.00	30.6	0.662	
+1287
+AF-A0A0A2KTM0-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphate 2-phosphatase	Penicillium expansum	1.00	22.7	0.662	
+1287
+AF-A0A5B0M5G7-F1-model_v4	Fructose-2,6-bisphosphatase	Puccinia graminis f. sp. tritici	1.00	37.3	0.662	
+1287
+AF-A0A163TJC4-F1-model_v4	6PF2K domain-containing protein	Absidia glauca	0.97	31.5	0.661	
+1287
+AF-A0A1Y1YVX4-F1-model_v4	6-phosphofructo-2-kinase-domain-containing protein	Clohesyomyces aquaticus	1.00	22.8	0.661	
+1287
+AF-W7I487-F1-model_v4	Uncharacterized protein	Drechslerella stenobrocha 248	1.00	21.3	0.661	
+1287
+AF-A0A0D2P1J7-F1-model_v4	CBM20 domain-containing protein	Gossypium raimondii	1.00	39	0.660	
+1279
+AF-W8BQN9-F1-model_v4	6-phosphofructo-2-kinase	Ceratitis capitata	1.00	39.2	0.660	
+1287
+AF-A0A0D2CW54-F1-model_v4	Uncharacterized protein	Exophiala xenobiotica	1.00	22.8	0.660	
+1287
+AF-U4LVH9-F1-model_v4	Similar to 6-phosphofructo-2-kinase 1 acc. no. P40433	Pyronema omphalodes CBS 100304	1.00	23.9	0.660	
+1287
+AF-A0A1B8C7Q8-F1-model_v4	Uncharacterized protein	Pseudogymnoascus sp. WSF 3629	1.00	23.4	0.660	
+1287
+AF-A0A318ZG58-F1-model_v4	6-phosphofructo-2-kinase 1	Aspergillus saccharolyticus JOP 1030-1	1.00	22.9	0.660	
+1287
+AF-A0A0P7V6W4-F1-model_v4	6-phosphofructo-2-kinase	Scleropages formosus	0.99	34.7	0.660	
+1287
+AF-G7YSY5-F1-model_v4	6-phosphofructo-2-kinase	Clonorchis sinensis	0.99	33.3	0.660	
+1287
+AF-A0A7L4JHL5-F1-model_v4	F263 bisphosphatase	Pomatorhinus ruficollis	0.20	39.4	0.659	
+93209
+AF-A0A3N0XIK9-F1-model_v4	6-phosphofructo-2-kinase	Anabarilius grahami	1.00	39.9	0.659	
+1287
+AF-A0A7L2RVP4-F1-model_v4	6-phosphofructo-2-kinase	Neodrepanis coruscans	0.30	35.5	0.659	
+108259
+AF-A0A060Z2V0-F1-model_v4	6PF2K domain-containing protein	Oncorhynchus mykiss	0.96	38.1	0.659	
+1218
+AF-A0A7J6YN98-F1-model_v4	6-phosphofructo-2-kinase	Lamprigera yunnana	1.00	31.2	0.659	
+1287
+AF-A0A2H2HVD1-F1-model_v4	6-phosphofructo-2-kinase	Caenorhabditis japonica	0.90	35.7	0.659	
+83287
+AF-A0A4V1J2Y7-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Metschnikowia bicuspidata	1.00	25.6	0.659	
+1287
+AF-A0A364NGI7-F1-model_v4	Fructose-2,6-bisphosphatase-like protein	Stemphylium lycopersici	1.00	40.7	0.659	
+1287
+AF-A0A669DZY1-F1-model_v4	6-phosphofructo-2-kinase	Oreochromis niloticus	0.99	30.4	0.659	
+1287
+AF-A0A0F8AKB5-F1-model_v4	6-phosphofructo-2-kinase	Larimichthys crocea	1.00	39.9	0.658	
+1287
+AF-A7THF8-F1-model_v4	6PF2K domain-containing protein	Vanderwaltozyma polyspora DSM 70294	1.00	30.5	0.658	
+1287
+AF-A0A6G0UNA3-F1-model_v4	6-phosphofructo-2-kinase	Halicephalobus sp. NKZ332	1.00	38.7	0.658	
+1287
+AF-A0A6G1KFU4-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Pleomassaria siparia CBS 279.74	1.00	21.9	0.658	
+1287
+AF-A0A6J2L5R0-F1-model_v4	6-phosphofructo-2-kinase	Phyllostomus discolor	1.00	39.1	0.657	
+1287
+AF-A0A3M6ZJW5-F1-model_v4	Uncharacterized protein	Hortaea werneckii	1.00	20.2	0.657	
+1287
+AF-A0A6A6I133-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Trematosphaeria pertusa	1.00	22.2	0.656	
+1287
+AF-A0A482XMH5-F1-model_v4	6-phosphofructo-2-kinase	Laodelphax striatellus	0.96	23.5	0.656	
+1287
+AF-A0A553RGS9-F1-model_v4	6-phosphofructo-2-kinase	Danionella translucida	0.98	34.2	0.656	
+1287
+AF-A7TLY2-F1-model_v4	6PF2K domain-containing protein	Vanderwaltozyma polyspora DSM 70294	1.00	27.9	0.656	
+1287
+AF-A0A4V6DTG5-F1-model_v4	6-phosphofructo-2-kinase-like protein	Elsinoe australis	1.00	21.8	0.656	
+1287
+AF-A0A7S3W7I7-F1-model_v4	Hypothetical protein	Emiliania huxleyi	1.00	20.6	0.655	
+1287
+AF-A0A316YXJ3-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Acaromyces ingoldii	1.00	38.1	0.655	
+1287
+AF-A0A177ULT1-F1-model_v4	6PF2K domain-containing protein	Tilletia walkeri	1.00	39.7	0.655	
+1287
+AF-A0A3N4LXG7-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Terfezia boudieri ATCC MYA-4762	1.00	24.8	0.654	
+1287
+AF-A0A3N0Y1Y7-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase	Anabarilius grahami	0.85	31.6	0.654	
+1223
+AF-A0A0V1FHR5-F1-model_v4	6-phosphofructo-2-kinase	Trichinella pseudospiralis	1.00	39.3	0.654	
+1287
+AF-A0A7I0ZCF5-F1-model_v4	6-phosphofructo-2-kinase	Danaus plexippus plexippus	1.00	33.1	0.654	
+1287
+AF-A0A7C8IPK5-F1-model_v4	6PF2K domain-containing protein	Xylaria multiplex	1.00	30.6	0.654	
+1287
+AF-A0A4S8WFA4-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Aureobasidium pullulans	1.00	22.9	0.654	
+1287
+AF-V5EU40-F1-model_v4	Fructose-2,6-bisphosphatase	Kalmanozyma brasiliensis GHG001	1.00	38.4	0.654	
+1287
+AF-G0TST6-F1-model_v4	Putative 6-phosphofructo-2-kinase/fructose-2,6-biphosphatase	Trypanosoma vivax Y486	1.00	20.6	0.653	
+1287
+AF-V5IR35-F1-model_v4	6-phosphofructo-2-kinase, variant	Neurospora crassa OR74A	1.00	23.9	0.653	
+1287
+AF-A0A814WJT1-F1-model_v4	Hypothetical protein	Rotaria sordida	1.00	36.6	0.652	
+1287
+AF-A0A1E4S3B6-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Cyberlindnera jadinii NRRL Y-1542	1.00	29.6	0.652	
+1287
+AF-A0A1B0GPB8-F1-model_v4	6-phosphofructo-2-kinase	Phlebotomus papatasi	0.93	25.6	0.652	
+55287
+AF-A0A060T0T9-F1-model_v4	ARAD1C15576p	Blastobotrys adeninivorans	1.00	26.9	0.652	
+1287
+AF-A0A2Y9QLW8-F1-model_v4	6-phosphofructo-2-kinase	Trichechus manatus latirostris	0.97	30.2	0.651	
+35287
+AF-A0A7L3UP42-F1-model_v4	F26L bisphosphatase	Uria aalge	0.16	41.2	0.651	
+92204
+AF-A0A4Y2R7J5-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase	Araneus ventricosus	0.35	24.1	0.651	
+1180
+AF-A0A7S3BPE1-F1-model_v4	Hypothetical protein	Haptolina ericina	0.92	19.1	0.651	
+1247
+AF-A0A0J8TVH2-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase 2	Coccidioides immitis RMSCC 3703	0.99	30	0.651	
+14287
+AF-A0A7S1LSW2-F1-model_v4	Hypothetical protein	Alexandrium catenella	0.99	18.4	0.650	
+1287
+AF-E9DRX3-F1-model_v4	Putative 6-phosphofructo-2-kinase	Metarhizium acridum CQMa 102	1.00	23.8	0.650	
+1287
+AF-A0A4S9XF29-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Aureobasidium pullulans	1.00	22.1	0.649	
+1287
+AF-A0A0R3P3A4-F1-model_v4	6-phosphofructo-2-kinase	Drosophila pseudoobscura pseudoobscura	1.00	39.2	0.649	
+1287
+AF-A0A1Y1IMD6-F1-model_v4	6-phosphofructo-2-kinase / fructose-2,6-bisphosphatase	Klebsormidium nitens	1.00	38.3	0.648	
+1287
+AF-A0A5M8PMD8-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase fructose-2	Lasallia pustulata	1.00	22	0.648	
+1287
+AF-A0A7S0NXT1-F1-model_v4	Hypothetical protein	Calcidiscus leptoporus	0.99	15.3	0.647	
+1287
+AF-A0A016UW19-F1-model_v4	6-phosphofructo-2-kinase	Ancylostoma ceylanicum	1.00	35.3	0.647	
+1287
+AF-A0A0D1E4A1-F1-model_v4	Putative fructose-2,6-bisphosphatase	Ustilago maydis 521	1.00	38.7	0.646	
+1287
+AF-A0A4U7KP67-F1-model_v4	6PF2K domain-containing protein	Sporisorium graminicola	1.00	38.1	0.646	
+1287
+AF-A0A5J4XD08-F1-model_v4	6-phosphofructo-2-kinase fructose-2	Trebouxia sp. A1-2	1.00	34.9	0.646	
+1287
+AF-A0A6J1G720-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase-like isoform X1	Cucurbita moschata	1.00	39.7	0.646	
+1287
+AF-A0A1E4U308-F1-model_v4	6PF2K domain-containing protein	Pachysolen tannophilus NRRL Y-2460	1.00	23.3	0.646	
+1287
+AF-A0A0D2ALK3-F1-model_v4	Uncharacterized protein	Verruconis gallopava	1.00	22.1	0.645	
+1287
+AF-G3GZR7-F1-model_v4	6-phosphofructo-2-kinase	Cricetulus griseus	1.00	38.4	0.645	
+1287
+AF-A0A7R9YGK0-F1-model_v4	Hypothetical protein	Diacronema lutheri	0.84	14.8	0.644	
+1229
+AF-A0A7S3BQ41-F1-model_v4	Hypothetical protein	Haptolina ericina	0.25	28.6	0.644	
+99235
+AF-A0A4Z2GD78-F1-model_v4	6-phosphofructo-2-kinase	Liparis tanakae	0.82	32.3	0.643	
+1208
+AF-A0A1I8P6R5-F1-model_v4	6-phosphofructo-2-kinase	Stomoxys calcitrans	1.00	38.1	0.643	
+1287
+AF-A0A7F8QHR8-F1-model_v4	6-phosphofructo-2-kinase	Leptonychotes weddellii	0.95	38.9	0.643	
+64287
+AF-A0A3M6W2K9-F1-model_v4	6PF2K domain-containing protein	Hortaea werneckii	0.80	21.9	0.642	
+3211
+AF-C4R2Z9-F1-model_v4	6-phosphofructo-2-kinase, inhibited by phosphoenolpyruvate and sn-glycerol 3-phosphate, has negligib	Komagataella phaffii GS115	1.00	27.2	0.642	
+1287
+AF-A0A367XRZ7-F1-model_v4	6PF2K domain-containing protein	Candida viswanathii	0.99	22.2	0.642	
+1287
+AF-A0A0K8LDU2-F1-model_v4	Fructose-2,6-bisphosphatase	Aspergillus udagawae	1.00	38.7	0.642	
+1287
+AF-A0A261BFQ1-F1-model_v4	6-phosphofructo-2-kinase	Caenorhabditis latens	0.96	27.8	0.641	
+1287
+AF-A0A6A5QSI7-F1-model_v4	6-phosphofructo-2-kinase-domain-containing protein	Ampelomyces quisqualis	1.00	23.4	0.641	
+1287
+AF-A0A6A0GWU4-F1-model_v4	6PF2K domain-containing protein	Hyalella azteca	0.47	36	0.640	
+1149
+AF-A0A1E3QHZ3-F1-model_v4	6PF2K domain-containing protein	Lipomyces starkeyi NRRL Y-11557	0.99	27.5	0.640	
+1287
+AF-A0A1Q3EKS7-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase fructose--bisphosphate 2-phosphatase	Lentinula edodes	1.00	35	0.639	
+1287
+AF-A0A5D6XHM6-F1-model_v4	6PF2K domain-containing protein	[Pythium] brassicae (nom. inval.)	0.97	17.6	0.637	
+1286
+AF-A4S8W2-F1-model_v4	6PF2K domain-containing protein	Ostreococcus lucimarinus CCE9901	0.72	29.2	0.636	
+110287
+AF-A0A4Q4YPL0-F1-model_v4	6PF2K domain-containing protein	Monosporascus sp. 5C6A	1.00	25.3	0.636	
+1287
+AF-A0A0X3NH00-F1-model_v4	6-phosphofructo-2-kinase	Schistocephalus solidus	0.93	34.7	0.636	
+1219
+AF-A0A2T9XZH8-F1-model_v4	6PF2K domain-containing protein	Smittium megazygosporum	1.00	35.9	0.636	
+1287
+AF-A0A1X7R4V3-F1-model_v4	Similar to Saccharomyces cerevisiae YIL107C PFK26 6-phosphofructo-2-kinase, inhibited by phosphoenolpyruvate and sn-glycerol 3-phosphate	Kazachstania saulgeensis	1.00	26.3	0.636	
+1287
+AF-A0A371CBC5-F1-model_v4	6-phosphofructo-2-kinase-domain-containing protein	Yarrowia lipolytica	1.00	19.3	0.635	
+1287
+AF-A0A059JH41-F1-model_v4	Uncharacterized protein	Trichophyton interdigitale MR816	1.00	20.4	0.635	
+1287
+AF-A0A1S3WTG5-F1-model_v4	6-phosphofructo-2-kinase	Erinaceus europaeus	0.97	30.8	0.634	
+1287
+AF-A0A673J961-F1-model_v4	6-phosphofructo-2-kinase	Sinocyclocheilus rhinocerous	0.94	22.2	0.634	
+1286
+AF-A0A4D9D7Y4-F1-model_v4	Uncharacterized protein	Nannochloropsis salina CCMP1776	1.00	45.7	0.634	
+1287
+AF-A0A7H9B1J7-F1-model_v4	6PF2K domain-containing protein	Zygotorulaspora mrakii	1.00	26	0.634	
+1287
+AF-A0A7S0VZD6-F1-model_v4	Hypothetical protein	Hemiselmis tepida	0.13	25.4	0.633	
+56160
+AF-T1JAT7-F1-model_v4	6-phosphofructo-2-kinase	Strigamia maritima	1.00	39.5	0.633	
+1287
+AF-A0A0V1B9G2-F1-model_v4	Cytoplasmic tRNA 2-thiolation protein 1	Trichinella spiralis	1.00	39.3	0.632	
+1287
+AF-A0A3M7NWB1-F1-model_v4	Uncharacterized protein	Chaetothyriales sp. CBS 134916	1.00	23.3	0.631	
+1287
+AF-A0A4W5LSF6-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	0.96	30.7	0.630	
+39287
+AF-A0A851DB07-F1-model_v4	F263 bisphosphatase	Todus mexicanus	0.92	41.5	0.630	
+76287
+AF-A0A7L4K5B4-F1-model_v4	6-phosphofructo-2-kinase	Ceuthmochares aereus	0.92	40.3	0.630	
+77287
+AF-A0A0G4MZS1-F1-model_v4	6PF2K domain-containing protein	Verticillium longisporum	0.35	22.1	0.630	
+52217
+AF-E9DW52-F1-model_v4	Fructose-2,6-bisphosphatase	Metarhizium acridum CQMa 102	0.94	26.2	0.630	
+1287
+AF-A0A1J1HSQ2-F1-model_v4	6-phosphofructo-2-kinase	Clunio marinus	1.00	39.2	0.630	
+1287
+AF-A0A2T9YAQ4-F1-model_v4	6PF2K domain-containing protein	Furculomyces boomerangus	1.00	39	0.629	
+1287
+AF-A0A7S0P2R8-F1-model_v4	Hypothetical protein	Calcidiscus leptoporus	0.51	18.8	0.628	
+118287
+AF-A3LYR6-F1-model_v4	6-phosphofructose-2-kinase	Scheffersomyces stipitis CBS 6054	1.00	26.1	0.627	
+1287
+AF-A0A0M8ZSV2-F1-model_v4	6-phosphofructo-2-kinase	Melipona quadrifasciata	0.99	26.8	0.627	
+1287
+AF-A0A556V9G1-F1-model_v4	6-phosphofructo-2-kinase	Bagarius yarrelli	0.98	31.2	0.626	
+1287
+AF-A0A4P9Z3K8-F1-model_v4	Histidine phosphatase superfamily	Syncephalis pseudoplumigaleata	0.85	44.5	0.626	
+91287
+AF-A0A812KUV2-F1-model_v4	Hypothetical protein	Symbiodinium sp. KB8	1.00	21	0.625	
+1287
+AF-A0A6P6M7D3-F1-model_v4	6-phosphofructo-2-kinase	Carassius auratus	0.84	38.9	0.623	
+94287
+AF-A0A095C680-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase 1	Schistosoma haematobium	0.69	30.4	0.622	
+1174
+AF-A0A818KEU0-F1-model_v4	Hypothetical protein	Rotaria socialis	1.00	38	0.622	
+1287
+AF-A0A2P8Y0K4-F1-model_v4	6-phosphofructo-2-kinase	Blattella germanica	0.97	24.8	0.622	
+1287
+AF-A0A7R8W7W4-F1-model_v4	Hypothetical protein	Cyprideis torosa	0.77	32.9	0.622	
+1180
+AF-A0A6A6HJY9-F1-model_v4	Bifunctional 6-phosphofructo-2-kinase/fructose-2,6-bisphosphate 2-phosphatase	Viridothelium virens	1.00	21.5	0.622	
+1287
+AF-A0A6H0Y3P9-F1-model_v4	Uncharacterized protein	Peltaster fructicola	1.00	21.6	0.621	
+1287
+AF-A0A1S9DRB2-F1-model_v4	6-phosphofructo-2-kinase	Aspergillus oryzae	1.00	22.9	0.621	
+1287
+AF-A5DE31-F1-model_v4	6PF2K domain-containing protein	Meyerozyma guilliermondii ATCC 6260	1.00	25.9	0.620	
+1287
+AF-K2NV79-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase, putative	Trypanosoma cruzi marinkellei	1.00	21.3	0.620	
+1287
+AF-A0A178BZ42-F1-model_v4	6PF2K domain-containing protein	Fonsecaea multimorphosa	1.00	39.1	0.618	
+1287
+AF-A0A4W5LVV5-F1-model_v4	6-phosphofructo-2-kinase	Hucho hucho	1.00	39.1	0.617	
+1287
+AF-F9FIE3-F1-model_v4	Uncharacterized protein	Fusarium oxysporum f. sp. conglutinans Fo5176	1.00	25.1	0.617	
+1287
+AF-A0A4Y2QFS1-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase	Araneus ventricosus	0.35	23	0.616	
+1180
+AF-G8YE68-F1-model_v4	Piso0_002124 protein	Millerozyma farinosa CBS 7064	1.00	23.7	0.616	
+1287
+AF-A0A7S3A5P3-F1-model_v4	Hypothetical protein	Rhodosorus marinus	0.41	42.8	0.615	
+142287
+AF-C0SBN8-F1-model_v4	6PF2K domain-containing protein	Paracoccidioides brasiliensis Pb03	0.84	46	0.615	
+88287
+AF-A0A178ZIK9-F1-model_v4	6PF2K domain-containing protein	Fonsecaea erecta	1.00	39.1	0.615	
+1287
+AF-A0A0D2AGQ3-F1-model_v4	6PF2K domain-containing protein	Exophiala mesophila	0.94	29.9	0.614	
+1287
+AF-A0A1Y3BDL9-F1-model_v4	6-phosphofructo-2-kinase	Euroglyphus maynei	0.75	37.9	0.614	
+107287
+AF-A0A4V3SBP1-F1-model_v4	6-phosphofructo-2-kinase	Temnothorax longispinosus	1.00	38.5	0.612	
+1287
+AF-A0A182EP55-F1-model_v4	6-phosphofructo-2-kinase	Onchocerca ochengi	0.77	39	0.612	
+107287
+AF-A0A5N4CIE7-F1-model_v4	6-phosphofructo-2-kinase	Camelus dromedarius	0.33	27.7	0.611	
+95271
+AF-A0A7S4B7U1-F1-model_v4	Hypothetical protein	Chrysotila carterae	0.85	14.9	0.611	
+1245
+AF-A0A553NB77-F1-model_v4	6-phosphofructo-2-kinase	Tigriopus californicus	1.00	38.1	0.610	
+1287
+AF-M7B5M9-F1-model_v4	6-phosphofructo-2-kinase	Chelonia mydas	1.00	38.7	0.610	
+1287
+AF-A0A2H1A1T4-F1-model_v4	6PF2K domain-containing protein	[Candida] auris	1.00	23.7	0.610	
+1287
+AF-A0A642US07-F1-model_v4	Uncharacterized protein	Diutina rugosa	1.00	23.6	0.608	
+1287
+AF-A0A1D2VS23-F1-model_v4	6PF2K-domain-containing protein	Ascoidea rubescens DSM 1968	1.00	24.4	0.608	
+1287
+AF-G3AQ15-F1-model_v4	6PF2K domain-containing protein	Spathaspora passalidarum NRRL Y-27907	1.00	24.5	0.608	
+1287
+AF-V8N8D4-F1-model_v4	6-phosphofructo-2-kinase	Ophiophagus hannah	0.89	38.8	0.608	
+84287
+AF-A0A5D6XM10-F1-model_v4	Kinesin-like protein	[Pythium] brassicae (nom. inval.)	1.00	31	0.608	
+1287
+AF-L8X385-F1-model_v4	Fructose-2,6-bisphosphatase	Rhizoctonia solani AG-1 IA	1.00	34.8	0.607	
+1287
+AF-A0A498LRR2-F1-model_v4	6-phosphofructo-2-kinase	Labeo rohita	1.00	40.1	0.606	
+1287
+AF-A0A3M7B0J6-F1-model_v4	6PF2K domain-containing protein	Hortaea werneckii	0.75	27	0.606	
+1181
+AF-A0A2H5RAA2-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase bifunctional enzyme	Rhizophagus irregularis DAOM 181602=DAOM 197198	1.00	44.5	0.606	
+1287
+AF-A0A7S0Q565-F1-model_v4	Hypothetical protein	Coccolithus braarudii	0.94	19	0.606	
+37287
+AF-M3YTZ3-F1-model_v4	6-phosphofructo-2-kinase	Mustela putorius furo	0.93	38.2	0.605	
+1211
+AF-B8PPR8-F1-model_v4	Predicted protein	Postia placenta Mad-698-R	0.63	41.9	0.604	
+114287
+AF-A0A3P7DQM6-F1-model_v4	6-phosphofructo-2-kinase	Wuchereria bancrofti	0.09	24.2	0.603	
+57216
+AF-A0A182YST4-F1-model_v4	6-phosphofructo-2-kinase	Anopheles stephensi	0.75	40.1	0.602	
+107287
+AF-A0A7G2DRA3-F1-model_v4	(thale cress) hypothetical protein	Arabidopsis thaliana	1.00	40	0.602	
+1287
+AF-Q4DRA6-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase, putative	Trypanosoma cruzi strain CL Brener	1.00	21.3	0.602	
+1287
+AF-A0A2D4CGF9-F1-model_v4	Kinesin-like protein	Pythium insidiosum	1.00	30.3	0.601	
+1287
+AF-A0A3M7NLH5-F1-model_v4	6PF2K domain-containing protein	Chaetothyriales sp. CBS 134916	1.00	39.1	0.600	
+1287
+AF-B4DI16-F1-model_v4	6-phosphofructo-2-kinase	Homo sapiens	0.69	41.2	0.600	
+113287
+AF-A0A0L0G9I6-F1-model_v4	C2H2-type domain-containing protein	Sphaeroforma arctica JP610	1.00	28.7	0.599	
+1287
+AF-A0A4U5URV2-F1-model_v4	6-phosphofructo-2-kinase	Collichthys lucidus	1.00	34.1	0.598	
+1287
+AF-A0A3N0YWQ0-F1-model_v4	6-phosphofructo-2-kinase	Anabarilius grahami	1.00	38.8	0.598	
+1287
+AF-A0A5E8B6T3-F1-model_v4	Uncharacterized protein	Saprochaete ingens	1.00	20.4	0.598	
+1287
+AF-Q582Y3-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase, putative	Trypanosoma brucei brucei TREU927	1.00	21.4	0.597	
+1287
+AF-A0A2P4VX95-F1-model_v4	6-phosphofructo-2-kinase	Caenorhabditis remanei	0.69	34.8	0.596	
+114287
+AF-A0A1A8R456-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-biphosphatase 4	Nothobranchius pienaari	0.75	35.9	0.595	
+1177
+AF-A0A6A4SYD7-F1-model_v4	6-phosphofructo-2-kinase	Scophthalmus maximus	1.00	37.8	0.595	
+1287
+AF-A0A2C5XDC9-F1-model_v4	RNA helicase	Ceratocystis fimbriata CBS 114723	1.00	38.6	0.595	
+1287
+AF-A0A5Q0IRV1-F1-model_v4	Putative 6-phosphofructo-2-kinase	Clavispora lusitaniae	1.00	24.2	0.591	
+1287
+AF-A0A7S3JR32-F1-model_v4	Hypothetical protein	Aureoumbra lagunensis	0.99	12.7	0.590	
+1287
+AF-A0A1V8TAD4-F1-model_v4	6PF2K domain-containing protein	Rachicladosporium antarcticum	1.00	40.7	0.589	
+1287
+AF-A0A7S0J716-F1-model_v4	Hypothetical protein	Calcidiscus leptoporus	0.51	32.1	0.589	
+131287
+AF-A0A3P4KPC3-F1-model_v4	6-phosphofructo-2-kinase	Gulo gulo	0.75	31.1	0.587	
+51287
+AF-A0A7S3YU04-F1-model_v4	Hypothetical protein	Lotharella globosa	0.89	19.2	0.584	
+1244
+AF-A0A2G9V5P7-F1-model_v4	6-phosphofructo-2-kinase	Teladorsagia circumcincta	0.77	37.9	0.583	
+107287
+AF-A0A0L6X285-F1-model_v4	Casein kinase I like protein	Termitomyces sp. J132	1.00	35.9	0.580	
+1287
+AF-A0A0L0H5S8-F1-model_v4	Uncharacterized protein	Spizellomyces punctatus DAOM BR117	0.92	20.8	0.580	
+1214
+AF-A0A818LJ98-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.89	22.9	0.580	
+38287
+AF-A0A7S0J1D0-F1-model_v4	Hypothetical protein	Calcidiscus leptoporus	0.89	15.1	0.579	
+1233
+AF-L1J6W3-F1-model_v4	Uncharacterized protein	Guillardia theta CCMP2712	0.75	28	0.578	
+1225
+AF-U1HVJ4-F1-model_v4	6PF2K domain-containing protein	Endocarpon pusillum Z07020	0.99	37.5	0.578	
+1287
+AF-A0A1Z5TSC6-F1-model_v4	6PF2K domain-containing protein	Hortaea werneckii EXF-2000	1.00	41.8	0.578	
+1287
+AF-A0A2G6QNT4-F1-model_v4	Bifunctional RNase H/acid phosphatase	Propionibacterium sp.	0.14	11.8	0.578	
+89286
+AF-A0A084W4H7-F1-model_v4	6-phosphofructo-2-kinase	Anopheles sinensis	0.75	41.2	0.577	
+107287
+AF-A0A1W5CSP1-F1-model_v4	6-phosphofructo-2-kinase 1	Lasallia pustulata	1.00	21.7	0.574	
+1287
+AF-B2W304-F1-model_v4	6PF-2-K/Fru-2,6-P2ASE liver isozyme	Pyrenophora tritici-repentis Pt-1C-BFP	0.80	29.3	0.574	
+94287
+AF-A0A7R9YGR8-F1-model_v4	Hypothetical protein	Diacronema lutheri	0.82	15.5	0.574	
+1229
+AF-A0A835WH64-F1-model_v4	Uncharacterized protein	Chlamydomonas schloesseri	0.77	26.8	0.574	
+1188
+AF-A0A7S3A6Q7-F1-model_v4	Hypothetical protein	Rhodosorus marinus	0.85	36.9	0.571	
+1190
+AF-A0A5G2RF64-F1-model_v4	6-phosphofructo-2-kinase	Sus scrofa	0.77	25.5	0.568	
+47287
+AF-A0A6G1FG99-F1-model_v4	CBM20 domain-containing protein	Oryza meyeriana var. granulata	0.97	30.7	0.567	
+1258
+AF-A0A1V3YYF1-F1-model_v4	Histidine phosphatase family protein	Klebsiella aerogenes	0.13	21.5	0.564	
+174286
+AF-A5DGB7-F1-model_v4	6PF2K domain-containing protein	Meyerozyma guilliermondii ATCC 6260	0.69	19.7	0.564	
+1174
+AF-A0A183WC84-F1-model_v4	6PF2K domain-containing protein	Trichobilharzia regenti	0.57	19.5	0.564	
+1254
+AF-A0A4Z2F4G0-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase	Liparis tanakae	0.44	15.9	0.560	
+1279
+AF-A0A1R1YL91-F1-model_v4	6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase 2	Smittium culicis	1.00	38.4	0.557	
+1287
+AF-A0A3E0MRT6-F1-model_v4	Histidine phosphatase family protein	Proteobacteria bacterium	0.14	10.8	0.554	
+93287
+AF-A0A251NKN4-F1-model_v4	CBM20 domain-containing protein	Prunus persica	0.97	31.3	0.551	
+1260
+AF-A0A7V9C7E6-F1-model_v4	Histidine phosphatase family protein	Pyrinomonadaceae bacterium	0.16	15.3	0.551	
+89287
+AF-L8GI65-F1-model_v4	6PF2K domain-containing protein	Acanthamoeba castellanii str. Neff	0.63	25	0.539	
+1169
+AF-A0A642UYR6-F1-model_v4	6PF2K domain-containing protein	Diutina rugosa	0.63	21	0.538	
+1175
+AF-A0A433D2K4-F1-model_v4	6-phosphofructo-2-kinase-domain-containing protein	Jimgerdemannia flammicorona	0.41	16.8	0.537	
+36256
+AF-A0A553R8V0-F1-model_v4	6-phosphofructo-2-kinase	Danionella translucida	0.47	25.7	0.529	
+63287
+AF-A0A1I9G5P9-F1-model_v4	6-phosphofructo-2-kinase	Brugia malayi	0.11	19.3	0.528	
+18222
+AF-A0A3L6VZH5-F1-model_v4	Uncharacterized protein	Aphanomyces astaci	0.35	28.2	0.521	
+144287
+AF-Q59WJ3-F1-model_v4	6-phosphofructo-2-kinase	Candida albicans SC5314	0.69	15.8	0.514	
+1223
+AF-A0A7R9GFR2-F1-model_v4	Hypothetical protein	Notodromas monacha	0.82	31.8	0.513	
+1199
+AF-A0A7S3C3W2-F1-model_v4	Hypothetical protein	Prasinoderma singulare	0.96	35.8	0.508	
+1221
+AF-A0A812RHG4-F1-model_v4	FKFBP protein	Symbiodinium microadriaticum	0.91	30.2	0.505	
+54287
+AF-A0A1H7WK58-F1-model_v4	Histidine phosphatase superfamily (Branch 1)	Paenibacillus sp. cl141a	0.10	19	0.504	
+174277
+AF-Q9Y1W3-F1-model_v4	6-phosphofructo-2-kinase	Drosophila melanogaster	0.82	26.1	0.502	
+29287
+AF-A3GFN4-F1-model_v4	6-phosphofructo-2-kinase	Scheffersomyces stipitis CBS 6054	0.66	20.7	0.501	
+1174
+AF-A0A7S3A8T6-F1-model_v4	Hypothetical protein	Rhodosorus marinus	0.41	42.8	0.494	
+142287
+AF-A0A5J5WA94-F1-model_v4	CBM20 domain-containing protein	Gossypium barbadense	0.87	37.2	0.492	
+1199
+AF-A0A817LRK9-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood2	0.60	14.1	0.477	
+1254
+AF-A0A6A4ZK83-F1-model_v4	Uncharacterized protein	Aphanomyces astaci	0.85	38.3	0.467	
+1189
+AF-A0A7S3KFE0-F1-model_v4	Hypothetical protein	Moneuplotes crassus	0.15	39.1	0.446	
+174287
+AF-A0A2C1KF64-F1-model_v4	Alpha-ribazole phosphatase	Bacillus sp. AFS040349	0.15	24.7	0.438	
+174287
+AF-A0A1V5M683-F1-model_v4	Alpha-ribazole phosphatase	bacterium ADurb.Bin425	0.16	12	0.431	
+92287
+AF-A0A6H5KWG5-F1-model_v4	Uncharacterized protein	Ectocarpus sp. CCAP 1310/34	0.75	9.7	0.426	
+9287
+AF-A0A2A9P3C1-F1-model_v4	Uncharacterized protein	Ophiocordyceps unilateralis	0.38	20.8	0.416	
+1144
+AF-K1S7M5-F1-model_v4	Phosphoglycerate mutase	human gut metagenome	0.14	12.1	0.415	
+95287
+AF-A0A835WHC5-F1-model_v4	Uncharacterized protein	Chlamydomonas schloesseri	0.16	24.2	0.365	
+86287
+AF-A0A7Y6E1K9-F1-model_v4	Bifunctional RNase H/acid phosphatase	Streptomycetaceae bacterium	0.18	17.4	0.352	
+91287

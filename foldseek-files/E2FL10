@@ -1,0 +1,1994 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR INTI4 (E2FL10)
+AFDB50 994 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-K0D021-F1-model_v4	Integrase	Alteromonas macleodii str. 'Black Sea 11'	1.00	59	0.946	
+1291
+AF-A0A7Y0DVD0-F1-model_v4	Integron integrase	Pseudoalteromonas arctica	1.00	58.7	0.944	
+1291
+AF-A0A726K4Z3-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica	1.00	45.2	0.933	
+5291
+AF-Q82X46-F1-model_v4	Phage integrase	Nitrosomonas europaea ATCC 19718	1.00	47.9	0.918	
+5291
+AF-A0A2I2A8A1-F1-model_v4	Integron integrase	Hydrogenovibrio sp. SC-1	1.00	44.4	0.911	
+1291
+AF-A0A8A7W9M3-F1-model_v4	Integron integrase	Akkermansiaceae bacterium	1.00	43.1	0.909	
+1291
+AF-A0A7C7Q6A1-F1-model_v4	Integron integrase	Armatimonadetes bacterium	1.00	51.6	0.905	
+1281
+AF-A0A561D7C0-F1-model_v4	Integron integrase	Pseudomonas sp. AG1028	1.00	41	0.899	
+3291
+AF-A0A0M9EDJ4-F1-model_v4	Recombinase XerD	Candidatus Magnetomorum sp. HK-1	1.00	43.8	0.896	
+1291
+AF-A0A0B6D0N8-F1-model_v4	Integron integrase family protein	Francisella philomiragia	0.99	38.8	0.894	
+23291
+AF-A0A1G9S768-F1-model_v4	Integron integrase	Oryzisolibacter propanilivorax	1.00	44.1	0.891	
+1291
+AF-A0A847BUU6-F1-model_v4	Integron integrase	Campylobacteraceae bacterium	1.00	40.7	0.891	
+1291
+AF-A0A2A4UM36-F1-model_v4	Integrase	Moraxellaceae bacterium	0.99	45.9	0.891	
+23291
+AF-A0A202DXR6-F1-model_v4	Tyr recombinase domain-containing protein	bacterium M21	0.99	40.6	0.891	
+27291
+AF-A0A853NAJ2-F1-model_v4	Recombinase XerD	Aliivibrio fischeri	1.00	39.2	0.889	
+1291
+AF-A0A7Y2X5X4-F1-model_v4	Integron integrase	Akkermansiaceae bacterium	1.00	38.4	0.886	
+1291
+AF-A0A1F2RD37-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium RIFCSPLOWO2_02_FULL_64_15	1.00	39.6	0.886	
+1291
+AF-A0A857JQS2-F1-model_v4	Tyrosine recombinase XerD	Paraglaciecola mesophila	1.00	53.7	0.886	
+1291
+AF-A0A6M5YXF8-F1-model_v4	Integron integrase IntIPac	Frigoriglobus tundricola	1.00	46.9	0.881	
+1291
+AF-A0A8A7WAE6-F1-model_v4	Integron integrase	Akkermansiaceae bacterium	0.99	38.2	0.880	
+1279
+AF-A0A370DNG9-F1-model_v4	Tyr recombinase domain-containing protein	endosymbiont of Escarpia spicata	1.00	41.2	0.879	
+1291
+AF-A0A7Y0GES0-F1-model_v4	Integron integrase	Polaromonas sp.	0.99	39.5	0.878	
+20291
+AF-D5MSQ5-F1-model_v4	Integron integrase intI	uncultured bacterium	0.98	42.5	0.871	
+10256
+AF-A0A7C5WXN0-F1-model_v4	Integron integrase	Thiotrichales bacterium	0.99	49.2	0.871	
+39291
+AF-A0A5B9AU92-F1-model_v4	Class 1 integron integrase IntI1	Escherichia coli	1.00	45.3	0.867	
+1291
+AF-Q1MVX3-F1-model_v4	Integron integrase	uncultured bacterium	0.98	48.1	0.866	
+46284
+AF-A0A4Y9VQL8-F1-model_v4	Integron integrase	Methylotenera oryzisoli	1.00	43.4	0.864	
+1291
+AF-A0A840V8P8-F1-model_v4	Site-specific recombinase XerD	Haloferula luteola	1.00	31.7	0.863	
+1290
+AF-A0A721F0X7-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica	0.98	43.6	0.861	
+7256
+AF-A0A5C8B4Q0-F1-model_v4	Integron integrase	Burkholderiaceae bacterium	1.00	42.2	0.859	
+1281
+AF-V8GA69-F1-model_v4	Integrase	Pelistega indica	1.00	43.8	0.859	
+1291
+AF-A0A0P9HEQ8-F1-model_v4	Tyrosine recombinase XerC	Pseudoalteromonas sp. P1-9	0.98	37.8	0.859	
+23265
+AF-A0A7W1Z108-F1-model_v4	Integron integrase	Nitrospirales bacterium	1.00	39.4	0.859	
+1291
+AF-A0A509LK57-F1-model_v4	Integron integrase	Deltaproteobacteria bacterium	1.00	37.6	0.859	
+1291
+AF-A0A848X672-F1-model_v4	Integron integrase	Gemmatimonadetes bacterium	1.00	33.2	0.858	
+1291
+AF-A0A1G1EZU6-F1-model_v4	Integron integrase	Nitrospirae bacterium GWB2_47_37	1.00	40	0.856	
+1291
+AF-A0A290QAU6-F1-model_v4	Integrase	Nibricoccus aquaticus	0.98	39.3	0.854	
+41291
+AF-A0A2E0HFC5-F1-model_v4	Integrase	Pseudomonadales bacterium	1.00	42.2	0.852	
+1291
+AF-A0A840SC82-F1-model_v4	Integron integrase	Inhella inkyongensis	1.00	43.5	0.852	
+1291
+AF-A0A7W1NDA6-F1-model_v4	Integron integrase	Planctomycetota bacterium	1.00	48.2	0.851	
+1291
+AF-S3LB71-F1-model_v4	Integron integrase	Treponema vincentii F0403	1.00	40.1	0.849	
+1291
+AF-Q0E9Z0-F1-model_v4	Integron integrase	uncultured bacterium	0.97	45.4	0.849	
+45284
+AF-A0A2V8VBD9-F1-model_v4	Integron integrase	Acidobacteria bacterium	1.00	45.8	0.847	
+1291
+AF-A0A495DHR6-F1-model_v4	Integron integrase	Alteromonadaceae bacterium 2052S.S.stab0a.01	1.00	36.3	0.847	
+1291
+AF-A0A3U0TUL1-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica	1.00	45.3	0.847	
+1291
+AF-A0A225D9Z3-F1-model_v4	Integron integrase IntIPac	Fimbriiglobus ruber	1.00	44.3	0.845	
+1291
+AF-A0A7W1TF53-F1-model_v4	Integron integrase	Planctomycetota bacterium	1.00	37.4	0.845	
+1291
+AF-A0A7W9JSK2-F1-model_v4	Integron integrase	Xanthomonas arboricola	1.00	48.6	0.841	
+1291
+AF-A0A401FVZ8-F1-model_v4	Integron integrase	Desulfonema ishimotonii	1.00	39.4	0.841	
+1291
+AF-A0A7X7QL79-F1-model_v4	Integron integrase	Lentisphaerae bacterium	1.00	41.9	0.841	
+1291
+AF-A0A2H0XUG2-F1-model_v4	Integron integrase	Candidatus Marinimicrobia bacterium CG08_land_8_20_14_0_20_45_22	0.97	42.7	0.839	
+42275
+AF-A0A846UK63-F1-model_v4	Integron integrase	Dechloromonas sp. SG708	0.97	45	0.837	
+53291
+AF-A0A354GDU4-F1-model_v4	Integron integrase	Spirochaetia bacterium	1.00	41	0.835	
+1291
+AF-A0A1Y5DLE3-F1-model_v4	Tyr recombinase domain-containing protein	Bermanella sp. 47_1433_sub80_T6	0.99	33.2	0.832	
+1262
+AF-A0A534YQX1-F1-model_v4	Integron integrase	Deltaproteobacteria bacterium	1.00	47.7	0.832	
+1291
+AF-A0A7X6I5S2-F1-model_v4	Integron integrase	Ramlibacter lithotrophicus	1.00	47.4	0.832	
+1291
+AF-A0A4P9UNH0-F1-model_v4	Integron integrase	Methylotuvimicrobium buryatense	1.00	42	0.830	
+1288
+AF-A0A0S2TGA3-F1-model_v4	Integrase	Candidatus Tenderia electrophaga	1.00	51.1	0.830	
+1291
+AF-A0A2V7MJZ6-F1-model_v4	Integron integrase	Gemmatimonadetes bacterium	0.99	40.8	0.830	
+1264
+AF-A0A2V7UQ59-F1-model_v4	Integron integrase	Acidobacteria bacterium	0.99	43.2	0.828	
+1260
+AF-A0A545T5W5-F1-model_v4	Integron integrase	Exilibacterium tricleocarpae	1.00	43.8	0.827	
+1291
+AF-A0A840V7S6-F1-model_v4	Integron integrase	Haloferula luteola	1.00	36.7	0.827	
+1291
+AF-A0A7C1Y496-F1-model_v4	Integron integrase	Gammaproteobacteria bacterium	1.00	47.7	0.824	
+1291
+AF-K6YVK9-F1-model_v4	Integron integrase	Paraglaciecola psychrophila 170	0.99	37.3	0.823	
+1265
+AF-A0A3N5HPE4-F1-model_v4	Integron integrase	Nitrospiraceae bacterium	0.99	32.4	0.822	
+1286
+AF-D5MTA2-F1-model_v4	Integrase	uncultured bacterium	0.98	48.4	0.822	
+1256
+AF-A0A2M9T8I9-F1-model_v4	Recombinase XerD	Halomonas sp. 141	0.98	39	0.822	
+1255
+AF-D5MSQ8-F1-model_v4	Integron integrase intI	uncultured bacterium	0.98	46.8	0.820	
+1256
+AF-A0A2K1Q3Y0-F1-model_v4	Integron integrase	Lysobacter silvestris	1.00	49.4	0.820	
+1285
+AF-A0A715VMP7-F1-model_v4	Integron integrase	Salmonella enterica subsp. enterica serovar Typhimurium	0.99	46	0.818	
+28291
+AF-A0A7T8CY68-F1-model_v4	Integron integrase	Thiohalocapsa sp. PB-PSB1	1.00	46.5	0.816	
+1291
+AF-A0A7W3Y6I3-F1-model_v4	Integron integrase	Lysobacter spongiae	1.00	49.3	0.814	
+1291
+AF-A0A7W9ABM5-F1-model_v4	Integron integrase	Xanthomonas arboricola	1.00	45.4	0.812	
+2291
+AF-A0A660TXX8-F1-model_v4	Integron integrase	Spirochaetes bacterium	1.00	39.7	0.810	
+1291
+AF-I1YI77-F1-model_v4	Integron integrase IntI4	Methylophaga frappieri	0.99	41.2	0.808	
+1278
+AF-A0A840V3V7-F1-model_v4	Integrase	Haloferula luteola	0.99	27.5	0.807	
+1290
+AF-A0A812G1Z7-F1-model_v4	Belongs to the 'phage' integrase family	Vibrio sp. B1FIG11	0.90	64.3	0.807	
+89290
+AF-D5MSR7-F1-model_v4	Integron integrase intI	uncultured bacterium	0.98	38	0.806	
+1256
+AF-A0A3B9HX12-F1-model_v4	Integron integrase	Candidatus Riflebacteria bacterium	1.00	42.3	0.805	
+1291
+AF-A0A7V3XE00-F1-model_v4	Tyr recombinase domain-containing protein	bacterium	0.97	35.6	0.805	
+20260
+AF-A0A351VMI4-F1-model_v4	Uncharacterized protein	Geobacter sp.	1.00	35.2	0.804	
+1291
+AF-A0A3D1Y4A5-F1-model_v4	Recombinase XerD	Oceanospirillales bacterium	0.97	37.3	0.803	
+1248
+AF-D5MSS5-F1-model_v4	Integron integrase intI	uncultured bacterium	0.98	40.2	0.803	
+1256
+AF-V4JQN9-F1-model_v4	Uncharacterized protein	Thiohalocapsa sp. PB-PSB1	1.00	40.1	0.802	
+1291
+AF-A0A009HAY0-F1-model_v4	Integron integrase family protein	Acinetobacter baumannii 1295743	0.98	33.9	0.800	
+8276
+AF-A0A6J4XPB6-F1-model_v4	Mobile element protein	Olavius sp. associated proteobacterium Delta 1	0.97	44.6	0.798	
+1234
+AF-A0A1Y1S0M6-F1-model_v4	Uncharacterized protein	Marispirochaeta aestuarii	1.00	39.5	0.797	
+1291
+AF-T0XV20-F1-model_v4	Tyrosine type site-specific recombinase	mine drainage metagenome	0.96	26.5	0.796	
+1279
+AF-Q1MVV9-F1-model_v4	Integron integrase	uncultured bacterium	0.90	41.5	0.796	
+45256
+AF-A0A4R4ESL6-F1-model_v4	Integron integrase	Lysobacter sp. N42	1.00	48.6	0.796	
+1291
+AF-A0A2T5CFN1-F1-model_v4	Integrase	Desulfonatronum sp. SC1	1.00	36.5	0.796	
+1291
+AF-A0A7Z1M2F2-F1-model_v4	Integron integrase	Chromobacterium violaceum	0.98	39.9	0.796	
+1258
+AF-A0A7T5R6Z9-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.97	27.7	0.795	
+1291
+AF-A0A1V5MGN8-F1-model_v4	Tyrosine recombinase XerD	bacterium ADurb.Bin425	0.92	49.2	0.795	
+82291
+AF-A0A373F1C7-F1-model_v4	Integron integrase	Comamonas testosteroni	0.92	48.1	0.794	
+79291
+AF-A0A1P8J839-F1-model_v4	Integrase 2	Escherichia coli	0.90	41.3	0.792	
+8222
+AF-A0A2V9IS09-F1-model_v4	Integrase	Acidobacteria bacterium	0.97	27.2	0.792	
+1287
+AF-D5MT88-F1-model_v4	Integrase	uncultured bacterium	0.96	40.1	0.789	
+22256
+AF-A0A5A9W6L0-F1-model_v4	Integron integrase	Nitrincola tapanii	0.97	43.4	0.789	
+1246
+AF-A0A351WNF2-F1-model_v4	Integrase	Verrucomicrobia bacterium	1.00	39.1	0.787	
+1291
+AF-U7D546-F1-model_v4	Integron integrase	Chitinivibrio alkaliphilus ACht1	1.00	32.1	0.787	
+1291
+AF-A0A2V8LAT5-F1-model_v4	Integron integrase	Acidobacteria bacterium	0.97	38.3	0.786	
+7291
+AF-A0A2T2YCR2-F1-model_v4	Integron integrase	Adhaeribacter arboris	0.96	32.7	0.786	
+1244
+AF-A0A0F6MS02-F1-model_v4	Integron integrase	Treponema denticola OTK	0.90	40.5	0.785	
+82291
+AF-A0A0S8HEK4-F1-model_v4	Uncharacterized protein	Bacteroides sp. SM23_62_1	0.97	28.7	0.785	
+1291
+AF-A0A3D0V635-F1-model_v4	Integrase	Candidatus Uhrbacteria bacterium	0.97	27.9	0.783	
+1289
+AF-A0A2V6FR92-F1-model_v4	Integron integrase	Verrucomicrobia bacterium	0.98	35	0.781	
+1281
+AF-A0A496QGX2-F1-model_v4	Integrase	Thermodesulfobacteria bacterium	0.97	27.2	0.780	
+1291
+AF-A0A356FQW4-F1-model_v4	Integron integrase	Opitutae bacterium	1.00	30.5	0.780	
+1291
+AF-A0A2P2DXE0-F1-model_v4	Site-specific recombinase, phage integrase family	Leptospira ryugenii	0.96	27.7	0.779	
+9291
+AF-A0A6I6KD80-F1-model_v4	Tyrosine-type recombinase/integrase	Maribellus comscasis	0.97	26.5	0.779	
+1291
+AF-A0A5B9QQ86-F1-model_v4	Tyrosine recombinase XerD	Roseimaritima ulvae	1.00	37.9	0.779	
+1291
+AF-A0A7J4L3Q3-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.97	26	0.778	
+1291
+AF-A0A124IHL9-F1-model_v4	Uncharacterized protein	Desulfitibacter sp. BRH_c19	0.97	23.8	0.778	
+1291
+AF-A0A7L9C4Y6-F1-model_v4	Integron integrase	Planctomycetia bacterium	1.00	37.2	0.777	
+1289
+AF-A0A4V1S8J4-F1-model_v4	Integron integrase	Verrucomicrobiaceae bacterium	1.00	37	0.777	
+1281
+AF-A0A7W1PQM1-F1-model_v4	Integron integrase	Gemmatimonadales bacterium	0.96	39.3	0.777	
+1237
+AF-A0A838KRJ1-F1-model_v4	Tyrosine-type recombinase/integrase	Nocardioidaceae bacterium	0.96	25.7	0.776	
+1288
+AF-A0A397N777-F1-model_v4	Integron integrase	Pseudomonas oleovorans	0.99	41.8	0.776	
+1291
+AF-A0A2E0HEF9-F1-model_v4	Integrase	Pseudomonadales bacterium	0.99	43.1	0.775	
+1269
+AF-A0A2V9B5S1-F1-model_v4	Integrase	Acidobacteria bacterium	0.94	26.6	0.775	
+1281
+AF-W0FM30-F1-model_v4	Putative transposase	uncultured bacterium Contigcl_1556	0.97	24.2	0.775	
+1291
+AF-A0A5C6XV27-F1-model_v4	Tyrosine-type recombinase/integrase	Polaribacter sp. IC066	0.94	29.2	0.774	
+11288
+AF-A0A2G2ME76-F1-model_v4	Integrase	Alkaliphilus sp.	0.97	20.8	0.773	
+1291
+AF-A0A1G2B2C8-F1-model_v4	Uncharacterized protein	Candidatus Kerfeldbacteria bacterium RIFCSPHIGHO2_12_FULL_48_17	0.96	29.3	0.773	
+1289
+AF-A0A662D3L0-F1-model_v4	Integrase	Candidatus Aminicenantes bacterium	0.94	28.6	0.773	
+5291
+AF-A0A7H8VP89-F1-model_v4	Integron integrase	Treponema phagedenis	1.00	41.1	0.773	
+1291
+AF-U1KW69-F1-model_v4	Integrase	Pseudoalteromonas marina DSM 17587	0.69	53.4	0.772	
+115290
+AF-A0A8B0SGK1-F1-model_v4	Integron integrase	Thiothrix fructosivorans	1.00	37.9	0.771	
+1291
+AF-G9AAX3-F1-model_v4	Tyrosine recombinase xerD	Sinorhizobium fredii HH103	0.96	28.3	0.770	
+1290
+AF-A0A4P5YAG3-F1-model_v4	Uncharacterized protein	Planctomycetia bacterium	1.00	42.1	0.769	
+1291
+AF-A0A348NVK4-F1-model_v4	Integrase	Candidatus Delongbacteria bacterium	0.95	26.5	0.769	
+1277
+AF-A0A2E1ARW5-F1-model_v4	Integrase	Muricauda sp.	0.97	25.9	0.769	
+1291
+AF-A0A7J4TE64-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.96	23.6	0.768	
+1291
+AF-A0A7Y1V484-F1-model_v4	Site-specific integrase	Saprospiraceae bacterium	0.97	25.5	0.768	
+1289
+AF-A0A7Y5LSW6-F1-model_v4	Tyrosine-type recombinase/integrase	bacterium	0.97	22.6	0.768	
+1291
+AF-A0A2V7UKK7-F1-model_v4	Integron integrase	Acidobacteria bacterium	0.99	36.7	0.767	
+1261
+AF-A0A4U3C404-F1-model_v4	Integrase	Halomonas sp. 15WGF	0.94	25.8	0.767	
+14289
+AF-A0A1F7PW46-F1-model_v4	Integrase	Candidatus Rokubacteria bacterium RIFCSPLOWO2_12_FULL_71_19	0.97	26.6	0.766	
+1290
+AF-A0A832VEA4-F1-model_v4	Uncharacterized protein	Candidatus Poseidoniales archaeon	0.97	22.9	0.765	
+1291
+AF-A0A2G6QKF6-F1-model_v4	Tyr recombinase domain-containing protein	Treponema sp.	0.96	26.7	0.765	
+1291
+AF-A0A150AAP3-F1-model_v4	Tyr recombinase domain-containing protein	Flammeovirga sp. SJP92	0.96	22	0.764	
+1289
+AF-M5RXV3-F1-model_v4	Integron integrase	Rhodopirellula europaea SH398	0.84	44.1	0.764	
+99291
+AF-A0A710FGN2-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Typhimurium	0.85	46.7	0.764	
+94291
+AF-A0A7Y1Y604-F1-model_v4	Integron integrase	Akkermansiaceae bacterium	1.00	37.5	0.763	
+1291
+AF-A0A7J3RB75-F1-model_v4	Integrase	Candidatus Pacearchaeota archaeon	0.96	29.1	0.763	
+1291
+AF-A0A5C7F6J3-F1-model_v4	Tyrosine-type recombinase/integrase	Neolewinella aurantiaca	0.95	20.2	0.762	
+1288
+AF-A0A1V5AQM8-F1-model_v4	Putative tyrosine recombinase XerC-like protein	Methanosaeta sp. PtaU1.Bin060	0.95	19.7	0.762	
+1291
+AF-A0A7T8CTJ8-F1-model_v4	Integron integrase	Thiohalocapsa sp. PB-PSB1	1.00	47.2	0.762	
+1291
+AF-A0A7Y2X591-F1-model_v4	Integron integrase	Akkermansiaceae bacterium	1.00	43.8	0.761	
+1291
+AF-A0A3M1TWE0-F1-model_v4	Integrase	Bacteroidetes bacterium	0.96	27	0.761	
+1290
+AF-A0A1H8VQX3-F1-model_v4	Tyrosine recombinase XerD	Rhizobium tibeticum	0.97	25.2	0.761	
+1291
+AF-Q27Z99-F1-model_v4	Integrase	uncultured bacterium	0.60	56	0.760	
+121284
+AF-A0A2H0TYN0-F1-model_v4	Uncharacterized protein	Candidatus Magasanikbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_36_16	0.96	25.5	0.760	
+1291
+AF-A0A5C6BEW1-F1-model_v4	Tyrosine recombinase XerC	Planctomycetes bacterium Poly21	1.00	36.1	0.760	
+1291
+AF-A0A1I7NI17-F1-model_v4	Site-specific recombinase XerD	Thermoflavifilum thermophilum	0.97	25.8	0.759	
+1291
+AF-A0A7Y2HEM8-F1-model_v4	Tyrosine-type recombinase/integrase	Saprospiraceae bacterium	0.96	26.5	0.759	
+1289
+AF-A0A6B0EDI9-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridium chromiireducens	0.96	26.9	0.759	
+1289
+AF-Q27ZC3-F1-model_v4	Integrase	uncultured bacterium	0.60	54.2	0.759	
+121284
+AF-A0A0F9DD93-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.97	28.4	0.759	
+1290
+AF-Q27Z95-F1-model_v4	Integrase	uncultured bacterium	0.60	51.8	0.759	
+121284
+AF-A0A2G9MN41-F1-model_v4	Integrase	Candidatus Woesearchaeota archaeon CG10_big_fil_rev_8_21_14_0_10_30_7	0.95	27.7	0.758	
+1291
+AF-A0A7Z9IAY8-F1-model_v4	Integrase	Planctomycetaceae bacterium	0.97	24.2	0.758	
+1289
+AF-Q27ZE2-F1-model_v4	Integrase	uncultured bacterium	0.60	51.8	0.758	
+121284
+AF-Q27ZC0-F1-model_v4	Integrase	uncultured bacterium	0.60	52.4	0.757	
+121284
+AF-X6CM92-F1-model_v4	Integrase	Mesorhizobium sp. LNHC232B00	0.96	26.6	0.757	
+1291
+AF-A0A1M6M9Q3-F1-model_v4	Site-specific recombinase XerD	Dethiosulfatibacter aminovorans DSM 17477	0.96	23.9	0.757	
+1290
+AF-A0A2D6NDB6-F1-model_v4	Integrase	Candidatus Woesearchaeota archaeon	0.95	32	0.757	
+1289
+AF-A0A2V6L369-F1-model_v4	Tyr recombinase domain-containing protein	Verrucomicrobia bacterium	0.84	43.4	0.757	
+23225
+AF-A0A3G9INH7-F1-model_v4	Putative integrase/recombinase y4qK	Paenibacillus baekrokdamisoli	0.96	26	0.757	
+1291
+AF-A0A7X6QGJ0-F1-model_v4	Tyrosine-type recombinase/integrase	Spirochaetales bacterium	0.97	22.6	0.756	
+1289
+AF-A0A7T8CVW0-F1-model_v4	Integron integrase	Thiohalocapsa sp. PB-PSB1	1.00	44.5	0.756	
+1291
+AF-A0A352V9L6-F1-model_v4	Tyr recombinase domain-containing protein	Spirochaetia bacterium	0.95	25.6	0.756	
+1291
+AF-A0A258AQ70-F1-model_v4	Integrase	Verrucomicrobia bacterium 12-59-8	0.87	37.2	0.755	
+88291
+AF-A0A521L5H2-F1-model_v4	Integron integrase	Nitrospirae bacterium	0.92	42.4	0.755	
+1225
+AF-A0A1Q3RDS7-F1-model_v4	Uncharacterized protein	Clostridiales bacterium 38-18	0.96	27.7	0.755	
+1291
+AF-H2BQK4-F1-model_v4	Integrase family protein	Gillisia limnaea DSM 15749	0.97	26.8	0.755	
+1288
+AF-A0A7C1ZNW2-F1-model_v4	Uncharacterized protein	Bacteroides sp.	0.96	23.6	0.755	
+1289
+AF-A0A7J4P5N0-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.96	29.5	0.755	
+1291
+AF-E4RTB2-F1-model_v4	Integrase family protein	Leadbetterella byssophila DSM 17132	0.96	22.6	0.755	
+1289
+AF-A0A2N2JVW0-F1-model_v4	Integron integrase	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-15	1.00	45.5	0.754	
+1291
+AF-A0A7Y1Y2D9-F1-model_v4	Integron integrase	Akkermansiaceae bacterium	1.00	36.7	0.754	
+1289
+AF-A0A2V7Z8Y3-F1-model_v4	Integrase	Acidobacteria bacterium	0.96	27.8	0.754	
+1289
+AF-A0A371JW82-F1-model_v4	Integrase	Muricauda nanhaiensis	0.87	28.3	0.754	
+35291
+AF-A0A509MK95-F1-model_v4	Integrase	Marinobacter halodurans	0.97	23.3	0.754	
+1289
+AF-Q27Z72-F1-model_v4	Integrase	uncultured bacterium	0.60	48.7	0.752	
+121284
+AF-A0A645CQ13-F1-model_v4	IS91 family transposase ISMno24	bioreactor metagenome	0.96	21.5	0.752	
+1291
+AF-A0A7J4TFH4-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.96	26.6	0.752	
+1291
+AF-A0A2T1A3S4-F1-model_v4	Integron integrase	Paraburkholderia insulsa	0.97	30.4	0.752	
+11291
+AF-A0A7X1L1S3-F1-model_v4	Integron integrase	Desulfobacteraceae bacterium	0.77	43.2	0.752	
+101291
+AF-A0A4R6UQ55-F1-model_v4	Integron integrase	Permianibacter aggregans	1.00	45.3	0.750	
+1291
+AF-Q27ZC1-F1-model_v4	Integrase	uncultured bacterium	0.60	43	0.749	
+121284
+AF-A0A7J4PBL6-F1-model_v4	Tyrosine-type recombinase/integrase	Thermoplasmata archaeon	0.95	30.5	0.749	
+1291
+AF-N8WFQ2-F1-model_v4	Uncharacterized protein	Acinetobacter sp. CIP 102082	0.93	36	0.748	
+1225
+AF-A0A5R9ANX5-F1-model_v4	Uncharacterized protein	Maribacter sp. ACAM166	0.95	24.4	0.748	
+1288
+AF-A0A4Q3BTX5-F1-model_v4	Integron integrase	Verrucomicrobiaceae bacterium	1.00	36.8	0.748	
+1291
+AF-A0A374RSP7-F1-model_v4	Uncharacterized protein	Eubacterium sp. TM05-53	0.96	18.2	0.747	
+1289
+AF-A0A1V5WEA2-F1-model_v4	Tyrosine recombinase XerD	Spirochaetes bacterium ADurb.Bin215	0.99	42.2	0.747	
+1291
+AF-K0NNA3-F1-model_v4	Predicted integrase	Desulfobacula toluolica Tol2	0.96	21.2	0.747	
+1289
+AF-A0A496RW87-F1-model_v4	Recombinase XerD	Candidatus Omnitrophica bacterium	0.92	25	0.746	
+11288
+AF-A0A845K026-F1-model_v4	Tyrosine-type recombinase/integrase	Nitrospinae bacterium	0.93	23.2	0.745	
+1277
+AF-A0A6J4SSE8-F1-model_v4	Site-specific tyrosine recombinase XerC	uncultured Sphingomonas sp.	0.95	20.1	0.745	
+1291
+AF-A0A2W4IM99-F1-model_v4	Integrase	Candidatus Margulisbacteria bacterium	0.96	27.6	0.744	
+1289
+AF-A0A7X7ECG5-F1-model_v4	Tyrosine-type recombinase/integrase	Spirochaetales bacterium	0.97	18.4	0.744	
+1291
+AF-A0A3C1G229-F1-model_v4	Integrase	Nitrospiraceae bacterium	0.95	26.6	0.743	
+1289
+AF-A0A1F9M852-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium RIFOXYD12_FULL_50_9	1.00	35.2	0.743	
+1289
+AF-K7A2N6-F1-model_v4	Integrase	Paraglaciecola psychrophila 170	0.82	48.9	0.742	
+65260
+AF-M2B2K5-F1-model_v4	Integrase, integron-type	Rhodopirellula europaea 6C	0.99	40.7	0.742	
+1255
+AF-Q27ZF6-F1-model_v4	Integrase	uncultured bacterium	0.57	39.6	0.741	
+121284
+AF-A0A5R8KAG5-F1-model_v4	Integrase	Phragmitibacter flavus	0.97	24.3	0.741	
+1288
+AF-A0A7Y5H670-F1-model_v4	Tyrosine-type recombinase/integrase	bacterium	0.97	28.2	0.741	
+1291
+AF-A0A2D8C4M1-F1-model_v4	Uncharacterized protein	Algoriphagus sp.	0.93	23.1	0.740	
+1289
+AF-A0A7C4VLW1-F1-model_v4	Integrase	Oceanithermus profundus	0.96	25.9	0.739	
+1289
+AF-A0A7J3RE85-F1-model_v4	Integrase	Candidatus Woesearchaeota archaeon	0.95	30	0.739	
+1290
+AF-A0A357B699-F1-model_v4	Integrase	Candidatus Acetothermia bacterium	0.94	28.7	0.739	
+11291
+AF-A0A2N2JW56-F1-model_v4	Integrase	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-15	0.91	25.9	0.739	
+25289
+AF-A0A3D0V8Q6-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Uhrbacteria bacterium	0.94	17.8	0.739	
+1291
+AF-A0A7J4LIQ8-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.96	25.5	0.738	
+1291
+AF-A0A1V5ASZ0-F1-model_v4	Putative tyrosine recombinase XerC-like protein	Methanosaeta sp. PtaU1.Bin060	0.96	18	0.738	
+1291
+AF-A0A1N6STU1-F1-model_v4	Site-specific recombinase XerD	Paenibacillus macquariensis	0.97	28.5	0.737	
+1291
+AF-A0A524R1K3-F1-model_v4	Integrase	Gemmatimonadales bacterium	0.97	31	0.737	
+1289
+AF-A0A2M7N0H0-F1-model_v4	Integrase	Bacteroidetes bacterium CG_4_10_14_3_um_filter_31_20	0.63	28.1	0.736	
+79290
+AF-A0A5C7GGK7-F1-model_v4	Tyrosine-type recombinase/integrase	Seonamhaeicola maritimus	0.97	24.3	0.735	
+1291
+AF-A0A2M6YZ01-F1-model_v4	Uncharacterized protein	Ignavibacteriales bacterium CG07_land_8_20_14_0_80_59_12	0.97	30.5	0.735	
+1291
+AF-A0A2E2D6R3-F1-model_v4	Integrase	Methylophaga sp.	0.93	21.8	0.734	
+1291
+AF-A0A2W4QHR3-F1-model_v4	Integrase	Candidatus Methylumidiphilus alinenensis	0.95	25.7	0.734	
+1289
+AF-A0A2A5BW71-F1-model_v4	Integrase	Moraxellaceae bacterium	0.96	25.6	0.734	
+1289
+AF-A0A1G0ALZ5-F1-model_v4	Tyr recombinase domain-containing protein	Flavobacteria bacterium GWA2_35_26	0.95	26.6	0.733	
+1289
+AF-A0A2V5KSM3-F1-model_v4	Integrase	Verrucomicrobia bacterium	0.91	27.3	0.733	
+23291
+AF-A0A5C6FH81-F1-model_v4	Tyrosine recombinase XerD	Crateriforma conspicua	0.97	22.3	0.733	
+1288
+AF-A0A5N3QTQ4-F1-model_v4	Integron integrase	Vibrio fortis	0.93	41	0.732	
+75291
+AF-A0A3A4WQC3-F1-model_v4	Tyr recombinase domain-containing protein	Desulfobacteraceae bacterium	0.66	44.3	0.732	
+117291
+AF-A0A2U3LV77-F1-model_v4	Phage integrase family protein	Candidatus Desulfosporosinus infrequens	0.91	25.7	0.732	
+1271
+AF-A0A842TN55-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Pacearchaeota archaeon	0.96	26.1	0.731	
+1291
+AF-A0A4U1AC87-F1-model_v4	Integron integrase	Desulfopila sp. IMCC35006	0.98	32.3	0.731	
+1286
+AF-A0A1Y1RWL2-F1-model_v4	Uncharacterized protein	Marispirochaeta aestuarii	0.93	26.2	0.731	
+1289
+AF-A0A368WS63-F1-model_v4	Integrase/recombinase XerD	Halanaerobium sp. ST460_2HS_T2	0.95	18.9	0.731	
+1291
+AF-A0A1G2XHS1-F1-model_v4	Uncharacterized protein	Planctomycetes bacterium GWC2_45_44	0.95	15.3	0.730	
+1291
+AF-A0A1F3YTP0-F1-model_v4	Uncharacterized protein	Betaproteobacteria bacterium RBG_16_66_20	0.93	44.6	0.729	
+1226
+AF-A0A0Q0RUA1-F1-model_v4	Tyrosine recombinase XerA	Acidiplasma aeolicum	0.94	24	0.729	
+1291
+AF-A0A3D5PIY7-F1-model_v4	Integrase	Rhodobacteraceae bacterium	0.85	27.6	0.729	
+34291
+AF-A0A840FZM7-F1-model_v4	Integrase	Rhodocyclus tenuis	0.63	43.6	0.729	
+23196
+AF-A0A0M9ED78-F1-model_v4	Integrase	Candidatus Magnetomorum sp. HK-1	0.90	25	0.728	
+1266
+AF-A0A2D6KWI3-F1-model_v4	Uncharacterized protein	Candidatus Woesearchaeota archaeon	0.95	24.6	0.728	
+1291
+AF-U5NDI0-F1-model_v4	Transposase	Candidatus Symbiobacter mobilis CR	0.84	42.1	0.728	
+23225
+AF-A0A7Y9YS08-F1-model_v4	Integrase	Xanthomonas campestris	0.97	32	0.728	
+1259
+AF-A0A605YAX1-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Hadar	0.90	40.2	0.728	
+1220
+AF-A0A2G2NVT6-F1-model_v4	Integrase	Lutibacter sp.	0.96	25	0.727	
+1289
+AF-A0A3M1V8G7-F1-model_v4	Integron integrase	Euryarchaeota archaeon	0.98	42.5	0.727	
+1253
+AF-A0A1M7FNP5-F1-model_v4	Site-specific recombinase XerD	Prevotella ruminicola	0.96	20.4	0.727	
+1288
+AF-A0A497HAW3-F1-model_v4	Integrase	Thermoplasmata archaeon	0.92	29.3	0.726	
+1291
+AF-A0A3D8YUQ5-F1-model_v4	Site-specific integrase	Sporosarcina sp. BI001-red	0.96	13.1	0.724	
+1291
+AF-M5T469-F1-model_v4	Phage integrase family protein	Rhodopirellula sp. SWK7	0.97	27.3	0.724	
+1289
+AF-A0A1B1G076-F1-model_v4	Tyrosine-type recombinase/integrase	Flammeovirga sp. MY04	0.93	22.6	0.723	
+1288
+AF-A0A2U3LLD2-F1-model_v4	Tyrosine recombinase XerC	Candidatus Desulfosporosinus infrequens	0.95	21	0.723	
+1291
+AF-A0A843L8C3-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Pacearchaeota archaeon	0.93	26.7	0.722	
+1289
+AF-D5MT56-F1-model_v4	Integrase	uncultured bacterium	0.99	41.4	0.722	
+1256
+AF-A0A2V8T065-F1-model_v4	Tyr recombinase domain-containing protein	Acidobacteria bacterium	0.87	35	0.721	
+50259
+AF-A0A150IHQ8-F1-model_v4	Putative tyrosine recombinase XerC-like protein	Candidatus Methanofastidiosum methylthiophilus	0.95	20.6	0.721	
+1289
+AF-A0A3R7C5K9-F1-model_v4	Site-specific integrase	Candidatus Bathyarchaeota archaeon	0.91	11	0.721	
+1291
+AF-I4B3S5-F1-model_v4	Integrase family protein	Turneriella parva DSM 21527	0.96	26.7	0.721	
+1286
+AF-A0A1G5YBK3-F1-model_v4	Site-specific recombinase XerD	Sinorhizobium sp. NFACC03	0.93	25.6	0.721	
+1281
+AF-A0A2N1DSH2-F1-model_v4	Integrase	Psychromonas sp. MB-3u-54	0.57	26.6	0.721	
+77281
+AF-A0A0N0D637-F1-model_v4	Integron integrase	Candidatus Magnetomorum sp. HK-1	1.00	39.4	0.721	
+1288
+AF-A1UEH7-F1-model_v4	Tyrosine recombinase XerC	Mycobacterium sp. KMS	0.95	22.8	0.720	
+1291
+AF-A0A1F6CT50-F1-model_v4	Uncharacterized protein	Candidatus Handelsmanbacteria bacterium RIFCSPLOWO2_12_FULL_64_10	0.96	30	0.719	
+1289
+AF-A4C5T9-F1-model_v4	Super-integron integrase IntIA	Pseudoalteromonas tunicata D2	0.54	61.6	0.719	
+133289
+AF-A0A838WD50-F1-model_v4	Integron integrase	Gemmatimonadetes bacterium	0.99	43.1	0.719	
+1270
+AF-A0A432KJA4-F1-model_v4	Integrase	Bacteroidetes bacterium	0.87	22.2	0.719	
+1267
+AF-A0A0C2UWN8-F1-model_v4	Uncharacterized protein	Paenibacillus sp. VKM B-2647	0.94	17.8	0.718	
+1289
+AF-A0A1Q9NT15-F1-model_v4	Tyrosine recombinase XerD	Candidatus Heimdallarchaeota archaeon LC_2	0.96	19.4	0.717	
+1291
+AF-A0A4U9JNX9-F1-model_v4	Tyrosine recombinase XerD	Sphingobacterium daejeonense	0.77	26.8	0.717	
+46291
+AF-A0A4P6YX69-F1-model_v4	Tyrosine recombinase XerC	Periweissella cryptocerci	0.94	20.5	0.717	
+1289
+AF-Q2S6F7-F1-model_v4	Integrase/recombinase	Salinibacter ruber DSM 13855	0.99	25.6	0.717	
+1291
+AF-A0A7X6TW09-F1-model_v4	Tyrosine recombinase	Clostridium sp.	0.94	21.1	0.716	
+1291
+AF-A0A1V5QQ21-F1-model_v4	Putative tyrosine recombinase XerC-like protein	archaeon ADurb.Bin336	0.96	27	0.716	
+1289
+AF-A0A1C7G126-F1-model_v4	Tyr recombinase domain-containing protein	Lachnoclostridium sp. YL32	0.93	19.1	0.716	
+1290
+AF-A0A2I0FN89-F1-model_v4	Recombinase XerC	Planomicrobium sp. MB-3u-38	0.95	14.7	0.715	
+1291
+AF-C0KIU9-F1-model_v4	Class I integrase	Enterococcus faecalis	0.54	31.3	0.715	
+7210
+AF-A0A7J4TH59-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.94	25.3	0.715	
+1291
+AF-A0A1S1V8Z2-F1-model_v4	Tyrosine recombinase XerD	Andreesenia angusta	0.94	22.5	0.714	
+1291
+AF-A0A553DQ79-F1-model_v4	Tyrosine-type recombinase/integrase	Flavobacterium restrictum	0.93	17.2	0.714	
+1289
+AF-Q1MVX2-F1-model_v4	Integron integrase	uncultured bacterium	0.85	46.5	0.714	
+85284
+AF-A0A3B0ZG38-F1-model_v4	Integron integrase IntIPac	hydrothermal vent metagenome	0.94	42.5	0.712	
+33291
+AF-C6X5G6-F1-model_v4	Probable integrase	Flavobacteriaceae bacterium 3519-10	0.94	26.2	0.711	
+11291
+AF-A0A359CM24-F1-model_v4	Tyrosine recombinase XerC	Clostridiaceae bacterium	0.94	22.4	0.711	
+1291
+AF-A0A661N3C9-F1-model_v4	Integrase	Deltaproteobacteria bacterium	0.97	25.6	0.711	
+1291
+AF-A0A5S3V443-F1-model_v4	Tyrosine-type recombinase/integrase	Pseudoalteromonas rubra	0.82	37.7	0.711	
+1204
+AF-A0A1N5SPZ1-F1-model_v4	Tyrosine recombinase XerA	Cuniculiplasma divulgatum	0.93	26.5	0.711	
+1291
+AF-A0A2M9ZPL3-F1-model_v4	Integrase	Leptospira perolatii	0.97	24.5	0.711	
+1291
+AF-A0A6I7QJ12-F1-model_v4	Integrase	Bacteroidia bacterium	0.97	26.2	0.711	
+1291
+AF-M5T406-F1-model_v4	Integrase, integron-type	Rhodopirellula sp. SWK7	0.69	44.4	0.710	
+112291
+AF-A0A4U3C474-F1-model_v4	Integron integrase	Halomonas sp. 15WGF	0.90	35.6	0.710	
+1227
+AF-A0A7L4QF64-F1-model_v4	Tyrosine recombinase XerC	Candidatus Methanofastidiosa archaeon	0.91	25.2	0.710	
+1289
+AF-A0A7T3ZYF0-F1-model_v4	Tyrosine recombinase XerC	Brevibacterium casei	0.96	18.5	0.710	
+1291
+AF-A0A660TY88-F1-model_v4	Uncharacterized protein	Spirochaetes bacterium	0.94	19.2	0.709	
+1289
+AF-A0A2G2LZV1-F1-model_v4	Uncharacterized protein	Alkaliphilus sp.	0.87	19.5	0.709	
+15288
+AF-A0A1V2IIZ2-F1-model_v4	Uncharacterized protein	Frankia sp. BMG5.30	0.93	21.6	0.709	
+1289
+AF-A0A7J4V2L1-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.63	31.1	0.708	
+75291
+AF-A0A2V8DNJ5-F1-model_v4	Integrase	Acidobacteria bacterium	0.89	26.2	0.708	
+26289
+AF-A0A3C0DLM5-F1-model_v4	Tyrosine recombinase XerC	Firmicutes bacterium	0.96	21.7	0.708	
+1291
+AF-A0A2E6HXH1-F1-model_v4	Tyr recombinase domain-containing protein	Gemmatimonadetes bacterium	0.87	19.6	0.708	
+21286
+AF-A0A4P6HL69-F1-model_v4	Integrase	Solidesulfovibrio carbinolicus	0.95	18.2	0.708	
+1289
+AF-A0A7X7ZBP8-F1-model_v4	Tyrosine-type recombinase/integrase	Ignavibacteriales bacterium	0.94	23	0.707	
+1290
+AF-A0A257I1S8-F1-model_v4	Recombinase XerC	Chitinophagaceae bacterium BSSC1	0.87	23	0.707	
+22291
+AF-C4ZGY6-F1-model_v4	Tyrosine recombinase EUBREC_2677	[Eubacterium] rectale ATCC 33656	0.95	18.3	0.707	
+1289
+AF-A0A1Y5H8P3-F1-model_v4	Tyr recombinase domain-containing protein	Rhodobacterales bacterium 56_14_T64	0.75	26.1	0.707	
+29291
+AF-A0A1Q9YMW6-F1-model_v4	Uncharacterized protein	Faecalibaculum rodentium	0.93	17.6	0.707	
+1289
+AF-A0A538RWG8-F1-model_v4	Integrase	Planctomycetota bacterium	0.96	23.1	0.707	
+1291
+AF-V4H4V4-F1-model_v4	Site-specific recombinase XerD	Pseudoalteromonas luteoviolacea 2ta16	0.75	46.4	0.706	
+1197
+AF-A0A3D2PBN0-F1-model_v4	Tyrosine recombinase XerD	Elusimicrobia bacterium	0.90	23.9	0.706	
+8291
+AF-A0A2K3URN5-F1-model_v4	Tyr recombinase domain-containing protein	Deinococcus koreensis	0.80	17.4	0.706	
+35291
+AF-A0A1Q3RDF9-F1-model_v4	Tyrosine recombinase XerC	Clostridiales bacterium 38-18	0.93	23.5	0.706	
+1291
+AF-A0A2V2DKI7-F1-model_v4	Site-specific tyrosine recombinase XerD	Clostridiales bacterium	0.94	21.4	0.705	
+1291
+AF-A0A4Q3VKX1-F1-model_v4	Integrase	Chitinophagaceae bacterium	0.96	25.4	0.705	
+1289
+AF-A0A2V9SZQ5-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.92	16.2	0.705	
+1291
+AF-A0A1H1WB30-F1-model_v4	Tyrosine recombinase XerC	Brevibacterium sandarakinum	0.95	18.2	0.705	
+1291
+AF-I9QR73-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroides cellulosilyticus CL02T12C19	0.96	24.8	0.704	
+1288
+AF-A0A660W5S9-F1-model_v4	Tyrosine recombinase XerC	Planctomycetota bacterium	0.91	22.1	0.704	
+1281
+AF-A0A2G6FIV8-F1-model_v4	Recombinase	Desulfobacterales bacterium	0.82	16	0.703	
+1260
+AF-A0A7X7B640-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridiaceae bacterium	0.93	17.1	0.703	
+1291
+AF-D5MT62-F1-model_v4	Integrase	uncultured bacterium	0.98	38.5	0.703	
+1256
+AF-D5MT96-F1-model_v4	Integrase	uncultured bacterium	0.98	43.1	0.703	
+1256
+AF-A0A249ST98-F1-model_v4	Uncharacterized protein	Chitinophaga sp. MD30	0.92	15.7	0.702	
+1288
+AF-A0A0K1EZZ6-F1-model_v4	Tyr recombinase domain-containing protein	Olsenella sp. oral taxon 807	0.95	14.7	0.702	
+1290
+AF-A0A7W6L7M7-F1-model_v4	Integron integrase	Xanthomonas campestris	0.80	45.7	0.701	
+97289
+AF-A0A5C5XRL6-F1-model_v4	Tyrosine recombinase XerC	Crateriforma conspicua	1.00	38.3	0.701	
+1291
+AF-Q9Z9F7-F1-model_v4	Tyrosine recombinase XerC	Chlamydia pneumoniae	0.95	18.4	0.701	
+1291
+AF-A0A151F393-F1-model_v4	Tyr recombinase domain-containing protein	Theionarchaea archaeon DG-70	0.85	17.2	0.701	
+11289
+AF-A0A6L9EI67-F1-model_v4	Tyrosine-type recombinase/integrase	Poritiphilus flavus	0.94	20.3	0.701	
+1289
+AF-A0A7X9HC09-F1-model_v4	Tyrosine-type recombinase/integrase	Bacteroidales bacterium	0.93	21.3	0.701	
+1288
+AF-A0A7V2NFE0-F1-model_v4	Integrase	Thermotogaceae bacterium	0.93	24.6	0.701	
+1288
+AF-A0A6N4DGX4-F1-model_v4	Uncharacterized protein	Pseudidiomarina aestuarii	0.96	14.4	0.700	
+1289
+AF-A0A4U2KV75-F1-model_v4	Integrase	Puteibacter caeruleilacunae	0.96	25.2	0.699	
+1291
+AF-A0A7C1E016-F1-model_v4	Uncharacterized protein	Bacteroides sp.	0.96	27.8	0.699	
+1289
+AF-A0A7W4G356-F1-model_v4	Phage integrase N-terminal SAM-like domain-containing protein	Pseudoalteromonas sp. SG44-4	0.25	53.5	0.699	
+4130
+AF-A0A1W9UNB6-F1-model_v4	Tyrosine recombinase XerC	Anaerolineaceae bacterium 4572_32.2	0.93	22.4	0.698	
+1291
+AF-A0A4Q3U9E7-F1-model_v4	Recombinase	Chitinophagaceae bacterium	0.54	32.2	0.698	
+83288
+AF-A0A7C1LRF6-F1-model_v4	Integrase	Candidatus Aminicenantes bacterium	0.69	26.3	0.698	
+30290
+AF-A0A1L7CXC2-F1-model_v4	Uncharacterized protein	Corynebacterium sphenisci DSM 44792	0.93	15.2	0.698	
+1291
+AF-A0A2Z4GB58-F1-model_v4	Integrase	Arcticibacterium luteifluviistationis	0.94	26.1	0.698	
+1288
+AF-A0A7K4D898-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Methanofastidiosa archaeon	0.90	16.2	0.698	
+1289
+AF-I4B9H4-F1-model_v4	Integrase family protein	Turneriella parva DSM 21527	0.97	26.5	0.697	
+1291
+AF-A0A2V9Q1A6-F1-model_v4	Integrase	Acidobacteria bacterium	0.94	14.6	0.697	
+1291
+AF-A0A098E8Y7-F1-model_v4	Phage integrase family protein	groundwater metagenome	0.96	28.5	0.697	
+1291
+AF-A0A1H9TZW5-F1-model_v4	Integrase/recombinase XerD	Salipaludibacillus aurantiacus	0.91	15.8	0.696	
+1289
+AF-L1Q4I4-F1-model_v4	Site-specific recombinase, phage integrase family	Clostridium celatum DSM 1785	0.72	23	0.696	
+26288
+AF-A0A7C1VY18-F1-model_v4	Site-specific integrase	bacterium	0.82	18.7	0.696	
+28288
+AF-A0A3G2EIK9-F1-model_v4	Site-specific integrase	Janthinobacterium agaricidamnosum	0.90	13.7	0.696	
+1289
+AF-A0A150AMZ3-F1-model_v4	Tyr recombinase domain-containing protein	Flammeovirga sp. SJP92	0.97	27.1	0.696	
+1291
+AF-A0A3D3SG60-F1-model_v4	Uncharacterized protein	Sutterellaceae bacterium	0.96	19.2	0.696	
+1290
+AF-A0A285IEJ5-F1-model_v4	Site-specific recombinase XerD	Orenia metallireducens	0.97	27.7	0.696	
+1291
+AF-A0A2W1MW32-F1-model_v4	Uncharacterized protein	Putridiphycobacter roseus	0.93	25	0.695	
+1288
+AF-D5MT86-F1-model_v4	Integrase	uncultured bacterium	0.98	38.9	0.695	
+1256
+AF-A0A2E9UN63-F1-model_v4	Tyrosine recombinase XerC	Dehalococcoidia bacterium	0.94	21.5	0.695	
+1288
+AF-A0A318IGP4-F1-model_v4	Phage integrase family protein	Arenibacter sp. ARW7G5Y1	0.60	29.8	0.695	
+80289
+AF-A0A848UQS3-F1-model_v4	Tyrosine-type recombinase/integrase	Winogradskyella sp.	0.84	28.5	0.695	
+38291
+AF-A0A1Y1CM58-F1-model_v4	Integrase	Labilibaculum antarcticum	0.97	26.1	0.695	
+1291
+AF-A0A7X8A1I6-F1-model_v4	Phage integrase family protein	Thermotogaceae bacterium	0.63	28.8	0.695	
+76291
+AF-A0A066ZLB9-F1-model_v4	Tyr recombinase domain-containing protein	Hydrogenovibrio marinus	0.97	16.4	0.695	
+1291
+AF-A1AKP9-F1-model_v4	Tyrosine recombinase XerC	Pelobacter propionicus DSM 2379	0.93	23.4	0.695	
+1291
+AF-A0A4Q3EEJ7-F1-model_v4	Tyr recombinase domain-containing protein	Sphingobacteriales bacterium	0.93	23.8	0.695	
+1288
+AF-A0A2N9MEX3-F1-model_v4	Phage integrase family protein	Acidobacteriia bacterium SbA2	0.84	20.8	0.694	
+1264
+AF-A0A7C6YZG4-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridiaceae bacterium	0.97	28.2	0.694	
+1291
+AF-A0A1G0GEV2-F1-model_v4	Integrase	Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_37_14	0.94	14.5	0.694	
+1291
+AF-A0A0G1QQQ0-F1-model_v4	Phage integrase family protein	Parcubacteria group bacterium GW2011_GWA2_46_9	0.96	22.7	0.694	
+1289
+AF-A0A150J908-F1-model_v4	Putative tyrosine recombinase XerC-like protein	Candidatus Methanofastidiosum methylthiophilus	0.89	18.3	0.694	
+1288
+AF-W4RTF6-F1-model_v4	Mobile element protein	Mesobacillus boroniphilus JCM 21738	0.66	24.2	0.693	
+74291
+AF-A0A1G5E3N5-F1-model_v4	Site-specific recombinase XerD	Flavobacterium caeni	0.96	28.9	0.693	
+1288
+AF-A0A117SIF5-F1-model_v4	Uncharacterized protein	Desulfosporosinus sp. BRH_c37	0.82	21.8	0.693	
+1250
+AF-A0A1Q7VCP4-F1-model_v4	Tyr recombinase domain-containing protein	Acidobacteria bacterium 13_1_20CM_4_57_11	0.96	14.2	0.692	
+1291
+AF-A0A353B903-F1-model_v4	Integrase	Planctomycetaceae bacterium	0.94	19.1	0.692	
+1291
+AF-A0A3A8WLR9-F1-model_v4	Integrase	bacterium D16-59	0.91	17	0.692	
+1291
+AF-A0A0F2Q5R5-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium BRH_c20a	0.91	18.6	0.691	
+1291
+AF-A0A7W4BAT8-F1-model_v4	Phage integrase N-terminal SAM-like domain-containing protein	Pseudoalteromonas sp. SG44-4	0.57	54.7	0.691	
+1159
+AF-A0A7X4DTZ7-F1-model_v4	Tyrosine-type recombinase/integrase	Boseongicola sp. SB0675_bin_26	0.94	11.6	0.691	
+1291
+AF-A0A2K3US85-F1-model_v4	Uncharacterized protein	Deinococcus koreensis	0.94	17.2	0.691	
+1291
+AF-A0A819R579-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	0.96	18.9	0.690	
+1291
+AF-A0A151F191-F1-model_v4	Uncharacterized protein	Theionarchaea archaeon DG-70	0.91	17.9	0.689	
+1289
+AF-A0A2T5ML60-F1-model_v4	Site-specific integrase	Stenotrophobium rhamnosiphilum	0.89	16	0.689	
+7289
+AF-A0A722IL88-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica	0.47	41.6	0.689	
+7167
+AF-A0A705GZI7-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica	0.51	47.1	0.688	
+132290
+AF-A0A7J9XSB8-F1-model_v4	Tyrosine-type recombinase/integrase	Pseudonocardiaceae bacterium	0.92	16.5	0.688	
+1288
+AF-A0A1V5I3K2-F1-model_v4	Tyrosine recombinase XerD	Spirochaetes bacterium ADurb.BinA120	0.97	26.5	0.688	
+1291
+AF-A0A7X9JJV2-F1-model_v4	Tyrosine-type recombinase/integrase	Bacteroidales bacterium	0.95	23.6	0.688	
+1288
+AF-A0A3C1YW37-F1-model_v4	Integrase	Nitrospira sp.	0.94	17.6	0.688	
+1288
+AF-A0A1I1UGR6-F1-model_v4	Uncharacterized protein	Spirosoma endophyticum	0.92	11.1	0.688	
+1291
+AF-A0A2A5GNY2-F1-model_v4	Recombinase	Flavobacteriaceae bacterium	0.97	28.9	0.688	
+1291
+AF-A0A7C5HPU5-F1-model_v4	Uncharacterized protein	Candidatus Cloacimonetes bacterium	0.97	23.3	0.688	
+1289
+AF-A0A646HGS1-F1-model_v4	Tyrosine-type recombinase/integrase	Prevotella copri	0.94	16	0.687	
+1291
+AF-A0A2E5WMA7-F1-model_v4	Uncharacterized protein	bacterium	0.92	24.6	0.687	
+1289
+AF-A0A101WE23-F1-model_v4	Uncharacterized protein	Desulfosporosinus sp. BRH_c37	0.93	13.8	0.687	
+1291
+AF-A0A6I0DY34-F1-model_v4	Tyrosine-type recombinase/integrase	Paludibacter sp.	0.97	27.2	0.687	
+1289
+AF-A0A268JBS7-F1-model_v4	Tyr recombinase domain-containing protein	Bacillus sp. 7884-1	0.90	18	0.687	
+26291
+AF-A0A2D9N369-F1-model_v4	Integrase	Altibacter sp.	0.96	23.6	0.687	
+1291
+AF-A0A6P1RKB9-F1-model_v4	Integrase	Bradyrhizobium sp. LCT2	0.87	22.8	0.686	
+1260
+AF-A0A7C4RGY1-F1-model_v4	Site-specific integrase	Candidatus Bathyarchaeota archaeon	0.90	17.3	0.686	
+1291
+AF-A0A285I3P0-F1-model_v4	Integrase/recombinase XerD	Orenia metallireducens	0.92	20.9	0.686	
+1288
+AF-A0A7D4SRY4-F1-model_v4	Site-specific integrase	Thiomicrorhabdus xiamenensis	0.91	15.1	0.685	
+1289
+AF-A0A662GJL8-F1-model_v4	Tyrosine recombinase XerA	Thermoprotei archaeon	0.89	23.5	0.685	
+1291
+AF-Q2S460-F1-model_v4	Integron integrase subfamily	Salinibacter ruber DSM 13855	0.94	34.3	0.685	
+19291
+AF-A0A836XHN8-F1-model_v4	Site-specific integrase	Candidatus Handelsmanbacteria bacterium	0.92	13.9	0.684	
+1291
+AF-A0A841F8N9-F1-model_v4	Site-specific recombinase XerD	Paenibacillus sp. JGP012	0.97	27.2	0.684	
+1291
+AF-A0A4Q5GT44-F1-model_v4	Site-specific integrase	Bacteroides intestinalis	0.87	16.7	0.684	
+6291
+AF-A0A1G4S5E0-F1-model_v4	Phage integrase family protein	Paenibacillus tianmuensis	0.95	16.9	0.684	
+1291
+AF-A0A440J130-F1-model_v4	Integrase	Mesorhizobium sp.	0.63	24.4	0.684	
+34264
+AF-A0A0A2TZ39-F1-model_v4	Recombinase	Pontibacillus yanchengensis Y32	0.90	19.4	0.684	
+1275
+AF-A0A5E8FL96-F1-model_v4	Integrase for prophage CP-933R	Escherichia coli D6-113.11	0.95	16.2	0.683	
+1289
+AF-A0A5S9N7D4-F1-model_v4	Tyrosine recombinase XerD	Zhongshania aliphaticivorans	0.75	30.6	0.683	
+1221
+AF-A0A6N9AJ95-F1-model_v4	Tyrosine-type recombinase/integrase	Rhodothermaceae bacterium	0.91	18.5	0.683	
+1288
+AF-A0A2E2TGD5-F1-model_v4	Recombinase	Crocinitomicaceae bacterium	0.97	25.2	0.683	
+1291
+AF-A0A3D0NR11-F1-model_v4	Tyr recombinase domain-containing protein	Oscillospiraceae bacterium	0.93	13.2	0.683	
+1290
+AF-A0A7J4XLS6-F1-model_v4	Tyrosine-type recombinase/integrase	Bacteroides salyersiae	0.97	25	0.683	
+1291
+AF-A0A850MWK8-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Helarchaeota archaeon	0.91	18.3	0.683	
+1279
+AF-A0A6J4XRA2-F1-model_v4	Uncharacterized protein	Olavius sp. associated proteobacterium Delta 1	0.94	20.7	0.682	
+1287
+AF-A0A2A4SM38-F1-model_v4	Tyr recombinase domain-containing protein	SAR324 cluster bacterium	0.91	20.1	0.682	
+1289
+AF-A0A7L4QI47-F1-model_v4	Tyrosine-type recombinase/integrase	Methanomassiliicoccales archaeon	0.54	26.2	0.682	
+78291
+AF-A0A1J5GXU4-F1-model_v4	Uncharacterized protein	Parcubacteria group bacterium CG2_30_44_11	0.94	21.2	0.682	
+1289
+AF-A0A7X6YZK3-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridium sp.	0.91	19.6	0.681	
+1291
+AF-A0A7C4QDQ8-F1-model_v4	Uncharacterized protein	bacterium	0.93	17.3	0.681	
+1289
+AF-A0A344X3B0-F1-model_v4	Int1 DNA integrase	Pseudomonas aeruginosa	0.23	49.6	0.681	
+159283
+AF-A0A089LNB6-F1-model_v4	Uncharacterized protein	Paenibacillus stellifer	0.92	16	0.680	
+1291
+AF-A0A7C5IXU5-F1-model_v4	Site-specific integrase	Candidatus Bathyarchaeota archaeon	0.90	16.8	0.680	
+1291
+AF-A0A3A2I3K5-F1-model_v4	Tyr recombinase domain-containing protein	Vibrio sp. PID23_8	0.95	17.8	0.680	
+1288
+AF-A0A7D5T230-F1-model_v4	Tyrosine-type recombinase/integrase	Methanomassiliicoccales archaeon	0.94	16	0.679	
+1291
+AF-A0A1Q4F2V9-F1-model_v4	Tyr recombinase domain-containing protein	Sphingobacteriales bacterium 44-15	0.97	23.3	0.679	
+1291
+AF-A0A3R7BT91-F1-model_v4	Site-specific integrase	Candidatus Bathyarchaeota archaeon	0.92	15.5	0.679	
+1291
+AF-A0A091FG12-F1-model_v4	Tyr recombinase domain-containing protein	Smithella sp. SCADC	0.69	22.1	0.679	
+26288
+AF-A0A5R8ZUR8-F1-model_v4	Recombinase XerD	Maribacter sp. ACAM166	0.57	31.2	0.679	
+83289
+AF-A0A6P2D1R4-F1-model_v4	Uncharacterized protein	Gemmata massiliana	0.94	16.3	0.678	
+1289
+AF-A0A2H0RHL2-F1-model_v4	Uncharacterized protein	Candidatus Vogelbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_51_16	0.63	24.3	0.678	
+1233
+AF-A0A2G3K3K5-F1-model_v4	Integrase	Chitinimonas sp. BJB300	0.91	13.8	0.677	
+1289
+AF-A0A2M7N223-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidetes bacterium CG_4_10_14_3_um_filter_31_20	0.60	21.2	0.677	
+12242
+AF-A0A7C3SIH7-F1-model_v4	Integrase	Desulfobacca acetoxidans	0.60	23.4	0.676	
+75291
+AF-A0A1X0TJ98-F1-model_v4	Tyr recombinase domain-containing protein	Snodgrassella alvi	0.82	14.6	0.676	
+19288
+AF-A0A4R0Z283-F1-model_v4	Uncharacterized protein	Exiguobacterium sp. SL-9	0.90	17.7	0.675	
+1275
+AF-A0A7X3Z8J7-F1-model_v4	Tyrosine-type recombinase/integrase	Boseongicola sp. SB0676_bin_33	0.94	14.1	0.675	
+1291
+AF-D5MSS3-F1-model_v4	Integron integrase intI	uncultured bacterium	0.98	41.6	0.675	
+1256
+AF-A0A0U5MEZ2-F1-model_v4	Putative integrase/recombinase y4qK	Magnetospirillum sp. XM-1	0.91	28.9	0.675	
+1270
+AF-A0A7C4ZPC0-F1-model_v4	Integron integrase	Candidatus Bathyarchaeota archaeon	0.38	36.4	0.675	
+129279
+AF-A0A2V8Q768-F1-model_v4	Site-specific integrase	Acidobacteria bacterium	0.94	17.5	0.674	
+1291
+AF-A0A2W1ATS5-F1-model_v4	Tyrosine recombinase XerC	Chloroflexi bacterium	0.92	22.5	0.674	
+1289
+AF-A0A497HFI5-F1-model_v4	Uncharacterized protein	Thermoplasmata archaeon	0.85	19.3	0.674	
+1271
+AF-A0A0N0UZW1-F1-model_v4	Integrase family protein	Candidatus Magnetomorum sp. HK-1	0.96	14	0.673	
+1290
+AF-A0A2V7PWL0-F1-model_v4	Integron integrase	Gemmatimonadetes bacterium	0.75	34.5	0.673	
+1216
+AF-A0A3D5YWU3-F1-model_v4	Uncharacterized protein	Prolixibacteraceae bacterium	0.77	18.6	0.673	
+1256
+AF-A0A523PZX9-F1-model_v4	Uncharacterized protein	Flavobacteriaceae bacterium	0.90	20.1	0.672	
+1288
+AF-A0A1W1H9S6-F1-model_v4	Integron integrase	Desulfamplus magnetovallimortis	0.69	37.3	0.672	
+1188
+AF-I0ILT6-F1-model_v4	Putative phage integrase	Leptospirillum ferrooxidans C2-3	0.90	16.8	0.672	
+1288
+AF-A0A0G1U4S3-F1-model_v4	Tyrosine recombinase XerC	Microgenomates group bacterium GW2011_GWF2_47_9	0.92	20.1	0.671	
+1289
+AF-A0A524R168-F1-model_v4	Integrase	Gemmatimonadales bacterium	0.97	28.9	0.671	
+1291
+AF-A0A5J6PWG3-F1-model_v4	Site-specific integrase	Neisseria zalophi	0.77	13.8	0.671	
+29289
+AF-H3KDZ3-F1-model_v4	Site-specific recombinase, phage integrase family	Sutterella parvirubra YIT 11816	0.94	19	0.671	
+1289
+AF-A0A6M1UGX2-F1-model_v4	Tyrosine-type recombinase/integrase	Brevibacillus sp. SYP-B805	0.94	18	0.671	
+1291
+AF-A0A2N1WIQ5-F1-model_v4	Uncharacterized protein	Gammaproteobacteria bacterium HGW-Gammaproteobacteria-8	0.92	21.6	0.670	
+3291
+AF-A0A3M1YDD3-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidetes bacterium	0.60	16.8	0.670	
+49288
+AF-A0A100HY82-F1-model_v4	Integrase/recombinase	Ralstonia sp. NT80	0.91	12.8	0.670	
+1286
+AF-A0A8B3PL57-F1-model_v4	Integrase	Mesorhizobium sp.	0.90	25	0.670	
+1268
+AF-X1G7I4-F1-model_v4	Tyr recombinase domain-containing protein	marine sediment metagenome	0.69	23.2	0.670	
+1236
+AF-A0A1E5TA71-F1-model_v4	Uncharacterized protein	Algibacter aquaticus	0.90	17.8	0.669	
+1273
+AF-A0A3A4X1G3-F1-model_v4	Integrase	Desulfobacteraceae bacterium	0.82	20.3	0.669	
+1261
+AF-A0A1B1G047-F1-model_v4	Tyrosine-type recombinase/integrase	Flammeovirga sp. MY04	0.97	27.8	0.669	
+1291
+AF-A0A651EYH0-F1-model_v4	Uncharacterized protein	Oceanospirillales bacterium	0.82	19.6	0.669	
+1260
+AF-A0A3B0ZHE0-F1-model_v4	Integron integrase IntIPac	hydrothermal vent metagenome	0.97	41.9	0.669	
+1247
+AF-A0A7J4LE88-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.92	27.7	0.669	
+1273
+AF-A0A5C7FQ23-F1-model_v4	Tyrosine-type recombinase/integrase	Neolewinella aurantiaca	0.54	30.1	0.668	
+79289
+AF-A0A7C4JMH8-F1-model_v4	Tyrosine recombinase XerA	Staphylothermus marinus	0.93	22.2	0.668	
+1291
+AF-A0A7W1T9V1-F1-model_v4	Tyrosine-type recombinase/integrase	Planctomycetota bacterium	0.77	24.1	0.667	
+79275
+AF-T1BTN5-F1-model_v4	Phage integrase family protein	mine drainage metagenome	0.92	15.4	0.667	
+1291
+AF-A0A0F9DBE9-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.28	52.3	0.667	
+1128
+AF-A0A2N5Z8F9-F1-model_v4	Integrase	Marinilabiliales bacterium	0.96	25.5	0.666	
+1291
+AF-A0A848XC71-F1-model_v4	Tyrosine-type recombinase/integrase	Gemmatimonadetes bacterium	0.96	30.7	0.665	
+1289
+AF-A0A3C1G4V3-F1-model_v4	Uncharacterized protein	Nitrospiraceae bacterium	0.93	16.6	0.664	
+1289
+AF-K2AIM4-F1-model_v4	Tyrosine recombinase XerD	uncultured bacterium	0.95	20.6	0.664	
+1291
+AF-F2IG96-F1-model_v4	Integrase family protein	Fluviicola taffensis DSM 16823	0.96	26.4	0.664	
+1291
+AF-E6L6C5-F1-model_v4	Phage integrase	Aliarcobacter butzleri JV22	0.66	18	0.664	
+46286
+AF-A0A5J4Q5P2-F1-model_v4	Tyr recombinase domain-containing protein	termite gut metagenome	0.75	15.3	0.663	
+35291
+AF-A0A2G6HZ09-F1-model_v4	Uncharacterized protein	Spirochaetales bacterium	0.93	29.3	0.663	
+1287
+AF-A0A7C4VP99-F1-model_v4	Site-specific integrase	Candidatus Bathyarchaeota archaeon	0.80	10.9	0.663	
+27291
+AF-A0A7J4P9D0-F1-model_v4	Tyrosine-type recombinase/integrase	Thermoplasmata archaeon	0.77	14.8	0.663	
+27279
+AF-A0A850MVS2-F1-model_v4	Site-specific integrase	Candidatus Helarchaeota archaeon	0.85	15.8	0.662	
+1279
+AF-A0A1G0ZMR7-F1-model_v4	Tyr recombinase domain-containing protein	Lentisphaerae bacterium RIFOXYC12_FULL_60_16	0.90	24.5	0.662	
+18289
+AF-A0A7W1F8Q6-F1-model_v4	Site-specific integrase	Actinomycetia bacterium	0.93	19.6	0.662	
+1289
+AF-A0A1S2JZC2-F1-model_v4	Tyr recombinase domain-containing protein	Streptomyces sp. CC53	0.93	14.7	0.662	
+1289
+AF-A0A2G8CS99-F1-model_v4	Uncharacterized protein	Leucobacter sp. OAMSW11	0.87	16.4	0.661	
+1274
+AF-A0A358MMU9-F1-model_v4	Site-specific tyrosine recombinase XerD	Candidatus Magasanikbacteria bacterium	0.72	21.2	0.661	
+32289
+AF-A0A6L7KKQ9-F1-model_v4	Tyrosine-type recombinase/integrase	Boseongicola sp. SB0667_bin_21	0.87	19.9	0.661	
+1273
+AF-A0A176TAJ6-F1-model_v4	Recombinase	Polaribacter atrinae	0.96	29.6	0.661	
+1288
+AF-R7NFT3-F1-model_v4	Tyrosine recombinase XerD	Mycoplasma sp. CAG:776	0.90	22	0.661	
+1291
+AF-A0A1X0GLR9-F1-model_v4	Uncharacterized protein	Mycolicibacterium moriokaense	0.93	17.7	0.660	
+1291
+AF-A0A3C1M9K3-F1-model_v4	Integrase	Nitrospira sp.	0.87	19.9	0.660	
+14286
+AF-A0A1G1NX04-F1-model_v4	Uncharacterized protein	Omnitrophica WOR_2 bacterium RIFCSPHIGHO2_02_FULL_52_10	0.94	14.7	0.660	
+1291
+AF-M5SCK0-F1-model_v4	Phage integrase family protein	Rhodopirellula europaea SH398	0.85	26.6	0.660	
+1262
+AF-A0A836UC61-F1-model_v4	Integrase	Candidatus Handelsmanbacteria bacterium	0.96	29.3	0.659	
+1289
+AF-A0A3D0J5X2-F1-model_v4	Uncharacterized protein	Candidatus Edwardsbacteria bacterium	0.87	17.9	0.659	
+11289
+AF-A0A7V0W988-F1-model_v4	DUF3596 domain-containing protein	Deltaproteobacteria bacterium	0.94	17.6	0.658	
+1288
+AF-A0A1X9TRZ8-F1-model_v4	Integrase	Escherichia coli	0.41	43.8	0.658	
+136289
+AF-A0A2V6G504-F1-model_v4	Integron integrase	Verrucomicrobia bacterium	0.35	49.6	0.658	
+147291
+AF-A0A5R2N6M8-F1-model_v4	Integrase	Mesorhizobium sp. M2D.F.Ca.ET.145.01.1.1	0.57	27.1	0.658	
+81289
+AF-A0A2M7XGN5-F1-model_v4	Uncharacterized protein	Candidatus Uhrbacteria bacterium CG_4_9_14_3_um_filter_41_35	0.90	22	0.658	
+1289
+AF-A0A3B9N2E1-F1-model_v4	Integrase	Bacteroidales bacterium	0.96	26.2	0.658	
+1289
+AF-A0A852XKC4-F1-model_v4	Integrase	Microbacterium esteraromaticum	0.87	13.2	0.657	
+1276
+AF-A0A2M7T2V6-F1-model_v4	Integrase	Alphaproteobacteria bacterium CG_4_10_14_0_8_um_filter_37_21	0.66	18.8	0.657	
+13279
+AF-L0WDB0-F1-model_v4	Integron integrase	Alcanivorax hongdengensis A-11-3	0.44	40	0.657	
+1154
+AF-A0A2V9V996-F1-model_v4	Site-specific integrase	Acidobacteria bacterium	0.94	16.9	0.657	
+1291
+AF-A0A2T0WF94-F1-model_v4	Site-specific recombinase XerD	Mongoliibacter ruber	0.95	25.4	0.657	
+1291
+AF-A0A1F9D234-F1-model_v4	Tyr recombinase domain-containing protein	Deltaproteobacteria bacterium RBG_16_48_10	0.60	20	0.657	
+76289
+AF-A0A1J5PPY1-F1-model_v4	Tyrosine recombinase XerD	mine drainage metagenome	0.91	15.3	0.656	
+1291
+AF-K2E9I7-F1-model_v4	Uncharacterized protein	uncultured bacterium	0.80	22.9	0.656	
+26289
+AF-A0A845K0T7-F1-model_v4	Site-specific integrase	Nitrospinae bacterium	0.94	14.4	0.656	
+1289
+AF-A0A559NQE6-F1-model_v4	Site-specific recombinase XerD	Maribacter sp. MAR_2009_72	0.97	23.3	0.656	
+1291
+AF-A0A316D7H6-F1-model_v4	Site-specific recombinase XerD	Tumebacillus permanentifrigoris	0.87	17.2	0.655	
+1274
+AF-A0A843HLZ3-F1-model_v4	Site-specific integrase	Methanobrevibacter sp.	0.92	18.1	0.655	
+1291
+AF-A0A2V5Y8Z8-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.92	15.2	0.655	
+1289
+AF-A0A1F3CJP9-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium GWA2_32_17	0.96	22.1	0.654	
+1290
+AF-A0A839ALB4-F1-model_v4	Site-specific integrase	Tenacibaculum pelagium	0.93	26.2	0.654	
+1284
+AF-A0A6I7WXZ4-F1-model_v4	Recombinase	Methylococcaceae bacterium HT4	0.75	16.8	0.654	
+1242
+AF-A0A1Z7ZY16-F1-model_v4	Integrase	Flavobacteriales bacterium 33_180_T64	0.96	25.1	0.654	
+1291
+AF-A0A257L4V7-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium B1(2017)	0.89	15.2	0.653	
+1291
+AF-A0A3D4CJP5-F1-model_v4	Integrase	Flavobacteriales bacterium	0.90	14	0.653	
+1291
+AF-E6QID6-F1-model_v4	Phage integrase	mine drainage metagenome	0.91	15.1	0.653	
+1286
+AF-A0A2D5TR53-F1-model_v4	Recombinase	Flavobacteriaceae bacterium	0.96	31.6	0.653	
+1289
+AF-A0A5J5JIT9-F1-model_v4	Tyrosine-type recombinase/integrase	Microbacterium lushaniae	0.93	18	0.652	
+1288
+AF-A0A840X7B5-F1-model_v4	Integrase	Chryseoglobus frigidaquae	0.87	16.2	0.652	
+1277
+AF-R9NNC1-F1-model_v4	Tyr recombinase domain-containing protein	Dorea sp. 5-2	0.60	23.1	0.652	
+76290
+AF-A0A847H2A5-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Anammoximicrobium sp.	0.80	31.1	0.651	
+30270
+AF-A0A373F5U0-F1-model_v4	DNA recombinase	Comamonas testosteroni	0.51	19.9	0.651	
+80288
+AF-A0A1W1HW27-F1-model_v4	Putative Phage integrase	Nitrospira sp. ND1	0.94	15.4	0.651	
+1286
+AF-A0A836RHD6-F1-model_v4	Integrase	Planctomycetaceae bacterium	0.47	23.3	0.651	
+91288
+AF-A0A662ZJE0-F1-model_v4	Tyrosine recombinase XerC	Ruminobacter amylophilus	0.90	21.8	0.651	
+1289
+AF-A0A7Z9LPG7-F1-model_v4	Site-specific integrase	Candidatus Hydrogenedentes bacterium	0.93	17.4	0.651	
+1291
+AF-A0A374RPF8-F1-model_v4	Uncharacterized protein	Eubacterium sp. TM05-53	0.66	16.4	0.651	
+1235
+AF-A0A6I7WR18-F1-model_v4	Recombinase	Methylococcaceae bacterium HT4	0.38	16.9	0.650	
+32242
+AF-W9V922-F1-model_v4	Integron integrase IntIPac	Imhoffiella purpurea	0.75	39.6	0.650	
+1198
+AF-A0A532UCL6-F1-model_v4	Uncharacterized protein	Planctomycetes bacterium B3_Pla	0.92	15	0.650	
+1285
+AF-A0A2N1UQ81-F1-model_v4	Integron integrase	Candidatus Melainabacteria bacterium HGW-Melainabacteria-1	0.95	33.6	0.650	
+1237
+AF-K2EBZ5-F1-model_v4	Uncharacterized protein	uncultured bacterium	0.91	22.3	0.650	
+1289
+AF-A0A7C4BMT9-F1-model_v4	Site-specific integrase	Caldimicrobium sp.	0.92	18.7	0.649	
+1286
+AF-A0A7J4GT30-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Poseidoniales archaeon	0.87	12.2	0.649	
+1274
+AF-I3YWV1-F1-model_v4	Tyrosine recombinase XerC	Aequorivita sublithincola DSM 14238	0.93	19.8	0.649	
+1290
+AF-A0A1H6BQ00-F1-model_v4	Integrase/recombinase XerD	Halpernia humi	0.72	17.1	0.649	
+4260
+AF-A0A5Q4DG13-F1-model_v4	Integrase	Gemmatimonadales bacterium	0.91	27.1	0.649	
+1276
+AF-R6A000-F1-model_v4	Integrase	Prevotella sp. CAG:5226	0.93	14.9	0.649	
+1291
+AF-A0A2N2LD00-F1-model_v4	Integron integrase	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-1	0.25	51.5	0.649	
+162289
+AF-A0A7C4FLU6-F1-model_v4	Site-specific integrase	bacterium	0.94	19.5	0.648	
+1286
+AF-A0A6I0DU41-F1-model_v4	Tyrosine-type recombinase/integrase	Paludibacter sp.	0.60	20.5	0.648	
+1231
+AF-A0A7X5JML5-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Gracilibacteria bacterium	0.93	18	0.648	
+1289
+AF-A0A1B1Y5Q0-F1-model_v4	Uncharacterized protein	Wenyingzhuangia fucanilytica	0.96	24.4	0.648	
+1291
+AF-A0A1G2CER0-F1-model_v4	Uncharacterized protein	Candidatus Liptonbacteria bacterium RIFCSPLOWO2_01_FULL_52_25	0.90	19.1	0.648	
+1291
+AF-A0A069JAW5-F1-model_v4	Uncharacterized protein	Rhodococcus qingshengii	0.87	14.1	0.647	
+1291
+AF-A0A542MMN9-F1-model_v4	Integrase/recombinase XerC	Nocardioides sp. SLBN-172	0.89	16.9	0.647	
+1291
+AF-A0A7V4WFV5-F1-model_v4	Integrase	Desulfobacterales bacterium	0.54	23.3	0.647	
+83289
+AF-A0A1H1RSQ3-F1-model_v4	Site-specific recombinase XerD	Formosa sp. Hel1_31_208	0.96	29.3	0.646	
+1291
+AF-A0A7V0W8U3-F1-model_v4	Site-specific integrase	Deltaproteobacteria bacterium	0.93	17.1	0.646	
+1288
+AF-A0A4S8RIL3-F1-model_v4	Uncharacterized protein	Muricauda alvinocaridis	0.95	24.4	0.646	
+1289
+AF-A0A151F1A2-F1-model_v4	Uncharacterized protein	Theionarchaea archaeon DG-70	0.89	19.2	0.646	
+1288
+AF-A0A2M7U606-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Roizmanbacteria bacterium CG_4_10_14_0_2_um_filter_36_9	0.72	22.5	0.646	
+40290
+AF-A0A151EW85-F1-model_v4	Tyr recombinase domain-containing protein	Theionarchaea archaeon DG-70	0.84	16.5	0.645	
+19289
+AF-A0A2H0YH32-F1-model_v4	Uncharacterized protein	Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24	0.92	17	0.645	
+1286
+AF-A0A6V8Q5C5-F1-model_v4	Uncharacterized protein	Candidatus Hakubanella thermoalkaliphilus	0.92	18.6	0.645	
+1286
+AF-A0A845D2L1-F1-model_v4	Tyrosine-type recombinase/integrase	Caldilineaceae bacterium SB0662_bin_25	0.93	12	0.644	
+1290
+AF-A0A2A4QRI2-F1-model_v4	Integrase	Bacteroidetes bacterium	0.95	27.2	0.644	
+1291
+AF-A0A2T9ZMB6-F1-model_v4	Tyr recombinase domain-containing protein	gamma proteobacterium symbiont of Ctena orbiculata	0.63	28.3	0.643	
+31214
+AF-A0A1D7MEM9-F1-model_v4	Uncharacterized protein	Paenibacillus polymyxa	0.51	19.9	0.643	
+1215
+AF-A0A2G2ADN9-F1-model_v4	Tyr recombinase domain-containing protein	Thalassobium sp.	0.87	16.7	0.643	
+1274
+AF-A0A8A7WRZ7-F1-model_v4	Tyrosine-type recombinase/integrase	Cryomorphaceae bacterium	0.96	24.8	0.643	
+1291
+AF-A0A3D4MAM6-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidetes bacterium	0.95	25.3	0.643	
+1289
+AF-A0A662DH97-F1-model_v4	Uncharacterized protein	Candidatus Aerophobetes bacterium	0.92	18	0.643	
+1289
+AF-A0A4V1AW63-F1-model_v4	Site-specific integrase	Nitrosococcus wardiae	0.90	15.1	0.642	
+1288
+AF-A0A1D6XU22-F1-model_v4	Integrase IntI4	Escherichia coli	0.28	53	0.642	
+1130
+AF-A0A1F9VGP8-F1-model_v4	Uncharacterized protein	Elusimicrobia bacterium RIFOXYA12_FULL_49_49	0.93	15.9	0.642	
+1289
+AF-D5MT94-F1-model_v4	Integrase	uncultured bacterium	0.96	35.9	0.642	
+1256
+AF-A0A382HYD5-F1-model_v4	Uncharacterized protein	marine metagenome	0.84	13.8	0.641	
+1273
+AF-A0A2E4ELX1-F1-model_v4	Integrase	Crocinitomicaceae bacterium	0.95	23.2	0.641	
+1289
+AF-A9DNU9-F1-model_v4	Tyrosine type site-specific recombinase	Kordia algicida OT-1	0.97	26.2	0.641	
+1289
+AF-A0A2M8CJ67-F1-model_v4	Recombinase XerD	Bacteroidetes bacterium CG_4_9_14_3_um_filter_41_19	0.97	28.3	0.641	
+1288
+AF-A0A3D4ACR9-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidetes bacterium	0.28	20	0.641	
+34250
+AF-A0A2E0HBP6-F1-model_v4	Tyr recombinase domain-containing protein	Pseudomonadales bacterium	0.75	35.8	0.641	
+79274
+AF-A0A2N2XVD0-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidetes bacterium HGW-Bacteroidetes-20	0.95	14.8	0.640	
+1289
+AF-F8IKD9-F1-model_v4	Uncharacterized protein	Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1	0.90	21.4	0.640	
+1276
+AF-A0A7W4G0X7-F1-model_v4	Tyrosine-type recombinase/integrase	Pseudoalteromonas sp. SG44-4	0.20	58.4	0.640	
+172289
+AF-A0A286TWX3-F1-model_v4	Site specific recombinase	Candidatus Scalindua japonica	0.92	14	0.640	
+1289
+AF-A0A2V9Q6R7-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.93	16.4	0.640	
+1291
+AF-A0A7W0G2D9-F1-model_v4	Phage integrase N-terminal SAM-like domain-containing protein	Acidobacteria bacterium	0.51	31.7	0.639	
+1211
+AF-U1JDQ3-F1-model_v4	ISSod25 integrase	Pseudoalteromonas citrea DSM 8771	0.30	21.7	0.639	
+52241
+AF-A0A3A4KN44-F1-model_v4	Site-specific integrase	Myxococcales bacterium	0.92	19.6	0.639	
+1286
+AF-A0A7W0JSX1-F1-model_v4	Site-specific integrase	Pyrinomonadaceae bacterium	0.90	17.7	0.638	
+1285
+AF-A0A4Q3D6D9-F1-model_v4	Integrase	Sphingobacteriales bacterium	0.95	25.5	0.638	
+1289
+AF-A0A3B8MFP6-F1-model_v4	Uncharacterized protein	Candidatus Latescibacteria bacterium	0.91	19.2	0.638	
+1289
+AF-A0A845JXX8-F1-model_v4	Site-specific integrase	Nitrospinae bacterium	0.92	15.5	0.638	
+1286
+AF-A0A3G8ZFE8-F1-model_v4	Uncharacterized protein	Epilithonimonas vandammei	0.87	16.3	0.637	
+1273
+AF-A0A432RLT1-F1-model_v4	Site-specific integrase	Methylococcus sp.	0.89	16.4	0.637	
+1288
+AF-A0A1H2CB13-F1-model_v4	Integrase/recombinase XerD	Mucilaginibacter mallensis	0.87	15.4	0.637	
+1273
+AF-A0A7Z9UCU2-F1-model_v4	Site-specific integrase	Phycisphaerales bacterium	0.92	15.9	0.636	
+1288
+AF-A0A1M7ISR8-F1-model_v4	Site-specific recombinase XerD	Flavobacterium chilense	0.85	15.4	0.636	
+1291
+AF-A0A6N6S245-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Dadabacteria bacterium	0.92	18.5	0.636	
+1289
+AF-A0A2E7GSN1-F1-model_v4	Integrase	Alteromonadaceae bacterium	0.90	14.4	0.636	
+1288
+AF-A0A5C9CD61-F1-model_v4	Uncharacterized protein	Planctomycetota bacterium	0.90	14.4	0.636	
+1289
+AF-A0A5M9I4J4-F1-model_v4	Tyrosine-type recombinase/integrase	Mediterraneibacter catenae	0.72	18.4	0.635	
+1250
+AF-A0A286U2T4-F1-model_v4	Site specific recombinase	Candidatus Scalindua japonica	0.94	15.8	0.635	
+1288
+AF-A0A0F2RJW3-F1-model_v4	Tyr recombinase domain-containing protein	Hyphomonas sp. BRH_c22	0.89	12.1	0.635	
+1291
+AF-A0A7V1LGT6-F1-model_v4	Tyr recombinase domain-containing protein	Ignavibacteria bacterium	0.41	35.1	0.635	
+27189
+AF-A0A7M3M9T5-F1-model_v4	Site-specific integrase	Oceanidesulfovibrio indonesiensis	0.90	13.3	0.635	
+1286
+AF-A0A4P6P067-F1-model_v4	Site-specific integrase	Litorilituus sediminis	0.89	11.6	0.635	
+1285
+AF-A0A1F2ZZD1-F1-model_v4	Tyr recombinase domain-containing protein	Alphaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_63_12	0.93	14	0.635	
+1291
+AF-A0A2H0VAQ1-F1-model_v4	Uncharacterized protein	Candidatus Doudnabacteria bacterium CG10_big_fil_rev_8_21_14_0_10_42_18	0.91	20.7	0.635	
+1289
+AF-A0A380NBX6-F1-model_v4	Integrase family protein	Streptomyces griseus	0.94	12.9	0.634	
+1291
+AF-A0A2W6Y7W9-F1-model_v4	Integrase	Chelatococcus sp.	0.57	21.4	0.634	
+1225
+AF-A0A7Y4SYX0-F1-model_v4	Tyrosine-type recombinase/integrase	Saprospiraceae bacterium	0.57	26	0.634	
+75288
+AF-A0A3D4VST7-F1-model_v4	Integrase	Lachnospiraceae bacterium	0.66	17.1	0.634	
+73291
+AF-A0A7L6APB5-F1-model_v4	Phage integrase N-terminal SAM-like domain-containing protein	Candidatus Thiothrix singaporensis	0.30	36.1	0.633	
+8150
+AF-A0A1H9EAC6-F1-model_v4	Site-specific recombinase XerD	Nitrosomonas ureae	0.90	13.7	0.633	
+1289
+AF-A0A849WLN7-F1-model_v4	Site-specific integrase	Bdellovibrionaceae bacterium	0.91	15.7	0.633	
+1289
+AF-A0A260UNV8-F1-model_v4	Uncharacterized protein	Rhodococcus sp. 14-2483-1-2	0.94	13.5	0.632	
+1291
+AF-A0A8B1BEH9-F1-model_v4	Tyrosine-type recombinase/integrase	Flavobacterium sp. CS20	0.87	17.6	0.632	
+1274
+AF-A0A8B1BFV2-F1-model_v4	Tyrosine-type recombinase/integrase	Flavobacterium sp. CS20	0.63	27.4	0.632	
+26286
+AF-A0A7X9HBL9-F1-model_v4	Tyrosine-type recombinase/integrase	Bacteroidales bacterium	0.69	19.2	0.632	
+1246
+AF-A0A3C1Z153-F1-model_v4	Uncharacterized protein	Nitrospira sp.	0.85	15.8	0.632	
+10291
+AF-A0A1A9RDJ2-F1-model_v4	Uncharacterized protein	Eikenella corrodens	0.91	11.8	0.632	
+1289
+AF-A0A225DGP4-F1-model_v4	Integron integrase IntIPac	Fimbriiglobus ruber	0.82	37	0.632	
+1207
+AF-A0A7C3A1P0-F1-model_v4	Site-specific integrase	Desulfurella acetivorans	0.93	15.2	0.631	
+1286
+AF-A0A0S7BUZ3-F1-model_v4	Integron integrase	Flexilinea flocculi	0.85	36.7	0.630	
+1241
+AF-A0A2K3UYP6-F1-model_v4	Tyr recombinase domain-containing protein	Deinococcus koreensis	0.82	9.5	0.630	
+1288
+AF-A0A1W1HFP7-F1-model_v4	Integrase/recombinase	Desulfamplus magnetovallimortis	0.44	44.4	0.630	
+1152
+AF-A0A2U1SGF2-F1-model_v4	Site-specific integrase	Methylocystis sp. MitZ-2018	0.89	14.1	0.630	
+1289
+AF-A0A2W5FW31-F1-model_v4	Uncharacterized protein	Azospira oryzae	0.89	15.7	0.630	
+1284
+AF-A0A6A2T3D2-F1-model_v4	Tyrosine-type recombinase/integrase	Bifidobacterium longum	0.92	16.7	0.630	
+1290
+AF-A0A6I2UJI0-F1-model_v4	Tyrosine-type recombinase/integrase	Anaerovibrio slackiae	0.89	17.1	0.630	
+1289
+AF-M5S5R4-F1-model_v4	Phage integrase family protein	Rhodopirellula europaea SH398	0.82	20.6	0.630	
+1249
+AF-A0A6S7IXI8-F1-model_v4	Integrator complex subunit 9-like	Paramuricea clavata	0.94	9.9	0.630	
+1291
+AF-A0A1V6H9T3-F1-model_v4	Tyrosine recombinase XerD	Acidobacteria bacterium ADurb.Bin051	0.51	18.3	0.630	
+79289
+AF-A0A2E5B6E1-F1-model_v4	Tyr recombinase domain-containing protein	Euryarchaeota archaeon	0.92	13.9	0.630	
+1289
+AF-A0A5C6BCG2-F1-model_v4	Tyrosine recombinase XerD	Planctomycetes bacterium Poly21	0.89	18.2	0.630	
+1274
+AF-A0A5B8N969-F1-model_v4	Tyr recombinase domain-containing protein	Noviherbaspirillum sp. UKPF54	0.38	28.1	0.630	
+26220
+AF-A0A1C3TIV7-F1-model_v4	Tyr recombinase domain-containing protein	Xanthomonas translucens pv. translucens DSM 18974	0.28	53.6	0.630	
+156289
+AF-A0A2N2K444-F1-model_v4	Site-specific integrase	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-15	0.93	12.5	0.630	
+1291
+AF-A0A849UR23-F1-model_v4	Tyrosine-type recombinase/integrase	Ferruginibacter sp.	0.97	24.4	0.630	
+1291
+AF-A0A2A5F4L6-F1-model_v4	Uncharacterized protein	Rhodobacteraceae bacterium	0.91	14.4	0.630	
+1291
+AF-A0A846XJ56-F1-model_v4	Tyrosine-type recombinase/integrase	Nocardia speluncae	0.95	12.1	0.629	
+1291
+AF-A0A661K7H0-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.93	19.7	0.629	
+1286
+AF-A0A5S3QSV2-F1-model_v4	Integron integrase	Pseudoalteromonas sp. S2755	0.30	49.6	0.628	
+1131
+AF-W6M868-F1-model_v4	Putative Prophage DLP12 integrase	Candidatus Competibacter denitrificans Run_A_D11	0.90	14.1	0.628	
+1289
+AF-A0A523PIG8-F1-model_v4	Site-specific integrase	Proteobacteria bacterium	0.90	15.1	0.628	
+1289
+AF-A0A225DC93-F1-model_v4	Tyrosine recombinase XerD	Fimbriiglobus ruber	0.57	20.1	0.628	
+78289
+AF-A0A838W4U9-F1-model_v4	Site-specific integrase	Nitrosopumilus sp.	0.60	21.5	0.628	
+1228
+AF-A0A1G1EUA3-F1-model_v4	Tyr recombinase domain-containing protein	Nitrospirae bacterium GWB2_47_37	0.93	18.6	0.628	
+1291
+AF-A0A258DA75-F1-model_v4	Tyr recombinase domain-containing protein	Rhizobiales bacterium 32-66-8	0.85	15.9	0.627	
+1291
+AF-Q479U8-F1-model_v4	Phage integrase	Dechloromonas aromatica RCB	0.89	17.9	0.627	
+1288
+AF-A0A2H0I577-F1-model_v4	Uncharacterized protein	Candidatus Gracilibacteria bacterium CG12_big_fil_rev_8_21_14_0_65_38_15	0.94	19.2	0.627	
+1289
+AF-A0A0K0WMN6-F1-model_v4	Integrase	Leptospirillum sp. Group II 'CF-1'	0.89	13.3	0.626	
+1288
+AF-D7AXH7-F1-model_v4	Integrase family protein	Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111	0.94	13.4	0.626	
+1286
+AF-A0A4Y9RLV1-F1-model_v4	Site-specific integrase	Oxalobacteraceae bacterium OM1	0.89	13.7	0.626	
+1289
+AF-A0A842VM61-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Lokiarchaeota archaeon	0.96	13.3	0.626	
+1291
+AF-A0A836X131-F1-model_v4	Site-specific integrase	Candidatus Handelsmanbacteria bacterium	0.51	20.1	0.626	
+80288
+AF-A0A534IZR6-F1-model_v4	Integron integrase	Gammaproteobacteria bacterium	0.38	44.9	0.626	
+142289
+AF-A0A2E0UHR8-F1-model_v4	Tyr recombinase domain-containing protein	Ectothiorhodospiraceae bacterium	0.66	13.3	0.625	
+3285
+AF-A0A7V1ZJ39-F1-model_v4	Uncharacterized protein	Candidatus Dadabacteria bacterium	0.91	19.6	0.625	
+1289
+AF-A0A3C0KVG9-F1-model_v4	Tyr recombinase domain-containing protein	Syntrophus sp. (in: Bacteria)	0.57	23.4	0.625	
+40274
+AF-A0A7X8BXP9-F1-model_v4	Tyrosine-type recombinase/integrase	Sphingobacteriales bacterium	0.97	27.3	0.625	
+1288
+AF-A0A7Z9PVL9-F1-model_v4	Site-specific integrase	Phycisphaerales bacterium	0.93	16.8	0.625	
+1288
+AF-A0A231NS32-F1-model_v4	Tyr recombinase domain-containing protein	Acetobacterium sp. MES1	0.51	21.8	0.624	
+77285
+AF-A0A833E2M2-F1-model_v4	Integrase	Pyrodictium sp.	0.90	19	0.624	
+1289
+AF-A0A2N2X0E8-F1-model_v4	Recombinase XerD	Bacteroidetes bacterium HGW-Bacteroidetes-4	0.97	23.9	0.624	
+1291
+AF-W7WB31-F1-model_v4	Integrase	Methylibium sp. T29	0.90	13.4	0.624	
+1289
+AF-A0A2D5KS51-F1-model_v4	Integrase	Pseudomonadales bacterium	0.69	33.9	0.624	
+79286
+AF-A0A528WXA3-F1-model_v4	Integrase	Mesorhizobium sp.	0.66	19.6	0.623	
+1240
+AF-A0A1G6Z0R8-F1-model_v4	Site-specific recombinase XerD	Desulfuromonas thiophila	0.91	15.2	0.623	
+1286
+AF-A0A1W2E8H3-F1-model_v4	Phage integrase family protein	Primorskyibacter flagellatus	0.66	18.1	0.622	
+1239
+AF-A0A7C1Z2E7-F1-model_v4	Integrase	Bacteroides sp.	0.96	26.8	0.622	
+1291
+AF-A0A7T8IDH7-F1-model_v4	Site-specific integrase	Morganella morganii	0.90	13.5	0.622	
+1288
+AF-A0A397QIX1-F1-model_v4	Site-specific recombinase XerD	Streptomyces sp. 19	0.91	16.6	0.622	
+1289
+AF-A0A6J4XRI0-F1-model_v4	Integron integrase IntIPac	Olavius sp. associated proteobacterium Delta 1	0.21	41.4	0.622	
+163285
+AF-A0A139CJQ5-F1-model_v4	Integrase family protein	Candidatus Frackibacter sp. T328-2	0.92	17	0.622	
+1286
+AF-A0A2V5T0B4-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.66	31.3	0.622	
+1225
+AF-A0A7W4BAV4-F1-model_v4	Tyrosine-type recombinase/integrase	Pseudoalteromonas sp. SG44-4	0.10	53.6	0.622	
+119213
+AF-A0A080M621-F1-model_v4	Integrase/recombinase	Candidatus Accumulibacter cognatus	0.77	43.7	0.622	
+1198
+AF-A0A1V4ASY9-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Brocadia caroliniensis	0.44	21.4	0.621	
+78282
+AF-A0A4R1LTC0-F1-model_v4	Site-specific recombinase XerD	Pusillimonas sp. YR330	0.90	12.8	0.621	
+1288
+AF-A0A6M8VDP2-F1-model_v4	Tyrosine-type recombinase/integrase	Ignavibacteriae bacterium	0.41	22.9	0.621	
+1159
+AF-C2NJ96-F1-model_v4	Transposition regulatory protein tnpA	Bacillus cereus BGSC 6E1	0.90	12.4	0.621	
+1291
+AF-A0A1F9FWT8-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium RBG_16_71_12	0.97	27.8	0.620	
+1291
+AF-A0A2D3VS12-F1-model_v4	Uncharacterized protein	Sulfurimonas sp. UBA12504	0.91	16.3	0.620	
+1286
+AF-A0A6J8BQM9-F1-model_v4	Uncharacterized protein	Mytilus coruscus	0.93	7	0.620	
+1289
+AF-A9AVK0-F1-model_v4	Integrase domain protein SAM domain protein	Herpetosiphon aurantiacus DSM 785	0.44	23.4	0.620	
+1195
+AF-A0A315ZC56-F1-model_v4	Site-specific recombinase XerD	Sediminitomix flava	0.92	15.4	0.619	
+1291
+AF-A0A1J5DKQ0-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium CG2_30_63_29	0.92	17.5	0.619	
+1286
+AF-A0A3D2R801-F1-model_v4	Integrase	Flavobacteriaceae bacterium	0.89	27.8	0.619	
+1267
+AF-B1ZPL5-F1-model_v4	Integrase family protein	Opitutus terrae PB90-1	0.92	13.7	0.619	
+1289
+AF-A0A5Q0LAK3-F1-model_v4	Tyrosine-type recombinase/integrase	Streptomyces fagopyri	0.93	14.7	0.618	
+1288
+AF-A0A3N1TBH4-F1-model_v4	Site-specific recombinase XerD	Streptomyces sp. CEV 2-1	0.91	14.1	0.618	
+1291
+AF-A0A532C6X2-F1-model_v4	Site-specific integrase	Nitrospira sp.	0.66	14.1	0.618	
+1240
+AF-A0A6N0YJP5-F1-model_v4	Tyrosine-type recombinase/integrase	Curtobacterium sp. Csp1	0.93	13.7	0.618	
+1291
+AF-A0A831SLR6-F1-model_v4	Integrase	Thermoplasmatales archaeon	0.54	23.2	0.618	
+1236
+AF-A0A832Z4F1-F1-model_v4	Integrase	Pyrodictium sp.	0.89	18.7	0.618	
+1289
+AF-A0A7W6SJ34-F1-model_v4	Site-specific recombinase XerD	Bradyrhizobium sp. cir1	0.23	33.5	0.617	
+12147
+AF-A0A6H1K6E3-F1-model_v4	Site-specific integrase	Streptomyces sp. RPA4-5	0.93	11.9	0.617	
+1291
+AF-A0A1W1HLH4-F1-model_v4	Integrase	Nitrospira sp. ND1	0.91	17.2	0.617	
+1288
+AF-A0A202DHK2-F1-model_v4	Uncharacterized protein	bacterium F11	0.87	18.9	0.617	
+1286
+AF-A0A3N6LSD9-F1-model_v4	Uncharacterized protein	Natrarchaeobius halalkaliphilus	0.90	18	0.617	
+1276
+AF-A0A852WG78-F1-model_v4	Integrase	Pedococcus badiiscoriae	0.85	11.4	0.617	
+13289
+AF-A0A2N3FV09-F1-model_v4	Tyr recombinase domain-containing protein	Actinobacteria bacterium HGW-Actinobacteria-5	0.89	17.5	0.617	
+1288
+AF-A0A1G2AQ80-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Kerfeldbacteria bacterium RIFCSPHIGHO2_02_FULL_42_14	0.41	28.4	0.616	
+1164
+AF-A0A1K0IPA9-F1-model_v4	Prophage integrase	Cupriavidus necator	0.91	12.7	0.616	
+1291
+AF-A0A2W4TMX7-F1-model_v4	Recombinase XerD	Candidatus Methylumidiphilus alinenensis	0.93	13.4	0.616	
+1291
+AF-A0A1G1GJP0-F1-model_v4	Uncharacterized protein	Nitrospirae bacterium RBG_16_43_11	0.91	18.2	0.616	
+1285
+AF-A0A1V4ASU1-F1-model_v4	Uncharacterized protein	Candidatus Brocadia caroliniensis	0.90	17.6	0.616	
+1287
+AF-V4LHD5-F1-model_v4	Tyr recombinase domain-containing protein	Thiohalocapsa sp. PB-PSB1	0.44	32.9	0.616	
+1151
+AF-A0A2V9UZ64-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.91	18.3	0.616	
+1289
+AF-A0A2E8FZY0-F1-model_v4	Uncharacterized protein	Alcanivorax sp.	0.47	34.7	0.616	
+1164
+AF-A0A7W8DQW5-F1-model_v4	Integrase	Prosthecobacter dejongeii	0.91	13.4	0.616	
+1291
+AF-A0A1Q6DLY9-F1-model_v4	Uncharacterized protein	Desulfobulbaceae bacterium DB1	0.93	16.1	0.615	
+1289
+AF-A0A7T8E243-F1-model_v4	Site-specific integrase	Actinomyces sp. HMT897	0.91	16.9	0.615	
+1286
+AF-A0A519BE89-F1-model_v4	Site-specific integrase	Candidatus Acididesulfobacter guangdongensis	0.89	15.1	0.615	
+1288
+AF-A0A7M2YZF7-F1-model_v4	Phage integrase-type protein	Gaiella occulta	0.90	14.8	0.615	
+1286
+AF-A0A7J9XLL2-F1-model_v4	Tyrosine-type recombinase/integrase	Pseudonocardiaceae bacterium	0.92	18.3	0.614	
+1289
+AF-A0A3A4SIV3-F1-model_v4	Site-specific integrase	Desulfobacteraceae bacterium	0.92	16.4	0.614	
+1288
+AF-A0A533QMW2-F1-model_v4	Phage integrase	Candidatus Jettenia ecosi	0.90	17.5	0.614	
+1289
+AF-A0A3D4LQG9-F1-model_v4	Integrase	Lachnospiraceae bacterium	0.90	12.3	0.613	
+1290
+AF-A0A285GAL8-F1-model_v4	Site-specific recombinase XerD	Orenia metallireducens	0.91	20.2	0.613	
+1289
+AF-A0A1F3EGJ1-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium GWA2_30_7	0.96	25.8	0.612	
+1289
+AF-A0A4P9SC35-F1-model_v4	Site-specific integrase	Acidipropionibacterium jensenii	0.91	15.1	0.612	
+1289
+AF-A0A734J1X8-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Infantis	0.44	42.9	0.612	
+1156
+AF-A0A2S4K592-F1-model_v4	Recombinase XerD	Diaphorobacter sp. LR2014-1	0.92	15.8	0.612	
+1291
+AF-A0A679EZU4-F1-model_v4	Integrase	Methylosinus sp. C49	0.91	13.9	0.612	
+1291
+AF-D7GIN4-F1-model_v4	Phage integrase	Propionibacterium freudenreichii subsp. shermanii CIRM-BIA1	0.91	17.8	0.612	
+1288
+AF-A0A2N2V2D8-F1-model_v4	Integron integrase	Betaproteobacteria bacterium HGW-Betaproteobacteria-12	0.72	35	0.612	
+1193
+AF-A0A5C4J0U5-F1-model_v4	Site-specific integrase	Actinomadura soli	0.95	13.7	0.611	
+1286
+AF-A0A7W7YJX9-F1-model_v4	Integrase	Prosthecobacter dejongeii	0.91	14.6	0.611	
+1289
+AF-A0A7J5TT53-F1-model_v4	Tyrosine-type recombinase/integrase	Rudanella paleaurantiibacter	0.93	19.1	0.610	
+1291
+AF-W7WQH1-F1-model_v4	Integrase/recombinase	Hydrogenophaga sp. T4	0.85	28.3	0.610	
+1245
+AF-M5AM47-F1-model_v4	Probable integrase	Mesorhizobium loti	0.51	22.8	0.610	
+1213
+AF-A0A523W5C4-F1-model_v4	Site-specific integrase	Candidatus Aerophobetes bacterium	0.77	18.3	0.610	
+1257
+AF-A0A1F8XNV6-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium GWB2_55_19	0.93	14.8	0.610	
+1288
+AF-A0A419JP04-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Bathyarchaeota archaeon	0.38	10.7	0.610	
+15288
+AF-A0A6N0YQ89-F1-model_v4	Site-specific integrase	Curtobacterium sp. Csp1	0.91	14.7	0.610	
+1289
+AF-A0A2H0QGE0-F1-model_v4	Recombinase XerD	Alphaproteobacteria bacterium CG11_big_fil_rev_8_21_14_0_20_44_7	0.91	14.6	0.609	
+1289
+AF-A0A352M4X4-F1-model_v4	Uncharacterized protein	Candidatus Wallbacteria bacterium	0.97	27	0.609	
+1291
+AF-A0A1H9FA15-F1-model_v4	Phage integrase family protein	Chelativorans sp. A52C2	0.87	10.8	0.609	
+1291
+AF-A0A7W0NXX2-F1-model_v4	Site-specific integrase	Acidimicrobiia bacterium	0.91	17.5	0.609	
+1288
+AF-V5HL85-F1-model_v4	Tyr recombinase domain-containing protein	Vibrio halioticoli NBRC 102217	0.54	13.1	0.609	
+82291
+AF-A0A2M7FD01-F1-model_v4	Uncharacterized protein	Candidatus Gracilibacteria bacterium CG17_big_fil_post_rev_8_21_14_2_50_48_13	0.92	21.1	0.609	
+1291
+AF-A0A1C4GR39-F1-model_v4	Site-specific recombinase XerD	Rhodococcus qingshengii	0.80	10.4	0.608	
+39291
+AF-A0A520WKU6-F1-model_v4	Site-specific integrase	Alteromonas sp.	0.85	15.2	0.608	
+1288
+AF-H0A2P4-F1-model_v4	Site-specific recombinase, phage integrase family	Acetobacteraceae bacterium AT-5844	0.89	12.9	0.608	
+1288
+AF-A0A6J8CHQ3-F1-model_v4	KCTD1_15	Mytilus coruscus	0.93	9.8	0.607	
+1291
+AF-A0A2C8F896-F1-model_v4	Tyr recombinase domain-containing protein	Pseudodesulfovibrio profundus	0.93	14.9	0.607	
+1290
+AF-A0A4R9BYB5-F1-model_v4	Site-specific integrase	Cryobacterium sp. Sr59	0.91	13.4	0.607	
+1288
+AF-A0A7W0V207-F1-model_v4	Tyrosine-type recombinase/integrase	Pyrinomonadaceae bacterium	0.60	20.3	0.607	
+30289
+AF-A0A7C3JH10-F1-model_v4	Site-specific integrase	Deltaproteobacteria bacterium	0.91	14	0.606	
+1289
+AF-A0A7X7EHA4-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridiaceae bacterium	0.51	20.1	0.606	
+1222
+AF-A0A6P4GDR0-F1-model_v4	prophage DLP12 integrase-like	Drosophila takahashii	0.89	12.9	0.606	
+1288
+AF-A0A1I4VLP4-F1-model_v4	Site-specific recombinase XerD	Nitrosomonas communis	0.92	13.9	0.606	
+1289
+AF-B1ZY20-F1-model_v4	Integrase family protein	Opitutus terrae PB90-1	0.91	13.6	0.606	
+1289
+AF-A0A255TGF7-F1-model_v4	Tyr recombinase domain-containing protein	Prevotella sp. P2-180	0.54	19.2	0.606	
+1202
+AF-A0A7W9B972-F1-model_v4	Integrase	Sphingopyxis panaciterrulae	0.89	13.3	0.606	
+1288
+AF-A0A8A7W8Y5-F1-model_v4	Tyrosine-type recombinase/integrase	Akkermansiaceae bacterium	0.91	16.8	0.606	
+1289
+AF-A0A842U0G9-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Pacearchaeota archaeon	0.33	23.3	0.605	
+90272
+AF-A0A7W3J9I5-F1-model_v4	Integrase	Promicromonospora sukumoe	0.90	14.5	0.605	
+1289
+AF-A0A0S3QSK5-F1-model_v4	Integrase/recombinase XerD	Thermosulfidibacter takaii ABI70S6	0.91	13.8	0.605	
+1291
+AF-A0A653W5G7-F1-model_v4	Integron integrase IntIPac	Pseudomonas sp. 8BK	0.15	56.7	0.605	
+180289
+AF-A0A836TLM9-F1-model_v4	Site-specific integrase	Nitrospinaceae bacterium	0.89	16.3	0.605	
+1289
+AF-M7N680-F1-model_v4	Tyrosine recombinase XerD	Cesiribacter andamanensis AMV16	0.97	24.8	0.605	
+1289
+AF-S9PHV1-F1-model_v4	RCC1 repeat-containing protein	Cystobacter fuscus DSM 2262	0.95	13.7	0.605	
+1291
+AF-A0A7J4TTT4-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Woesearchaeota archaeon	0.33	31.3	0.604	
+1149
+AF-K0NJ97-F1-model_v4	Predicted integrase	Desulfobacula toluolica Tol2	0.51	16.8	0.603	
+1216
+AF-A0A2T2WKA7-F1-model_v4	Integrase	Sulfobacillus acidophilus	0.82	14.8	0.603	
+1278
+AF-A0A1W1HSF0-F1-model_v4	Integrase	Nitrospira sp. ND1	0.91	19.2	0.602	
+1285
+AF-A0A246Q465-F1-model_v4	Integrase	Achromobacter sp. HZ28	0.90	12.1	0.602	
+1288
+AF-A0A7C2IJR9-F1-model_v4	Site-specific integrase	Rhodobacteraceae bacterium	0.84	14.9	0.602	
+4289
+AF-A0A448NYW4-F1-model_v4	Tyrosine recombinase XerC	Acidipropionibacterium jensenii	0.84	15.5	0.601	
+1288
+AF-A0A2H6H9Y5-F1-model_v4	Putative prophage phiRv2 integrase	bacterium BMS3Bbin01	0.89	13.4	0.601	
+1288
+AF-A0A3N6DDQ4-F1-model_v4	Uncharacterized protein	Paenibacillus xylanexedens	0.87	20.5	0.601	
+1262
+AF-S5C4E6-F1-model_v4	Integrase family protein	Alteromonas mediterranea UM7	0.87	13	0.600	
+1289
+AF-A0A0K0WKY4-F1-model_v4	Tyr recombinase domain-containing protein	Leptospirillum sp. Group II 'CF-1'	0.90	15.3	0.600	
+1289
+AF-A0A1M6SEF4-F1-model_v4	Site-specific recombinase XerD	Fibrobacter sp. UWEL	0.87	16.9	0.600	
+1291
+AF-A0A2V7CH94-F1-model_v4	Uncharacterized protein	Candidatus Rokubacteria bacterium	0.91	11.5	0.600	
+1291
+AF-A0A351WKB4-F1-model_v4	Tyr recombinase domain-containing protein	Verrucomicrobia bacterium	0.93	11.6	0.599	
+1291
+AF-A0A4P7EBH5-F1-model_v4	Site-specific integrase	Leisingera sp. NJS201	0.87	13.6	0.599	
+1289
+AF-A0A0T6ZBV4-F1-model_v4	Tyr recombinase domain-containing protein	Sinorhizobium sp. Sb3	0.82	14.3	0.599	
+4288
+AF-A0A7M1L6H4-F1-model_v4	Tyrosine-type recombinase/integrase	Comamonas thiooxydans	0.90	15.1	0.599	
+1289
+AF-A0A382KEI6-F1-model_v4	Uncharacterized protein	marine metagenome	0.89	16.7	0.599	
+1289
+AF-A0A7X6PW80-F1-model_v4	Site-specific integrase	Deltaproteobacteria bacterium	0.89	16.4	0.599	
+1291
+AF-A0A1Q6DRT1-F1-model_v4	Tyr recombinase domain-containing protein	Desulfobulbaceae bacterium DB1	0.28	31.8	0.599	
+36191
+AF-A0A7X7CQC1-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridiaceae bacterium	0.95	25	0.599	
+1282
+AF-A0A2M7YYC6-F1-model_v4	Tyr recombinase domain-containing protein	Nitrospirae bacterium CG_4_9_14_3_um_filter_51_5	0.41	18.2	0.599	
+79285
+AF-A0A7W6SQX4-F1-model_v4	Site-specific recombinase XerD	Bradyrhizobium sp. cir1	0.47	20	0.599	
+1216
+AF-U3TC74-F1-model_v4	Tyrosine recombinase XerA	Aeropyrum camini SY1 = JCM 12091	0.87	19.1	0.598	
+1288
+AF-A0A533TT36-F1-model_v4	Integrase	Chlorobium sp.	0.96	25.8	0.598	
+1291
+AF-A0A1G7YFQ7-F1-model_v4	Site-specific recombinase XerD	Flavobacterium omnivorum	0.93	14	0.598	
+1289
+AF-A0A1W1HWC2-F1-model_v4	Integrase	Nitrospira sp. ND1	0.90	18.1	0.597	
+1286
+AF-A0A0Q4ZI23-F1-model_v4	Tyr recombinase domain-containing protein	Methylobacterium sp. Leaf104	0.90	10	0.596	
+1291
+AF-A0A366WF05-F1-model_v4	Integrase_SAM-like_N domain-containing protein	Marinobacter sp. F3R11	0.20	25.5	0.596	
+1196
+AF-A0A6P1MFM4-F1-model_v4	Tyrosine-type recombinase/integrase	Tichowtungia aerotolerans	0.94	14.7	0.595	
+1291
+AF-A0A418WP52-F1-model_v4	Site-specific integrase	Sphingomonas cavernae	0.87	13.4	0.595	
+1288
+AF-A0A4Q7LNB8-F1-model_v4	Uncharacterized protein DUF4102	Variovorax sp. BK460	0.94	12.4	0.595	
+1291
+AF-A0A7V5U0G9-F1-model_v4	Integrase	Candidatus Cloacimonetes bacterium	0.41	23.6	0.593	
+1202
+AF-A0A7L4R8D3-F1-model_v4	Site-specific integrase	Candidatus Micrarchaeota archaeon	0.75	12.7	0.592	
+16291
+AF-A0A2V8PK00-F1-model_v4	Integron integrase	Acidobacteria bacterium	0.12	55	0.592	
+190289
+AF-A0A2E7LM79-F1-model_v4	Tyr recombinase domain-containing protein	Dehalococcoidia bacterium	0.89	10.9	0.592	
+1291
+AF-Q30XD6-F1-model_v4	Integrase family protein	Oleidesulfovibrio alaskensis G20	0.91	13.8	0.592	
+1289
+AF-D9PLF6-F1-model_v4	Phage integrase family protein	sediment metagenome	0.75	15.8	0.592	
+1260
+AF-A0A606SLM3-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Infantis	0.35	42.5	0.591	
+1148
+AF-A0A4Q8JJL2-F1-model_v4	Class 1 integron integrase IntI1	Escherichia coli	0.15	52.6	0.591	
+179289
+AF-W6S1L9-F1-model_v4	Putative integrase/recombinase	Rhizobium favelukesii	0.44	21.3	0.591	
+1221
+AF-A0A2V9PRX1-F1-model_v4	Tyr recombinase domain-containing protein	Acidobacteria bacterium	0.89	13.9	0.591	
+1291
+AF-A0A5V9GC91-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Saintpaul	0.35	42.6	0.590	
+1150
+AF-A0A150AGR5-F1-model_v4	Tyr recombinase domain-containing protein	Flammeovirga sp. SJP92	0.90	12.8	0.590	
+1291
+AF-A0A0F7VY88-F1-model_v4	Prophage phiRv2 integrase	Streptomyces leeuwenhoekii	0.90	17.2	0.590	
+1288
+AF-A0A2G6NYS9-F1-model_v4	Integrase	Candidatus Delongbacteria bacterium	0.35	24.8	0.590	
+1155
+AF-A0A2N1FD86-F1-model_v4	Tyr recombinase domain-containing protein	Tenacibaculum sp. Bg11-29	0.90	17.1	0.590	
+1291
+AF-A0A2V7CFS7-F1-model_v4	Uncharacterized protein	Candidatus Rokubacteria bacterium	0.90	15.1	0.589	
+1285
+AF-A0A1Q3TET8-F1-model_v4	Tyr recombinase domain-containing protein	Chloroflexi bacterium 54-19	0.91	11.9	0.589	
+1289
+AF-A0A2V5U1F3-F1-model_v4	Tyr recombinase domain-containing protein	Verrucomicrobia bacterium	0.38	20.3	0.589	
+25276
+AF-A0A2G1W4N9-F1-model_v4	Integrase	Rhodopirellula bahusiensis	0.82	29.7	0.589	
+32291
+AF-A0A539CVS4-F1-model_v4	Tyrosine recombinase XerD	Beijerinckiaceae bacterium	0.89	16.2	0.589	
+1286
+AF-A0A1E5IV18-F1-model_v4	Integrase	Shewanella colwelliana	0.41	22.5	0.589	
+1202
+AF-A0A7C3C9Z2-F1-model_v4	Uncharacterized protein	Phaeodactylibacter sp.	0.97	25.5	0.588	
+1291
+AF-A0A3D3LB69-F1-model_v4	Tyr recombinase domain-containing protein	Verrucomicrobiales bacterium	0.57	13.6	0.588	
+39276
+AF-B1XXS5-F1-model_v4	Integron integrase	Leptothrix cholodnii SP-6	0.25	31.1	0.588	
+1182
+AF-A0A2V8N0T2-F1-model_v4	Tyr recombinase domain-containing protein	Acidobacteria bacterium	0.77	14	0.587	
+1266
+AF-A0A098RSP0-F1-model_v4	Integrase	Rhizobium sp. H41	0.82	14.6	0.587	
+4291
+AF-A0A2N1KKC6-F1-model_v4	Uncharacterized protein	Siphonobacter sp. BAB-5404	0.91	13.5	0.587	
+1291
+AF-A0A751Z8I2-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Typhimurium	0.35	42.9	0.587	
+1149
+AF-A0A382HCU0-F1-model_v4	Uncharacterized protein	marine metagenome	0.84	14.5	0.587	
+1270
+AF-A0A4Q1KL80-F1-model_v4	Recombinase	Flavobacterium piscinae	0.97	27.9	0.587	
+1291
+AF-A0A7T8CMZ3-F1-model_v4	Integron integrase	Thiohalocapsa sp. PB-PSB1	0.89	39.7	0.586	
+1214
+AF-A0A2N2XAQ9-F1-model_v4	TIGR02391 family protein	Bacteroidetes bacterium HGW-Bacteroidetes-3	0.93	19.2	0.586	
+1291
+AF-A0A177PG04-F1-model_v4	Recombinase	Methylomonas koyamae	0.63	18.9	0.586	
+1241
+AF-C7DHD0-F1-model_v4	Integrase family protein	Candidatus Micrarchaeum acidiphilum ARMAN-2	0.77	11.1	0.585	
+8291
+AF-A0A6J4WT73-F1-model_v4	Site-specific tyrosine recombinase	Olavius sp. associated proteobacterium Delta 1	0.77	16.7	0.585	
+1291
+AF-A0A7T9FIF6-F1-model_v4	Tyrosine-type recombinase/integrase	Sphingobacteriales bacterium	0.97	26.5	0.584	
+1291
+AF-C0W4G9-F1-model_v4	Site-specific recombinase, phage integrase family	Actinomyces urogenitalis DSM 15434	0.91	19.1	0.584	
+1286
+AF-A0A5C7ML87-F1-model_v4	Uncharacterized protein	Elusimicrobia bacterium	0.15	38.9	0.584	
+10127
+AF-A0A7K4DB44-F1-model_v4	Site-specific integrase	Candidatus Methanofastidiosa archaeon	0.77	19.1	0.584	
+3289
+AF-A0A522VMS2-F1-model_v4	Integron integrase	Methylococcaceae bacterium	0.63	47.6	0.584	
+122291
+AF-A0A662S323-F1-model_v4	Uncharacterized protein	Candidatus Korarchaeota archaeon	0.84	15.3	0.583	
+1279
+AF-A0A528WTN6-F1-model_v4	Integrase	Mesorhizobium sp.	0.18	29.1	0.583	
+37165
+AF-A0A2P7T9T1-F1-model_v4	Tyr recombinase domain-containing protein	Sphingobacteriales bacterium UPWRP_1	0.97	26.5	0.582	
+1291
+AF-A0A0F2JBC2-F1-model_v4	Phage integrase	Desulfosporosinus sp. I2	0.38	18.9	0.582	
+36260
+AF-A0A6P1M6G4-F1-model_v4	Tyrosine-type recombinase/integrase	Tichowtungia aerotolerans	0.87	15	0.581	
+1276
+AF-A0A2S4JM35-F1-model_v4	Uncharacterized protein	Alkalispirochaeta sphaeroplastigenens	0.80	20.8	0.581	
+1277
+AF-A0A540VN23-F1-model_v4	Site-specific integrase	Spiribacter salinus	0.90	14.5	0.581	
+1286
+AF-A0A2W7MRN5-F1-model_v4	Site-specific recombinase XerD	Breznakibacter xylanolyticus	0.96	29	0.581	
+1288
+AF-M1XKF9-F1-model_v4	Integrase family protein	Natronomonas moolapensis 8.8.11	0.89	14.9	0.581	
+1273
+AF-V9VXP3-F1-model_v4	Integrase	Leisingera methylohalidivorans DSM 14336	0.96	24.3	0.580	
+1291
+AF-A0A7V0NSP1-F1-model_v4	Uncharacterized protein	Actinomycetia bacterium	0.89	17.5	0.580	
+1289
+AF-A0A7W6ALF3-F1-model_v4	Integrase	Methylobacterium brachythecii	0.90	12.6	0.580	
+1286
+AF-A0A2A5FHL9-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidetes bacterium	0.77	22.3	0.580	
+1248
+AF-X1QRK1-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.63	22.3	0.580	
+1234
+AF-A0A3F3GIH4-F1-model_v4	Integrase/recombinase	Thauera sp. 28	0.47	37.4	0.580	
+1170
+AF-A0A843HLK8-F1-model_v4	Uncharacterized protein	Methanobrevibacter sp.	0.84	12.6	0.579	
+1288
+AF-A0A1L9DZW5-F1-model_v4	Uncharacterized protein	Streptomyces viridifaciens	0.82	8.6	0.579	
+1261
+AF-A0A4D4JHZ7-F1-model_v4	Tyr recombinase domain-containing protein	Acidovorax sp. NB1	0.21	33.8	0.578	
+84215
+AF-A0A7C1LRT4-F1-model_v4	Helix-turn-helix domain-containing protein	Candidatus Aminicenantes bacterium	0.92	16.9	0.578	
+1289
+AF-A0A4P7RAH0-F1-model_v4	Site-specific integrase	Hydrogenophaga sp. PAMC20947	0.72	12.8	0.578	
+1281
+AF-A0A844C9Y5-F1-model_v4	Tyrosine-type recombinase/integrase	Idiomarina sp. FeN1	0.51	41.4	0.578	
+125291
+AF-A0A2W1NJV6-F1-model_v4	Tyr recombinase domain-containing protein	Putridiphycobacter roseus	0.90	9.3	0.578	
+1291
+AF-A0A514ZT53-F1-model_v4	Site-specific integrase	Spirosoma sp. KCTC 42546	0.89	12.7	0.578	
+1291
+AF-A0A7Y4T1W9-F1-model_v4	Tyrosine-type recombinase/integrase	Saprospiraceae bacterium	0.97	25.4	0.578	
+1290
+AF-M5S4D4-F1-model_v4	Integrase, integron-type	Rhodopirellula europaea SH398	0.54	32.2	0.578	
+1158
+AF-G0ED90-F1-model_v4	Tyrosine recombinase XerA	Pyrolobus fumarii 1A	0.90	21.9	0.578	
+1290
+AF-X1CIS8-F1-model_v4	Tyr recombinase domain-containing protein	marine sediment metagenome	0.41	11.8	0.578	
+23278
+AF-A0A6M0K7M4-F1-model_v4	Tyrosine-type recombinase/integrase	Thiorhodococcus minor	0.28	26.3	0.577	
+1143
+AF-A0A0Q7Z9S4-F1-model_v4	Tyr recombinase domain-containing protein	Sphingopyxis sp. Root1497	0.90	13.5	0.577	
+1286
+AF-A0A2E1GBR0-F1-model_v4	Uncharacterized protein	Gordonia sp.	0.93	15.5	0.577	
+1289
+AF-A0A4V3DAS3-F1-model_v4	Phage integrase family protein	Maritalea mobilis	0.77	13.1	0.576	
+4289
+AF-A0A8B6G331-F1-model_v4	Uncharacterized protein	Mytilus galloprovincialis	0.89	10.9	0.576	
+15291
+AF-A0A524QJ52-F1-model_v4	Tyr recombinase domain-containing protein	Bacteroidia bacterium	0.82	20.8	0.576	
+1253
+AF-R9N4Q5-F1-model_v4	Uncharacterized protein	Dorea sp. 5-2	0.33	20	0.576	
+1156
+AF-A0A414QXX1-F1-model_v4	Uncharacterized protein	Roseburia inulinivorans	0.72	11.9	0.575	
+1260
+AF-A0A847GU17-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Anammoximicrobium sp.	0.85	13.5	0.574	
+1274
+AF-A0A2W4HVQ9-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Margulisbacteria bacterium	0.16	41	0.573	
+156289
+AF-A0A2W5JPI6-F1-model_v4	Integrase	Variovorax paradoxus	0.82	13	0.573	
+1289
+AF-A0A2E0ZJZ6-F1-model_v4	Integrase	Anaerolineaceae bacterium	0.63	37.9	0.573	
+1175
+AF-A0A015ZST4-F1-model_v4	Phage integrase family protein	Bacteroides fragilis str. J-143-4	0.72	18.7	0.572	
+1238
+AF-A0A3G9EMT3-F1-model_v4	Uncharacterized protein	Petrimonas sp. IBARAKI	0.33	18.6	0.572	
+1150
+AF-A0A7C6W9D4-F1-model_v4	Tyrosine-type recombinase/integrase	Clostridiales bacterium	0.82	19.7	0.571	
+1274
+AF-A0A371RL13-F1-model_v4	DUF4102 domain-containing protein	Parvularcula marina	0.82	10.8	0.571	
+1277
+AF-A0A5S9Q4W1-F1-model_v4	Tyrosine recombinase XerD	Zhongshania aliphaticivorans	0.20	34.4	0.570	
+146286
+AF-A0A7K3YN01-F1-model_v4	Tyrosine-type recombinase/integrase	Crenarchaeota archaeon	0.91	13.1	0.570	
+1291
+AF-A0A3C1YW98-F1-model_v4	Tyr recombinase domain-containing protein	Nitrospira sp.	0.90	15	0.569	
+1288
+AF-A0A521KVS6-F1-model_v4	Uncharacterized protein	Nitrospirae bacterium	0.44	20.2	0.569	
+1218
+AF-A0A2M7TG11-F1-model_v4	Tyr recombinase domain-containing protein	candidate division WWE3 bacterium CG_4_10_14_0_2_um_filter_41_14	0.69	18.8	0.569	
+46289
+AF-A0A7K3Z5V6-F1-model_v4	Site-specific integrase	Crenarchaeota archaeon	0.87	12.8	0.568	
+1291
+AF-E4RUV2-F1-model_v4	Integrase family protein	Leadbetterella byssophila DSM 17132	0.63	18.2	0.568	
+29288
+AF-A0A8B1BF63-F1-model_v4	Tyrosine-type recombinase/integrase	Flavobacterium sp. CS20	0.97	28	0.568	
+1291
+AF-A0A6A7M3B5-F1-model_v4	Tyrosine-type recombinase/integrase	Rhodospirillales bacterium	0.28	27.8	0.568	
+1145
+AF-A0A375HD01-F1-model_v4	Integrase/recombinase y4qK (Modular protein)	Cupriavidus taiwanensis	0.75	19.9	0.568	
+1242
+AF-A0A5C2EM06-F1-model_v4	Site-specific recombinase	Xanthomonas oryzae pv. oryzicola	0.30	41.9	0.567	
+103238
+AF-A0A7C8HNX0-F1-model_v4	Integrase family protein	Caulobacteraceae bacterium	0.87	24.7	0.567	
+1261
+AF-A0A7X7MFU5-F1-model_v4	Tyrosine-type recombinase/integrase	Lentisphaerae bacterium	0.44	26	0.566	
+80284
+AF-A0A2U3L3C7-F1-model_v4	Site-specific recombinase XerD	Candidatus Desulfosporosinus infrequens	0.75	15.2	0.566	
+1289
+AF-A0A2V7YYH0-F1-model_v4	Tyr recombinase domain-containing protein	Acidobacteria bacterium	0.35	50.3	0.566	
+149289
+AF-A0A180FFJ7-F1-model_v4	Tyrosine recombinase XerD	Bacteroidales bacterium Barb4	0.89	16.1	0.565	
+1291
+AF-A0A315Z5A7-F1-model_v4	Site-specific recombinase XerD	Sediminitomix flava	0.91	12.9	0.565	
+1291
+AF-A0A1F6PP29-F1-model_v4	Uncharacterized protein	Candidatus Margulisbacteria bacterium GWD2_39_127	0.35	19	0.565	
+77273
+AF-A0A1C6T4J8-F1-model_v4	Site-specific recombinase XerD	Micromonospora aurantiaca	0.94	12.5	0.565	
+1291
+AF-A0A259SKS0-F1-model_v4	Uncharacterized protein	Microbacterium sp. 14-71-5	0.75	14.5	0.565	
+1260
+AF-A0A4V3EF25-F1-model_v4	Uncharacterized protein	Streptomyces sp. BK447	0.41	10.6	0.564	
+77288
+AF-A0A7T8CU37-F1-model_v4	Integron integrase	Thiohalocapsa sp. PB-PSB1	0.82	39.3	0.564	
+1214
+AF-A0A4R7FP53-F1-model_v4	Site-specific recombinase XerD	Amnibacterium kyonggiense	0.85	15.7	0.564	
+1277
+AF-A0A2V7CKM3-F1-model_v4	Uncharacterized protein	Candidatus Rokubacteria bacterium	0.91	17	0.563	
+1288
+AF-M5S9L8-F1-model_v4	Integron integrase	Rhodopirellula europaea SH398	0.15	50	0.563	
+178290
+AF-A0A4R1RGH3-F1-model_v4	Site-specific recombinase XerD	Mariniflexile fucanivorans	0.95	16.2	0.561	
+1291
+AF-A0A2V9AT67-F1-model_v4	Tyr recombinase domain-containing protein	Acidobacteria bacterium	0.21	14.8	0.561	
+34217
+AF-A0A2I7N502-F1-model_v4	Uncharacterized protein	Aquella oligotrophica	0.84	13.4	0.561	
+1276
+AF-A0A7L4RML3-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Micrarchaeota archaeon	0.33	11.6	0.560	
+15241
+AF-A0A1F4YML7-F1-model_v4	Tyr recombinase domain-containing protein	candidate division Zixibacteria bacterium RBG_16_53_22	0.44	20.7	0.560	
+77275
+AF-A0A7Y1YAM7-F1-model_v4	Tyrosine-type recombinase/integrase	Saprospiraceae bacterium	0.57	14.3	0.560	
+1260
+AF-D6CVZ9-F1-model_v4	Phage integrase family	Salinibacter ruber M8	0.57	17.6	0.560	
+31288
+AF-A0A6H1K8L0-F1-model_v4	Tyrosine-type recombinase/integrase	Streptomyces sp. RPA4-5	0.91	12.9	0.559	
+1289
+AF-A5YVY7-F1-model_v4	IntI1	Salmonella enterica subsp. enterica serovar Typhimurium	0.25	42.5	0.558	
+1134
+AF-A0A7C2UVB7-F1-model_v4	Tyr recombinase domain-containing protein	Caldivirga sp.	0.87	13.4	0.558	
+1275
+AF-A0A246AJF2-F1-model_v4	Integrase	Flavobacteriaceae bacterium JJC	0.35	22	0.557	
+8223
+AF-A0A7U6M2W8-F1-model_v4	Integrase	Pseudomonas putida	0.85	11	0.557	
+1275
+AF-A0A651DJ05-F1-model_v4	Uncharacterized protein	Gemmatimonadales bacterium	0.69	21.3	0.557	
+1234
+AF-A0A2V5SXT3-F1-model_v4	Tyr recombinase domain-containing protein	Verrucomicrobia bacterium	0.18	52.9	0.556	
+173291
+AF-A0A7W1SLG6-F1-model_v4	Tyrosine-type recombinase/integrase	Gemmatimonadales bacterium	0.72	11.6	0.556	
+13290
+AF-A0A842X5B7-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Micrarchaeota archaeon	0.75	11	0.556	
+6288
+AF-A0A2M8VH67-F1-model_v4	Integrase	Methylobacterium radiotolerans	0.30	17.4	0.556	
+1223
+AF-A0A7V9MM64-F1-model_v4	Tyrosine-type recombinase/integrase	Bacteroidetes bacterium	0.97	29.6	0.555	
+1289
+AF-A0A3G8ZAN4-F1-model_v4	Tyr recombinase domain-containing protein	Epilithonimonas vandammei	0.41	21.9	0.554	
+1204
+AF-D9SII6-F1-model_v4	Integrase family protein	Gallionella capsiferriformans ES-2	0.82	12.1	0.554	
+1274
+AF-A0A6J4X7R1-F1-model_v4	Phage integrase	Olavius sp. associated proteobacterium Delta 1	0.72	35.4	0.552	
+1189
+AF-A0A2N2AVI0-F1-model_v4	Tyr recombinase domain-containing protein	Firmicutes bacterium HGW-Firmicutes-7	0.20	20.2	0.552	
+5149
+AF-A0A2W4IE59-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Margulisbacteria bacterium	0.33	20	0.551	
+79273
+AF-A0A7W4C3B8-F1-model_v4	Phage integrase N-terminal SAM-like domain-containing protein	Shewanella sp. SG41-4	0.30	25.4	0.550	
+1150
+AF-A0A0S4KLP6-F1-model_v4	Integrase/recombinase	Candidatus Nitrospira inopinata	0.21	30.1	0.550	
+94289
+AF-A0A6B9YQI4-F1-model_v4	Site-specific integrase	Edaphobacter sp. 12200R-103	0.89	11.5	0.549	
+1288
+AF-A0A7X1T2J0-F1-model_v4	Class 1 integron integrase IntI1	Escherichia coli	0.09	52.5	0.548	
+194289
+AF-A0A080MCC7-F1-model_v4	Integrase/recombinase	Candidatus Accumulibacter cognatus	0.69	11.6	0.548	
+1291
+AF-A0A0P0N287-F1-model_v4	Tyrosine recombinase XerA	Pyrodictium delaneyi	0.89	20.9	0.547	
+1290
+AF-A0A1W1HHL3-F1-model_v4	Integrase/recombinase	Desulfamplus magnetovallimortis	0.12	37.5	0.545	
+179288
+AF-A0A1L5J149-F1-model_v4	Putative integrase	Proteus mirabilis	0.21	41.5	0.545	
+1128
+AF-A0A2H9QER2-F1-model_v4	Uncharacterized protein	Candidatus Diapherotrites archaeon CG_4_10_14_0_2_um_filter_31_5	0.28	23.4	0.545	
+1148
+AF-A0A381FQI7-F1-model_v4	Tyrosine recombinase XerD	Chryseobacterium indoltheticum	0.25	20.6	0.544	
+8210
+AF-A0A1G0MCP5-F1-model_v4	Tyr recombinase domain-containing protein	Geobacteraceae bacterium GWC2_55_20	0.80	13.4	0.544	
+1275
+AF-A0A1F8MB16-F1-model_v4	Tyr recombinase domain-containing protein	Chloroflexi bacterium RBG_13_51_36	0.94	15.2	0.544	
+1291
+AF-A0A3R7BDW9-F1-model_v4	Site-specific integrase	Candidatus Bathyarchaeota archaeon	0.89	18	0.543	
+1291
+AF-A0A1H8ATI9-F1-model_v4	Site-specific recombinase XerD	Sphingomonas gellani	0.89	18.8	0.542	
+1288
+AF-A0A6J4XFN9-F1-model_v4	Tyr recombinase domain-containing protein	Olavius sp. associated proteobacterium Delta 1	0.11	17.4	0.542	
+26202
+AF-A0A836W7D4-F1-model_v4	Uncharacterized protein	Pyrodictium sp.	0.72	18.6	0.542	
+12290
+AF-A0A4Z1RG52-F1-model_v4	Uncharacterized protein	Luteimonas yindakuii	0.41	35.8	0.542	
+1161
+AF-A0A5C6C8X5-F1-model_v4	Tyrosine recombinase XerD	Planctomycetes bacterium Poly21	0.41	19	0.541	
+1196
+AF-A0A1Q2H1X8-F1-model_v4	Uncharacterized protein	Pseudoalteromonas aliena	0.09	42.7	0.538	
+119221
+AF-A0A139D828-F1-model_v4	Integrase/recombinase	Halanaerobium sp. T82-1	0.57	20.6	0.534	
+1227
+AF-A0A3C1YX52-F1-model_v4	Uncharacterized protein	Nitrospira sp.	0.92	15.2	0.529	
+1289
+AF-A0A6Y2QY55-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica subsp. enterica serovar Infantis	0.18	26.5	0.525	
+1196
+AF-A0A4Q0YZU1-F1-model_v4	Uncharacterized protein	Arcobacter sp. F155	0.95	10.7	0.523	
+1291
+AF-W8FZ42-F1-model_v4	Integron integrase IntI1	Escherichia coli	0.16	25.1	0.522	
+1199
+AF-A0A372MD02-F1-model_v4	Tyr recombinase domain-containing protein	Sphaerochaeta halotolerans	0.92	15.7	0.522	
+1290
+AF-W8FPB3-F1-model_v4	Integron integrase IntI1	Escherichia coli	0.16	25.1	0.522	
+1199
+AF-A0A2D1SUS9-F1-model_v4	Uncharacterized protein	Solibacillus sp. R5-41	0.92	19.6	0.521	
+1291
+AF-X1CGS1-F1-model_v4	Tyr recombinase domain-containing protein	marine sediment metagenome	0.16	19	0.520	
+36228
+AF-W8FS98-F1-model_v4	Integron integrase IntI1	Escherichia coli	0.18	41.6	0.520	
+1125
+AF-A0A536Y6P8-F1-model_v4	Tyr recombinase domain-containing protein	Betaproteobacteria bacterium	0.14	38.3	0.519	
+136289
+AF-A0A2T4TZS5-F1-model_v4	Integrase_SAM-like_N domain-containing protein	Candidatus Methylomirabilis limnetica	0.14	14.4	0.519	
+1269
+AF-A0A359EL04-F1-model_v4	Integrase	Halieaceae bacterium	0.16	41.6	0.519	
+1120
+AF-A0A7V1V150-F1-model_v4	Tyr recombinase domain-containing protein	Nitrospirae bacterium	0.38	22.1	0.519	
+44290
+AF-A0A839A8X7-F1-model_v4	Tyrosine-type recombinase/integrase	Stappia albiluteola	0.44	18.6	0.516	
+33260
+AF-W8FNM2-F1-model_v4	Integron integrase IntI1	Escherichia coli	0.16	41.6	0.516	
+1120
+AF-A0A8A7W8S3-F1-model_v4	Tyrosine-type recombinase/integrase	Akkermansiaceae bacterium	0.66	22.8	0.516	
+1215
+AF-W8FZ34-F1-model_v4	Integron integrase IntI1	Escherichia coli	0.16	24.6	0.514	
+1199
+AF-A0A0H3YD82-F1-model_v4	IntI1	Salmonella enterica subsp. enterica serovar Corvallis	0.85	34.4	0.514	
+1231
+AF-A0A705H049-F1-model_v4	Class 1 integron integrase IntI1	Salmonella enterica	0.16	25.1	0.513	
+1199
+AF-A0A833GMW4-F1-model_v4	Integron integrase	Dechloromonas sp.	0.13	30.8	0.512	
+1116
+AF-A0A2L0A097-F1-model_v4	Integrase	Aeromonas hydrophila	0.15	41.8	0.508	
+1117
+AF-A0A4Q5RMA3-F1-model_v4	Tyr recombinase domain-containing protein	Sphingomonadales bacterium	0.82	12	0.505	
+1288
+AF-I3VI48-F1-model_v4	Integron integrase IntI1	Pseudomonas sp. C77	0.14	41.5	0.504	
+1118
+AF-A0A5B9QR99-F1-model_v4	Tyrosine recombinase XerD	Roseimaritima ulvae	0.35	27.3	0.504	
+84291
+AF-A0A2U2HNC3-F1-model_v4	Tyr recombinase domain-containing protein	Massilia glaciei	0.23	42.5	0.504	
+122289
+AF-A0A2N1UK65-F1-model_v4	Uncharacterized protein	Nitrospira bacterium HGW-Nitrospira-1	0.20	30.1	0.502	
+1141
+AF-E1U726-F1-model_v4	Integrase	uncultured bacterium	0.14	42.1	0.502	
+1114
+AF-A0A5C5VXN6-F1-model_v4	Tyrosine recombinase XerD	Botrimarina hoheduenensis	0.20	24.3	0.498	
+67289
+AF-A0A7Y2BDE8-F1-model_v4	Tyrosine-type recombinase/integrase	Saprospiraceae bacterium	0.82	21.1	0.497	
+1264
+AF-V7PRF2-F1-model_v4	Uncharacterized protein	Plasmodium yoelii 17X	0.66	15	0.495	
+1248
+AF-A0A3N4V3L2-F1-model_v4	Integrase-like protein	Vulcaniibacterium tengchongense	0.47	31.2	0.495	
+18214
+AF-A0A350IP04-F1-model_v4	Tyr recombinase domain-containing protein	Chloroflexi bacterium	0.44	19.1	0.493	
+79288
+AF-A0A373EZ38-F1-model_v4	Class 1 integron integrase IntI1	Comamonas testosteroni	0.13	25.1	0.483	
+1200
+AF-W8FS16-F1-model_v4	Integron integrase IntI1	Escherichia coli	0.14	22.8	0.481	
+1200
+AF-A0A545UHQ8-F1-model_v4	Integrase_SAM-like_N domain-containing protein	Aliikangiella coralliicola	0.47	13.1	0.479	
+1215
+AF-A0A318I010-F1-model_v4	Phage integrase family protein	Arenibacter sp. ARW7G5Y1	0.35	27.7	0.474	
+1154
+AF-D5MTA5-F1-model_v4	Integrase	uncultured bacterium	0.54	15.6	0.467	
+1283
+AF-A0A7V7EAM8-F1-model_v4	Tyrosine-type recombinase/integrase	Candidatus Hydrogenedentes bacterium	0.10	50.4	0.463	
+188291
+AF-A0A2T5CAH4-F1-model_v4	Uncharacterized protein	Desulfonatronum sp. SC1	0.44	25.1	0.454	
+1167
+AF-A0A1T4NHA6-F1-model_v4	Phage integrase, N-terminal SAM-like domain	Consotaella salsifontis	0.69	8.9	0.428	
+1291
+AF-A0A4V3GNQ0-F1-model_v4	Integrase-like protein	Marinobacter sp. lvr2a5a20	0.15	16.8	0.419	
+1184
+AF-A0A7J2HXB3-F1-model_v4	Uncharacterized protein	Candidatus Korarchaeota archaeon	0.66	7.6	0.417	
+1291
+AF-A0A416GAA6-F1-model_v4	Recombinase	Bacteroides sp. OF04-15BH	0.15	23.1	0.406	
+1120
+AF-A0A2V7YUC9-F1-model_v4	Core-binding (CB) domain-containing protein	Acidobacteria bacterium	0.16	23.8	0.401	
+1188
+AF-A0A660PGM5-F1-model_v4	Uncharacterized protein	candidate division Zixibacteria bacterium	0.35	29.2	0.400	
+1156
+AF-A0A552GY40-F1-model_v4	Core-binding (CB) domain-containing protein	Microcystis aeruginosa Ma_QC_C_20070823_S13	0.09	14	0.400	
+1273
+AF-A0A2E7JGF3-F1-model_v4	Integrase	Oceanospirillaceae bacterium	0.10	22.1	0.391	
+1145
+AF-A0A2H9PM50-F1-model_v4	Tyr recombinase domain-containing protein	Candidatus Woesearchaeota archaeon CG_4_10_14_0_2_um_filter_33_13	0.16	11.8	0.348	
+64239

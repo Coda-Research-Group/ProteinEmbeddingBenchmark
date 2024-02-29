@@ -1,0 +1,1950 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR NADH DEHYDROGENASE (A0A109MZW9)
+AFDB50 972 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-C2NQQ9-F1-model_v4	NADH (Or F420H2) dehydrogenase, subunit C	Bacillus cereus BGSC 6E1	0.44	62.6	0.744	
+161318
+AF-A0A826HJT5-F1-model_v4	NADH (Or F420H2) dehydrogenase, subunit C	Bacillus thuringiensis Bt407	0.66	52.6	0.724	
+116318
+AF-A0A2B0M1I3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus cereus	0.69	51.4	0.709	
+117318
+AF-A0A841Q6L4-F1-model_v4	NADH/F420H2 dehydrogenase subunit C	Salirhabdus euzebyi	0.51	60.6	0.707	
+146318
+AF-C2Q3N5-F1-model_v4	NADH (Or F420H2) dehydrogenase, subunit C	Bacillus mycoides	0.63	53.7	0.705	
+121318
+AF-A0A7C3MT20-F1-model_v4	NADH-quinone oxidoreductase	Armatimonadetes bacterium	0.30	32.4	0.704	
+165315
+AF-A0A2H2WW82-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus cereus	0.89	36.9	0.700	
+46318
+AF-M5QT99-F1-model_v4	NADH dehydrogenase subunit C	Anoxybacillus gonensis	0.54	60.5	0.699	
+140318
+AF-A0A2A6DZR6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Reconcilbacillus cellulovorans	0.51	37.3	0.698	
+126318
+AF-A0A383CXU5-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.47	21.4	0.698	
+129318
+AF-A0A6I4VMK4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Shimazuella alba	0.51	25.5	0.690	
+51318
+AF-A0A1F9IQA4-F1-model_v4	NADH-quinone oxidoreductase	Deltaproteobacteria bacterium RIFCSPLOWO2_02_FULL_50_16	0.30	29.8	0.688	
+165316
+AF-A0A416T4S7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Parabacteroides sp. AF18-52	0.30	27.8	0.686	
+161317
+AF-A0A1T4LKJ4-F1-model_v4	NADH-quinone oxidoreductase	Carboxydocella sporoproducens DSM 16521	0.30	30.3	0.686	
+159313
+AF-A0A7R8ZYU8-F1-model_v4	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial	Cyprideis torosa	0.30	30.9	0.685	
+161314
+AF-A0A2V9KXZ1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.35	34.9	0.685	
+158316
+AF-A0A2H0YJ41-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24	0.33	28.5	0.683	
+163318
+AF-A0A7X3Y2I8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Dehalococcoidia bacterium	0.38	23.6	0.683	
+146318
+AF-A0A1F8M116-F1-model_v4	Complex1_30kDa domain-containing protein	Chloroflexi bacterium RBG_13_50_10	0.28	32	0.681	
+161312
+AF-A0A1F9URQ8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Elusimicrobia bacterium RIFCSPLOWO2_01_FULL_59_12	0.33	32.7	0.681	
+164318
+AF-A0A523YFJ7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Methanomassiliicoccales archaeon	0.28	31.3	0.679	
+164313
+AF-A0A1Z5HXB7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Calderihabitans maritimus	0.30	33.3	0.678	
+164318
+AF-A0A2N2DJM0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium HGW-Firmicutes-14	0.30	30.3	0.678	
+161315
+AF-A0A2W7NX80-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Breznakibacter xylanolyticus	0.30	24.5	0.677	
+161318
+AF-A0A3C1M6N3-F1-model_v4	NADH-quinone oxidoreductase	Nitrospira sp.	0.28	27.9	0.676	
+163312
+AF-T0ZRX2-F1-model_v4	NADH dehydrogenase (Quinone), chain C	mine drainage metagenome	0.28	30.5	0.675	
+163312
+AF-A0A2E6WU03-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium	0.28	30.3	0.675	
+160313
+AF-A0A124IH71-F1-model_v4	NADH-quinone oxidoreductase	Desulfitibacter sp. BRH_c19	0.28	27	0.675	
+162316
+AF-A0A5N8Z8F3-F1-model_v4	NADH-quinone oxidoreductase	SAR202 cluster bacterium AD-802-E10_MRT_200m	0.28	29.6	0.673	
+161314
+AF-A0A520CY26-F1-model_v4	NADH-quinone oxidoreductase	Pedobacter sp.	0.28	27.5	0.673	
+162308
+AF-A0A1F5UXC2-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Firestonebacteria bacterium RIFOXYC2_FULL_39_67	0.30	30.8	0.673	
+162318
+AF-A0A7Y5C0N6-F1-model_v4	NADH-quinone oxidoreductase	Flavobacteriales bacterium	0.30	25.3	0.672	
+161317
+AF-A0A316E0D1-F1-model_v4	NADH-quinone oxidoreductase	Tumebacillus permanentifrigoris	0.44	25.8	0.672	
+121315
+AF-A0A1G1MPT7-F1-model_v4	NADH-quinone oxidoreductase	Omnitrophica WOR_2 bacterium RBG_13_44_8	0.25	31.7	0.672	
+168318
+AF-A0A359L5C2-F1-model_v4	NADH-quinone oxidoreductase chain 5	Marinilabiliales bacterium	0.30	31	0.672	
+161317
+AF-A0A7C7M8B8-F1-model_v4	NADH-quinone oxidoreductase	Dehalococcoidia bacterium	0.28	28.7	0.672	
+161312
+AF-A0A1G1NH23-F1-model_v4	NADH-quinone oxidoreductase subunit C	Omnitrophica WOR_2 bacterium RIFCSPHIGHO2_02_FULL_67_20	0.30	30.6	0.672	
+161318
+AF-A0A1Q3SXM3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium 54-19	0.30	31	0.671	
+161316
+AF-A0A7C4DQU2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.33	29	0.671	
+159316
+AF-A0A1F4XJN6-F1-model_v4	NADH-quinone oxidoreductase	candidate division Zixibacteria bacterium RBG_16_43_9	0.33	31.2	0.670	
+161316
+AF-A0A381WGA8-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.33	24.2	0.670	
+159318
+AF-A0A7X3GEV7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus sp. MMS18-CY102	0.54	24.2	0.670	
+52318
+AF-A0A359DXL3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Flavobacteriaceae bacterium	0.25	24.4	0.670	
+164306
+AF-A0A3M1RWL6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Schekmanbacteria bacterium	0.30	30	0.669	
+161318
+AF-A0A3A4W353-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobacteraceae bacterium	0.33	31.3	0.669	
+161318
+AF-A0A7X7UK45-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacteroidales bacterium	0.33	30	0.669	
+159317
+AF-A0A524PPK2-F1-model_v4	NADH-quinone oxidoreductase	Anaerolineales bacterium	0.25	25.1	0.669	
+163306
+AF-A0A3C2CYK3-F1-model_v4	NADH-quinone oxidoreductase chain 5	Prolixibacteraceae bacterium	0.30	30.3	0.669	
+162318
+AF-A0A5N8ZEQ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	SAR202 cluster bacterium	0.33	24.2	0.669	
+160318
+AF-A0A2N1UKK2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospira bacterium HGW-Nitrospira-1	0.35	26.8	0.668	
+160318
+AF-A0A7X7V0D8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ignavibacteriales bacterium	0.33	21.6	0.668	
+163318
+AF-A0A7Z9INP0-F1-model_v4	NADH-quinone oxidoreductase	Dehalococcoidia bacterium	0.28	31.1	0.666	
+161313
+AF-A0A7J4AAR0-F1-model_v4	Complex1_30kDa domain-containing protein	Crenarchaeota archaeon	0.25	31.3	0.666	
+161313
+AF-D8K0K7-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Dehalogenimonas lykanthroporepellens BL-DC-9	0.28	30.1	0.666	
+160317
+AF-A0A7W1S1Y2-F1-model_v4	NADH-quinone oxidoreductase	Solirubrobacterales bacterium	0.28	26.7	0.665	
+160313
+AF-A0A1F9VIW8-F1-model_v4	NADH-quinone oxidoreductase	Elusimicrobia bacterium RIFOXYA12_FULL_49_49	0.30	25.3	0.664	
+161318
+AF-A0A2G9SNW6-F1-model_v4	NADH-quinone oxidoreductase subunit C	[Chlorobium] sp. 445	0.35	30.4	0.663	
+161318
+AF-A0A2M7STR6-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium CG_4_10_14_0_8_um_filter_46_9	0.30	21.5	0.663	
+163318
+AF-E4RYP3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Leadbetterella byssophila DSM 17132	0.33	29.4	0.663	
+159318
+AF-A0A1V9FSG7-F1-model_v4	NADH-quinone oxidoreductase	Niastella vici	0.30	27.4	0.662	
+161318
+AF-A0A7V5P3S5-F1-model_v4	NADH-quinone oxidoreductase	Deltaproteobacteria bacterium	0.33	30	0.662	
+164318
+AF-Q0PIJ5-F1-model_v4	NAD(P)H-quinone oxidoreductase 27 kDa subunit	Heliobacterium mobile	0.30	22.5	0.662	
+160318
+AF-A0A7Y3GX04-F1-model_v4	NADH-quinone oxidoreductase subunit C	Myxococcales bacterium	0.30	24.2	0.661	
+164316
+AF-A0A521D0Z0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Aliifodinibius sediminis	0.33	35.5	0.661	
+164318
+AF-A0A7C1EIB0-F1-model_v4	NADH-quinone oxidoreductase	Firmicutes bacterium	0.28	21	0.661	
+164318
+AF-A0A7Y5FP67-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ignavibacteriaceae bacterium	0.33	24.2	0.661	
+162318
+AF-A0A2V8LQE9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.41	22.3	0.660	
+100318
+AF-A0A5N8YCQ0-F1-model_v4	NADH-quinone oxidoreductase subunit C	SAR202 cluster bacterium AC-647-N09_OGT_505m	0.35	25.1	0.660	
+149318
+AF-A0A832KHR8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.30	25.9	0.659	
+158316
+AF-A0A383CIC3-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.23	23.2	0.658	
+158301
+AF-A0A6V8P3D6-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Hakubanella thermoalkaliphilus	0.33	25.7	0.658	
+160318
+AF-A0A7Z9UBS3-F1-model_v4	NADH-quinone oxidoreductase	Phycisphaerales bacterium	0.33	29.3	0.658	
+158318
+AF-A0A7J2M367-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Korarchaeota archaeon	0.25	18.7	0.657	
+164315
+AF-A0A497GU25-F1-model_v4	Complex1_30kDa domain-containing protein	Thermoprotei archaeon	0.28	26.9	0.657	
+163318
+AF-A0A063YL64-F1-model_v4	Complex1_30kDa domain-containing protein	Geobacillus sp. CAMR12739	0.20	49.3	0.657	
+160318
+AF-A0A1F9NY80-F1-model_v4	NADH-quinone oxidoreductase	Desulfobacterales bacterium RIFOXYA12_FULL_46_15	0.33	30.8	0.656	
+162318
+AF-A0A2N5JLM1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cyanobacteria bacterium M5B4	0.21	27.3	0.656	
+164299
+AF-A0A4Y8IEF4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Marinimicrobia bacterium MT.SAG.4	0.33	36.2	0.656	
+164318
+AF-A0A2E6NSV7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.30	30.8	0.656	
+161318
+AF-A0A7X7Z3J5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Myxococcales bacterium	0.30	29	0.655	
+160318
+AF-A0A7Y5LS04-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.38	22	0.655	
+156318
+AF-A0A497LPX1-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Bathyarchaeota archaeon	0.30	26	0.655	
+159315
+AF-A0A1V5IQ05-F1-model_v4	NADH-quinone oxidoreductase	Actinobacteria bacterium ADurb.BinA094	0.33	30.1	0.655	
+161316
+AF-A0A7Y5LC27-F1-model_v4	NADH-quinone oxidoreductase	bacterium	0.28	26	0.654	
+161318
+AF-A0A2E0G8F3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Hyphomicrobiales bacterium	0.30	32.2	0.654	
+165318
+AF-A0A1M7F5M8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chryseobacterium contaminans	0.33	26.9	0.653	
+164318
+AF-A0A2E7HAW6-F1-model_v4	NADH-quinone oxidoreductase	Dehalococcoidia bacterium	0.25	25	0.653	
+160313
+AF-A0A6B3I025-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID8455	0.18	33.3	0.652	
+185315
+AF-A0A524C7P2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Heimdallarchaeota archaeon	0.25	23.7	0.652	
+162318
+AF-A0A1T3FCC4-F1-model_v4	NADH-quinone oxidoreductase	Elizabethkingia ursingii	0.33	25.9	0.652	
+162318
+AF-A0A3D9B4H9-F1-model_v4	NADH-quinone oxidoreductase	Chryseobacterium pennipullorum	0.33	25.7	0.652	
+164318
+AF-E0NYQ4-F1-model_v4	Respiratory-chain NADH dehydrogenase, 30 Kd subunit	Selenomonas sp. oral taxon 149 str. 67H29BP	0.30	29.2	0.651	
+165318
+AF-D6A4S8-F1-model_v4	Dehydrogenase	Streptomyces viridosporus ATCC 14672	0.28	21.2	0.651	
+162318
+AF-A0A1Y3QAR0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium ZCTH02-B6	0.35	23.2	0.651	
+150318
+AF-A0A7J2UUU4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Euryarchaeota archaeon	0.30	24.5	0.651	
+164318
+AF-A0A497TP16-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Aenigmarchaeota archaeon	0.14	19.8	0.651	
+161311
+AF-A0A2H0CE29-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Omnitrophica bacterium CG22_combo_CG10-13_8_21_14_all_43_16	0.23	27.8	0.651	
+163311
+AF-A0A2H5XGC1-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium HR17	0.33	30.8	0.650	
+164318
+AF-A0A7L9CBC4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetia bacterium	0.33	29.4	0.650	
+164318
+AF-A0A536PTE9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.18	28.5	0.650	
+194318
+AF-A2T336-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	Angiopteris evecta	0.30	24.8	0.649	
+163318
+AF-A0A2H9I0W0-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Bathyarchaeota archaeon B24-2	0.28	26.2	0.649	
+161317
+AF-A0A419QM14-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.30	27	0.649	
+163318
+AF-J8LT28-F1-model_v4	NADH (Or F420H2) dehydrogenase, subunit C	Bacillus cereus VD166	0.84	43	0.649	
+58318
+AF-A1ALP1-F1-model_v4	NADH dehydrogenase subunit C	Pelobacter propionicus DSM 2379	0.28	20.1	0.649	
+164318
+AF-A0A7K3Z220-F1-model_v4	NADH-quinone oxidoreductase subunit C	Crenarchaeota archaeon	0.23	23	0.648	
+164312
+AF-A0A349PPU9-F1-model_v4	NADH-quinone oxidoreductase	Flavobacterium sp.	0.21	25	0.648	
+162300
+AF-A0A6H1XJX1-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	Leucanthemum vulgare	0.28	26	0.648	
+159318
+AF-A0A353D293-F1-model_v4	NADH-quinone oxidoreductase	Gammaproteobacteria bacterium	0.33	28.9	0.648	
+158318
+AF-A0A7D3QE86-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	Dalbergia martinii	0.28	25.4	0.648	
+159318
+AF-D6CJV9-F1-model_v4	NADH-quinone oxidoreductase subunit C	uncultured bacterium	0.28	33.3	0.648	
+164316
+AF-A0A3M1V182-F1-model_v4	NADH-quinone oxidoreductase subunit C	Euryarchaeota archaeon	0.30	35	0.648	
+161317
+AF-A0A7J2JGT1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Methanomethylicia archaeon	0.23	23.5	0.648	
+165315
+AF-E4RVX3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Leadbetterella byssophila DSM 17132	0.33	26.9	0.647	
+162318
+AF-A0A845JX59-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospinae bacterium	0.30	28.3	0.647	
+160316
+AF-A0A849ZQ35-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Sumerlaeia bacterium	0.25	30.2	0.647	
+169318
+AF-A0A662GK52-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoprotei archaeon	0.25	33.5	0.647	
+162317
+AF-A0A7C4UVD1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anaerolineae bacterium	0.30	28.9	0.647	
+162318
+AF-A0A7C1B5J7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.30	28.6	0.647	
+162318
+AF-A0A7X3R9M1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadetes bacterium	0.41	25.1	0.647	
+123318
+AF-A0A1F9JKF3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium RIFCSPLOWO2_12_55_13	0.33	31.4	0.647	
+164318
+AF-M4YJK4-F1-model_v4	NADH:ubiquinone oxidoreductase 27 kD subunit	Thermoplasmatales archaeon BRNA1	0.30	22.3	0.647	
+160317
+AF-A0A7V4PQC6-F1-model_v4	NADH-quinone oxidoreductase	Deltaproteobacteria bacterium	0.33	28.4	0.647	
+157316
+AF-A0A151EEB9-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Proteinoplasmatales archaeon SG8-5	0.28	20.1	0.647	
+161317
+AF-A0A7C3JL79-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium	0.33	29.6	0.647	
+164318
+AF-A0A3C0JP62-F1-model_v4	Complex1_30kDa domain-containing protein	Dehalococcoidia bacterium	0.38	24.4	0.646	
+147318
+AF-A0A2B8A667-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Nephrothrix sp. EaCA	0.20	28.1	0.646	
+182318
+AF-A0A662SNU2-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Korarchaeota archaeon	0.23	22.6	0.645	
+165318
+AF-A0A2E7QQR3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anaerolineaceae bacterium	0.35	31.1	0.645	
+161318
+AF-A0A7Y5QQ03-F1-model_v4	NADH-quinone oxidoreductase subunit C	Flavobacteriales bacterium	0.33	23.3	0.645	
+160318
+AF-A0A660U5J5-F1-model_v4	Complex1_30kDa domain-containing protein	Spirochaetes bacterium	0.18	17.4	0.645	
+165313
+AF-A0A0J1FMH2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfosporosinus acididurans	0.30	25.6	0.645	
+159318
+AF-A0A2V6UMG4-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Rokubacteria bacterium	0.23	24.8	0.645	
+161312
+AF-A0A832JEN4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.28	21.7	0.644	
+161316
+AF-A0A521D8D7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Melghirimyces algeriensis	0.54	33.4	0.644	
+105318
+AF-A0A532U8W3-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium (candidate division B38) B3_B38	0.33	33.1	0.644	
+161318
+AF-A0A532U238-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium B3_Chlor	0.25	27.6	0.644	
+160315
+AF-A0A6G1YTX7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrosopumilales archaeon	0.33	21.3	0.644	
+153318
+AF-A0A662KSG6-F1-model_v4	Complex1_30kDa domain-containing protein	Thermoplasmata archaeon	0.28	29.4	0.644	
+164317
+AF-A0A1H9NNA7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Flavobacterium frigoris	0.35	22.8	0.643	
+162318
+AF-A0A6V8PH99-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Hakubanella thermoalkaliphilus	0.30	19.4	0.643	
+157313
+AF-A0A3D3YRY8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Dehalococcoidia bacterium	0.16	28.7	0.642	
+161291
+AF-A0A7D4XR31-F1-model_v4	NAD(P)H-quinone oxidoreductase	Loxothysanus sinuatus	0.21	24.8	0.642	
+159305
+AF-A0A1V4TBH2-F1-model_v4	F(420)H(2) dehydrogenase subunit C	Methanomassiliicoccales archaeon PtaB.Bin134	0.28	27.4	0.642	
+164316
+AF-A0A1J5F2J8-F1-model_v4	NADH-quinone oxidoreductase	Desulfobacterales bacterium CG2_30_60_27	0.23	22.9	0.641	
+162313
+AF-K2EV61-F1-model_v4	NADH-quinone oxidoreductase subunit C	uncultured bacterium	0.33	28.1	0.641	
+147318
+AF-A0A1N7JMX3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kroppenstedtia eburnea	0.54	34.7	0.641	
+109318
+AF-A0A0J0V8M4-F1-model_v4	NADH dehydrogenase	Geobacillus sp. T6	0.91	42.8	0.641	
+40318
+AF-A0A2N2JBA4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-14	0.30	26.7	0.641	
+161318
+AF-A0A7C0YU78-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Aenigmarchaeota archaeon	0.18	19.7	0.641	
+165311
+AF-A0A832HRI8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Verrucomicrobia subdivision 3 bacterium	0.33	19.7	0.641	
+89317
+AF-A0A7C5Z7B9-F1-model_v4	Complex1_30kDa domain-containing protein	bacterium	0.23	24	0.640	
+161311
+AF-A0A1F6H320-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Lambdaproteobacteria bacterium RIFOXYD2_FULL_56_26	0.30	26.8	0.640	
+160318
+AF-A0A7X8AFS5-F1-model_v4	NADH-quinone oxidoreductase	Caldisericales bacterium	0.16	30.4	0.640	
+191315
+AF-A0A523B326-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Nezhaarchaeota archaeon WYZ-LMO8	0.28	22.8	0.638	
+163317
+AF-T1CVL2-F1-model_v4	NADH dehydrogenase, subunit C	mine drainage metagenome	0.33	27	0.637	
+160318
+AF-A0A286TU25-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Scalindua japonica	0.38	28.3	0.637	
+141316
+AF-A0A832PGR8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermodesulfovibrio thiophilus	0.33	29.4	0.636	
+160316
+AF-A0A7Y5H6N1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Brocadiae bacterium	0.33	23.9	0.636	
+159318
+AF-A0A3B1C9P5-F1-model_v4	NADH-ubiquinone oxidoreductase chain C	hydrothermal vent metagenome	0.33	28.9	0.636	
+158316
+AF-A0A2H5X9R3-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium HR17	0.35	25.3	0.635	
+159317
+AF-A0A7L4Q885-F1-model_v4	NADH-quinone oxidoreductase subunit C	Methanomassiliicoccales archaeon	0.28	29.4	0.635	
+164318
+AF-A0A497MFS2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.23	20.6	0.635	
+165318
+AF-A0A1G3PJ23-F1-model_v4	Complex1_30kDa domain-containing protein	Spirochaetes bacterium GWF1_51_8	0.28	22.8	0.634	
+161318
+AF-A0A7X9FWK9-F1-model_v4	NADH-quinone oxidoreductase	Acidobacteria bacterium	0.21	23.3	0.634	
+163307
+AF-A0A1F9AQT3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium RBG_13_61_14	0.33	30.2	0.634	
+162318
+AF-A0A3D4AIU0-F1-model_v4	NADH-quinone oxidoreductase	Anaerovibrio sp.	0.30	25.8	0.634	
+160317
+AF-A0A1Q7UGB5-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Rokubacteria bacterium 13_1_20CM_4_68_9	0.15	23.8	0.633	
+167299
+AF-A0A3M1FI07-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium	0.33	28.9	0.633	
+164318
+AF-A0A257A314-F1-model_v4	Complex1_30kDa domain-containing protein	Desulfurococcales archaeon ex4484_217_1	0.33	18.9	0.633	
+151318
+AF-A0A3M0ZC67-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Dadabacteria bacterium	0.30	28.2	0.633	
+165318
+AF-A0A7G8ZNS9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Hyphobacterium sp. CCMP332	0.21	23	0.633	
+162311
+AF-A0A497GN41-F1-model_v4	Complex1_30kDa domain-containing protein	Thermoprotei archaeon	0.23	20	0.632	
+163313
+AF-A0A7C3IXG4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Methanomethylicus mesodigestus	0.25	21.3	0.632	
+162318
+AF-A0A497LH36-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.23	21.5	0.632	
+168318
+AF-A0A7T9GJ17-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.30	29.3	0.632	
+161315
+AF-A0A7C2FLR7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.35	25.4	0.631	
+160317
+AF-T0ZZ36-F1-model_v4	NADH:ubiquinone oxidoreductase, 30 kDa subunit domain protein	mine drainage metagenome	0.15	28.4	0.631	
+192318
+AF-A0A832DST5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Calditrichia bacterium	0.30	29.2	0.631	
+162318
+AF-A0A3L7QU76-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	28.4	0.631	
+169318
+AF-A0A1F8NDX9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium RBG_13_66_10	0.33	27.3	0.631	
+163318
+AF-A0A1V5LVE8-F1-model_v4	NADH-quinone oxidoreductase subunit C 1	bacterium ADurb.Bin425	0.25	30.1	0.630	
+173318
+AF-A0A1F9VLC5-F1-model_v4	Complex1_30kDa domain-containing protein	Elusimicrobia bacterium RIFOXYA12_FULL_49_49	0.16	21.6	0.630	
+160318
+AF-A0A7J3AQI1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Euryarchaeota archaeon	0.30	30.8	0.630	
+161318
+AF-A0A3M0YDL7-F1-model_v4	NAD(P)H-quinone oxidoreductase	Cyanobacteria bacterium J149	0.28	19.9	0.629	
+88312
+AF-A0A7C4FLK9-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.25	21.2	0.629	
+161318
+AF-A0A497TAI4-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Aenigmarchaeota archaeon	0.13	23.4	0.629	
+188315
+AF-A0A398BEY9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Peribacillus asahii	0.57	41.3	0.629	
+68318
+AF-A0A7C2K7V5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.30	28.6	0.629	
+163318
+AF-A0A533S2Y4-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.23	22.4	0.628	
+164313
+AF-A0A352JIE2-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Pseudanabaena sp.	0.30	24.4	0.628	
+157318
+AF-D6GVJ3-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Candidatus Parvarchaeum acidophilus ARMAN-5	0.25	25.4	0.628	
+165318
+AF-A0A151BPN3-F1-model_v4	Membrane bound hydrogenase subunit mbhK	Candidatus Bathyarchaeota archaeon B26-2	0.25	21.4	0.628	
+161316
+AF-A0A6N8YM52-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.35	11.7	0.628	
+40318
+AF-A0A256XQ16-F1-model_v4	NADH:ubiquinone oxidoreductase	Thermofilum sp. ex4484_82	0.25	24.2	0.628	
+161318
+AF-A0A521KWL0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirae bacterium	0.16	21	0.628	
+167296
+AF-B0BDD5-F1-model_v4	NAD(P)H-quinone oxidoreductase	Aglaia korthalsii	0.13	27.6	0.627	
+185301
+AF-A0A6V8Q5N5-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Candidatus Hakubanella thermoalkaliphilus	0.16	24.3	0.627	
+191313
+AF-A0A1F2XAV0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinobacteria bacterium RBG_16_68_21	0.21	26.4	0.627	
+172318
+AF-A0A7C0WVD2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobacteraceae bacterium	0.14	34.7	0.627	
+200317
+AF-A0A662SF99-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Korarchaeota archaeon	0.21	22	0.627	
+162318
+AF-A0A353CQS2-F1-model_v4	Proton-conducting membrane transporter	Elusimicrobia bacterium	0.28	19.1	0.626	
+158318
+AF-A0A3R7FAD2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.23	23	0.626	
+162318
+AF-A0A537VQE8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.28	27.9	0.626	
+161318
+AF-A0A662T126-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Korarchaeota archaeon	0.28	25.4	0.626	
+160318
+AF-A0A523YLK2-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Aerophobetes bacterium	0.23	23.1	0.626	
+164312
+AF-A0A2A9HF95-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium G233	0.30	21.6	0.626	
+160318
+AF-A0A497LGV7-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Bathyarchaeota archaeon	0.30	24.2	0.625	
+162317
+AF-A0A3A0D0G5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.33	26.3	0.625	
+162317
+AF-A0A800MFT0-F1-model_v4	NADH-quinone oxidoreductase	Planctomycetota bacterium	0.15	29.9	0.625	
+198318
+AF-A0A235B831-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paludifilum halophilum	0.54	35.6	0.625	
+109318
+AF-A0A7X9ISY5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Myxococcales bacterium	0.30	26.5	0.625	
+162318
+AF-A0A1V4RSD6-F1-model_v4	NADH-quinone oxidoreductase	candidate division KSB1 bacterium 4484_188	0.25	19.7	0.625	
+164318
+AF-Q8DJ01-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Thermosynechococcus vestitus BP-1	0.28	17.4	0.625	
+80317
+AF-A0A0P0N5E3-F1-model_v4	NADH-ubiquinone oxidoreductase chain C	Pyrodictium delaneyi	0.21	20.7	0.624	
+162315
+AF-A0A2M6Z845-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Hydrogenedentes bacterium CG07_land_8_20_14_0_80_42_17	0.23	31.5	0.624	
+159318
+AF-A0A1G3ZDZ0-F1-model_v4	Complex1_30kDa domain-containing protein	Verrucomicrobia bacterium GWF2_62_7	0.12	29	0.624	
+199313
+AF-A0A662FW42-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoprotei archaeon	0.20	22.8	0.624	
+160310
+AF-A0A7T9K9D8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chlorobi bacterium	0.33	29.2	0.624	
+161318
+AF-A0A832FZE3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Aeropyrum sp.	0.28	21.5	0.624	
+161318
+AF-A0A3N5SIG9-F1-model_v4	NADH-quinone oxidoreductase	Spirochaetales bacterium	0.25	22	0.623	
+164317
+AF-A0A4R4EBU5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus albiflavus	0.54	20.2	0.623	
+10318
+AF-D0INT8-F1-model_v4	NADH dehydrogenase	Asterella mussuriensis	0.13	29.5	0.623	
+189304
+AF-A0A6B2C3Z1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfurococcales archaeon	0.20	21.2	0.623	
+165313
+AF-A0A7V0NT38-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.28	28.7	0.622	
+156318
+AF-Q6ANM6-F1-model_v4	Probable NADH dehydrogenase, subunit 9	Desulfotalea psychrophila LSv54	0.25	24.5	0.622	
+164313
+AF-A0A7W1FPN7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Rubrobacteraceae bacterium	0.25	24.8	0.622	
+161316
+AF-A0A842RL06-F1-model_v4	Uncharacterized protein	Candidatus Heimdallarchaeota archaeon	0.30	26.6	0.622	
+158317
+AF-A0A1F3BKI6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anaeromyxobacter sp. RBG_16_69_14	0.30	24.5	0.622	
+162316
+AF-A0A351B303-F1-model_v4	NADH-quinone oxidoreductase	Desulfobacterales bacterium	0.23	18.5	0.622	
+164318
+AF-D3P9P4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deferribacter desulfuricans SSM1	0.28	20.5	0.622	
+162318
+AF-A0A1G1MPV0-F1-model_v4	Complex1_30kDa domain-containing protein	Omnitrophica WOR_2 bacterium RBG_13_44_8	0.25	18.4	0.622	
+161312
+AF-A0A502GE50-F1-model_v4	NADH-quinone oxidoreductase subunit C	Hymenobacter nivis	0.35	25.7	0.621	
+157318
+AF-A0A7Y5FD98-F1-model_v4	NADH-quinone oxidoreductase	Ignavibacteriaceae bacterium	0.20	26	0.621	
+162301
+AF-A0A800A0W6-F1-model_v4	NADH-quinone oxidoreductase	Armatimonadetes bacterium	0.25	22.5	0.621	
+164316
+AF-A0A843EGS9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Methanomethylophilaceae archaeon	0.28	24.8	0.621	
+164317
+AF-A0A660TSQ2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Spirochaetes bacterium	0.25	18.5	0.621	
+164318
+AF-A0A7C4W8A1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.20	19.2	0.620	
+165312
+AF-A0A3N5X035-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.23	17.1	0.620	
+161315
+AF-A0A1U9KAU2-F1-model_v4	NADH-quinone oxidoreductase	Novibacillus thermophilus	0.54	32.4	0.620	
+101318
+AF-B0Z4D5-F1-model_v4	NAD(P)H-quinone oxidoreductase	Hyphaene petersiana	0.11	30.4	0.620	
+200308
+AF-A0A256ZRM1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfurococcales archaeon ex4484_217_2	0.28	22.2	0.620	
+160318
+AF-A0A662SJ37-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Korarchaeota archaeon	0.20	17.2	0.619	
+164310
+AF-A0A3B8WM05-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Marinobacter nauticus	0.25	22.1	0.619	
+155302
+AF-A0A7C2ASW7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Dadabacteria bacterium	0.30	26.5	0.619	
+164317
+AF-A0A1Z4QEU7-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Cylindrospermum sp. NIES-4074	0.30	19.9	0.618	
+93318
+AF-A9B4Z6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Herpetosiphon aurantiacus DSM 785	0.30	28	0.618	
+164317
+AF-A0A151F428-F1-model_v4	Complex1_30kDa domain-containing protein	Theionarchaea archaeon DG-70	0.12	23.3	0.618	
+194311
+AF-A0A7J2JRW7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Korarchaeota archaeon	0.30	24.4	0.617	
+158318
+AF-A0A2E7LM29-F1-model_v4	Complex1_30kDa domain-containing protein	Dehalococcoidia bacterium	0.33	16.9	0.617	
+70318
+AF-A0A7V1HZN0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirae bacterium	0.23	32.2	0.617	
+179316
+AF-A0A7X7JYR6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anaerolineales bacterium	0.28	18.7	0.617	
+158318
+AF-A0A2N2NK28-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium HGW-Chloroflexi-3	0.25	20.8	0.617	
+159312
+AF-A0A2N2EYI7-F1-model_v4	NADH-quinone oxidoreductase	Elusimicrobia bacterium HGW-Elusimicrobia-1	0.21	26.1	0.616	
+164313
+AF-A0A1N6QPV5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Halanaerobium kushneri	0.28	18.2	0.616	
+161318
+AF-A0A1I0SIG0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anoxybacillus pushchinoensis	0.60	43.1	0.616	
+68318
+AF-A0A7C6IDK1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Propionibacterium sp.	0.13	20.6	0.616	
+192312
+AF-A0A7D5MND8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cyclobacteriaceae bacterium	0.30	32.9	0.615	
+164318
+AF-A0A351UGY0-F1-model_v4	Proton-conducting membrane transporter	Elusimicrobia bacterium	0.28	22.8	0.615	
+159318
+AF-A0A7C3EZ34-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Methanomethylicus mesodigestus	0.28	20	0.615	
+161316
+AF-A0A2E5GZ63-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadetes bacterium	0.33	25.6	0.615	
+164318
+AF-A0A7V0N0X2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Aerophobetes bacterium	0.28	21.8	0.615	
+164318
+AF-Q31P07-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Synechococcus elongatus PCC 7942 = FACHB-805	0.30	19	0.615	
+90318
+AF-X0ZTC4-F1-model_v4	Complex1_30kDa domain-containing protein	marine sediment metagenome	0.14	28.9	0.615	
+164291
+AF-A0A7V3PP22-F1-model_v4	NADH-quinone oxidoreductase	Armatimonadetes bacterium	0.33	28.1	0.615	
+162318
+AF-A0A7C1WBQ9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Fraserbacteria bacterium	0.35	30.6	0.614	
+158318
+AF-A0A661KFI4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium	0.25	16.7	0.614	
+162318
+AF-A0A832Z5Y2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Pyrodictium sp.	0.20	20.8	0.614	
+168310
+AF-A0A7K0LJ76-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.25	32.4	0.614	
+169318
+AF-A0A7J4B218-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Aenigmarchaeota archaeon	0.20	19.8	0.614	
+162311
+AF-E6PZ77-F1-model_v4	NADH dehydrogenase I chain C, NuoC	mine drainage metagenome	0.10	33.3	0.614	
+210316
+AF-A0A523PV37-F1-model_v4	NADH-quinone oxidoreductase	Planctomycetota bacterium	0.23	22.5	0.613	
+176317
+AF-A0A7V4H2F4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Verrucomicrobia subdivision 3 bacterium	0.25	23.2	0.613	
+162313
+AF-A0A4R4PJS7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kribbella albertanoniae	0.28	25.3	0.613	
+166318
+AF-D6GWZ4-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Candidatus Parvarchaeum acidophilus ARMAN-5	0.15	24.2	0.613	
+161318
+AF-A0A7W0SVZ6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Geodermatophilaceae bacterium	0.28	19.1	0.613	
+159318
+AF-Q2JT68-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Synechococcus sp. JA-3-3Ab	0.33	16.3	0.613	
+61318
+AF-X1KC11-F1-model_v4	Complex1_30kDa domain-containing protein	marine sediment metagenome	0.25	18.4	0.613	
+164313
+AF-A0A562YG32-F1-model_v4	NADH-quinone oxidoreductase subunit C	Seonamhaeicola sp. W255	0.33	25.9	0.613	
+164317
+AF-A0A8B0U5A4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Synergistetes bacterium	0.30	15.3	0.612	
+164318
+AF-A0A2S9FD64-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mycobacterium sp. ITM-2017-0098	0.25	28.4	0.612	
+173318
+AF-B0BDH3-F1-model_v4	NAD(P)H-quinone oxidoreductase	Fritillaria micrantha	0.11	33.6	0.612	
+204310
+AF-A0A4Y6CT84-F1-model_v4	NADH-quinone oxidoreductase subunit C	Myxococcus xanthus	0.28	31.8	0.611	
+169316
+AF-A0A4V1SFZ4-F1-model_v4	NADH-quinone oxidoreductase	Sphingobacteriales bacterium	0.33	22.1	0.611	
+157318
+AF-A0A7S6N0H4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ignavibacteriales bacterium	0.30	27.9	0.611	
+164318
+AF-Q9XBL6-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Trichormus variabilis ATCC 29413	0.30	19.5	0.611	
+90318
+AF-A0A496VJE1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gammaproteobacteria bacterium	0.28	14.8	0.611	
+158318
+AF-A0A2N9LYD0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Sulfotelmatobacter sp. SbA7	0.38	20.8	0.611	
+108318
+AF-A0A7X9HN70-F1-model_v4	NADH-quinone oxidoreductase	Myxococcales bacterium	0.33	28.7	0.611	
+164318
+AF-A0A7C2PA38-F1-model_v4	NADH-quinone oxidoreductase subunit C	Caldimicrobium sp.	0.30	31.2	0.611	
+164318
+AF-A0A256ZJF1-F1-model_v4	Complex1_30kDa domain-containing protein	Desulfurococcales archaeon ex4484_217_2	0.28	21	0.610	
+160318
+AF-E6W2P5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfurispirillum indicum S5	0.30	26.2	0.610	
+165316
+AF-A0A3A4JXR8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Myxococcales bacterium	0.30	25.6	0.610	
+165316
+AF-A0A7C4V132-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Woesearchaeota archaeon	0.21	26.6	0.609	
+164317
+AF-A0A838W3D6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrosopumilus sp.	0.14	29.9	0.609	
+198317
+AF-A0A7V2NRM7-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Cloacimonetes bacterium	0.21	22.2	0.609	
+164312
+AF-A0A3B1BYC2-F1-model_v4	NADH-ubiquinone oxidoreductase chain C	hydrothermal vent metagenome	0.33	28.2	0.608	
+156316
+AF-A0A3N5X2Z4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Dehalococcoidia bacterium	0.21	24.8	0.608	
+161311
+AF-A0A3L7YSY9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Aquidulcis sp.	0.33	27	0.608	
+161318
+AF-A0A6A0QWJ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.30	24.8	0.608	
+150318
+AF-A0A0K1HPJ5-F1-model_v4	NADH dehydrogenase subunit 9	Acanthamoeba castellanii	0.33	20.9	0.608	
+159318
+AF-A0A1F2QCU7-F1-model_v4	NADH-quinone oxidoreductase	Acidobacteria bacterium RBG_16_64_8	0.14	37.1	0.608	
+205318
+AF-A0A3E0KJQ5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.35	27.5	0.608	
+150318
+AF-A0A7J4USD4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Halobacteriales archaeon	0.21	30.1	0.607	
+172316
+AF-A0A7C2P5X7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Caldimicrobium sp.	0.25	29.3	0.606	
+167317
+AF-A0A2E7GDX8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bdellovibrionaceae bacterium	0.35	23.7	0.606	
+153316
+AF-A0A401ID70-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Aphanothece sacrum FPU1	0.30	18.5	0.606	
+88318
+AF-A0A0S7BYT2-F1-model_v4	Ni,Fe-hydrogenase III component G	Flexilinea flocculi	0.25	15.7	0.606	
+159316
+AF-A0A3G9IZM6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nocardioides baekrokdamisoli	0.28	26	0.606	
+158318
+AF-A0A177PUJ6-F1-model_v4	NADH-quinone oxidoreductase	bacterium SCGC AG-212-C10	0.28	23.1	0.606	
+162318
+AF-A0A350CZR8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Aquificaceae bacterium	0.25	19.7	0.606	
+160316
+AF-A0A7J3U4Q4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmatales archaeon	0.21	17.1	0.606	
+162318
+AF-A0A6J6KJS6-F1-model_v4	Unannotated protein	freshwater metagenome	0.28	23.4	0.605	
+158318
+AF-A0A7J4PC84-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmata archaeon	0.30	18.2	0.605	
+164318
+AF-A0A524PBT0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anaerolineales bacterium	0.28	21	0.605	
+161318
+AF-A0A7Y2EDC9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Eisenbacteria bacterium	0.35	24.2	0.605	
+147318
+AF-A0A419JUQ2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Bathyarchaeota archaeon	0.16	24.2	0.605	
+184317
+AF-A0A2H0T7M0-F1-model_v4	Complex1_30kDa domain-containing protein	Parcubacteria group bacterium CG10_big_fil_rev_8_21_14_0_10_36_14	0.21	15.9	0.605	
+161316
+AF-A0A7W8JGR5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anoxybacillus mongoliensis	0.54	46.5	0.604	
+108318
+AF-A0A2W4QF20-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.30	24.1	0.604	
+160318
+AF-A0A2B7ZU66-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Nephrothrix sp. EaCA	0.20	31.2	0.604	
+165318
+AF-A0A5C6UUR0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bradymonadales bacterium TMQ1	0.30	21.8	0.604	
+161318
+AF-M1Q7X7-F1-model_v4	NAD(P)H-quinone oxidoreductase	Ulva intestinalis	0.12	31	0.604	
+208318
+AF-A0A7J5EXJ9-F1-model_v4	NADH-quinone oxidoreductase	Kofleriaceae bacterium	0.30	27.3	0.604	
+161316
+AF-A0A191T4F4-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	Spirogyra maxima	0.30	26.8	0.604	
+163318
+AF-A0A800G0A3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadetes bacterium	0.33	27.4	0.604	
+161318
+AF-A0A537VYP2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.30	29.4	0.604	
+162318
+AF-A0A7X7UZC1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ignavibacteriales bacterium	0.21	30	0.603	
+182318
+AF-C9VXH6-F1-model_v4	NAD(P)H-quinone oxidoreductase	Cattleya brevipedunculata	0.13	28.5	0.603	
+202318
+AF-A0A533RRN0-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.25	18.2	0.603	
+161317
+AF-A0A419GS10-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gaiellales bacterium	0.30	30.3	0.603	
+161318
+AF-A0A356KR92-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.20	27.2	0.603	
+182318
+AF-A0A101XPZ4-F1-model_v4	NADH-quinone oxidoreductase	Acidibacillus ferrooxidans	0.44	23.6	0.603	
+104318
+AF-R4FCL0-F1-model_v4	NADH dehydrogenase subunit C	Anoxybacillus flavithermus NBRC 109594	0.72	44.5	0.603	
+71318
+AF-A0A023U9M8-F1-model_v4	NADH-plastoquinone oxidoreductase subunit J	Alpinia malaccensis	0.11	29.9	0.603	
+209318
+AF-A0A133V043-F1-model_v4	Complex1_30kDa domain-containing protein	candidate division MSBL1 archaeon SCGC-AAA259M10	0.16	22.6	0.603	
+163318
+AF-A0A6B2CBN0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfurococcales archaeon	0.30	22	0.603	
+155318
+AF-A0A660LS05-F1-model_v4	NADH-quinone oxidoreductase subunit C	Campylobacter sp.	0.28	24.5	0.602	
+150308
+AF-A0A800G009-F1-model_v4	NADH-quinone oxidoreductase	Planctomycetota bacterium	0.28	19.3	0.602	
+164317
+AF-A0A800MG70-F1-model_v4	NADH-quinone oxidoreductase	Planctomycetota bacterium	0.28	20.8	0.602	
+165317
+AF-A0A7C4TKC9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.30	21.8	0.602	
+159318
+AF-A0A381QDY4-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.15	32.3	0.602	
+199318
+AF-A0A7W0GP60-F1-model_v4	NADH-quinone oxidoreductase	Pyrinomonadaceae bacterium	0.23	25.9	0.602	
+171318
+AF-A0A3M1FMT6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Dadabacteria bacterium	0.33	32.3	0.602	
+158316
+AF-A0A7V9DUT6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Geodermatophilaceae bacterium	0.20	23.9	0.601	
+179318
+AF-A0A832JEK9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.35	29.8	0.601	
+157318
+AF-A0A3B7RDT7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Hymenobacter oligotrophus	0.33	25.9	0.601	
+162318
+AF-A0A0S8FTV1-F1-model_v4	Complex1_30kDa domain-containing protein	candidate division WOR_3 bacterium SM23_42	0.16	28.9	0.601	
+185317
+AF-A0A381S7Z0-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.18	26.9	0.600	
+160318
+AF-A0A7C5DMX3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Dehalococcoidia bacterium	0.25	20.6	0.600	
+162318
+AF-A0A662EGA2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Acetothermia bacterium	0.23	22.8	0.600	
+162318
+AF-A0A662KU14-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmata archaeon	0.23	17.8	0.599	
+161313
+AF-A0A257HWZ3-F1-model_v4	NADH-quinone oxidoreductase	Chitinophagaceae bacterium BSSC1	0.33	32	0.599	
+160318
+AF-A0A5D2MUB8-F1-model_v4	Complex1_30kDa domain-containing protein	Gossypium tomentosum	0.15	25.9	0.599	
+196318
+AF-A0A4Y7X9K5-F1-model_v4	Complex1_30kDa domain-containing protein	Nitrospirales bacterium LBB_01	0.13	16.1	0.599	
+161310
+AF-A0A3B9QS16-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Acetothermia bacterium	0.28	19.8	0.599	
+162318
+AF-A0A1V4ZHR0-F1-model_v4	F(420)H(2) dehydrogenase subunit C	Methanoregula sp. PtaU1.Bin006	0.23	23.2	0.599	
+161317
+AF-A0A497G648-F1-model_v4	Complex1_30kDa domain-containing protein	Thermoprotei archaeon	0.25	24.3	0.598	
+161318
+AF-A0A1M4W6N5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Marinitoga hydrogenitolerans DSM 16785	0.25	16.2	0.598	
+161318
+AF-A0A0H2SXQ8-F1-model_v4	NADH dehydrogenase	Marinitoga sp. 1197	0.28	17.8	0.598	
+159318
+AF-A0A543AUV8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Stackebrandtia endophytica	0.41	17.2	0.598	
+90318
+AF-N6WSK2-F1-model_v4	Ni,Fe-hydrogenase III component G	Thermoplasmatales archaeon SCGC AB-539-C06	0.28	19.7	0.596	
+164318
+AF-A0A1F9V242-F1-model_v4	NADH-quinone oxidoreductase subunit C	Elusimicrobia bacterium RIFCSPLOWO2_01_FULL_64_13	0.20	25.8	0.595	
+154318
+AF-A0A521T8C4-F1-model_v4	NADH-quinone oxidoreductase	Acidobacteria bacterium	0.25	27.7	0.595	
+164316
+AF-A0A3A6PG06-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus pinisoli	0.54	43.1	0.595	
+144318
+AF-A0A7R6WF59-F1-model_v4	NADH dehydrogenase subunit 9	Haptophyceae sp. NIES-3900	0.30	17	0.595	
+162318
+AF-A0A356FBY3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.33	23.2	0.595	
+162318
+AF-A0A2H9MH06-F1-model_v4	NADH-quinone oxidoreductase subunit F	Euryarchaeota archaeon CG01_land_8_20_14_3_00_38_12	0.21	22.9	0.594	
+164307
+AF-A0A346Y424-F1-model_v4	NADH-ubiquinone oxidoreductase chain C	Euzebya pacifica	0.41	15.8	0.594	
+87318
+AF-A0A7C1WWF9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.33	22	0.594	
+154317
+AF-A0A7Y3PUA4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. S3(2020)	0.28	23.2	0.594	
+162318
+AF-A0A3C1PHV6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacteroidales bacterium	0.28	17.7	0.594	
+164318
+AF-A0A3N5YZ43-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.25	18	0.594	
+161318
+AF-A0A6N9TJQ2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Dissulfurirhabdus thermomarina	0.30	21.5	0.593	
+163318
+AF-A0A7C4FVD5-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.33	30.5	0.593	
+161318
+AF-A0A662EML4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Acetothermia bacterium	0.28	15.2	0.593	
+162316
+AF-A0A5D0S7F4-F1-model_v4	NADH-quinone oxidoreductase	Kosmotoga sp.	0.20	21.2	0.593	
+161312
+AF-T0ZQB2-F1-model_v4	NADH dehydrogenase, C subunit	mine drainage metagenome	0.13	24.6	0.593	
+172300
+AF-A0A7X3FKQ5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus lutrae	0.51	37.7	0.592	
+147318
+AF-A0A6H1WQ16-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermosulfurimonas marina	0.30	25.6	0.592	
+164317
+AF-A0A7K2YHD1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID3343	0.28	20.7	0.592	
+162318
+AF-A0A1G4RPX7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus tianmuensis	0.57	22.8	0.592	
+21318
+AF-A0A537W4Q5-F1-model_v4	NADH-quinone oxidoreductase	Actinomycetia bacterium	0.25	22.8	0.592	
+160312
+AF-A0A4Q7N9Y5-F1-model_v4	NADH-quinone oxidoreductase	Motilibacter rhizosphaerae	0.30	26.3	0.592	
+161318
+AF-A0A5D0NWV3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomadura chibensis	0.30	17.5	0.591	
+159318
+AF-A0A419EY15-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Abyssubacteria bacterium SURF_17	0.35	30.8	0.591	
+160318
+AF-A0A0S8HFV6-F1-model_v4	NADH-quinone oxidoreductase	Phycisphaerae bacterium SM23_33	0.25	23.3	0.591	
+152317
+AF-A0A7J4F559-F1-model_v4	Complex1_30kDa domain-containing protein	Thermoplasmata archaeon	0.23	14.6	0.590	
+152318
+AF-A0A533VA79-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thaumarchaeota archaeon	0.33	23.1	0.590	
+152317
+AF-A0A2H0YKG8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24	0.21	30.5	0.590	
+182318
+AF-A0A2E5FGC6-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.30	26	0.590	
+160318
+AF-A0A1Q3SID1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium 54-19	0.30	27	0.590	
+154318
+AF-A0A3D0DA99-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.33	25.7	0.590	
+159318
+AF-A0A6N8YU68-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium	0.30	26.8	0.589	
+161318
+AF-A0A2V6UHX1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Rokubacteria bacterium	0.33	28	0.589	
+162316
+AF-A0A7M4DKV0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Occultella aeris	0.54	19.2	0.589	
+122318
+AF-A0A7C3P1W6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.35	24	0.589	
+147318
+AF-A0A3M8CRS7-F1-model_v4	NADH-quinone oxidoreductase	Brevibacillus nitrificans	0.63	23.8	0.588	
+25318
+AF-A0A7X9JKW1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacteroidales bacterium	0.25	16.7	0.588	
+165318
+AF-A0A497GXW2-F1-model_v4	Hydrogenase	Thermoplasmata archaeon	0.28	18.9	0.588	
+164318
+AF-A0A2M9I627-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. TSRI0384-2	0.54	18.6	0.587	
+121318
+AF-A0A838HH23-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadetes bacterium	0.30	20.9	0.587	
+161318
+AF-A0A1I0CXM3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Salinibacillus kushneri	0.57	29.6	0.587	
+12318
+AF-A0A847AYH4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Elusimicrobia bacterium	0.10	23.6	0.587	
+199310
+AF-A0A7C4JV06-F1-model_v4	NADH-quinone oxidoreductase	Bacteroidetes bacterium	0.16	32.3	0.587	
+194318
+AF-A0A1M5QVP6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermosipho atlanticus DSM 15807	0.25	17.7	0.586	
+163318
+AF-A0A7V0NNA2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.28	25.4	0.586	
+159318
+AF-A0A257U6G5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetia bacterium 21-64-5	0.14	33.8	0.586	
+198318
+AF-A0A7X8AJH3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.33	24	0.586	
+144318
+AF-A0A520LYZ5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Verrucomicrobiaceae bacterium	0.30	22	0.585	
+162318
+AF-A0A1V6C272-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	bacterium ADurb.Bin132	0.16	29.6	0.585	
+191315
+AF-A0A271J519-F1-model_v4	NADH-quinone oxidoreductase subunit C	Rubrivirga marina	0.38	20	0.585	
+147318
+AF-A0A2M7KL88-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium CG_4_8_14_3_um_filter_66_20	0.33	33.5	0.585	
+147316
+AF-A0A7V5WKR8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobacteraceae bacterium	0.18	22.2	0.585	
+150313
+AF-A0A7X3VZ83-F1-model_v4	Complex1_30kDa domain-containing protein	Dehalococcoidia bacterium	0.38	21.9	0.584	
+144318
+AF-C7M2T9-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Acidimicrobium ferrooxidans DSM 10331	0.16	30.7	0.584	
+192318
+AF-A0A6G4X431-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces boncukensis	0.28	22.6	0.584	
+162318
+AF-A0A2N2LV79-F1-model_v4	Complex1_30kDa domain-containing protein	Chloroflexi bacterium HGW-Chloroflexi-7	0.20	17.9	0.584	
+169316
+AF-A0A535HT34-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.33	23.5	0.584	
+158318
+AF-A9WED8-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexus aurantiacus J-10-fl	0.25	24.5	0.584	
+161318
+AF-A0A2R6T682-F1-model_v4	Complex1_30kDa domain-containing protein	archaeon SCG-AAA382B04	0.25	14.8	0.584	
+164318
+AF-A0A840V2S5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Haloferula luteola	0.30	22.9	0.583	
+164318
+AF-A0A3A0G8S8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Proteobacteria bacterium	0.35	25.7	0.583	
+151316
+AF-A0A538R9P6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Rokubacteria bacterium	0.13	30.8	0.583	
+203316
+AF-A0A3N6G210-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. ADI91-18	0.47	18.9	0.583	
+127318
+AF-A0A524NCF3-F1-model_v4	NADH-quinone oxidoreductase	Myxococcales bacterium	0.15	30	0.583	
+198318
+AF-A0A7J3U6R7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmatales archaeon	0.25	12.9	0.583	
+161318
+AF-A0A0H4XGL6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Myxococcus hansupus	0.20	34.5	0.583	
+187316
+AF-A0A7C5J9D2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gammaproteobacteria bacterium	0.35	22.9	0.582	
+158318
+AF-A0A6F8ZJK3-F1-model_v4	NADH-quinone oxidoreductase	Firmicutes bacterium R50	0.15	25.1	0.582	
+194318
+AF-A0A7C6ICY4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Propionibacterium sp.	0.15	20.8	0.581	
+192318
+AF-A0A6N7W219-F1-model_v4	NADH-quinone oxidoreductase subunit C	Scrofimicrobium canadense	0.47	15.1	0.581	
+98318
+AF-A0A4R5F213-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nonomuraea mesophila	0.25	19.1	0.581	
+165318
+AF-A0A2K3J017-F1-model_v4	Complex1_30kDa domain-containing protein	Thermoplasmata archaeon M8B2D	0.20	20.9	0.581	
+182318
+AF-A0A538EM29-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.28	19.1	0.581	
+164318
+AF-A0A7V3YEM1-F1-model_v4	NADH-quinone oxidoreductase	bacterium	0.23	22.5	0.581	
+164311
+AF-A0A7I9VNB2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Anaeromyxobacter diazotrophicus	0.33	31.4	0.581	
+164318
+AF-A0A849RK78-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospira sp.	0.33	26.2	0.580	
+165318
+AF-A0A7C5L083-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gammaproteobacteria bacterium	0.28	16.9	0.580	
+161318
+AF-A0A7Y1YBG3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.28	16	0.580	
+61318
+AF-A0A831X715-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.35	29.8	0.580	
+160318
+AF-A0A7Y2A2E9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.28	18.3	0.580	
+160318
+AF-D6Y3I5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermobispora bispora DSM 43833	0.44	19.8	0.580	
+133318
+AF-A0A1D3NKG9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus mycoides	0.91	29.3	0.579	
+14318
+AF-A0A2E6RJJ8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.30	32	0.579	
+161318
+AF-A0A3M1M623-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium	0.25	26.5	0.579	
+163318
+AF-A0A0V8RVJ6-F1-model_v4	Complex1_30kDa domain-containing protein	Pyrodictium occultum	0.25	25.6	0.579	
+166318
+AF-A0A1G1NIC3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Omnitrophica WOR_2 bacterium RIFCSPHIGHO2_02_FULL_67_20	0.30	24.8	0.578	
+160316
+AF-A0A1F6C5C4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Handelsmanbacteria bacterium RIFCSPLOWO2_12_FULL_64_10	0.33	21.7	0.578	
+157318
+AF-A0A1F8RIZ9-F1-model_v4	NADH-quinone oxidoreductase	Chloroflexi bacterium RBG_16_64_32	0.35	22	0.577	
+144318
+AF-X0ZRG1-F1-model_v4	Complex1_30kDa domain-containing protein	marine sediment metagenome	0.13	34.7	0.577	
+206318
+AF-A0A7Y6I8S9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nonomuraea montanisoli	0.28	22	0.577	
+160318
+AF-A0A7W1I7M1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.16	22.5	0.577	
+160318
+AF-A0A2N1UR02-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Melainabacteria bacterium HGW-Melainabacteria-1	0.33	31	0.577	
+161316
+AF-A0A3A4B416-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bailinhaonella thermotolerans	0.28	23.5	0.577	
+164318
+AF-A0A1I0THF0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Rhodococcus kroppenstedtii	0.38	25.1	0.576	
+143318
+AF-A0A2S7XV81-F1-model_v4	NADH:ubiquinone oxidoreductase	Chromatium okenii	0.28	18.7	0.576	
+165318
+AF-A0A353FKS6-F1-model_v4	NADH-quinone oxidoreductase	Planctomycetota bacterium	0.33	20.4	0.576	
+159318
+AF-F8JXG3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488	0.47	18.4	0.576	
+124318
+AF-A0A7C0YHI0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirae bacterium	0.16	34.6	0.576	
+194317
+AF-C1AB37-F1-model_v4	NADH-quinone oxidoreductase chain C	Gemmatimonas aurantiaca T-27	0.23	22	0.576	
+175318
+AF-A0A7X3V5N4-F1-model_v4	NADH-quinone oxidoreductase	Dehalococcoidia bacterium	0.30	21.8	0.576	
+160318
+AF-A0A537ZA63-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.12	31.3	0.576	
+207318
+AF-A0A7C1WSL9-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Fraserbacteria bacterium	0.14	31.8	0.575	
+201318
+AF-A0A1Y0HW80-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cellulosimicrobium cellulans	0.54	17	0.575	
+119318
+AF-A0A6B2G905-F1-model_v4	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial	Myxobolus squamalis	0.33	24	0.575	
+158318
+AF-A0A660ZSP3-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.33	30	0.575	
+164318
+AF-A0A2G6MWP8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobacterales bacterium	0.25	21.4	0.575	
+164313
+AF-A0A2G6MFV0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobulbus propionicus	0.23	24.5	0.575	
+162313
+AF-A0A7V4EHK4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.28	28.3	0.575	
+160315
+AF-A0A0S8KG11-F1-model_v4	Complex1_30kDa domain-containing protein	candidate division Zixibacteria bacterium SM23_81	0.18	21	0.575	
+182318
+AF-A0A2N0KF65-F1-model_v4	Complex1_30kDa domain-containing protein	SAR202 cluster bacterium Casp-Chloro-G1	0.30	28.6	0.575	
+161318
+AF-A0A7V4TYP1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Caldithrix abyssi	0.28	22.2	0.574	
+163318
+AF-A0A705RAQ9-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Salmonella enterica	0.33	24	0.574	
+154318
+AF-A0A2D5C7S3-F1-model_v4	Complex1_30kDa domain-containing protein	Actinomycetia bacterium	0.25	21.5	0.574	
+162318
+AF-A0A2H5XV32-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium HR20	0.33	18.5	0.574	
+161318
+AF-A0A2T0UTB2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Glycomyces artemisiae	0.25	20.2	0.573	
+163318
+AF-A0A2V6VV09-F1-model_v4	NADH-quinone oxidoreductase	Candidatus Rokubacteria bacterium	0.25	25.8	0.573	
+164316
+AF-A0A843E212-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Methanomethylophilaceae archaeon	0.11	20.5	0.573	
+164280
+AF-A0A3B8U185-F1-model_v4	Complex1_30kDa domain-containing protein	Lachnospiraceae bacterium	0.12	11.7	0.573	
+161311
+AF-A0A6N6RNF2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Dadabacteria bacterium	0.30	28.9	0.572	
+163318
+AF-A0A1Q7Q9D8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium 13_1_40CM_3_65_7	0.33	27.3	0.572	
+161318
+AF-A0A7C5S3C3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	21	0.572	
+160318
+AF-A0A2N2M725-F1-model_v4	NADH-quinone oxidoreductase subunit NuoD	Chloroflexi bacterium HGW-Chloroflexi-7	0.11	22.4	0.572	
+153279
+AF-A0A519M9I3-F1-model_v4	NADH-quinone oxidoreductase	Flavobacterium sp.	0.10	33.6	0.572	
+214318
+AF-A0A7Y5FLN9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ignavibacteriaceae bacterium	0.13	33	0.572	
+208318
+AF-A0A7I7QG12-F1-model_v4	NADH-quinone oxidoreductase	Mycobacterium stomatepiae	0.15	14.5	0.571	
+160316
+AF-A0A6G7VBP1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Caldichromatium japonicum	0.12	19.4	0.571	
+160311
+AF-A0A7V3XCC6-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.33	31.9	0.571	
+164318
+AF-A0A511RK53-F1-model_v4	NADH-quinone oxidoreductase	Oceanithermus desulfurans NBRC 100063	0.20	25.5	0.571	
+182318
+AF-A0A1C4BRL0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gordonia sp. v-85	0.44	20	0.571	
+142318
+AF-A0A7Y3MVQ9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadetes bacterium	0.41	22.7	0.571	
+147318
+AF-A0A444QHH2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces albidoflavus	0.28	22.6	0.570	
+162318
+AF-A0A652LD12-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. ms191	0.44	18.2	0.570	
+128318
+AF-A0A2E4Y808-F1-model_v4	NADH-quinone oxidoreductase subunit C	Halobacteriovoraceae bacterium	0.33	27.3	0.570	
+165318
+AF-A0A1A3MCU1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mycolicibacterium fortuitum	0.38	23.7	0.569	
+140318
+AF-L0RE70-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Maridesulfovibrio hydrothermalis AM13 = DSM 14728	0.21	20	0.568	
+164311
+AF-A0A7W7VW01-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kitasatospora kifunensis	0.54	14.6	0.568	
+38318
+AF-A0A7V2JKK8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacteroidetes bacterium	0.33	26	0.568	
+161318
+AF-A0A7V9LTH6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Geodermatophilaceae bacterium	0.25	20.9	0.567	
+159318
+AF-A0A0Q7MHQ6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cellulomonas sp. Root485	0.44	16.8	0.567	
+106318
+AF-H5X7J4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Saccharomonospora marina XMU15	0.41	19.5	0.566	
+123318
+AF-A0A1I1JB87-F1-model_v4	NADH-quinone oxidoreductase subunit C	Klenkia taihuensis	0.38	22.4	0.566	
+147318
+AF-A0A6G3LEQ5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfurococcales archaeon	0.16	30.4	0.566	
+189318
+AF-A0A3E0KKQ1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.33	25.9	0.566	
+160318
+AF-A0A522B2X7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.30	24.2	0.566	
+160317
+AF-A0A6J7L2L9-F1-model_v4	Unannotated protein	freshwater metagenome	0.33	20.9	0.566	
+159318
+AF-G0EF57-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Pyrolobus fumarii 1A	0.23	19.6	0.565	
+162318
+AF-A0A7W0HEG6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.21	23.9	0.565	
+154318
+AF-A0A1X0HKW8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mycolicibacterium moriokaense	0.35	22.9	0.565	
+147318
+AF-A0A6P0HHI6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nocardioides zeae	0.38	18.9	0.565	
+146318
+AF-A0A832S3H2-F1-model_v4	Hydrogenase	Thermococcaceae archaeon	0.16	21.4	0.564	
+189318
+AF-A0A522YSW6-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.28	21.7	0.564	
+161318
+AF-A0A651HGR5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadales bacterium	0.33	28.5	0.564	
+159318
+AF-A0A2E6HTN3-F1-model_v4	Complex1_30kDa domain-containing protein	Chloroflexi bacterium	0.28	26.5	0.564	
+161318
+AF-A0A4V0X1Z4-F1-model_v4	NADH-quinone oxidoreductase	Actinomycetia bacterium	0.38	20.1	0.564	
+136318
+AF-A0A7W0DMY0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces himalayensis subsp. himalayensis	0.44	15.4	0.564	
+63318
+AF-A0A1F2W5Y4-F1-model_v4	Complex1_30kDa domain-containing protein	Actinobacteria bacterium RBG_16_67_10	0.25	18.2	0.563	
+160318
+AF-A0A1Y5Z2Y3-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	Bacillus pacificus	0.82	36.3	0.563	
+18318
+AF-A0A497GYD9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmata archaeon	0.18	17.6	0.563	
+189318
+AF-A0A537ZA44-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.28	28.5	0.563	
+160318
+AF-A0A1R1MJN1-F1-model_v4	NADH-quinone oxidoreductase	Desulfurobacterium indicum	0.20	23.2	0.562	
+168311
+AF-A0A7Y1YPP0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.25	23.4	0.562	
+159318
+AF-A0A2N9MY49-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Sulfotelmatobacter sp. SbA7	0.35	23.1	0.561	
+108318
+AF-A0A1I2CVA5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Flavimobilis marinus	0.44	18.4	0.561	
+138318
+AF-A0A536NWB9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.33	27.3	0.561	
+161318
+AF-A0A521L0Q0-F1-model_v4	NADH-quinone oxidoreductase	Planctomycetota bacterium	0.30	17.8	0.561	
+157318
+AF-A0A6N6N637-F1-model_v4	NADH-quinone oxidoreductase subunit C	Pseudodesulfovibrio senegalensis	0.20	23.1	0.561	
+167311
+AF-A0A6G3SFY5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID14478	0.44	19.3	0.560	
+132318
+AF-A0A4Y8CCA1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Campylobacter sp. CH185	0.16	16.6	0.560	
+147291
+AF-A0A2N6BYX4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobulbaceae bacterium	0.20	17	0.560	
+143314
+AF-A0A6J7ALW0-F1-model_v4	Unannotated protein	freshwater metagenome	0.14	16.8	0.559	
+196318
+AF-A0A1H3HK36-F1-model_v4	NADH-quinone oxidoreductase subunit C	Allochromatium warmingii	0.28	17.5	0.559	
+165318
+AF-U5WUV2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mycobacterium kansasii ATCC 12478	0.41	16	0.558	
+91318
+AF-A0A3C1FGJ5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Propionibacteriaceae bacterium	0.38	23.2	0.558	
+144318
+AF-T0DEV2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacteriovorax sp. BAL6_X	0.30	31.5	0.558	
+165318
+AF-A0A3D4WLV1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Micromonosporaceae bacterium	0.41	17.6	0.557	
+88318
+AF-A0A194AGZ2-F1-model_v4	NADH dehydrogenase	Desulfoplanes formicivorans	0.21	20.7	0.557	
+161311
+AF-A0A1G6GFG8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Raineyella antarctica	0.38	16.2	0.556	
+72318
+AF-K6VVT7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gordonia namibiensis NBRC 108229	0.38	22.4	0.556	
+147318
+AF-A0A0K1JR60-F1-model_v4	NADH-quinone oxidoreductase subunit C	Luteipulveratus mongoliensis	0.38	15.7	0.556	
+79318
+AF-A0A1Q6DJK4-F1-model_v4	Complex1_30kDa domain-containing protein	Desulfobulbaceae bacterium DB1	0.23	20.4	0.556	
+164313
+AF-A0A3D2KL83-F1-model_v4	NADH-quinone oxidoreductase subunit C	Clostridiales bacterium	0.33	18.7	0.556	
+114318
+AF-A0A1F2UJH5-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Aquicultor primus	0.25	22	0.556	
+161317
+AF-A0A2E6LFZ2-F1-model_v4	NADH-quinone oxidoreductase	Actinomycetia bacterium	0.28	22.8	0.556	
+159318
+AF-A0A498DVK6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. Z26	0.44	18.4	0.556	
+119318
+AF-A0A1I7HX03-F1-model_v4	NADH-quinone oxidoreductase	Alicyclobacillus macrosporangiidus	0.44	29.8	0.556	
+112316
+AF-A1AVR4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Ruthia magnifica str. Cm (Calyptogena magnifica)	0.28	21.5	0.556	
+162318
+AF-A0A535ZKZ8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.25	25.1	0.556	
+160318
+AF-A0A1H6WNG6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Demequina mangrovi	0.41	13.3	0.555	
+72318
+AF-A0A7W0XV64-F1-model_v4	NADH-quinone oxidoreductase subunit C	Geodermatophilaceae bacterium	0.25	20.2	0.555	
+162318
+AF-D1BW07-F1-model_v4	NADH-quinone oxidoreductase subunit C	Xylanimonas cellulosilytica DSM 15894	0.54	12.9	0.554	
+60318
+AF-A0A7C2BQ56-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.35	26.8	0.554	
+157318
+AF-A0A1Q5DP74-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. CB02058	0.38	20.9	0.554	
+148318
+AF-A0A2E2TZH9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Legionellales bacterium	0.35	24.1	0.554	
+159318
+AF-A0A7D3VTA6-F1-model_v4	NADH (Or F420H2) dehydrogenase subunit C	Actinomadura verrucosospora	0.30	18	0.554	
+160318
+AF-A0A7C5K9L5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.30	25	0.554	
+143318
+AF-A0A6I1YEG0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nocardioides sp. dk4132	0.44	19.8	0.553	
+124318
+AF-A0A2N2PLU5-F1-model_v4	NADH-quinone oxidoreductase subunit C	candidate division BRC1 bacterium HGW-BRC1-1	0.33	34.3	0.553	
+164318
+AF-A0A5D2M038-F1-model_v4	Complex1_30kDa domain-containing protein	Gossypium tomentosum	0.25	21.3	0.553	
+168318
+AF-A0A838SE75-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirales bacterium	0.30	26.1	0.553	
+160318
+AF-A0A1T4VTE2-F1-model_v4	NADH dehydrogenase subunit C	Paradesulfovibrio bizertensis DSM 18034	0.21	13.9	0.553	
+161318
+AF-A0A7K1I9U8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitriliruptoraceae bacterium ZYF776	0.35	14.4	0.552	
+85318
+AF-A0A7K0KKV8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.28	20.8	0.552	
+163318
+AF-A0A0Q3RGT5-F1-model_v4	Complex1_30kDa domain-containing protein	Brachypodium distachyon	0.12	21.2	0.552	
+173318
+AF-A0A1I2H5P6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus catalpae	0.57	20.8	0.552	
+8318
+AF-A0A4R4ZFT5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kribbella antibiotica	0.38	26	0.552	
+144318
+AF-A0A3M1TMX0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium	0.30	30	0.552	
+164316
+AF-A0A239BGM0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Humidesulfovibrio mexicanus	0.21	19.1	0.552	
+169311
+AF-E2SF31-F1-model_v4	NADH-quinone oxidoreductase subunit C	Aeromicrobium marinum DSM 15272	0.38	15.4	0.552	
+89318
+AF-A0A7V5PNL9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Caldithrix abyssi	0.30	22.4	0.551	
+158318
+AF-A0A365YRC2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. PT12	0.38	20.5	0.551	
+144318
+AF-A0A645CME0-F1-model_v4	NADH-quinone oxidoreductase subunit C	bioreactor metagenome	0.38	25	0.551	
+144318
+AF-A0A1H4X3J1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. PAN_FS17	0.44	20	0.551	
+132318
+AF-A0A1B6AJ84-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. NBRC 110611	0.51	18.7	0.550	
+124318
+AF-A0A1F9FHS4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Deltaproteobacteria bacterium RBG_16_71_12	0.30	28.2	0.550	
+161318
+AF-A0A1E7J0E9-F1-model_v4	Complex1_30kDa domain-containing protein	Desulfobacterales bacterium C00003060	0.13	10.1	0.550	
+161316
+AF-A0A1D8AV87-F1-model_v4	NADH-quinone oxidoreductase	Lacunisphaera limnophila	0.35	28.2	0.550	
+162318
+AF-A0A4Y8NG62-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. ICN441	0.41	18.5	0.550	
+139318
+AF-A0A1I0XJK2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cellulomonas marina	0.41	11.9	0.549	
+51318
+AF-A0A3E0KQ06-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.16	30.3	0.549	
+194318
+AF-A0A1F9ES93-F1-model_v4	Complex1_30kDa domain-containing protein	Deltaproteobacteria bacterium RBG_16_71_12	0.12	31.8	0.549	
+207316
+AF-Q5X1A9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Legionella pneumophila str. Paris	0.33	20.9	0.549	
+159318
+AF-A0A3D5W0U9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Micrococcales bacterium	0.41	13.8	0.548	
+65318
+AF-A0A349B0H4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiaceae bacterium	0.11	29.3	0.548	
+208318
+AF-A0A2A2WUN3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Dietzia natronolimnaea	0.38	17.6	0.548	
+143318
+AF-A0A6N2HSP3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. sk2.1	0.38	19.8	0.548	
+149318
+AF-A0A2E8CK87-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidiferrobacteraceae bacterium	0.35	25.6	0.548	
+153318
+AF-A0A355DFY3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiaceae bacterium	0.11	29.9	0.548	
+207318
+AF-A0A2V6G0F3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Verrucomicrobia bacterium	0.28	27.3	0.548	
+161316
+AF-A0A7C3SJQ5-F1-model_v4	NADH-quinone oxidoreductase	Desulfobacca acetoxidans	0.23	23.5	0.548	
+160312
+AF-A0A495K9V3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Williamsia muralis	0.38	25.9	0.547	
+144318
+AF-A0A523PDX1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Proteobacteria bacterium	0.35	25.1	0.547	
+158318
+AF-A0A7H8K4Y4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. NA04227	0.38	24.3	0.547	
+144318
+AF-A0A0B1U4Z7-F1-model_v4	NADH-ubiquinone oxidoreductase chain C	Desulfovibrio sp. TomC	0.21	19.3	0.547	
+164311
+AF-A0A4Q9DKW4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus thalictri	0.51	26.8	0.546	
+59318
+AF-A0A2E1GCJ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gordonia sp.	0.38	14.5	0.546	
+87318
+AF-A0A1W5LD29-F1-model_v4	NADH-quinone oxidoreductase subunit C	Methylacidiphilum sp. RTK17.1	0.30	23.8	0.546	
+160318
+AF-A0A3L7XHT5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.30	28.3	0.546	
+161318
+AF-A0A7J4KJF7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Methanoregulaceae archaeon	0.28	20	0.545	
+164318
+AF-A0A7W4CQU4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Tessaracoccus sp. MC1756	0.14	17.6	0.545	
+194318
+AF-A0A7C5G586-F1-model_v4	NADH-quinone oxidoreductase subunit C	Treponema sp.	0.28	19.7	0.545	
+164318
+AF-A0A3D3WSZ1-F1-model_v4	Complex1_30kDa domain-containing protein	Dehalococcoidia bacterium	0.44	13.9	0.545	
+66318
+AF-A0A1F8VET3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Coxiella sp. RIFCSPHIGHO2_12_FULL_42_15	0.35	22.4	0.545	
+161318
+AF-A0A3C0JQ51-F1-model_v4	NADH-quinone oxidoreductase	Dehalococcoidia bacterium	0.28	12.3	0.545	
+28312
+AF-A0A4Z1DG28-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces bauhiniae	0.41	19.9	0.545	
+136318
+AF-A0A0Q9T2Z7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus sp. Soil787	0.63	25.3	0.545	
+16318
+AF-A0A370BAD0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces corynorhini	0.38	22.9	0.545	
+144318
+AF-A0A1G6PDJ7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces prasinopilosus	0.41	21.3	0.544	
+139318
+AF-A0A2N3Q0I5-F1-model_v4	NADH-quinone oxidoreductase subunit F	Telmatospirillum siberiense	0.23	21.5	0.544	
+161311
+AF-A0A7J4F241-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmata archaeon	0.30	17.2	0.544	
+160318
+AF-A0A3S2V8K1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. San01	0.38	20.9	0.544	
+143318
+AF-A0A7C6LSX8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Intrasporangiaceae bacterium	0.38	20.9	0.544	
+144318
+AF-A0A6N7GBI7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Micromonosporaceae bacterium	0.38	14.1	0.544	
+50318
+AF-A0A1H2FPL0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Jiangella alkaliphila	0.54	13.3	0.544	
+29318
+AF-A0A5R9F7R3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces montanus	0.41	20.9	0.543	
+147318
+AF-A0A399FZI5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermobifida halotolerans	0.41	22.2	0.543	
+140318
+AF-A0A3L7XNY4-F1-model_v4	Complex1_30kDa domain-containing protein	Chloroflexi bacterium	0.30	26.3	0.543	
+161318
+AF-A0A2M7T8V1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Aquicultor secundus	0.25	27	0.543	
+161317
+AF-A0A7C5KKW7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gammaproteobacteria bacterium	0.35	20	0.542	
+159318
+AF-A0A399V912-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nakamurella silvestris	0.41	14.8	0.542	
+95318
+AF-A0A231PCB4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. XY006	0.38	22.4	0.542	
+149318
+AF-A0A7X6NZX8-F1-model_v4	NADH-quinone oxidoreductase	Actinomycetia bacterium	0.41	15	0.542	
+87318
+AF-A0A7C1XD39-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chlorobi bacterium	0.33	22.4	0.542	
+160318
+AF-A0A7K0LNS8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.15	20.3	0.542	
+195318
+AF-A0A0Q8E2V8-F1-model_v4	NADH dehydrogenase	Nocardioides sp. Root614	0.30	20.7	0.542	
+140304
+AF-A0A3M2FA92-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Hydrogenedentes bacterium	0.33	27.9	0.541	
+159318
+AF-A0A6H1JX24-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. RPA4-5	0.41	21.2	0.541	
+142318
+AF-A0A7C3JC62-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.28	25.4	0.541	
+162318
+AF-F2UA89-F1-model_v4	NADH dehydrogenase iron-sulfur protein 3	Salpingoeca rosetta	0.38	17	0.541	
+121318
+AF-B5GCX0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SPB074	0.51	15.1	0.541	
+49318
+AF-A0A2E6IX53-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gammaproteobacteria bacterium	0.30	20.2	0.540	
+165318
+AF-A0A1Y3PCK9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus thermozeamaize	0.57	41	0.540	
+129318
+AF-A0A2U1EF66-F1-model_v4	NADH-quinone oxidoreductase subunit C	Promicromonospora sukumoe	0.41	12.9	0.540	
+54318
+AF-A0A2V2YZU2-F1-model_v4	NADH-quinone oxidoreductase	Paenibacillus cellulosilyticus	0.57	26.7	0.539	
+48318
+AF-L8EDG3-F1-model_v4	NADH dehydrogenase subunit	Streptomyces rimosus subsp. rimosus ATCC 10970	0.25	17.7	0.539	
+162317
+AF-A0A1J5SZA1-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J	mine drainage metagenome	0.23	18.1	0.539	
+162313
+AF-A0A535HPD6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.30	21.2	0.539	
+164318
+AF-A0A2J9KMI9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mobiluncus mulieris	0.44	15.7	0.538	
+85318
+AF-A0A5Q4DGP0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadales bacterium	0.35	21.8	0.538	
+101318
+AF-A0A419SH26-F1-model_v4	NADH-quinone oxidoreductase	Ammoniphilus oxalaticus	0.69	24.2	0.538	
+15318
+AF-A0A7K0K0S3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mobiluncus porci	0.38	24.2	0.538	
+140318
+AF-A0A7V6ED17-F1-model_v4	NADH-quinone oxidoreductase	Verrucomicrobia subdivision 3 bacterium	0.25	21.9	0.537	
+162318
+AF-A0A0A2TBJ6-F1-model_v4	NADH dehydrogenase	Pontibacillus yanchengensis Y32	0.51	57.4	0.537	
+143318
+AF-A0A3N2D9C9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Salana multivorans	0.51	12	0.537	
+25318
+AF-A0A6I6WXL9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. NHF165	0.38	24.8	0.537	
+147318
+AF-A0A2P8DGK5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Haloactinopolyspora alba	0.47	14.4	0.536	
+50318
+AF-A0A7J9WVY1-F1-model_v4	Complex1_30kDa domain-containing protein	Actinomycetia bacterium	0.33	23.3	0.536	
+160318
+AF-A0A455SNE8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermosporothrix sp. COM3	0.33	28.3	0.536	
+158318
+AF-A0A7W0TK86-F1-model_v4	NADH-quinone oxidoreductase subunit C	Geodermatophilaceae bacterium	0.16	18.5	0.535	
+194318
+AF-A0A1H1GEH1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinopolyspora saharensis	0.38	25.4	0.535	
+144318
+AF-A0A7C5ZND4-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.33	20.5	0.535	
+158317
+AF-A0A2C5PRS7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus toyonensis	0.57	43.9	0.534	
+105318
+AF-S5VKK0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces collinus Tu 365	0.38	22.4	0.534	
+149318
+AF-A0A2R6GU39-F1-model_v4	NADH-quinone oxidoreductase subunit C	Halobacteriales archaeon QS_1_68_17	0.28	25.4	0.534	
+161316
+AF-A0A4S4BFM7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cohnella fermenti	0.57	27.6	0.534	
+60318
+AF-A0A2N6C2C7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobulbaceae bacterium	0.25	19.6	0.534	
+164313
+AF-A0A7Y1Y7J1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.30	21.2	0.534	
+157318
+AF-A0A7C2YD70-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.33	28.6	0.533	
+143318
+AF-A0A640W706-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmata archaeon	0.23	13.2	0.533	
+161315
+AF-A0A852X1Y0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Janibacter alkaliphilus	0.38	21.3	0.532	
+144318
+AF-A0A3D2WCK3-F1-model_v4	NADH-quinone oxidoreductase	Gemmatimonadetes bacterium	0.14	32.5	0.532	
+204318
+AF-A0A521SZ09-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.16	32.8	0.532	
+194317
+AF-A0A2E4QC97-F1-model_v4	NADH-quinone oxidoreductase subunit C	Legionellales bacterium	0.33	19.5	0.532	
+159318
+AF-A0A243GVZ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus thuringiensis serovar finitimus	0.75	30	0.532	
+17318
+AF-A0A6N8EBR3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Allochromatium palmeri	0.28	18.7	0.532	
+165318
+AF-A0A2A2D992-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces albireticuli	0.38	20.3	0.532	
+146318
+AF-A0A3D1X1Z2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Sphaerochaeta sp.	0.18	14.8	0.532	
+178318
+AF-A0A3D5M3J8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.30	14.7	0.531	
+85318
+AF-A0A7K2A946-F1-model_v4	NADH-quinone oxidoreductase	Acidimicrobiaceae bacterium	0.33	20.1	0.530	
+158318
+AF-A0A5B0B1H1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces apricus	0.38	22.7	0.530	
+147318
+AF-A0A850CSW4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kribbellaceae bacterium	0.38	21.5	0.530	
+147318
+AF-A0A2I0NZS9-F1-model_v4	NADH-quinone oxidoreductase subunit F	Methanomicrobiales archaeon HGW-Methanomicrobiales-4	0.28	18.8	0.529	
+164318
+AF-A0A3S4RC85-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomyces howellii	0.38	21.8	0.529	
+140318
+AF-A0A800K7C7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gemmatimonadetes bacterium	0.33	24.4	0.529	
+159318
+AF-A0A850DD55-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mycobacteriaceae bacterium	0.38	23.9	0.528	
+144318
+AF-A0A3E0KJK9-F1-model_v4	NADH-quinone oxidoreductase	Firmicutes bacterium	0.38	27.5	0.528	
+150318
+AF-A0A101H5F9-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Methanocalculus sp. 52_23	0.28	18.8	0.528	
+164318
+AF-A0A0A0J9R4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Knoellia sinensis KCTC 19936	0.41	13.9	0.528	
+39318
+AF-A0A6J4N5N6-F1-model_v4	NADH-quinone oxidoreductase subunit C	uncultured Nocardioides sp.	0.44	16.4	0.528	
+57318
+AF-D6Y3L9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermobispora bispora DSM 43833	0.25	17.7	0.527	
+163318
+AF-A0A381VC30-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.14	24	0.526	
+199318
+AF-A0A1G4AIC0-F1-model_v4	Complex1_30kDa domain-containing protein	Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8	0.25	20.8	0.526	
+164313
+AF-A0A0F6RIN4-F1-model_v4	Complex1_30kDa domain-containing protein	Citrobacter amalonaticus Y19	0.15	16.1	0.525	
+174315
+AF-A0A7Y2IQ49-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.28	24.2	0.524	
+158318
+AF-A0A4P6K004-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ktedonosporobacter rubrisoli	0.33	29.8	0.524	
+158318
+AF-A0A2I0N4Y9-F1-model_v4	NADH-quinone oxidoreductase subunit F	Thermoplasmata archaeon HGW-Thermoplasmata-2	0.28	15.3	0.524	
+165318
+AF-A0A0W8FHB7-F1-model_v4	Membrane bound hydrogenase, nife-hydrogenase mbhk	hydrocarbon metagenome	0.28	21.7	0.524	
+164318
+AF-A0A7W0KTW0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.33	20	0.524	
+155318
+AF-A0A1C4QAW9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. DvalAA-14	0.44	17.3	0.523	
+108318
+AF-A0A2A4Y895-F1-model_v4	NADH-quinone oxidoreductase subunit C	Ectothiorhodospiraceae bacterium	0.35	21.9	0.523	
+156318
+AF-A0A2N2IQF8-F1-model_v4	Complex1_30kDa domain-containing protein	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-17	0.30	8.9	0.523	
+14318
+AF-A0A6L5QV17-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kangiella sp. HZ709	0.35	22.6	0.522	
+158318
+AF-A0A1T4VY14-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paradesulfovibrio bizertensis DSM 18034	0.21	16.6	0.521	
+164311
+AF-A0A662AX12-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacteroidetes bacterium	0.13	19.3	0.521	
+203318
+AF-A0A7W0QZZ6-F1-model_v4	NADH-quinone oxidoreductase	Acidimicrobiia bacterium	0.33	19.5	0.520	
+142318
+AF-A0A1G6WWD8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Auraticoccus monumenti	0.41	18.5	0.520	
+135318
+AF-A0A2I0N723-F1-model_v4	NADH-quinone oxidoreductase subunit F	Thermoplasmata archaeon HGW-Thermoplasmata-1	0.28	20	0.519	
+164318
+AF-A0A7W1J1G4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	26.8	0.518	
+162316
+AF-A0A5S5C8K9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus methanolicus	0.60	27.6	0.518	
+27318
+AF-A0A4V2U246-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus sp. BK736	0.57	20	0.518	
+3318
+AF-A0A7C2BLZ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Firmicutes bacterium	0.33	27.4	0.518	
+158318
+AF-A0A3M8V4E9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces botrytidirepellens	0.28	16.3	0.518	
+162318
+AF-W9VKS7-F1-model_v4	Energy-conserving hydrogenase (Ferredoxin), subunit D	Imhoffiella purpurea	0.12	15	0.518	
+161311
+AF-A0A4Y8UKH9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Cellulomonas sp. HD19AZ1	0.41	19.4	0.518	
+145318
+AF-A0A2T7SZ29-F1-model_v4	NADH dehydrogenase	Streptomyces scopuliridis RB72	0.25	20.9	0.517	
+162318
+AF-A0A7T8HW89-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thiohalocapsa sp. PB-PSB1	0.25	16.9	0.517	
+161318
+AF-A0A397QL21-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. 19	0.38	21.6	0.517	
+149318
+AF-A0A1T4VSK1-F1-model_v4	Respiratory-chain NADH dehydrogenase, subunit	Paradesulfovibrio bizertensis DSM 18034	0.18	14.5	0.517	
+163315
+AF-A0A7G9R6Q4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nocardioides mesophilus	0.38	25.6	0.516	
+144318
+AF-A0A6I2G2U7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nocardia sp. SYP-A9097	0.38	26.4	0.516	
+144318
+AF-A0A238YH03-F1-model_v4	NADH dehydrogenase subunit C	Humidesulfovibrio mexicanus	0.20	16.1	0.516	
+161314
+AF-A0A4P5V895-F1-model_v4	Complex1_30kDa domain-containing protein	Chloroflexi bacterium	0.30	26.6	0.516	
+160318
+AF-A0A2G9ZV68-F1-model_v4	NADH-quinone oxidoreductase	Desulfobacterales bacterium CG23_combo_of_CG06-09_8_20_14_all_51_8	0.21	20.9	0.515	
+165311
+AF-A0A7K0A280-F1-model_v4	NADH-quinone oxidoreductase	Actinomycetia bacterium	0.14	31.8	0.515	
+194318
+AF-A0A6A0R1Y4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Armatimonadetes bacterium	0.28	20.9	0.514	
+156318
+AF-A0A497EHT4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.28	21.7	0.514	
+153316
+AF-S7UYF2-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Desulfovibrio sp. X2	0.21	16.1	0.513	
+161318
+AF-A0A4R1ZRU0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus sp. BK033	0.54	18.6	0.512	
+15318
+AF-A0A536ATI9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.25	24.8	0.511	
+159318
+AF-A0A831LDJ9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Methanoculleus sp.	0.28	21.7	0.511	
+164318
+AF-A0A1H6XGQ3-F1-model_v4	Respiratory-chain NADH dehydrogenase, subunit	Propionispira arboris	0.21	12.7	0.511	
+161315
+AF-A0A6B3AA29-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID8014	0.28	16.5	0.509	
+162318
+AF-A0A6G3SVQ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces anulatus	0.25	19.2	0.508	
+162318
+AF-A0A7C7Q7R2-F1-model_v4	NADH-quinone oxidoreductase	Armatimonadetes bacterium	0.28	20.7	0.508	
+160316
+AF-A0A418GAR3-F1-model_v4	NADH-quinone oxidoreductase	Escherichia coli	0.35	26.5	0.507	
+151318
+AF-A0A160ISB9-F1-model_v4	Complex1_30kDa domain-containing protein	Fictibacillus phosphorivorans	0.69	30.5	0.507	
+15318
+AF-A0A1Y3Q5N1-F1-model_v4	NADH-quinone oxidoreductase	Thermobacillus sp. ZCTH02-B1	0.54	22.8	0.507	
+10318
+AF-A0A2W6BK96-F1-model_v4	NADH-quinone oxidoreductase	Acidimicrobiales bacterium	0.18	23.9	0.507	
+186318
+AF-A0A7V9BZE1-F1-model_v4	NADH-quinone oxidoreductase	Actinomycetia bacterium	0.35	19.6	0.506	
+150318
+AF-A0A3M8D3K9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Brevibacillus panacihumi	0.63	17.6	0.505	
+17318
+AF-A0A7V5IDI2-F1-model_v4	NADH-quinone oxidoreductase	Deltaproteobacteria bacterium	0.28	26.2	0.505	
+163316
+AF-S7VA87-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Desulfovibrio sp. X2	0.20	12.1	0.504	
+161314
+AF-G2LJ15-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloracidobacterium thermophilum B	0.33	22.8	0.503	
+147318
+AF-A0A2G2VUG3-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	Capsicum baccatum	0.25	20	0.503	
+159318
+AF-A0A2D3W3P6-F1-model_v4	NADH-quinone oxidoreductase	Sulfurospirillum sp. UBA11407	0.33	21	0.502	
+147318
+AF-A0A1I3PWT4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus sp. UNC496MF	0.57	22.4	0.502	
+23318
+AF-A0A2V8LH44-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidobacteria bacterium	0.38	24.2	0.502	
+132318
+AF-Q0P851-F1-model_v4	NADH-quinone oxidoreductase	Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819	0.33	19.5	0.502	
+143318
+AF-A0A7M3MBE6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Oceanidesulfovibrio indonesiensis	0.21	21.2	0.501	
+159311
+AF-A0A7W1F4C3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	25	0.501	
+161316
+AF-A0A7Y2IN86-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidimicrobiia bacterium	0.28	19.4	0.500	
+156318
+AF-A0A534DJ49-F1-model_v4	NADH-quinone oxidoreductase subunit C	Gammaproteobacteria bacterium	0.35	21.4	0.500	
+158318
+AF-A0A4R6LRD9-F1-model_v4	Respiratory-subunit NADH dehydrogenase subunit	Enemella evansiae	0.16	24.2	0.499	
+191318
+AF-A0A7V9E494-F1-model_v4	NADH-quinone oxidoreductase subunit C	Geodermatophilaceae bacterium	0.44	15.7	0.499	
+113318
+AF-D8TE80-F1-model_v4	Complex1_30kDa domain-containing protein	Selaginella moellendorffii	0.25	20.8	0.499	
+158318
+AF-A0A6G4UCT2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces coryli	0.28	20.6	0.498	
+162318
+AF-A0A504YL00-F1-model_v4	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial	Fasciola gigantica	0.35	19.8	0.497	
+156318
+AF-A0A497JXV1-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Bathyarchaeota archaeon	0.23	17.8	0.496	
+163311
+AF-A0A2T5C7V4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfonatronum sp. SC1	0.25	17	0.496	
+135312
+AF-A0A7J4F269-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermoplasmata archaeon	0.23	17.7	0.495	
+161312
+AF-H1Z3Q7-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Methanoplanus limicola DSM 2279	0.28	17.1	0.494	
+164318
+AF-A0A497L841-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Bathyarchaeota archaeon	0.21	11.9	0.494	
+161311
+AF-C7Q2D8-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Catenulispora acidiphila DSM 44928	0.20	17.2	0.494	
+167318
+AF-A0A1H0NTX7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nakamurella panacisegetis	0.44	13.6	0.493	
+40318
+AF-A0A7U6KRE8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Psychrobacter sp. KH172YL61	0.33	25	0.493	
+156318
+AF-A0A5J6T6Z5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Tepidiforma bonchosmolovskayae	0.28	32	0.492	
+161318
+AF-A0A7W1TBP9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	24.5	0.491	
+162316
+AF-A0A2N1JWR5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus sp. SN10	0.54	45.4	0.491	
+93318
+AF-A0A2S7N263-F1-model_v4	NADH-quinone oxidoreductase subunit C	Pradoshia eiseniae	0.69	31.4	0.491	
+52318
+AF-A0A2T0RMJ2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Pseudosporangium ferrugineum	0.35	16	0.491	
+160318
+AF-A0A2T2V370-F1-model_v4	NADH-quinone oxidoreductase	Bacteroidetes bacterium QS_9_68_14	0.10	35.4	0.491	
+215318
+AF-A0A849IX76-F1-model_v4	Formate hydrogenase	Acidimicrobiaceae bacterium	0.13	16.1	0.490	
+160316
+AF-A0A2D7RXF7-F1-model_v4	NADH-quinone oxidoreductase	Acidimicrobiaceae bacterium	0.15	21.1	0.490	
+195318
+AF-F4N743-F1-model_v4	Complex1_30kDa domain-containing protein	Yersinia enterocolitica W22703	0.38	17.1	0.490	
+105317
+AF-A0A3N5ZGD9-F1-model_v4	NADH-quinone oxidoreductase	Acidobacteria bacterium	0.21	19.6	0.490	
+165316
+AF-A0A849A4S6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nakamurella aerolata	0.38	23.1	0.490	
+147318
+AF-A0A256ZSG9-F1-model_v4	Complex1_30kDa domain-containing protein	Desulfurococcales archaeon ex4484_217_2	0.20	25.8	0.489	
+163311
+AF-A0A5N6N0N2-F1-model_v4	Complex1_30kDa domain-containing protein	Mikania micrantha	0.20	23.4	0.488	
+163301
+AF-A0A7T9M1P1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Peribacillus psychrosaccharolyticus	0.63	23.3	0.488	
+15318
+AF-A0A2H0AUG4-F1-model_v4	NADH-quinone oxidoreductase subunit F	Chloroflexi bacterium CG23_combo_of_CG06-09_8_20_14_all_45_10	0.18	20.2	0.488	
+182318
+AF-A0A3L7JHM9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Falsibacillus albus	0.63	48.5	0.487	
+118318
+AF-A0A317GUD3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.33	29.6	0.486	
+159318
+AF-A0A0F4JQF8-F1-model_v4	Dehydrogenase	Streptomyces katrae	0.25	17.2	0.486	
+162318
+AF-A0A7V9G813-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	24	0.486	
+163316
+AF-E4WYW8-F1-model_v4	Complex I-30kD	Oikopleura dioica	0.35	20.3	0.484	
+158318
+AF-A0A5D0QLI2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nonomuraea sp. PA05	0.33	11.7	0.484	
+26318
+AF-A0A1V2NY18-F1-model_v4	NADH dehydrogenase	Kribbella sp. ALI-6-A	0.30	24.5	0.483	
+161318
+AF-A0A4R4QSN2-F1-model_v4	NADH-quinone oxidoreductase	Micromonospora sp. 15K316	0.33	15.2	0.483	
+160318
+AF-Q72XF5-F1-model_v4	NADH dehydrogenase I, C subunit, putative	Bacillus cereus ATCC 10987	0.69	25.4	0.483	
+17318
+AF-A0A6I5DTE5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID5474	0.28	14.7	0.483	
+162318
+AF-A0A2V8GZZ1-F1-model_v4	NADH-quinone oxidoreductase subunit F	Acidobacteria bacterium	0.23	21.2	0.482	
+163316
+AF-A0A4Q7X954-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kribbella soli	0.25	24	0.481	
+170318
+AF-A0A7J7BC86-F1-model_v4	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial	Abscondita terminalis	0.33	25.6	0.480	
+163318
+AF-A0A329MDI3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Paenibacillus contaminans	0.54	22	0.480	
+26318
+AF-A0A7K0CIV0-F1-model_v4	Putative NAD(P)H-quinone oxidoreductase subunit J	Streptomyces smaragdinus	0.28	16	0.480	
+162318
+AF-A0A7W8FFD8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfovibrio intestinalis	0.25	12	0.479	
+159313
+AF-A0A379T6D2-F1-model_v4	Formate hydrogenlyase subunit 5	Salmonella enterica subsp. arizonae	0.20	23.1	0.479	
+167317
+AF-A0A542X8B3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Barrientosiimonas humi	0.38	25.6	0.478	
+144318
+AF-A0A4S8PBA0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Glycomyces paridis	0.25	18.9	0.476	
+159318
+AF-A0A4U3LRY9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kribbella jiaozuonensis	0.28	22	0.474	
+165318
+AF-A0A429U021-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. WAC05374	0.25	21.1	0.472	
+162318
+AF-D9WRF0-F1-model_v4	Putative NADH dehydrogenase	Streptomyces himastatinicus ATCC 53653	0.28	21.6	0.470	
+162318
+AF-A0A0F6FW32-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus thuringiensis serovar kurstaki	0.63	31.4	0.469	
+43318
+AF-A0A1Q2CJY9-F1-model_v4	Complex1_30kDa domain-containing protein	Tessaracoccus aquimaris	0.12	16.9	0.468	
+181318
+AF-A0A7C2YUJ4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Chloroflexi bacterium	0.33	28.4	0.468	
+150318
+AF-A0A2E1PZG5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Candidatus Marinimicrobia bacterium	0.33	16.6	0.467	
+135318
+AF-A0A7V9BPW4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.14	30.5	0.466	
+195318
+AF-A0A7Y3NJS3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Sphingomonas sp. ID1715	0.30	28.4	0.464	
+160318
+AF-A0A2B3LJJ6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus thuringiensis	0.51	38.9	0.463	
+95318
+AF-A0A3A6NDM3-F1-model_v4	Complex1_30kDa domain-containing protein	Acholeplasma sp.	0.09	28.7	0.460	
+219318
+AF-A0A2T0ZRX9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Antricoccus suffuscus	0.44	11.8	0.460	
+11318
+AF-A0A2G9R3L8-F1-model_v4	Complex I-30kD	Lithobates catesbeianus	0.35	9.8	0.459	
+14318
+AF-A0A2N2FL26-F1-model_v4	Complex1_30kDa domain-containing protein	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-8	0.20	18.2	0.458	
+161315
+AF-A0A522YNA4-F1-model_v4	Complex1_30kDa domain-containing protein	bacterium	0.28	22.6	0.458	
+164316
+AF-A0A255GCS9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Enemella evansiae	0.16	24.2	0.457	
+191318
+AF-A0A7V8WN44-F1-model_v4	NADH-quinone oxidoreductase subunit C	Actinomycetia bacterium	0.16	20.6	0.456	
+161318
+AF-K2F2H5-F1-model_v4	Membrane-bound [NiFe]-hydrogenase-3, large subunit (Chain E)	uncultured bacterium	0.21	21.5	0.454	
+165317
+AF-A0A5C4MMW9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Mumia zhuanghuii	0.18	21.4	0.452	
+185318
+AF-A0A6M0Q979-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus mesophilus	0.57	30.3	0.450	
+50318
+AF-A0A7K2L2X8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID6041	0.25	19.2	0.448	
+162318
+AF-F8K3X0-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Streptantibioticus cattleyicolor NRRL 8057 = DSM 46488	0.25	19.5	0.448	
+162318
+AF-A0A7C5A6H7-F1-model_v4	NADH-quinone oxidoreductase	Anaerolineae bacterium	0.25	28.6	0.448	
+159318
+AF-A0A3M2LKN4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces triticirhizae	0.25	17.1	0.446	
+159318
+AF-A0A7W9MWI1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Kribbella italica	0.30	19.7	0.444	
+161318
+AF-A0A382N486-F1-model_v4	Complex1_30kDa domain-containing protein	marine metagenome	0.33	21.4	0.443	
+155318
+AF-A0A498KYL3-F1-model_v4	Uncharacterized protein	Halorientalis pallida	0.30	28.3	0.443	
+157316
+AF-A0A2V6X3X7-F1-model_v4	Complex1_30kDa domain-containing protein	Candidatus Rokubacteria bacterium	0.23	12	0.442	
+164318
+AF-A0A370GD26-F1-model_v4	NADH dehydrogenase subunit C	Falsibacillus pallidus	0.57	19	0.440	
+15318
+AF-A0A7W1NDL6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.28	21.8	0.439	
+161317
+AF-A0A3D9V6N0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Thermasporomyces composti	0.30	19.6	0.437	
+163318
+AF-A0A1V2RJ32-F1-model_v4	NADH-quinone oxidoreductase subunit C 1	Streptomyces sp. MP131-18	0.25	20.2	0.435	
+159318
+AF-A0A1M6TDG9-F1-model_v4	NADH:ubiquinone oxidoreductase subunit (Chain C)	Actinacidiphila paucisporea	0.28	20.6	0.434	
+162318
+AF-A0A7V8IY97-F1-model_v4	NADH-quinone oxidoreductase subunit C	Planctomycetota bacterium	0.20	25.8	0.434	
+153318
+AF-A0A522YM90-F1-model_v4	NADH-quinone oxidoreductase subunit C	bacterium	0.14	14.7	0.428	
+146317
+AF-B1ZUJ1-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Opitutus terrae PB90-1	0.20	12.4	0.428	
+17313
+AF-A0A4Y8Y124-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. 4R-3d	0.25	15.1	0.426	
+163318
+AF-A0A4R7MSQ9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. 846.5	0.25	15.6	0.425	
+163318
+AF-A0A7C3E4D1-F1-model_v4	NADH-quinone oxidoreductase subunit D	Armatimonadetes bacterium	0.35	34.1	0.424	
+164318
+AF-T1BU36-F1-model_v4	Secreted protein containing NADH:ubiquinone oxidoreductase, 30 kDa subunit domain protein	mine drainage metagenome	0.25	8.7	0.424	
+23315
+AF-A0A212JY41-F1-model_v4	Respiratory-chain NADH dehydrogenase, 30 Kd subunit (Modular protein)	uncultured delta proteobacterium	0.21	18.8	0.424	
+162312
+AF-A0A523AI29-F1-model_v4	F420H(2):quinone oxidoreductase	Archaeoglobi archaeon	0.30	20.6	0.423	
+152318
+AF-A0A7J9WLA0-F1-model_v4	Complex1_30kDa domain-containing protein	Nitriliruptorales bacterium	0.30	25.3	0.422	
+162318
+AF-X1G703-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.12	9.3	0.421	
+162308
+AF-A0A7W3ZNC5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces alkaliterrae	0.28	20	0.420	
+162318
+AF-A0A539DSK9-F1-model_v4	NADH-quinone oxidoreductase subunit B	Acidimicrobiaceae bacterium	0.33	20.8	0.416	
+156318
+AF-A0A2M7F4V4-F1-model_v4	NADH-quinone oxidoreductase subunit D	Nitrospirae bacterium CG17_big_fil_post_rev_8_21_14_2_50_50_9	0.28	25.8	0.416	
+166316
+AF-A0A3B9JE95-F1-model_v4	NADH-quinone oxidoreductase	Anaerolineae bacterium	0.30	22.5	0.413	
+158318
+AF-A0A1C5DNK9-F1-model_v4	NADH:ubiquinone oxidoreductase subunit (Chain C)	Streptomyces sp. MnatMP-M17	0.25	18.6	0.411	
+162318
+AF-A0A7U3UV64-F1-model_v4	Putative NADH dehydrogenase	Streptomyces sp. SN-593	0.28	14.7	0.408	
+161318
+AF-A0A286FN37-F1-model_v4	NADH:ubiquinone oxidoreductase subunit (Chain C)	Streptomyces sp. Ag109_G2-15	0.28	21.6	0.407	
+159318
+AF-A0A3C1QDH1-F1-model_v4	Uncharacterized protein	Nitrospira sp.	0.28	22	0.406	
+161317
+AF-A0A353XBR8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfofustis sp.	0.28	24	0.406	
+159317
+AF-A0A3Q8USS1-F1-model_v4	Dehydrogenase	Streptomyces sp. WAC 06738	0.25	16.4	0.406	
+162318
+AF-F7S543-F1-model_v4	NADH-quinone oxidoreductase subunit C	Acidiphilium sp. PM	0.41	26.8	0.405	
+146318
+AF-A0A7R9GER3-F1-model_v4	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial	Notodromas monacha	0.35	23.2	0.403	
+155318
+AF-A0A7K2FB95-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID4921	0.25	19.8	0.403	
+162318
+AF-A0A1F6TDT3-F1-model_v4	Hydrogenase	Candidatus Muproteobacteria bacterium RBG_16_65_31	0.25	19.2	0.402	
+161318
+AF-A0A5C6K275-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces misionensis	0.28	22.8	0.401	
+159318
+AF-A0A257ML51-F1-model_v4	Dehydrogenase subunit D	Methanosaeta sp. NSM2	0.33	28.5	0.399	
+162318
+AF-A0A4V6RIR5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. RKND-216	0.25	18.3	0.397	
+161318
+AF-A0A7K3BHW6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID8377	0.28	19.8	0.396	
+162318
+AF-A0A6S7LYY5-F1-model_v4	Complex1_30kDa domain-containing protein	Lactuca saligna	0.25	19.3	0.395	
+165318
+AF-A0A2A2DF84-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces albireticuli	0.25	15	0.394	
+162318
+AF-A0A7J3XXY9-F1-model_v4	NADH-quinone oxidoreductase subunit NuoB	Thermogladius calderae	0.21	16.9	0.393	
+147318
+AF-A0A5P8KAA2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces phaeolivaceus	0.28	22.8	0.392	
+159318
+AF-A0A7Y8X1Y9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. BR123	0.25	22.5	0.392	
+163318
+AF-A0A1H8M922-F1-model_v4	NADH:ubiquinone oxidoreductase subunit (Chain C)	Actinacidiphila rubida	0.25	19.3	0.391	
+162318
+AF-A0A2V8DV14-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.25	20.7	0.389	
+163316
+AF-A0A370BCV8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces corynorhini	0.25	21.1	0.389	
+162318
+AF-A0A7X9DMI9-F1-model_v4	NADH dehydrogenase subunit	Bacteroidales bacterium	0.12	8.6	0.385	
+174308
+AF-A0A0B5EQ61-F1-model_v4	Dehydrogenase	Streptomyces albus subsp. albus DSM 41398	0.28	20.4	0.385	
+162318
+AF-A0A7X1MA35-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. PSKA01	0.28	21.6	0.385	
+159318
+AF-A0A662GCK8-F1-model_v4	Hydrogenase large subunit	Thermoprotei archaeon	0.30	23.7	0.384	
+148317
+AF-A0A7W7FNG6-F1-model_v4	NADH:ubiquinone oxidoreductase subunit C	Streptomyces haliclonae	0.25	22.3	0.384	
+162318
+AF-A0A6H1JYI9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. RPA4-5	0.25	17.5	0.384	
+165317
+AF-A0A7H8J1Q8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. NA02950	0.28	20.4	0.383	
+162318
+AF-A0A6I5I288-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID4913	0.25	16.1	0.382	
+162318
+AF-A0A429I3D4-F1-model_v4	Dehydrogenase	Streptomyces sp. WAC 06783	0.25	22.2	0.379	
+162318
+AF-A0A0N0B0W3-F1-model_v4	Dehydrogenase	Streptomyces sp. NRRL F-7442	0.28	21.6	0.379	
+159318
+AF-A0A117P6V8-F1-model_v4	Dehydrogenase	Streptomyces curacoi	0.28	20.8	0.378	
+159318
+AF-A0A3L8IP55-F1-model_v4	Dehydrogenase	Streptomyces griseocarneus	0.25	19.3	0.378	
+162318
+AF-A0A2V6UEP6-F1-model_v4	Formate hydrogenase	Candidatus Rokubacteria bacterium	0.25	20.7	0.378	
+163316
+AF-A0A1S2K1C3-F1-model_v4	Dehydrogenase	Streptomyces sp. CC53	0.25	21.5	0.376	
+165318
+AF-A0A7H8LJ54-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces seoulensis	0.28	20.8	0.376	
+159318
+AF-A0A2S4XYQ1-F1-model_v4	Dehydrogenase	Streptomyces sp. Ru73	0.30	12.1	0.374	
+46318
+AF-A0A0F7VRT5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces leeuwenhoekii	0.28	22	0.372	
+159318
+AF-A0A2P8AY37-F1-model_v4	NADH-quinone oxidoreductase	Micromonospora sp. MH33	0.33	20.8	0.372	
+160318
+AF-A0A525VIH7-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospira sp. CG24A	0.33	28.3	0.372	
+159318
+AF-A0A0T1SSG9-F1-model_v4	Complex1_30kDa domain-containing protein	Streptomyces sp. Root1304	0.25	16.8	0.370	
+163318
+AF-A0A0S2P4U3-F1-model_v4	Putative NADH dehydrogenase subunit	Streptomyces hygroscopicus subsp. limoneus	0.28	23.1	0.369	
+162318
+AF-A0A3R9SZF0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. WAC08401	0.28	22.2	0.369	
+159318
+AF-A0A1E5P7S8-F1-model_v4	Dehydrogenase	Streptomyces agglomeratus	0.28	16.8	0.368	
+162318
+AF-A0A6N4C8X5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Desulfobulbus propionicus	0.28	30	0.367	
+161316
+AF-D9VTJ1-F1-model_v4	Predicted protein	Streptomyces sp. C	0.25	21.8	0.367	
+163318
+AF-A0A3C1M6T7-F1-model_v4	Uncharacterized protein	Nitrospira sp.	0.28	22.6	0.367	
+161317
+AF-A0A351MGN5-F1-model_v4	NADH-quinone oxidoreductase subunit D	Armatimonadetes bacterium	0.35	27.3	0.365	
+144318
+AF-A0A0X3RZR2-F1-model_v4	Dehydrogenase	Streptomyces sp. NRRL F-5122	0.28	21.8	0.365	
+157318
+AF-A0A7G8KCE6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces buecherae	0.30	10.5	0.365	
+77318
+AF-A0A4S2RLY1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. A1277	0.25	20.8	0.365	
+162318
+AF-A0A7U9PZG1-F1-model_v4	NADH-quinone oxidoreductase	Streptomyces chrestomyceticus JCM 4735	0.28	22.2	0.365	
+162318
+AF-A0A1H4S6X7-F1-model_v4	NADH:ubiquinone oxidoreductase subunit (Chain C)	Streptomyces melanosporofaciens	0.28	20.1	0.365	
+162318
+AF-A0A7M2T125-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces chromofuscus	0.28	20.2	0.364	
+159318
+AF-A0A257M7T6-F1-model_v4	Dehydrogenase subunit D	Methanosaeta sp. ASP1-2	0.30	29.6	0.362	
+162318
+AF-A0A1J4Q7J0-F1-model_v4	Dehydrogenase	Streptomyces malaysiense	0.28	21.2	0.362	
+162318
+AF-A0A4D6NPI7-F1-model_v4	NADH dehydrogenase I subunit K	Vigna unguiculata	0.28	15.3	0.362	
+164318
+AF-A0A2H9P4F0-F1-model_v4	Uncharacterized protein	Nitrosopumilales archaeon CG_4_10_14_0_8_um_filter_34_8	0.28	16.5	0.361	
+153317
+AF-A0A3R9SHF8-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. WAC00469	0.28	21.5	0.360	
+164318
+AF-A0A3N5AD85-F1-model_v4	Multifunctional fusion protein	Thermodesulfitimonas autotrophica	0.33	25.4	0.360	
+160318
+AF-A0A2V9K7Q3-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.25	20.8	0.359	
+164316
+AF-A0A7W3WXV3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces alkaliterrae	0.28	20.7	0.359	
+162318
+AF-A0A0N0N634-F1-model_v4	NADH dehydrogenase (Ubiquinone) 30 kDa subunit	Actinobacteria bacterium OK074	0.28	22.9	0.359	
+162318
+AF-A0A3N1DQT1-F1-model_v4	NADH dehydrogenase subunit C	Streptomyces sp. SAI-097	0.28	22.2	0.359	
+159318
+AF-A0A3L7X5E8-F1-model_v4	NADH-quinone oxidoreductase subunit NuoD	Chloroflexi bacterium	0.25	23.8	0.358	
+160318
+AF-D7BQN6-F1-model_v4	Dehydrogenase	Streptomyces bingchenggensis BCW-1	0.25	20.9	0.358	
+162318
+AF-A0A3D9NG01-F1-model_v4	NADH dehydrogenase subunit C	Streptomyces sp. 75	0.28	21.3	0.356	
+162318
+AF-A0A7K3CBZ9-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID4912	0.25	19.1	0.356	
+162318
+AF-A0A1D3DRH0-F1-model_v4	Complex1_30kDa domain-containing protein	Streptomyces thermolilacinus SPC6	0.25	16.9	0.355	
+163318
+AF-Q82DT5-F1-model_v4	Putative NADH dehydrogenase (Complex I)	Streptomyces avermitilis MA-4680 = NBRC 14893	0.28	18.5	0.355	
+159318
+AF-A0A7H8JZ13-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. NA04227	0.28	20.4	0.354	
+162318
+AF-A0A7C3ITC1-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Deltaproteobacteria bacterium	0.33	33.3	0.354	
+159317
+AF-A0A532BWE2-F1-model_v4	Multifunctional fusion protein	Nitrospira sp.	0.33	27.6	0.352	
+162318
+AF-A0A2N0FL35-F1-model_v4	NADH:ubiquinone oxidoreductase subunit C	Streptomyces sp. 4121.5	0.25	20.9	0.352	
+163318
+AF-A0A380PC23-F1-model_v4	NADH-ubiquinone oxidoreductase chain C	Streptomyces griseus	0.28	16.9	0.352	
+162318
+AF-A0A7V5ZHN9-F1-model_v4	NADH-quinone oxidoreductase subunit D	Acidobacteria bacterium	0.30	29.3	0.352	
+163317
+AF-A0A0B0HGU7-F1-model_v4	NAD(P)H-quinone oxidoreductase subunit J, chloroplastic	Anoxybacillus sp. BCO1	0.15	25	0.352	
+101293
+AF-Q07QX3-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Rhodopseudomonas palustris BisA53	0.30	26.1	0.351	
+164318
+AF-A0A3N2K1A6-F1-model_v4	Multifunctional fusion protein	Muribaculaceae bacterium Isolate-042 (Harlan)	0.28	29.9	0.350	
+165318
+AF-A0A485F4B6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Pseudomonas aeruginosa	0.30	24.4	0.350	
+160318
+AF-A0A7V1V5W1-F1-model_v4	NADH dehydrogenase (Quinone) subunit D	Nitrospirae bacterium	0.33	24.6	0.349	
+163318
+AF-A0A847V3P6-F1-model_v4	Dehydrogenase	Methanothrix sp.	0.30	27.7	0.349	
+162318
+AF-A0A1H4YP07-F1-model_v4	NADH dehydrogenase subunit C	Streptomyces sp. 2231.1	0.28	23.8	0.349	
+162318
+AF-A0A1V5ILT1-F1-model_v4	NADH-quinone oxidoreductase subunit D	Actinobacteria bacterium ADurb.BinA094	0.33	19.6	0.349	
+154318
+AF-A0A369UXG3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces parvulus	0.28	22.8	0.348	
+159318
+AF-A0A2M9AYS2-F1-model_v4	NADH dehydrogenase subunit C	Streptomyces sp. CNZ306	0.28	15.8	0.348	
+161318
+AF-A0A0K2GEZ5-F1-model_v4	Multifunctional fusion protein	Nitrospira moscoviensis	0.30	28.8	0.348	
+162318
+AF-A0A3N5AQ81-F1-model_v4	NADH:ubiquinone oxidoreductase subunit C	Streptomyces sp. TLI_185	0.28	21.2	0.345	
+162318
+AF-A0A2U9P6Z9-F1-model_v4	Dehydrogenase	Streptomyces actuosus	0.28	23.4	0.344	
+159318
+AF-A0A124IGE1-F1-model_v4	NADH dehydrogenase	Desulfitibacter sp. BRH_c19	0.25	18.8	0.344	
+164317
+AF-A0A4S3GQH3-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. Akac8	0.28	23.4	0.344	
+159318
+AF-A0A2V1NG07-F1-model_v4	Dehydrogenase	Streptomyces sp. V2	0.28	23.7	0.344	
+162318
+AF-A0A6L6WQ10-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces typhae	0.28	19.3	0.343	
+162318
+AF-A0A7V4EBY9-F1-model_v4	NADH dehydrogenase (Quinone) subunit D	Candidatus Calescamantes bacterium	0.30	26.9	0.343	
+160318
+AF-A0A3B8LBV5-F1-model_v4	Multifunctional fusion protein	Myxococcales bacterium	0.28	23.9	0.343	
+161317
+AF-A0A365TF10-F1-model_v4	NADH-quinone oxidoreductase subunit C	halophilic archaeon	0.28	26.7	0.343	
+161316
+AF-A0A6B2ZAJ2-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID14515	0.25	19.8	0.343	
+162318
+AF-A0A2B8AUU9-F1-model_v4	Complex1_30kDa domain-containing protein	Streptomyces sp. Ru87	0.28	19.3	0.342	
+162318
+AF-A0A7C5RM49-F1-model_v4	NADH dehydrogenase I subunit B/C/D	Candidatus Bathyarchaeota archaeon	0.33	20.5	0.340	
+155318
+AF-A0A4R2E7T1-F1-model_v4	NADH dehydrogenase subunit C	Streptomyces sp. BK387	0.28	23.2	0.340	
+162318
+AF-A0A7K2G4U1-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. SID4950	0.28	25.9	0.339	
+159318
+AF-A0A221NYF4-F1-model_v4	Dehydrogenase	Streptomyces pluripotens	0.28	21.8	0.338	
+162318
+AF-A0A836UR36-F1-model_v4	Uncharacterized protein	Candidatus Handelsmanbacteria bacterium	0.25	22.8	0.338	
+164318
+AF-A0A3C2CW94-F1-model_v4	NADH-quinone oxidoreductase subunit C	Bacillus sp. (in: Bacteria)	0.12	43.4	0.338	
+109251
+AF-A0A8B0F5Y0-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. LBUM 1475	0.28	21.2	0.338	
+162318
+AF-A0A2H0YKB4-F1-model_v4	NADH-quinone oxidoreductase subunit C	Nitrospirae bacterium CG08_land_8_20_14_0_20_52_24	0.28	25.3	0.338	
+163316
+AF-A0A0F7GF32-F1-model_v4	Hydrogenase HycE	Dehalogenimonas sp. WBC-2	0.23	16.2	0.337	
+162317
+AF-A0A4R7GX76-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Erwinia rhapontici	0.28	25.7	0.337	
+165318
+AF-A0A510T859-F1-model_v4	Dehydrogenase	Streptomyces sp. 1-11	0.28	22.2	0.335	
+159318
+AF-A0A7Y2S918-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces sp. PKU-MA01144	0.25	21.3	0.333	
+162318
+AF-A0A661X991-F1-model_v4	Uncharacterized protein	Caldiserica bacterium	0.23	7.2	0.333	
+165318
+AF-A0A4R3IX62-F1-model_v4	NADH dehydrogenase subunit C	Streptomyces sp. BK335	0.28	23.8	0.331	
+162318
+AF-A0A7Y4VT43-F1-model_v4	Uncharacterized protein	Anaerolineales bacterium	0.23	19.7	0.331	
+161317
+AF-A0A521I787-F1-model_v4	Multifunctional fusion protein	Chloroflexi bacterium	0.28	26.1	0.331	
+164318
+AF-A0A2V7FWR7-F1-model_v4	Uncharacterized protein	Candidatus Rokubacteria bacterium	0.18	21.8	0.330	
+177313
+AF-A0A3B0BCI6-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces klenkii	0.25	22.4	0.329	
+162318
+AF-A0A543CLM6-F1-model_v4	NADH:ubiquinone oxidoreductase subunit C	Actinoallomurus bryophytorum	0.28	21.7	0.328	
+165318
+AF-A0A256XHL1-F1-model_v4	Hydrogenase 3 large subunit	Thermoprotei archaeon ex4572_64	0.21	6.2	0.327	
+159318
+AF-A0A7M2SKU5-F1-model_v4	NADH-quinone oxidoreductase subunit C	Streptomyces ferrugineus	0.28	22.6	0.322	
+159318
+AF-A0A4V2XMM7-F1-model_v4	Formate hydrogenase	Actinomadura bangladeshensis	0.14	19.1	0.318	
+162316
+AF-A0A832SB21-F1-model_v4	NADH-quinone oxidoreductase subunit D	Desulfurococcaceae archaeon	0.20	23.7	0.318	
+169316
+AF-A0A351JQV9-F1-model_v4	Uncharacterized protein	Candidatus Magasanikbacteria bacterium	0.21	17.4	0.315	
+158316
+AF-A0A3N5I7W6-F1-model_v4	Formate hydrogenase	Candidatus Rokubacteria bacterium	0.23	7	0.312	
+18316
+AF-A0A2V2PUV2-F1-model_v4	Complex1_30kDa domain-containing protein	Streptomyces sp. ZEA17I	0.25	6	0.309	
+162318
+AF-A0A1F2UIW5-F1-model_v4	Uncharacterized protein	Candidatus Aquicultor primus	0.16	15.4	0.307	
+160317
+AF-H0BDM4-F1-model_v4	NADH-quinone oxidoreductase subunit H	Streptomyces sp. W007	0.28	19	0.307	
+162318
+AF-D2RET0-F1-model_v4	NADH dehydrogenase I subunit B/C/D	Archaeoglobus profundus DSM 5631	0.23	15.4	0.306	
+152318
+AF-A0A2W4QQT9-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.14	6.7	0.291	
+191318
+AF-A8ERL4-F1-model_v4	NADH-quinone oxidoreductase subunit C/D	Aliarcobacter butzleri RM4018	0.15	20.3	0.290	
+152316
+AF-A0A849J473-F1-model_v4	Formate hydrogenase	Acidimicrobiaceae bacterium	0.13	20.7	0.285	
+186316
+AF-A0A1F9GLV0-F1-model_v4	Complex1_49kDa domain-containing protein	Deltaproteobacteria bacterium RIFCSPLOWO2_01_FULL_45_74	0.11	8.6	0.275	
+165308
+AF-A0A257RJ67-F1-model_v4	Uncharacterized protein	Actinobacteria bacterium 21-73-9	0.15	5.2	0.265	
+16316
+AF-R5SSJ9-F1-model_v4	NADH-ubiquinone oxidoreductase chain 49kDa	Acinetobacter sp. CAG:196	0.10	8.9	0.262	
+173308

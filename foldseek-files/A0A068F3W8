@@ -1,0 +1,1964 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR AMIDASE (A0A068F3W8)
+AFDB50 979 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-A0A0D2DPW0-F1-model_v4	Amidase	Fonsecaea pedrosoi CBS 271.37	1.00	46.1	0.916	
+11525
+AF-A0A1F5L7Q1-F1-model_v4	Amidase	Penicillium arizonense	1.00	38.4	0.910	
+8525
+AF-A0A0D2GS76-F1-model_v4	Unplaced genomic scaffold supercont1.8, whole genome shotgun sequence	Fonsecaea pedrosoi CBS 271.37	1.00	34.4	0.909	
+8525
+AF-A0A428RAC4-F1-model_v4	Amidase	Fusarium floridanum	1.00	44.8	0.902	
+1525
+AF-A0A167M7N0-F1-model_v4	Amidase	Calocera viscosa TUFC12733	1.00	37.2	0.901	
+8525
+AF-S3DAJ3-F1-model_v4	Amidase	Glarea lozoyensis ATCC 20868	1.00	30.2	0.901	
+8525
+AF-A0A364LDH5-F1-model_v4	Amidase domain-containing protein	Talaromyces amestolkiae	1.00	40.3	0.899	
+9525
+AF-A0A0D2E8A7-F1-model_v4	Amidase	Fonsecaea pedrosoi CBS 271.37	1.00	32.4	0.899	
+9525
+AF-A0A139A025-F1-model_v4	Amidase	Gonapodya prolifera JEL478	1.00	36.5	0.897	
+7525
+AF-A0A0D2G967-F1-model_v4	Amidase	Fonsecaea pedrosoi CBS 271.37	1.00	33.5	0.893	
+10525
+AF-G7E281-F1-model_v4	Amidase	Mixia osmundae IAM 14324	1.00	34.7	0.890	
+8525
+AF-A0A139A1D9-F1-model_v4	Amidase	Gonapodya prolifera JEL478	1.00	27.9	0.890	
+10525
+AF-A0A0D2ESL7-F1-model_v4	Unplaced genomic scaffold supercont1.6, whole genome shotgun sequence	Fonsecaea pedrosoi CBS 271.37	1.00	29.8	0.889	
+11525
+AF-A0A6A6SV26-F1-model_v4	Amidase	Lophiostoma macrostomum CBS 122681	1.00	34.2	0.888	
+11525
+AF-A0A194S5B9-F1-model_v4	Amidase	Rhodotorula graminis WP1	1.00	33.7	0.888	
+6525
+AF-K0KPH9-F1-model_v4	Amidase	Wickerhamomyces ciferrii NRRL Y-1031	1.00	32	0.887	
+12525
+AF-X0B2C6-F1-model_v4	Amidase domain-containing protein	Fusarium oxysporum f. sp. raphani 54005	1.00	30.7	0.887	
+10525
+AF-A0A139AA60-F1-model_v4	Amidase	Gonapodya prolifera JEL478	1.00	29.7	0.885	
+11525
+AF-A0A0D1XQD0-F1-model_v4	Amidase domain-containing protein	Verruconis gallopava	1.00	31.4	0.884	
+10525
+AF-G3B0Q2-F1-model_v4	Amidase	Yamadazyma tenuis ATCC 10573	1.00	30.7	0.884	
+9525
+AF-K0KHD5-F1-model_v4	Amidase domain-containing protein	Wickerhamomyces ciferrii NRRL Y-1031	1.00	28.7	0.883	
+12525
+AF-A0A5N7BLL7-F1-model_v4	Amidase	Aspergillus bertholletiae	1.00	30.7	0.883	
+11525
+AF-A0A6A6F330-F1-model_v4	Amidase	Cercospora zeae-maydis SCOH1-5	1.00	33.5	0.878	
+11525
+AF-A0A0C4E8A7-F1-model_v4	Amidase	Magnaporthiopsis poae ATCC 64411	0.99	32.2	0.871	
+8487
+AF-K0KNH5-F1-model_v4	Amidase	Wickerhamomyces ciferrii NRRL Y-1031	0.99	28.7	0.869	
+8525
+AF-A0A428RQH5-F1-model_v4	Amidase domain-containing protein	Fusarium floridanum	1.00	33.7	0.867	
+11525
+AF-A0A507C9S4-F1-model_v4	Amidase	Synchytrium microbalum	1.00	28.8	0.866	
+12525
+AF-A0A135UJM3-F1-model_v4	Amidase	Colletotrichum nymphaeae SA-01	1.00	30.9	0.865	
+11525
+AF-A0A178D2D7-F1-model_v4	Amidase domain-containing protein	Fonsecaea nubica	0.99	36.8	0.865	
+8525
+AF-A0A1S1VU36-F1-model_v4	Amidase	Colletotrichum incanum	0.99	30.4	0.865	
+11525
+AF-A0A286UHQ0-F1-model_v4	Amidase	Pyrrhoderma noxium	0.99	27.8	0.859	
+8520
+AF-A0A194SBT9-F1-model_v4	Amidase	Rhodotorula graminis WP1	0.99	35.4	0.855	
+69525
+AF-A0A168BWZ3-F1-model_v4	Amidase	Moelleriella libera RCEF 2490	1.00	28.2	0.848	
+9525
+AF-W3WS09-F1-model_v4	Amidase	Pestalotiopsis fici W106-1	0.99	30.8	0.848	
+9525
+AF-A0A165HRB6-F1-model_v4	Amidase	Exidia glandulosa HHB12029	0.99	27	0.846	
+8525
+AF-A0A139A120-F1-model_v4	Amidase	Gonapodya prolifera JEL478	0.99	28.9	0.841	
+13525
+AF-A0A366NJB0-F1-model_v4	Amidase domain-containing protein	Verticillium dahliae	0.98	23.1	0.836	
+8489
+AF-A0A4P9XLS0-F1-model_v4	Amidase	Thamnocephalis sphaerospora	0.99	29.3	0.836	
+8525
+AF-A0A0D2GTG4-F1-model_v4	Unplaced genomic scaffold supercont1.2, whole genome shotgun sequence	Fonsecaea pedrosoi CBS 271.37	1.00	36.6	0.836	
+10525
+AF-A0A0D1X3Q0-F1-model_v4	Amidase	Exophiala sideris	0.97	31	0.829	
+4508
+AF-A0A369K6M3-F1-model_v4	Acetamidase	Hypsizygus marmoreus	0.99	28.2	0.829	
+8525
+AF-A0A0D1YPQ4-F1-model_v4	Amidase	Exophiala sideris	0.97	33.4	0.827	
+81525
+AF-A0A4T0BVH8-F1-model_v4	Amidase	Aureobasidium pullulans	0.92	38.3	0.826	
+10396
+AF-A0A0D2F3P7-F1-model_v4	Amidase	Exophiala xenobiotica	1.00	31.2	0.826	
+9525
+AF-A0A428T182-F1-model_v4	Amidase domain-containing protein	Fusarium oligoseptatum	0.97	38.4	0.823	
+80525
+AF-A0A6B2L0V6-F1-model_v4	Amidase domain-containing protein	Arcella intermedia	0.99	24.7	0.822	
+16525
+AF-G2LEF4-F1-model_v4	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit-like amidase	Chloracidobacterium thermophilum B	0.99	28.5	0.821	
+50525
+AF-A0A0J8RXE5-F1-model_v4	Fatty-acid amide hydrolase 1	Coccidioides immitis H538.4	0.94	34.8	0.820	
+11413
+AF-A0A022WF82-F1-model_v4	Amidase domain-containing protein	Trichophyton rubrum CBS 288.86	0.92	43.3	0.819	
+6431
+AF-A0A3M7N5Z6-F1-model_v4	Amidase	Chaetothyriales sp. CBS 132003	0.96	28.6	0.817	
+9489
+AF-A0A6A6EJK0-F1-model_v4	Amidase	Zopfia rhizophila CBS 207.26	0.95	36.8	0.816	
+10525
+AF-A0A1S3H191-F1-model_v4	fatty-acid amide hydrolase 1 isoform X2	Lingula anatina	0.99	22	0.816	
+33525
+AF-A0A183ILK3-F1-model_v4	Amidase domain-containing protein	Soboliphyme baturini	0.98	24.2	0.812	
+65525
+AF-A0A166X2E2-F1-model_v4	Acetamidase	Beauveria brongniartii RCEF 3172	0.99	24.7	0.812	
+7525
+AF-A0A4P9XLC8-F1-model_v4	Amidase	Thamnocephalis sphaerospora	0.99	27.2	0.811	
+33525
+AF-A0A6J1TYR2-F1-model_v4	fatty-acid amide hydrolase 1-like	Notechis scutatus	0.99	24.5	0.811	
+8525
+AF-G7E9J6-F1-model_v4	Amidase domain-containing protein	Mixia osmundae IAM 14324	0.99	24.8	0.808	
+1525
+AF-A0A3N7HLM0-F1-model_v4	Amidase	Albitalea terrae	0.98	23.3	0.807	
+59525
+AF-A0A1Y2AJT2-F1-model_v4	Amidase	Naematelia encephala	1.00	24.9	0.807	
+7525
+AF-A0A5N5JDC1-F1-model_v4	Amidase signature domain-containing protein	Coniochaeta sp. 2T2.1	0.97	27.5	0.805	
+9525
+AF-A0A2E7EPL7-F1-model_v4	Amidase domain-containing protein	Planctomycetaceae bacterium	0.98	23.4	0.805	
+44525
+AF-A0A1M2V2F2-F1-model_v4	Fatty acid amide hydrolase 1	Trametes pubescens	0.99	23.7	0.803	
+8525
+AF-A0A370CJQ1-F1-model_v4	Amidase	Candidatus Aquirickettsiella gammari	0.97	24.6	0.801	
+64503
+AF-A0A2V6NPX5-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.93	21.2	0.799	
+64525
+AF-A0D2A3-F1-model_v4	Amidase domain-containing protein	Paramecium tetraurelia	0.99	19.1	0.799	
+11525
+AF-A0A369H257-F1-model_v4	Amidase	Ophiocordyceps camponoti-saundersi (nom. inval.)	0.87	42.3	0.799	
+9368
+AF-A0A317GWZ3-F1-model_v4	Amidase	Chloroflexi bacterium	0.98	26.7	0.797	
+64525
+AF-A0A5B0S004-F1-model_v4	Amidase	Puccinia graminis f. sp. tritici	0.97	27.1	0.797	
+11454
+AF-A0A1G0FXZ8-F1-model_v4	Amidase domain-containing protein	Gammaproteobacteria bacterium RIFCSPHIGHO2_12_FULL_35_23	0.97	25.2	0.796	
+64503
+AF-A0A3M0K631-F1-model_v4	Amidase domain-containing protein	Hirundo rustica rustica	0.99	23	0.795	
+4525
+AF-A0A2S0WQW9-F1-model_v4	Amidase	Aeromicrobium chenweiae	0.96	25.8	0.794	
+70500
+AF-A0A6N9AER1-F1-model_v4	Amidase	Rhodothermaceae bacterium	0.94	19.3	0.794	
+63496
+AF-A0A4T0C0D2-F1-model_v4	Amidase	Aureobasidium pullulans	0.89	28.8	0.793	
+66457
+AF-A0A432HW73-F1-model_v4	Amidase	Candidatus Poseidoniales archaeon	0.96	27.7	0.792	
+65503
+AF-A0A2G2KL80-F1-model_v4	Amidase domain-containing protein	Blastopirellula sp.	0.99	22.9	0.791	
+15525
+AF-A0A2G8MC13-F1-model_v4	Amidase	Methylobacterium frigidaeris	0.93	22.5	0.791	
+65484
+AF-A0A4Q5XMT7-F1-model_v4	Amidase	Myxococcales bacterium	0.96	22	0.790	
+34503
+AF-A0A534A1I3-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.90	24.9	0.790	
+64487
+AF-A0A286UJ41-F1-model_v4	Amidase	Pyrrhoderma noxium	0.99	22.6	0.789	
+6525
+AF-A0A366H526-F1-model_v4	Amidase	Eoetvoesia caeni	0.96	25.2	0.788	
+64496
+AF-A0A6L7N8W7-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.97	23.7	0.787	
+41502
+AF-A0A2E7IQA5-F1-model_v4	Indole acetimide hydrolase	Spongiibacteraceae bacterium	0.96	24.2	0.787	
+64500
+AF-A0A839V024-F1-model_v4	Amidase	Endobacter medicaginis	0.96	24.1	0.786	
+65502
+AF-A0A4S8THK0-F1-model_v4	Amidase	Aureobasidium pullulans	0.95	32.9	0.786	
+112525
+AF-A0A1X0U891-F1-model_v4	Amidase domain-containing protein	Rhodococcus sp. 1163	0.96	22.4	0.785	
+63503
+AF-A0A2V6PAV5-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.96	20.4	0.784	
+64503
+AF-A0A6A6SUX9-F1-model_v4	Amidase signature enzyme	Lophiostoma macrostomum CBS 122681	0.99	33.7	0.784	
+18525
+AF-A0A3P8KZT8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Raoultella terrigena	0.94	20.6	0.783	
+67499
+AF-A0A177PVL1-F1-model_v4	Amidase domain-containing protein	bacterium SCGC AG-212-C10	0.91	18.8	0.782	
+64525
+AF-A0A507BP03-F1-model_v4	Glutaminyl-tRNA synthase (Glutamine-hydrolysing)	Synchytrium microbalum	0.99	25.8	0.782	
+27525
+AF-A0A7Y4U4M2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Deltaproteobacteria bacterium	0.96	20	0.782	
+64502
+AF-A0A520XME8-F1-model_v4	Amidase	Acidimicrobiales bacterium	0.96	24.3	0.782	
+64500
+AF-A0A3M1VMQ9-F1-model_v4	Amidase	Candidatus Dadabacteria bacterium	0.96	22.4	0.780	
+67503
+AF-A0A0D0E2F7-F1-model_v4	Amidase	Paxillus rubicundulus Ve08.2h10	0.96	25.4	0.780	
+1525
+AF-A0A183A9X4-F1-model_v4	Amidase domain-containing protein	Echinostoma caproni	0.99	22.2	0.779	
+8525
+AF-A0A2V6PGI1-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.96	23.1	0.778	
+64503
+AF-A0A435W4L7-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp. M7A.F.Ca.US.001.02.1.1	0.92	18.2	0.778	
+51523
+AF-A0A6S7F7N5-F1-model_v4	Acylamidase	Achromobacter insolitus	0.96	22.5	0.778	
+65503
+AF-A0A4X1WAP2-F1-model_v4	Fatty acid amide hydrolase	Sus scrofa	0.96	27.4	0.778	
+90525
+AF-A0A2G5UTZ8-F1-model_v4	Amidase domain-containing protein	Caenorhabditis nigoni	0.99	19.4	0.778	
+23525
+AF-A0A386EC92-F1-model_v4	Indole-3-acetamide hydrolase	Neorhizobium sp. NCHU2750	0.94	20.9	0.777	
+64500
+AF-A0A3C0YVD3-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Dehalococcoidia bacterium	0.96	22.6	0.777	
+64501
+AF-A0A2V6V1G5-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.96	21.9	0.777	
+68503
+AF-A0A531ANF5-F1-model_v4	Amidase	Mesorhizobium sp.	0.85	22.4	0.777	
+65461
+AF-F5LIZ5-F1-model_v4	Amidase	Paenibacillus sp. HGF7	0.98	26.9	0.775	
+62525
+AF-A0A6P6NTX6-F1-model_v4	fatty-acid amide hydrolase 1-like isoform X2	Carassius auratus	0.96	28	0.775	
+96525
+AF-A0A7K2BTA5-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.87	21.2	0.775	
+64457
+AF-A0A2S6RW18-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Alphaproteobacteria bacterium MarineAlpha9_Bin6	0.95	20.9	0.775	
+64503
+AF-A0A1G8WEF4-F1-model_v4	Amidase/aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Variovorax sp. OV700	0.96	22.9	0.775	
+53503
+AF-A0A3N7IZD0-F1-model_v4	Amidase	Albitalea terrae	0.95	22.9	0.775	
+65503
+AF-A0A6L7MYN0-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.95	21.5	0.775	
+64503
+AF-A0A371PD02-F1-model_v4	Amidase	Aeromicrobium endophyticum	0.93	21.8	0.775	
+57500
+AF-A0A4V0XJS4-F1-model_v4	Amidase domain-containing protein	Planctomycetia bacterium	0.96	22.7	0.775	
+72525
+AF-A0A2N0MK82-F1-model_v4	Amidase domain-containing protein	SAR202 cluster bacterium MP-SInd-SRR3963457-G1	0.96	21.5	0.775	
+64502
+AF-A0A0N0F566-F1-model_v4	Amidase family protein	Pseudomonas amygdali pv. mellea	0.96	20.3	0.774	
+63503
+AF-A0A7W1Q0E1-F1-model_v4	Amidase	Pseudonocardiales bacterium	0.95	20.6	0.774	
+68503
+AF-A0A2G5UU40-F1-model_v4	Amidase domain-containing protein	Caenorhabditis nigoni	0.99	18.2	0.774	
+8525
+AF-A0A3B9HF93-F1-model_v4	Amidase	Dehalococcoidia bacterium	0.96	22	0.774	
+63503
+AF-A0A6N8YR71-F1-model_v4	Amidase	Chloroflexi bacterium	0.95	20.7	0.774	
+64503
+AF-A0A2V6UGI6-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.96	19.6	0.774	
+64503
+AF-A0A081S0X2-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Photorhabdus temperata subsp. temperata Meg1	0.94	17.6	0.773	
+65503
+AF-A0A432JE66-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Chloroflexi bacterium	0.85	21.2	0.773	
+64455
+AF-A0A6N8YUB8-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Chloroflexi bacterium	0.96	23.7	0.772	
+64503
+AF-A0A6B2L9Q8-F1-model_v4	Amidase domain-containing protein	Arcella intermedia	0.75	32.8	0.772	
+72417
+AF-A0A2V6P2W5-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Rokubacteria bacterium	0.96	20.9	0.772	
+64503
+AF-A0A326U5A7-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Thermosporothrix hazakensis	0.96	22.4	0.771	
+65503
+AF-A0A541C2X6-F1-model_v4	Amidase	Elioraea sp. Yellowstone	0.96	22.7	0.771	
+64502
+AF-A0A6N8YSG8-F1-model_v4	Amidase	Chloroflexi bacterium	0.95	23.1	0.771	
+63503
+AF-A0A0S4JCI1-F1-model_v4	Amidase, putative	Bodo saltans	0.98	21.2	0.771	
+11525
+AF-A0A536S893-F1-model_v4	Amidase	Betaproteobacteria bacterium	0.87	22.3	0.771	
+65458
+AF-A0A6L7PFT3-F1-model_v4	Amidase domain-containing protein	Gammaproteobacteria bacterium	0.93	20	0.771	
+67500
+AF-A0A194S412-F1-model_v4	Amidase	Rhodotorula graminis WP1	0.97	27.3	0.770	
+102525
+AF-A0A2E4XR57-F1-model_v4	Amidase domain-containing protein	Rhodospirillaceae bacterium	0.96	21.1	0.770	
+64503
+AF-M1EQP8-F1-model_v4	Fatty acid amide hydrolase	Mustela putorius furo	0.80	28.7	0.770	
+22396
+AF-A0A7C2L994-F1-model_v4	Amidase	Armatimonadetes bacterium	0.95	21.2	0.769	
+65503
+AF-A0A1B2LY71-F1-model_v4	Amidase domain-containing protein	Acinetobacter larvae	0.94	20.4	0.769	
+65500
+AF-A0A432GJZ4-F1-model_v4	Amidase	SAR324 cluster bacterium	0.93	19.7	0.769	
+67503
+AF-A0A0S1Y0T3-F1-model_v4	Amidase domain-containing protein	Bordetella sp. N	0.95	19.4	0.769	
+65503
+AF-A0A1Q8SPX8-F1-model_v4	Amidase	Salinicola socius	0.95	23.7	0.768	
+72503
+AF-A0A534WY65-F1-model_v4	Amidase	Deltaproteobacteria bacterium	0.95	21.8	0.768	
+64500
+AF-A0A1H3P0T4-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Modestobacter sp. DSM 44400	0.95	20.8	0.768	
+67503
+AF-A0A6B2L2G0-F1-model_v4	Amidase domain-containing protein	Arcella intermedia	0.96	25.6	0.768	
+72525
+AF-A0A1I7H7N2-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Alicyclobacillus macrosporangiidus	0.95	23.1	0.767	
+65503
+AF-A0A2V8LYU4-F1-model_v4	Amidase	Acidobacteria bacterium	0.95	17.7	0.767	
+63503
+AF-A0A3C1NQY3-F1-model_v4	Allophanate hydrolase	Halieaceae bacterium	0.87	17.7	0.767	
+64473
+AF-A0A3C0Z217-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Dehalococcoidia bacterium	0.95	18.2	0.767	
+64502
+AF-A0A3M7NFM4-F1-model_v4	Amidase	Chaetothyriales sp. CBS 132003	1.00	22.4	0.767	
+1525
+AF-A0A534XGL2-F1-model_v4	Amidase	Deltaproteobacteria bacterium	0.95	19.7	0.767	
+63502
+AF-A0A2E2UN12-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Trueperaceae bacterium	0.95	20.2	0.766	
+64503
+AF-A0A2Z5YAE3-F1-model_v4	Putative amidase AmiD	Mycobacterium marinum	0.93	18.7	0.766	
+64496
+AF-A0A6N8YWC6-F1-model_v4	Amidase	Chloroflexi bacterium	0.95	21.8	0.766	
+64503
+AF-A0A3B8LID6-F1-model_v4	Amidase	Myxococcales bacterium	0.92	20.7	0.765	
+65482
+AF-A0A836CNU8-F1-model_v4	Amidase signature domain-containing protein	Tribonema minus	0.98	26.4	0.765	
+81525
+AF-C6H5M5-F1-model_v4	Amidase	Histoplasma capsulatum H143	0.72	33.2	0.765	
+10366
+AF-A0A7K1H6X2-F1-model_v4	Amidase	Micromonospora sp. CP22	0.94	20.8	0.765	
+67500
+AF-A0A7V6BZ25-F1-model_v4	Amidase	Trueperaceae bacterium	0.89	18.4	0.765	
+70481
+AF-A0A396U367-F1-model_v4	Amidase	Colwellia sp. RSH04	0.95	19.6	0.764	
+67503
+AF-A0A7Y0RDZ2-F1-model_v4	Amidase	Marinobacter orientalis	0.93	17.8	0.764	
+55500
+AF-A0A2S6RS24-F1-model_v4	Putative amidase AmiD	Alphaproteobacteria bacterium MarineAlpha9_Bin6	0.91	18.6	0.764	
+64503
+AF-A0A6N8Z5K4-F1-model_v4	Amidase domain-containing protein	Chloroflexi bacterium	0.95	21.5	0.764	
+63503
+AF-A0A359M6B7-F1-model_v4	Amidase	Bryobacterales bacterium	0.95	20.5	0.764	
+34500
+AF-A0A2E4XNL2-F1-model_v4	Amidase	Rhodospirillaceae bacterium	0.91	19.5	0.763	
+65503
+AF-A0A2R6H2G1-F1-model_v4	Allophanate hydrolase	Halobacteriales archaeon QS_6_64_34	0.93	20.1	0.763	
+72503
+AF-A0A516NZC5-F1-model_v4	Amidase	Chryseobacterium sp. SNU WT5	0.96	20	0.763	
+65503
+AF-A0A1H7FG00-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Paraburkholderia caballeronis	0.93	20.3	0.763	
+55500
+AF-A0A3N6LXF7-F1-model_v4	Amidase	Natrarchaeobius chitinivorans	0.96	21.3	0.763	
+65503
+AF-A0A194S3N0-F1-model_v4	Amidase domain-containing protein	Rhodotorula graminis WP1	0.94	19	0.763	
+64502
+AF-A0A1F5LB15-F1-model_v4	Amidase domain-containing protein	Penicillium arizonense	0.99	30.5	0.762	
+12525
+AF-A0A2E5VEE6-F1-model_v4	Amidase domain-containing protein	Gammaproteobacteria bacterium	0.87	23.2	0.762	
+69461
+AF-A0A1X0M4M0-F1-model_v4	Amidase domain-containing protein	Rhodococcus qingshengii	0.94	21.6	0.762	
+74500
+AF-A0A2E3L054-F1-model_v4	Glutamyl-tRNA (Gln) amidotransferase, A subunit	Magnetovibrio sp.	0.93	19.8	0.762	
+64503
+AF-A0A7Y6TG92-F1-model_v4	AtzE family amidohydrolase	Bradyrhizobium septentrionale	0.94	23.4	0.762	
+72499
+AF-A0A2L2YAZ4-F1-model_v4	Fatty-acid amide hydrolase 2	Parasteatoda tepidariorum	0.96	20.7	0.762	
+50500
+AF-A0A2E2UQV6-F1-model_v4	Amidase domain-containing protein	Trueperaceae bacterium	0.95	19.6	0.762	
+64503
+AF-A0A819I6E9-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.72	44.1	0.762	
+12364
+AF-A0A353Z7P9-F1-model_v4	Amidase	Planctomycetaceae bacterium	0.93	20.1	0.762	
+56503
+AF-A0A1Q3TPR4-F1-model_v4	Amidase domain-containing protein	Chloroflexi bacterium 54-19	0.95	18.5	0.761	
+63500
+AF-A0A3P4AYX1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Pigmentiphaga humi	0.93	19.3	0.761	
+68501
+AF-A0A3D0NFP2-F1-model_v4	Amidase	Planctomycetaceae bacterium	0.90	18.4	0.761	
+67503
+AF-A5VEL5-F1-model_v4	Amidase	Rhizorhabdus wittichii RW1	0.93	19.5	0.761	
+65503
+AF-A0A0G1NPR5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Collierbacteria bacterium GW2011_GWA2_44_99	0.87	17.1	0.761	
+64523
+AF-A0A3S1DRT5-F1-model_v4	Amidase	Halomonas nanhaiensis	0.95	18.8	0.761	
+60503
+AF-A0A519ZNW8-F1-model_v4	Amidase	Rubrivivax sp.	0.96	18.3	0.761	
+49502
+AF-A0A3S1SZV4-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp. M7A.F.Ca.US.005.03.2.1	0.90	15	0.760	
+32521
+AF-A0A0A0JKA1-F1-model_v4	Amidase	Knoellia subterranea KCTC 19937	0.95	20	0.760	
+49503
+AF-A0A4P5Y482-F1-model_v4	Glutamyl-tRNA amidotransferase subunit A	Planctomycetia bacterium	0.93	17.3	0.760	
+55503
+AF-A0A1S5Y1L2-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	uncultured bacterium	0.89	21.7	0.760	
+65474
+AF-A0A5R2NVJ9-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp. M2D.F.Ca.ET.145.01.1.1	0.96	21.6	0.760	
+50503
+AF-A0A0N0KGG3-F1-model_v4	Amidase domain-containing protein	Rhodopseudomonas sp. AAP120	0.95	19.2	0.760	
+64503
+AF-A0A850DG16-F1-model_v4	Amidase	Mycobacteriaceae bacterium	0.92	21.1	0.760	
+54500
+AF-A0A6B0WKD8-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.94	21.2	0.760	
+70503
+AF-A0A852YS79-F1-model_v4	Amidase	Lysinimonas sp. SLBN-160	0.94	21	0.759	
+64503
+AF-A0A2D7NZT7-F1-model_v4	Amidase domain-containing protein	Halieaceae bacterium	0.96	19.5	0.759	
+11503
+AF-A0A3N9UE56-F1-model_v4	Amidase	Lysinibacillus composti	0.94	20.4	0.759	
+64503
+AF-A0A109SYF6-F1-model_v4	Amidase	Mycobacterium tuberculosis variant africanum	0.93	21.8	0.759	
+60496
+AF-A0A1G5RQJ2-F1-model_v4	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Acidaminobacter hydrogenoformans DSM 2784	0.96	20.5	0.759	
+63503
+AF-A0A2N3DAV0-F1-model_v4	Amidase	Alphaproteobacteria bacterium HGW-Alphaproteobacteria-16	0.94	18.5	0.759	
+34502
+AF-A0A2R6H1K7-F1-model_v4	Amidase	Halobacteriales archaeon QS_6_64_34	0.95	20	0.759	
+64503
+AF-A0A1W6LAQ6-F1-model_v4	Amidase domain-containing protein	Rhizobacter gummiphilus	0.94	18.7	0.759	
+63503
+AF-A0A2D5CN77-F1-model_v4	Amidase	Marinovum sp.	0.95	21.8	0.759	
+63503
+AF-A0A386DV85-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Neorhizobium sp. NCHU2750	0.96	20.2	0.758	
+65503
+AF-Q72HP0-F1-model_v4	Amidase/amidotransferase	Thermus thermophilus HB27	0.92	22.8	0.758	
+72500
+AF-A0A150ZBR9-F1-model_v4	Amidase	Bradyrhizobium sp. DOA1	0.93	18.1	0.758	
+55500
+AF-A0A1B9Z3E3-F1-model_v4	Amidase	Bradyrhizobium sp. LMTR 3	0.93	17.8	0.758	
+55500
+AF-A0A094Q677-F1-model_v4	Amidase domain-containing protein	freshwater metagenome	0.94	20.7	0.758	
+59503
+AF-A0A2D5IL61-F1-model_v4	Amidase domain-containing protein	Marinovum sp.	0.92	17.5	0.758	
+55503
+AF-A0A536PYR9-F1-model_v4	Amidase	Chloroflexi bacterium	0.94	20.9	0.758	
+64503
+AF-A0A7X7APR2-F1-model_v4	Amidase	Clostridiaceae bacterium	0.93	17.9	0.758	
+71503
+AF-A0A7C6NPG4-F1-model_v4	Amidase	Alcaligenaceae bacterium	0.93	19.8	0.758	
+66500
+AF-A0A6G1BSQ3-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Oryza meyeriana var. granulata	0.93	19.1	0.758	
+70495
+AF-A0A7T9DV40-F1-model_v4	Amidase	Sphingobacteriales bacterium	0.95	15.9	0.758	
+46503
+AF-A0A7X3YAF8-F1-model_v4	Amidase	Alphaproteobacteria bacterium	0.91	18.7	0.757	
+65522
+AF-A0A0D5ZH87-F1-model_v4	Amidase domain-containing protein	uncultured archaeon	0.92	21.4	0.757	
+68500
+AF-A0A0B5DXY8-F1-model_v4	Amidase	Celeribacter indicus	0.93	21.1	0.757	
+72503
+AF-A0A3R9E1E6-F1-model_v4	Amidase	Amycolatopsis eburnea	0.95	21.2	0.756	
+64503
+AF-A0A839JCE4-F1-model_v4	Amidase	Propioniciclava sp. MC1683	0.94	21.6	0.756	
+64503
+AF-A0A7Y9KPT5-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Dietzia sp. MeA6-2017	0.96	23.5	0.756	
+67503
+AF-A0A5R9LSK8-F1-model_v4	Amidase	Streptomyces sp. So13.3	0.94	21	0.756	
+72503
+AF-A0A0D2DA66-F1-model_v4	Amidase	Fonsecaea pedrosoi CBS 271.37	0.96	19.2	0.756	
+63503
+AF-A0A2E7XGX4-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.96	20	0.756	
+59503
+AF-A0A0P4VM10-F1-model_v4	Putative amidase	Rhodnius neglectus	0.90	21.6	0.756	
+67471
+AF-I7F1M8-F1-model_v4	Putative glutamyl-tRNA(Gln) amidotransferase subunit A	Phaeobacter inhibens DSM 17395	0.94	22.4	0.756	
+65503
+AF-J3IVQ3-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Pseudomonas sp. GM84	0.94	18.7	0.756	
+64503
+AF-A0A149VTA8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Ferrovum sp. PN-J185	0.91	17.8	0.756	
+63502
+AF-A0A354B8I5-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.94	20.4	0.755	
+59500
+AF-A0A395CRF7-F1-model_v4	Indole-3-acetamide hydrolase	Methylocystaceae bacterium	0.93	20.6	0.755	
+64501
+AF-A0A2V6USY6-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Candidatus Rokubacteria bacterium	0.93	22.9	0.755	
+80503
+AF-A0A2E3L4W1-F1-model_v4	Amidase domain-containing protein	Magnetovibrio sp.	0.91	17	0.755	
+64502
+AF-A0A5D3FDI9-F1-model_v4	Amidase	Actinomadura decatromicini	0.95	20.9	0.755	
+63503
+AF-A0A136KJT8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	candidate division WS6 bacterium OLB21	0.95	18.9	0.755	
+65503
+AF-A0A7V4A803-F1-model_v4	Amidase	Candidatus Calescamantes bacterium	0.96	22.6	0.755	
+63503
+AF-A0A6N8YQH4-F1-model_v4	Amidase	Chloroflexi bacterium	0.94	20.6	0.755	
+63503
+AF-A0A1E4JH54-F1-model_v4	Amidase domain-containing protein	Sphingomonas sp. SCN 67-18	0.94	16.7	0.754	
+64503
+AF-A0A2S6TQF1-F1-model_v4	Putative amidase AmiD	Alphaproteobacteria bacterium MarineAlpha3_Bin7	0.92	19.4	0.754	
+53503
+AF-A0A4Y2KDU4-F1-model_v4	Fatty-acid amide hydrolase 2	Araneus ventricosus	0.96	23	0.754	
+50503
+AF-A0A1Q5S4N7-F1-model_v4	Amidase domain-containing protein	Bradyrhizobium sp. NAS96.2	0.92	20.9	0.754	
+74500
+AF-A0A1H7GD83-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Stigmatella aurantiaca	0.95	20.5	0.754	
+67503
+AF-A0A7K2AT38-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.95	21.2	0.754	
+64503
+AF-A0A183VEW5-F1-model_v4	Amidase domain-containing protein	Toxocara canis	0.89	22.3	0.754	
+8419
+AF-A0A176XW13-F1-model_v4	Amidase domain-containing protein	Achromobacter xylosoxidans	0.90	18.6	0.754	
+54503
+AF-A0A1H4M8J9-F1-model_v4	Amidase	Tsukamurella tyrosinosolvens	0.91	19.8	0.754	
+67498
+AF-A0A3S1FZE1-F1-model_v4	Allophanate hydrolase	Mesorhizobium sp. M6A.T.Ca.TU.002.02.2.1	0.82	18.6	0.754	
+64455
+AF-A0A1X0UNE9-F1-model_v4	Amidase	Rhodococcus sp. 1163	0.94	21.6	0.753	
+65503
+AF-A0A511RHT4-F1-model_v4	Amidase domain-containing protein	Oceanithermus desulfurans NBRC 100063	0.91	21	0.753	
+70498
+AF-A0A449INS9-F1-model_v4	Amidase	Pseudomonas fragi	0.95	17.3	0.753	
+33503
+AF-A0A537VN57-F1-model_v4	Amidase	Alphaproteobacteria bacterium	0.94	22.1	0.753	
+65503
+AF-A0A2H4UKB2-F1-model_v4	Urethanase	Lysinibacillus sphaericus	0.84	19.1	0.753	
+98523
+AF-A0A2S4YX43-F1-model_v4	Amidase	Streptomyces sp. Ru71	0.94	21.5	0.753	
+59503
+AF-A0A259R663-F1-model_v4	Amidase domain-containing protein	Thiomonas sp. 13-64-67	0.93	17.8	0.753	
+33503
+AF-A0A7C6LUW4-F1-model_v4	Amidase	Intrasporangiaceae bacterium	0.93	21.9	0.753	
+81503
+AF-A0A136LWF9-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	candidate division WS6 bacterium OLB20	0.94	19.7	0.753	
+72503
+AF-A0A1H3GQT0-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Modestobacter sp. DSM 44400	0.93	20	0.753	
+73503
+AF-A0A2V6U8F4-F1-model_v4	Amidase domain-containing protein	Candidatus Rokubacteria bacterium	0.94	22.1	0.753	
+64503
+AF-A0A3N9U9R3-F1-model_v4	Amidase	Lysinibacillus composti	0.90	17.1	0.753	
+77503
+AF-A0A1V5SCS1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	candidate division WS2 bacterium ADurb.Bin280	0.96	20.2	0.752	
+65503
+AF-A0A132PUI0-F1-model_v4	Amidase	Mycolicibacterium wolinskyi	0.95	22	0.752	
+65503
+AF-Q8MZ56-F1-model_v4	GH14210p	Drosophila melanogaster	0.94	20.2	0.752	
+50491
+AF-A0A521C4S7-F1-model_v4	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	Thalassobius litoralis	0.93	20.4	0.752	
+73502
+AF-A0A839UBK1-F1-model_v4	Amidase	Phyllobacterium trifolii	0.94	17.6	0.752	
+33503
+AF-A0A318SYB8-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase A subunit family amidase	Pseudoroseicyclus aestuarii	0.91	18.6	0.752	
+48503
+AF-A0A7T7NZD2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Staphylococcus pseudintermedius	0.95	18.9	0.752	
+65503
+AF-A0A2L2YBI0-F1-model_v4	Fatty-acid amide hydrolase 2-A	Parasteatoda tepidariorum	0.96	22.7	0.752	
+50503
+AF-A0A2A5W8W8-F1-model_v4	Amidase domain-containing protein	Candidatus Thioglobus sp. MED-G23	0.91	18.3	0.751	
+64503
+AF-A0A3D1CQS5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Uhrbacteria bacterium	0.95	20.4	0.751	
+69500
+AF-A0A2E7EJP4-F1-model_v4	Amidase	Planctomycetaceae bacterium	0.90	17	0.751	
+72503
+AF-A0A0H3KTU4-F1-model_v4	Amidase	Burkholderia multivorans ATCC 17616	0.93	21.7	0.751	
+71500
+AF-A0A504BLA8-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp. B2-1-3A	0.94	17.2	0.751	
+33503
+AF-A0A2D8YVG7-F1-model_v4	Amidase domain-containing protein	Magnetovibrio sp.	0.89	20.5	0.751	
+53500
+AF-A0A1K1SSH0-F1-model_v4	Amidase	Amycolatopsis australiensis	0.90	24.6	0.751	
+68499
+AF-A0A0S1XUT0-F1-model_v4	Amidase domain-containing protein	Bordetella sp. N	0.94	19.4	0.750	
+60500
+AF-A0A0G0F1X2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	candidate division WS6 bacterium GW2011_GWC2_36_7	0.94	17	0.750	
+69500
+AF-A0A6I2Y098-F1-model_v4	Amidase	Actinomycetia bacterium	0.93	19.3	0.750	
+70503
+AF-A0A4S2EV81-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Coriobacteriaceae bacterium	0.96	20	0.750	
+64503
+AF-A0A4R1XL68-F1-model_v4	Allophanate hydrolase	Promicromonospora sp. CF082	0.90	19.9	0.750	
+79500
+AF-A0A345ZUZ0-F1-model_v4	Amidase	Pseudolabrys taiwanensis	0.93	16.4	0.750	
+43500
+AF-R5S3Z4-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Clostridium sp. CAG:122	0.95	20.4	0.750	
+64503
+AF-A0A6L7KKE0-F1-model_v4	Amidase	Boseongicola sp. SB0667_bin_21	0.94	19.9	0.750	
+64503
+AF-A0A6F9WRK1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Geobacter sp. SVR	0.95	19.2	0.750	
+67503
+AF-J4YBJ3-F1-model_v4	Amidase family protein	Achromobacter marplatensis	0.94	18.7	0.750	
+63503
+AF-A0A7X6SJZ8-F1-model_v4	Amidase	Actinomycetia bacterium	0.94	18.3	0.750	
+64503
+AF-A0A2V7CP85-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Rokubacteria bacterium	0.75	21.2	0.750	
+64408
+AF-A0A5D3FG25-F1-model_v4	Amidase	Actinomadura decatromicini	0.94	19.9	0.749	
+65503
+AF-A0A0K8LA52-F1-model_v4	Amidase	Aspergillus udagawae	0.99	31	0.749	
+11525
+AF-A0A2S6TQC8-F1-model_v4	Mandelamide hydrolase	Alphaproteobacteria bacterium MarineAlpha3_Bin7	0.93	19.4	0.748	
+65500
+AF-A0A2E5ZZW3-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.94	18.5	0.748	
+77503
+AF-A0A0D5ZFJ0-F1-model_v4	Amidase domain-containing protein	uncultured archaeon	0.95	16.9	0.748	
+64503
+AF-A0A7T9DT84-F1-model_v4	Amidase	Sphingobacteriales bacterium	0.94	16.7	0.748	
+50503
+AF-A0A7X2T6M3-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Clostridium sp. WB02_MRS01	0.95	20.4	0.748	
+64503
+AF-A0A7Y8JMG7-F1-model_v4	Amidase	Pseudomonas yamanorum	0.92	17.7	0.748	
+71503
+AF-A0A5P9HR77-F1-model_v4	6-aminohexanoate-cyclic-dimer hydrolase	Bacillus sp. THAF10	0.93	19.5	0.748	
+67503
+AF-A0A6J5G067-F1-model_v4	Amidase AmiD	Paraburkholderia caffeinitolerans	0.93	18.6	0.747	
+64503
+AF-A0A2E5IPL7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	bacterium	0.94	19.5	0.747	
+70500
+AF-A0A7Y7A9T2-F1-model_v4	Amidase	Flavobacteriales bacterium	0.94	20.7	0.747	
+65503
+AF-A0A2N3KPK0-F1-model_v4	Glutamyl-tRNA amidotransferase	Thalassospira povalilytica	0.90	19.3	0.747	
+84503
+AF-A0A7W9QRR9-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Sphingobium sp. B9G5A	0.90	19.4	0.747	
+80499
+AF-A0A2C9L2W0-F1-model_v4	Amidase domain-containing protein	Biomphalaria glabrata	0.95	19.3	0.747	
+26525
+AF-A0A1I0LUP1-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Nonomuraea wenchangensis	0.92	23.1	0.747	
+65500
+AF-A0A224YMT4-F1-model_v4	Putative fatty acid amide hydrolase 2 A	Rhipicephalus zambeziensis	0.97	21.9	0.747	
+50501
+AF-A8PNC3-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Rickettsiella grylli	0.94	19.5	0.747	
+68500
+AF-A0A089XEU8-F1-model_v4	Putative amidase AmiA2	Streptomyces glaucescens	0.94	21.7	0.747	
+65503
+AF-A0A6J7NZA5-F1-model_v4	Unannotated protein	freshwater metagenome	0.94	19	0.747	
+64503
+AF-A0A6J7JH41-F1-model_v4	Unannotated protein	freshwater metagenome	0.92	19.9	0.746	
+75501
+AF-A0A0W0HUL6-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Pseudomonas viridiflava ICMP 13104	0.94	20.8	0.746	
+69500
+AF-A0A2V8PM90-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Acidobacteria bacterium	0.95	19.2	0.746	
+66503
+AF-A0A0S7Z0Y0-F1-model_v4	Amidase domain-containing protein	Gammaproteobacteria bacterium SG8_30	0.90	20.8	0.746	
+65502
+AF-A0A1F6WQ94-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Nomurabacteria bacterium RIFCSPLOWO2_01_FULL_33_17	0.94	20.6	0.746	
+65503
+AF-A0A4Q3Z003-F1-model_v4	Amidase	Salipiger sp. IMCC34102	0.94	20.1	0.746	
+65503
+AF-M3XGI1-F1-model_v4	Amidase domain-containing protein	Latimeria chalumnae	0.97	20.2	0.746	
+8525
+AF-A0A330GXL0-F1-model_v4	Amidase	Mesorhizobium atlanticum	0.95	19.2	0.745	
+63503
+AF-A0A0G3H1W5-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Corynebacterium mustelae	0.92	19.6	0.745	
+65502
+AF-A0A3D4F3S9-F1-model_v4	Indole-3-acetamide hydrolase	Rhodobiaceae bacterium	0.94	18.8	0.745	
+63503
+AF-A0A1X7M094-F1-model_v4	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A	Paraburkholderia susongensis	0.93	18.8	0.745	
+72503
+AF-A9DE14-F1-model_v4	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Hoeflea phototrophica DFL-43	0.87	17.8	0.745	
+71503
+AF-A0A336KMB2-F1-model_v4	CSON012938 protein	Culicoides sonorensis	0.96	19.1	0.745	
+50503
+AF-A0A4Q1BMJ7-F1-model_v4	MFS domain-containing protein	Tremella mesenterica	1.00	38.5	0.745	
+11525
+AF-A0A1M6PYD7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Anaerobranca californiensis DSM 14826	0.94	20.7	0.744	
+72503
+AF-A0A1Q3W1I9-F1-model_v4	Amidase	Afipia sp. 64-13	0.96	20.5	0.744	
+63501
+AF-A0A3R7LR76-F1-model_v4	Glutamyl-tRNA amidotransferase	Methylarcula marina	0.89	18.1	0.744	
+84499
+AF-A0A660MWW8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Gracilibacteria bacterium	0.93	19.9	0.744	
+69503
+AF-A0A1N5W8X4-F1-model_v4	Aspartyl/glutamyl-tRNA amidotransferase subunit A	Cuniculiplasma divulgatum	0.91	18.5	0.744	
+64500
+AF-A0A3R7VER1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Phycisphaera sp. TMED9	0.95	18.2	0.744	
+55503
+AF-A0A507C7F1-F1-model_v4	Adaptin small chain	Synchytrium microbalum	0.99	24	0.744	
+5525
+AF-A0A432JDL5-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Chloroflexi bacterium	0.77	20.7	0.744	
+64425
+AF-A0A395CUG2-F1-model_v4	Indole-3-acetamide hydrolase	Methylocystaceae bacterium	0.94	15.9	0.744	
+64503
+AF-A0A1V2BUJ0-F1-model_v4	Amidase	Raoultella terrigena	0.90	19.1	0.744	
+73500
+AF-A0A7X3Y9Q2-F1-model_v4	Amidase	Alphaproteobacteria bacterium	0.90	21.7	0.744	
+66503
+AF-A0A6J3KKL3-F1-model_v4	fatty-acid amide hydrolase 2-like isoform X2	Bombus vosnesenskii	0.96	22.3	0.743	
+49503
+AF-A0A7X7B4V8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Clostridiaceae bacterium	0.94	16.2	0.743	
+65503
+AF-A0A3Q9NSY4-F1-model_v4	Amidase	Brevibacterium aurantiacum	0.95	17.8	0.743	
+65525
+AF-A0A1H0GD28-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Alkalicoccus daliensis	0.92	16.9	0.743	
+66503
+AF-A0A4Q1ILY8-F1-model_v4	Amidase	Lutibacter sp. HS1-25	0.96	22.4	0.743	
+62503
+AF-A0A538R696-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.91	18.4	0.743	
+63482
+AF-A0A2E4I547-F1-model_v4	Amidase	Rhodospirillaceae bacterium	0.94	19.7	0.743	
+64503
+AF-A0A2T9JTT8-F1-model_v4	Amidase	Caulobacter radicis	0.95	18.8	0.742	
+65500
+AF-A0A1W0WJD9-F1-model_v4	Mandelamide hydrolase	Hypsibius dujardini	0.94	18.1	0.742	
+64502
+AF-A0A5C6BH37-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Symmachiella macrocystis	0.95	18.4	0.742	
+67500
+AF-W8PKE1-F1-model_v4	6-aminohexanoate hydrolase	Pseudomonas brassicacearum	0.93	18.9	0.742	
+64502
+AF-A0A0K2U111-F1-model_v4	Amidase domain-containing protein	Lepeophtheirus salmonis	0.97	22.5	0.742	
+50501
+AF-A0A520P647-F1-model_v4	Amidase	Rhodobacteraceae bacterium	0.94	16.6	0.742	
+72500
+AF-A0A6J0BUR3-F1-model_v4	fatty-acid amide hydrolase 2-like	Neodiprion lecontei	0.96	23.2	0.742	
+50503
+AF-A0A542MRR2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase A subunit family amidase	Nocardioides sp. SLBN-172	0.94	20.1	0.741	
+64503
+AF-M1MED5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Kinetoplastibacterium blastocrithidii TCC012E	0.95	15.9	0.741	
+60503
+AF-A0A7R8UR69-F1-model_v4	Hypothetical protein	Hermetia illucens	0.96	21	0.741	
+50503
+AF-A0A7Y8EMA1-F1-model_v4	Amidase	Pseudomonas yamanorum	0.77	21.1	0.741	
+67422
+AF-A0A538KLV6-F1-model_v4	Amidase	Actinomycetia bacterium	0.90	22.9	0.741	
+77503
+AF-A0A5J6MRK3-F1-model_v4	Amidase	Hypericibacter adhaerens	0.93	18	0.741	
+64503
+AF-A0A336KBW6-F1-model_v4	CSON006447 protein	Culicoides sonorensis	0.96	18.1	0.741	
+50502
+AF-A0A3D0NBN4-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Planctomycetaceae bacterium	0.95	18.5	0.741	
+67503
+AF-A0A6L7PH84-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.92	17.4	0.741	
+63503
+AF-A5V4S8-F1-model_v4	Amidase	Rhizorhabdus wittichii RW1	0.93	18	0.741	
+64503
+AF-A0A258QPM4-F1-model_v4	Amidase domain-containing protein	Polynucleobacter sp. 35-46-207	0.90	16	0.740	
+75503
+AF-A0A432RMQ0-F1-model_v4	Amidase	Methylococcus sp.	0.93	16.8	0.740	
+65503
+AF-A0A541CI47-F1-model_v4	Amidase	Elioraea sp. Yellowstone	0.96	22.2	0.740	
+31503
+AF-A0A814C3K8-F1-model_v4	Hypothetical protein	Rotaria sordida	0.96	19.1	0.740	
+49503
+AF-A0A2E9C2Q5-F1-model_v4	Amidase domain-containing protein	Variovorax sp.	0.93	17.7	0.740	
+63503
+AF-A0A853BYR7-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Nocardioides thalensis	0.87	22.6	0.739	
+91499
+AF-A0A3D2WE17-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.66	22.9	0.739	
+64390
+AF-A0A653KYY1-F1-model_v4	Amidase	Acinetobacter sp. 8I-beige	0.94	17.1	0.739	
+64503
+AF-A0A067R9Z7-F1-model_v4	Fatty-acid amide hydrolase 2	Zootermopsis nevadensis	0.96	22.3	0.738	
+50503
+AF-A0A067R7C9-F1-model_v4	Fatty-acid amide hydrolase 2-A	Zootermopsis nevadensis	0.96	21.6	0.738	
+50503
+AF-A0A3D5HNF6-F1-model_v4	Indole-3-acetamide hydrolase	Rhodobiaceae bacterium	0.89	17.5	0.738	
+63474
+AF-A0A2V7CF95-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Candidatus Rokubacteria bacterium	0.96	21.8	0.738	
+64503
+AF-A0A1G2ZHX1-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	Planctomycetes bacterium RBG_16_43_13	0.69	21.1	0.738	
+65401
+AF-A0A4S2H3M3-F1-model_v4	Amidase	Marinicauda algicola	0.89	20.3	0.738	
+75503
+AF-A0A7X0IQC7-F1-model_v4	Mandelamide amidase	Rhizobium lusitanum	0.91	18.2	0.738	
+45503
+AF-A0A1G3P4S4-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Spirochaetes bacterium GWF1_41_5	0.93	21.1	0.738	
+66500
+AF-A0A7X7HUZ5-F1-model_v4	Amidase	Actinomycetales bacterium	0.80	24.1	0.738	
+68427
+AF-A0A538KKC0-F1-model_v4	Amidase domain-containing protein	Actinomycetia bacterium	0.85	20.6	0.738	
+81495
+AF-A0A3M1U7X4-F1-model_v4	Amidase	Euryarchaeota archaeon	0.94	17.8	0.738	
+67500
+AF-A0A7T9ZQ99-F1-model_v4	Amidase	Moraxella osloensis	0.94	16.7	0.738	
+64503
+AF-A0A315D165-F1-model_v4	Amidase	Limnohabitans sp. Hippo4	0.94	19.7	0.738	
+67503
+AF-A0A498RTV7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A,amidase,Allophanate hydrolase subunit 2,aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, A subunit,Amidase	Burkholderia stabilis	0.94	19.2	0.737	
+64503
+AF-A0A3N4RLE6-F1-model_v4	Amidase	Acinetobacter sp. BIGb0102	0.94	16.9	0.737	
+64503
+AF-A0A7K9W748-F1-model_v4	FAAH2 hydrolase	Rhipidura dahli	0.92	25.7	0.737	
+85503
+AF-T1HYP4-F1-model_v4	Amidase domain-containing protein	Rhodnius prolixus	0.96	20.4	0.737	
+50503
+AF-A0A351XCH2-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.92	18.2	0.737	
+65503
+AF-M2APL0-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Rhodopirellula europaea 6C	0.94	21.3	0.737	
+69503
+AF-A0A345ZD20-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Chromulinivorax destructor	0.93	18.5	0.737	
+65503
+AF-A0A257SD36-F1-model_v4	Amidase	Acidiphilium sp. 21-60-14	0.94	16.2	0.736	
+34503
+AF-A0A7N6BET4-F1-model_v4	Vitamin D3 hydroxylase-associated protein	Anabas testudineus	0.93	21.4	0.736	
+1525
+AF-A0A7X3Y5U0-F1-model_v4	Amidase	Alphaproteobacteria bacterium	0.95	16.4	0.736	
+65504
+AF-A0A2D7D401-F1-model_v4	Amidase	Marinovum sp.	0.90	18.5	0.736	
+64503
+AF-F7SJG4-F1-model_v4	Amidase	Halomonas sp. TD01	0.94	16.8	0.736	
+64503
+AF-A0A6L9UC37-F1-model_v4	Amidase domain-containing protein	Rhizobium lusitanum	0.90	16	0.736	
+68503
+AF-A0A5S9MTE0-F1-model_v4	6-aminohexanoate-cyclic-dimer hydrolase	Zhongshania aliphaticivorans	0.93	17.7	0.736	
+63503
+AF-A0A819HJA5-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.77	45.7	0.736	
+196525
+AF-A9D8K7-F1-model_v4	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Hoeflea phototrophica DFL-43	0.90	18.9	0.736	
+79503
+AF-A0A560WFM2-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Sphingobium sp. AEW013	0.95	19.4	0.736	
+56503
+AF-A0A2V9FQD7-F1-model_v4	Amidase	Acidobacteria bacterium	0.91	17.2	0.735	
+63522
+AF-V4QYR5-F1-model_v4	Amidase	Lutibaculum baratangense AMV1	0.90	23	0.735	
+95503
+AF-A0A2V6PE28-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Rokubacteria bacterium	0.87	20.3	0.735	
+99491
+AF-A0A7W6SJ00-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Bradyrhizobium sp. cir1	0.87	23.3	0.735	
+106502
+AF-A0A2M9F7S2-F1-model_v4	Glutamyl-tRNA amidotransferase	Mycobacterium goodii	0.87	19.4	0.735	
+84503
+AF-A0A1H0KI35-F1-model_v4	Amidase	Alkalicoccus daliensis	0.94	20.6	0.735	
+63503
+AF-A0A1E4B745-F1-model_v4	Amidase	Erythrobacter sp. SCN 62-14	0.91	16.9	0.735	
+54503
+AF-A0A424YAM1-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Candidatus Syntrophonatronum acetioxidans	0.93	17.6	0.735	
+63499
+AF-A0A288GV50-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	candidate division SR1 bacterium Aalborg_AAW-1	0.92	17.5	0.734	
+72503
+AF-A0A1B2M0S9-F1-model_v4	Amidase	Acinetobacter larvae	0.94	18.3	0.734	
+64503
+AF-A0A2E2UL66-F1-model_v4	Amidase domain-containing protein	Trueperaceae bacterium	0.94	17.1	0.734	
+60503
+AF-A0A2L2YED9-F1-model_v4	Fatty-acid amide hydrolase 2-A	Parasteatoda tepidariorum	0.93	21	0.734	
+85500
+AF-A0A7W6AN74-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Methylobacterium brachythecii	0.95	23.6	0.734	
+63503
+AF-A0A067NBV9-F1-model_v4	Uncharacterized protein	Pleurotus ostreatus PC15	0.90	21	0.734	
+64525
+AF-A0A2M9HGG6-F1-model_v4	Amidase domain-containing protein	Bifidobacterium simiarum	0.96	21.4	0.734	
+57503
+AF-A0A0K8W9A9-F1-model_v4	Fatty-acid amide hydrolase 2-A	Bactrocera latifrons	0.87	17.5	0.734	
+50456
+AF-A0A378LBB6-F1-model_v4	Amidase	Legionella steigerwaltii	0.91	20.1	0.734	
+64502
+AF-A0A853C9K9-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Nocardioides thalensis	0.91	20	0.734	
+73500
+AF-A0A1H7RU37-F1-model_v4	Amidase	Paraburkholderia caballeronis	0.69	16.7	0.734	
+63522
+AF-A0A7K2TC28-F1-model_v4	Amidase	Streptomyces sp. SID8352	0.93	18.5	0.734	
+64502
+AF-A0A536Q5I2-F1-model_v4	Amidase	Chloroflexi bacterium	0.95	22	0.733	
+64503
+AF-A0A397QQT4-F1-model_v4	Amidase	Pelomonas sp. BT06	0.94	20.4	0.733	
+64503
+AF-A0A1I4RZ81-F1-model_v4	Amidase	Marinobacter pelagius	0.94	17.7	0.733	
+64503
+AF-A0A4V2EVW9-F1-model_v4	Mandelamide amidase	Variovorax sp. BK460	0.94	17.4	0.733	
+63503
+AF-A0A2K8NYU9-F1-model_v4	Aspartyl/glutamyl-tRNA amidotransferase subunit A	Williamsoniiplasma somnilux	0.93	15.4	0.733	
+65500
+AF-A0A4Q2U406-F1-model_v4	Indole-3-acetamide hydrolase	Lichenibacterium minor	0.87	16.9	0.733	
+58499
+AF-A0A424W3T7-F1-model_v4	Amidase	Achromobacter xylosoxidans	0.89	20.3	0.733	
+88503
+AF-A0A6B1N077-F1-model_v4	Amidase	Streptomyces sp. SID69	0.75	21.1	0.732	
+56431
+AF-W9H437-F1-model_v4	Amidase domain-containing protein	Skermanella stibiiresistens SB22	0.94	16.5	0.732	
+64518
+AF-A0A336LZE1-F1-model_v4	CSON009049 protein	Culicoides sonorensis	0.96	18.2	0.732	
+50503
+AF-A0A5Q4G290-F1-model_v4	Amidase	Trueperaceae bacterium	0.93	24.8	0.732	
+64503
+AF-A0A538JZ29-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Actinomycetia bacterium	0.92	16	0.732	
+64500
+AF-A0A2S5RGU0-F1-model_v4	Aspartyl/glutamyl-tRNA amidotransferase subunit A	Mesoplasma corruscae	0.93	16.5	0.732	
+65500
+AF-A0A6B2L2T2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Arcella intermedia	0.92	16.8	0.732	
+80503
+AF-A0A7C4KVU8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	bacterium	0.91	18.5	0.732	
+70500
+AF-A0A1Y2AN93-F1-model_v4	Amidase signature domain-containing protein	Naematelia encephala	0.91	20.8	0.731	
+64503
+AF-A0A841Q1U6-F1-model_v4	Amidase	Geomicrobium halophilum	0.77	21.7	0.731	
+63427
+AF-A0A3M1FVW2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Candidatus Dadabacteria bacterium	0.60	23.5	0.731	
+67382
+AF-A0A7W7WCA7-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Streptosporangium album	0.84	16.5	0.731	
+81503
+AF-A0A7J7BR82-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.89	16.5	0.731	
+64503
+AF-A0A336LV72-F1-model_v4	CSON005683 protein	Culicoides sonorensis	0.96	21.2	0.731	
+50503
+AF-A0A699YYC1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Haematococcus lacustris	0.87	20.1	0.730	
+55498
+AF-A0A7Z0AQZ9-F1-model_v4	Amidase	Sphingomonas sp. R3G8D	0.91	18.3	0.730	
+74503
+AF-A0A336M0I7-F1-model_v4	CSON005684 protein	Culicoides sonorensis	0.95	20.8	0.730	
+50503
+AF-A0A3D5K1X3-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.57	23.1	0.730	
+65387
+AF-S4PJ70-F1-model_v4	Amidotransferase subunit A	Pararge aegeria	0.82	22	0.730	
+93521
+AF-A0A7H4LAL0-F1-model_v4	Genome assembly, chromosome: II	Triticum aestivum	0.92	16.8	0.730	
+64503
+AF-A0A2V6ZVX1-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.60	27.1	0.730	
+72384
+AF-A0A5R9JAW1-F1-model_v4	Amidase	Lichenicoccus roseus	0.82	18.5	0.730	
+86503
+AF-A0A7X7D9L0-F1-model_v4	Amidase	Actinomycetales bacterium	0.90	18.8	0.729	
+57503
+AF-A0A2E2UNM9-F1-model_v4	Amidase domain-containing protein	Trueperaceae bacterium	0.92	18.2	0.729	
+67503
+AF-A0A365T9J8-F1-model_v4	Amidase	halophilic archaeon	0.92	19.6	0.729	
+86503
+AF-A0A6J5FZ69-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Paraburkholderia caffeinitolerans	0.94	19.8	0.729	
+48500
+AF-A0A6J2XNY1-F1-model_v4	fatty-acid amide hydrolase 2-B-like isoform X2	Sitophilus oryzae	0.96	23.7	0.729	
+50503
+AF-A0A7K2MFU1-F1-model_v4	Amidase	Streptomyces sp. SID6013	0.69	22.7	0.729	
+65420
+AF-A0A6S7EVU0-F1-model_v4	Amidase AmiD	Achromobacter insolitus	0.90	16.9	0.729	
+65503
+AF-A0A521IMZ9-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Firmicutes bacterium	0.82	18.1	0.729	
+65455
+AF-A0A0W4ZR03-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Pneumocystis carinii B80	0.92	17.1	0.728	
+80503
+AF-A0A2G8MFI6-F1-model_v4	Amidase	Methylobacterium frigidaeris	0.91	20.2	0.728	
+66525
+AF-A0A800KII2-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.96	21.2	0.728	
+67503
+AF-A0A7N5KBJ9-F1-model_v4	Fatty acid amide hydrolase	Ailuropoda melanoleuca	0.98	24.8	0.728	
+10489
+AF-A0A671LZ84-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Sinocyclocheilus anshuiensis	0.95	17.6	0.728	
+69503
+AF-F3G3D8-F1-model_v4	Allophanate hydrolase	Pseudomonas syringae pv. pisi str. 1704B	0.95	16.2	0.728	
+33503
+AF-A0A836CQP8-F1-model_v4	Glutamyl-tRNA amidotransferase subunit A	Tribonema minus	0.95	20.6	0.728	
+68503
+AF-A0A6I2XT59-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Actinomycetia bacterium	0.69	24	0.727	
+68402
+AF-A0A834P5Z9-F1-model_v4	Uncharacterized protein	Vespula pensylvanica	0.92	19.9	0.727	
+82503
+AF-A0A242M5Q9-F1-model_v4	Aspartyl-tRNA(Asn) amidotransferase subunit A / Glutamyl-tRNA(Gln) amidotransferase subunit A	Caballeronia sordidicola	0.94	17.6	0.727	
+63503
+AF-A0A7Y9KML1-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Dietzia sp. MeA6-2017	0.90	18.3	0.727	
+74503
+AF-A0A2Z5YL32-F1-model_v4	Putative amidase AmiB2	Mycobacterium marinum	0.89	21.9	0.727	
+90501
+AF-A0A543CR90-F1-model_v4	Amidase	Actinoallomurus bryophytorum	0.95	19	0.726	
+63503
+AF-A0A7J6NTZ2-F1-model_v4	Amidase domain-containing protein	Perkinsus olseni	0.91	18.9	0.726	
+87503
+AF-A0A2E7U6W2-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.90	21.6	0.726	
+92503
+AF-H8FGA2-F1-model_v4	Peptide amidase	Xanthomonas citri pv. mangiferaeindicae LMG 941	0.94	18.1	0.726	
+74508
+AF-A0A0D3AUY4-F1-model_v4	Amidase domain-containing protein	Brassica oleracea var. oleracea	0.91	14.7	0.726	
+64502
+AF-A0A3B9VQX4-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Dehalococcoidia bacterium	0.77	20.8	0.726	
+138501
+AF-A0A1G8S6I5-F1-model_v4	Amidase	Natribacillus halophilus	0.92	15.7	0.725	
+33503
+AF-A0A067NL22-F1-model_v4	Amidase domain-containing protein	Pleurotus ostreatus PC15	0.85	16.6	0.725	
+92492
+AF-A0A3D1WEA6-F1-model_v4	Amidase	Betaproteobacteria bacterium	0.89	18.8	0.725	
+87500
+AF-A0A2S6Q5X4-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Proteobacteria bacterium	0.80	19.5	0.725	
+62431
+AF-A0A1E1KQN2-F1-model_v4	Amidase domain-containing protein	Rhynchosporium agropyri	0.92	14.3	0.725	
+59501
+AF-C1A4W7-F1-model_v4	Putative amidase	Gemmatimonas aurantiaca T-27	0.92	18.4	0.725	
+81500
+AF-A0A7X3Y7P2-F1-model_v4	Amidase	Alphaproteobacteria bacterium	0.94	20	0.725	
+63503
+AF-A0A1D1UTB9-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Ramazzottius varieornatus	0.93	17	0.724	
+34500
+AF-A0A317PNW4-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A/mandelamide amidase	Hoeflea marina	0.87	20.1	0.724	
+83500
+AF-A0A1X7V6I8-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Amphimedon queenslandica	0.92	15.9	0.724	
+83503
+AF-A0A0F9TT37-F1-model_v4	Amidase domain-containing protein	marine sediment metagenome	0.85	19.5	0.724	
+94500
+AF-A0A507C4W6-F1-model_v4	Amidase	Synchytrium microbalum	0.85	24.1	0.724	
+152525
+AF-A0A845UVD8-F1-model_v4	Amidase	Wenzhouxiangella limi	0.95	20.8	0.724	
+64500
+AF-A0A537WPA9-F1-model_v4	Amidase	Actinomycetia bacterium	0.96	15.6	0.724	
+63521
+AF-A0A534AAI4-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.60	25.7	0.724	
+63380
+AF-A0A0S1Y381-F1-model_v4	Amidase domain-containing protein	Bordetella sp. N	0.90	15.8	0.724	
+49503
+AF-A0A7Y3IEL6-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.94	19.2	0.724	
+75503
+AF-A0A133Y3M2-F1-model_v4	Amidase	Aerococcus christensenii	0.93	18.2	0.724	
+70503
+AF-A0A0J1LDK1-F1-model_v4	Amidase	Niallia circulans	0.92	17.7	0.724	
+63500
+AF-A0A375H5W9-F1-model_v4	Amidase	Cupriavidus neocaledonicus	0.96	16.7	0.723	
+9503
+AF-A0A094QDV2-F1-model_v4	Amidase domain-containing protein	freshwater metagenome	0.89	16.5	0.723	
+56500
+AF-A0A800ETP1-F1-model_v4	Amidase domain-containing protein	Gemmatimonadetes bacterium	0.95	17.6	0.723	
+47503
+AF-A0A3B8QWF3-F1-model_v4	Amidase	Rhodobacteraceae bacterium	0.69	19.1	0.723	
+63405
+AF-A0A2D6EVB1-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Woesearchaeota archaeon	0.80	15.7	0.723	
+74445
+AF-A0A177ND30-F1-model_v4	Amidase domain-containing protein	Methylomonas koyamae	0.93	18.1	0.722	
+62503
+AF-A0A6L7MSU6-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.96	22.9	0.722	
+63503
+AF-A0A3C0JN97-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Dehalococcoidia bacterium	0.54	24.3	0.722	
+64364
+AF-A0A4Y2KKP0-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Araneus ventricosus	0.95	15.9	0.722	
+64503
+AF-P47345-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Mycoplasmoides genitalium G37	0.92	14.7	0.722	
+71503
+AF-A0A1S9DTN4-F1-model_v4	Amidase	Aspergillus oryzae	1.00	30	0.722	
+9525
+AF-A0A381PZ11-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	marine metagenome	0.90	18.2	0.722	
+81503
+AF-M0CD96-F1-model_v4	Amidase	Haloterrigena limicola JCM 13563	0.72	24.3	0.722	
+62396
+AF-A0A0D1DNB5-F1-model_v4	Chromosome 21, whole genome shotgun sequence	Ustilago maydis 521	0.97	16	0.721	
+12511
+AF-A0A2V7YTB0-F1-model_v4	Amidase	Acidobacteria bacterium	0.95	15.7	0.721	
+40500
+AF-A0A2G8MCC4-F1-model_v4	Indole-3-acetamide hydrolase	Methylobacterium frigidaeris	0.66	20.6	0.721	
+64390
+AF-A0A813CHS8-F1-model_v4	Hypothetical protein	Symbiodinium sp. KB8	0.93	16.6	0.720	
+64521
+AF-A0A382MSA2-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.57	24.7	0.720	
+63366
+AF-A0A2D7J8L3-F1-model_v4	Amidase	Halieaceae bacterium	0.95	18.2	0.720	
+45506
+AF-A0A2R6E8D6-F1-model_v4	Amidase	Halobacteriales archaeon QH_1_68_42	0.92	18.9	0.720	
+46503
+AF-A0A364L146-F1-model_v4	Amidase	Talaromyces amestolkiae	1.00	33.2	0.720	
+7525
+AF-A0A6G7TLG7-F1-model_v4	Amidase	Leclercia sp. 29361	0.75	13.6	0.719	
+53503
+AF-A0A0U2WZI0-F1-model_v4	Amidase	Sulfolobus acidocaldarius	0.82	18.6	0.719	
+61500
+AF-A0A3M2EQJ3-F1-model_v4	Amidase domain-containing protein	Deinococcus-Thermus bacterium	0.80	18.5	0.719	
+94500
+AF-A9D7J6-F1-model_v4	Indole-3-acetamide hydrolase	Hoeflea phototrophica DFL-43	0.95	20.5	0.718	
+70503
+AF-A0A2V2SJM9-F1-model_v4	Amidase domain-containing protein	Candidatus Rokubacteria bacterium	0.92	18.3	0.718	
+64503
+AF-A0A6G1J8P7-F1-model_v4	Amidase signature enzyme	Lentithecium fluviatile CBS 122367	0.89	15.8	0.718	
+70501
+AF-A0A0S1YAV6-F1-model_v4	Amidase domain-containing protein	Bordetella sp. N	0.92	19	0.717	
+77503
+AF-A0A0A3IV68-F1-model_v4	Glutamyl-tRNA amidotransferase	Lysinibacillus odysseyi 34hs-1 = NBRC 100172	0.69	22.8	0.717	
+67401
+AF-E1NPD6-F1-model_v4	Amidase	Lactobacillus iners LactinV 03V1-b	0.91	18	0.717	
+92503
+AF-A0A7C0W7W4-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Nitrospirae bacterium	0.51	22.1	0.717	
+65364
+AF-A0A6A0QU61-F1-model_v4	Amidase	Armatimonadetes bacterium	0.47	23.6	0.716	
+46350
+AF-A0A3E0TWI1-F1-model_v4	Amidase	Thalassotalea euphylliae	0.95	18.9	0.716	
+63500
+AF-G3B4W6-F1-model_v4	Amidase	Yamadazyma tenuis ATCC 10573	0.75	26.3	0.716	
+160525
+AF-A0A2V7C1E2-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.90	18.3	0.715	
+81503
+AF-W4M3Y3-F1-model_v4	Amidase domain-containing protein	Candidatus Entotheonella gemina	0.87	17.8	0.715	
+96500
+AF-A0A061M0M2-F1-model_v4	Glutamyl-tRNA amidotransferase	Leucobacter sp. UCD-THU	0.80	16.3	0.714	
+109506
+AF-A0A524LCU8-F1-model_v4	Amidase	Myxococcales bacterium	0.96	20	0.714	
+60503
+AF-A0A539E8M1-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.60	21.1	0.714	
+64446
+AF-A0A2E7XL97-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.94	20.6	0.714	
+60500
+AF-A0A5J6G6W4-F1-model_v4	Amidase	Streptomyces kanamyceticus	0.94	18.7	0.714	
+59500
+AF-A0A507C6I8-F1-model_v4	Amidase	Synchytrium microbalum	1.00	27.6	0.714	
+8525
+AF-A0A094ABU5-F1-model_v4	Amidase domain-containing protein	Pseudogymnoascus sp. VKM F-3775	0.87	14.9	0.714	
+63525
+AF-A0A0G0XJ50-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	candidate division TM6 bacterium GW2011_GWE2_41_16	0.90	18.2	0.713	
+76500
+AF-A0A257P502-F1-model_v4	Amidase	Thiomonas sp. 20-64-9	0.60	19.1	0.713	
+45382
+AF-A0A381PZ09-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.95	19.7	0.713	
+64503
+AF-F6RIB0-F1-model_v4	Fatty acid amide hydrolase	Monodelphis domestica	0.99	24.8	0.712	
+13525
+AF-A0A1W2TT29-F1-model_v4	Putative glutamyl-tRNA amidotransferase subunit A	Rosellinia necatrix	0.92	16.4	0.712	
+63498
+AF-L0K658-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Natronococcus occultus SP4	0.96	14.7	0.711	
+15502
+AF-A0A1D1ZWM1-F1-model_v4	Uncharacterized protein	Auxenochlorella protothecoides	0.97	14.1	0.711	
+13500
+AF-A0A1Z5TLB7-F1-model_v4	Amidase	Hortaea werneckii EXF-2000	0.99	26.9	0.710	
+8525
+AF-A0A3C0JNS9-F1-model_v4	Amidase domain-containing protein	Dehalococcoidia bacterium	0.95	16.5	0.710	
+67503
+AF-A0A2N2SY19-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Betaproteobacteria bacterium HGW-Betaproteobacteria-19	0.72	20.3	0.709	
+69419
+AF-A0A833DX75-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Pyrodictium sp.	0.57	21.8	0.709	
+80390
+AF-A0A538K149-F1-model_v4	Amidase	Actinomycetia bacterium	0.51	25	0.709	
+45351
+AF-A0A3P7TBR8-F1-model_v4	Amidase domain-containing protein	Heligmosomoides polygyrus	0.87	19.4	0.709	
+50449
+AF-A0A4R6VTH1-F1-model_v4	Amidase/aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Maritalea mobilis	0.89	16.5	0.709	
+53502
+AF-A0A6A4QQY9-F1-model_v4	Putative asparaginyl-tRNA synthase (Glutamine-hydrolyzing)	Lupinus albus	0.93	15.7	0.708	
+64503
+AF-A0A2E6A822-F1-model_v4	Uncharacterized protein	Gammaproteobacteria bacterium	0.92	23.6	0.708	
+66503
+AF-A0A1I5LEL9-F1-model_v4	Amidase	Salibacterium halotolerans	0.77	13.2	0.708	
+37500
+AF-A0A328A9N4-F1-model_v4	Amidase domain-containing protein	Phenylobacterium deserti	0.93	19.1	0.708	
+61503
+AF-A0A854FH48-F1-model_v4	Uncharacterized protein	Salinivibrio kushneri	0.77	12.5	0.708	
+36500
+AF-A0A6A6SP16-F1-model_v4	Glutamyl-tRNA amidotransferase subunit A	Lophiostoma macrostomum CBS 122681	0.96	16	0.708	
+20503
+AF-A0A6A6QE87-F1-model_v4	Amidase	Lophium mytilinum	0.25	48.6	0.706	
+98321
+AF-A0A846HET0-F1-model_v4	Amidase	Hassallia byssoidea VB512170	0.95	18.5	0.706	
+66503
+AF-A0A3G4Z118-F1-model_v4	Amidase	Niallia circulans	0.77	16.3	0.706	
+36500
+AF-U7R611-F1-model_v4	Amidase domain-containing protein	Photorhabdus temperata J3	0.60	18.4	0.706	
+65414
+AF-A0A1K1M4V9-F1-model_v4	Amidase	Luteibacter sp. UNCMF366Tsu5.1	0.93	18	0.706	
+63502
+AF-A0A832SFD2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Desulfurococcaceae archaeon	0.87	18	0.706	
+89498
+AF-A0A5F8H4K2-F1-model_v4	Fatty acid amide hydrolase	Monodelphis domestica	0.95	23.1	0.706	
+63503
+AF-A0A818X677-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.72	32.4	0.705	
+196525
+AF-A0A838HHA0-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.84	17.7	0.705	
+29503
+AF-A0A2V6ZEV7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Rokubacteria bacterium	0.84	19	0.705	
+70500
+AF-J3HUC6-F1-model_v4	Indole-3-acetamide hydrolase	Phyllobacterium sp. YR531	0.75	17.1	0.705	
+106500
+AF-X0UGY1-F1-model_v4	Amidase domain-containing protein	marine sediment metagenome	0.47	25.7	0.705	
+107400
+AF-A0A3C1DU59-F1-model_v4	Allophanate hydrolase	Microbacteriaceae bacterium	0.77	20.3	0.704	
+136503
+AF-A0A6H5KXC5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Ectocarpus sp. CCAP 1310/34	0.95	18.2	0.704	
+58503
+AF-A0A816AVU1-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.97	20.6	0.704	
+30525
+AF-A0A1H6ZQZ7-F1-model_v4	Amidase	Demequina mangrovi	0.94	18.4	0.703	
+31503
+AF-A0A0D5ZHZ5-F1-model_v4	Uncharacterized protein	uncultured archaeon	0.77	15.2	0.703	
+33500
+AF-A0A355QG93-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	Acidimicrobiaceae bacterium	0.85	20.9	0.703	
+111503
+AF-A0A538JV30-F1-model_v4	Amidase	Actinomycetia bacterium	0.84	20.1	0.703	
+47486
+AF-A0A1J4PXU4-F1-model_v4	Uncharacterized protein	Streptomyces malaysiense	0.80	16.8	0.703	
+57499
+AF-A0A2E2K1C8-F1-model_v4	Amidase	Spongiibacteraceae bacterium	0.94	19.6	0.703	
+63503
+AF-A0A7R8UE95-F1-model_v4	Hypothetical protein	Hermetia illucens	0.96	21.1	0.702	
+50503
+AF-A0A660REB2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Thermotoga sp.	0.44	19.7	0.702	
+67369
+AF-A0A5C4JJV4-F1-model_v4	Amidase	Actinomadura soli	0.94	17	0.702	
+47503
+AF-A0A7W1SSC6-F1-model_v4	Amidase	Pseudonocardiales bacterium	0.82	21.5	0.702	
+107503
+AF-A0A536PKQ8-F1-model_v4	Amidase	Chloroflexi bacterium	0.90	17.2	0.702	
+33497
+AF-A0A833E173-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Pyrodictium sp.	0.87	18.9	0.702	
+98500
+AF-A0A1S1QQA4-F1-model_v4	Uncharacterized protein	Frankia sp. EUN1h	0.77	16.4	0.701	
+42500
+AF-A0A660MPN0-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Gracilibacteria bacterium	0.95	15.9	0.701	
+32503
+AF-A0A382NMZ5-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.41	29.6	0.701	
+63340
+AF-A0A1E1JQ72-F1-model_v4	Related to glu/asp-tRNA amidotransferase subunit A	Rhynchosporium commune	0.93	16.3	0.701	
+27503
+AF-A0A250JZ33-F1-model_v4	Amidase	Corallococcus macrosporus DSM 14697	0.94	17.9	0.700	
+68503
+AF-A0A0D0DRS3-F1-model_v4	Amidase	Paxillus rubicundulus Ve08.2h10	0.41	25.7	0.700	
+8305
+AF-A0A257SA90-F1-model_v4	Uncharacterized protein	Acidiphilium sp. 21-60-14	0.77	16.4	0.700	
+22500
+AF-A0A158IX81-F1-model_v4	Amidase	Caballeronia cordobensis	0.80	15.1	0.699	
+19500
+AF-A0A522NNG2-F1-model_v4	Amidase	Microbacteriaceae bacterium	0.94	15.3	0.699	
+67521
+AF-A0A1Y5HXF9-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Ostreococcus tauri	0.85	20.2	0.699	
+114503
+AF-A0A2G8MA85-F1-model_v4	Amidase	Methylobacterium frigidaeris	0.47	23.5	0.699	
+85390
+AF-A0A2V6USR7-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.44	25	0.698	
+65349
+AF-A0A6V8S399-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Saccharomyces cerevisiae	0.87	15.9	0.698	
+65499
+AF-A0A2V9RVQ5-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Acidobacteria bacterium	0.41	20.6	0.698	
+56347
+AF-A0A1E1L5G9-F1-model_v4	Amidase domain-containing protein	Rhynchosporium commune	0.94	15.9	0.698	
+59503
+AF-A0A4Y8RAK2-F1-model_v4	Amidase	Jiella endophytica	0.77	14.7	0.698	
+28500
+AF-B2ASW2-F1-model_v4	Podospora anserina S mat+ genomic DNA chromosome 6, supercontig 1	Podospora anserina S mat+	0.96	13.1	0.698	
+1525
+AF-A0A5C5Y8T1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Crateriforma conspicua	0.95	21.9	0.697	
+56503
+AF-A0A3N0EFC3-F1-model_v4	Amidase domain-containing protein	Nocardiopsaceae bacterium YIM 96095	0.92	17.5	0.697	
+63500
+AF-A0A0T5ZTQ6-F1-model_v4	Putative amidase family protein	Candidatus Dadabacteria bacterium CSP1-2	0.80	16.2	0.697	
+55500
+AF-A0A850CUR9-F1-model_v4	Amidase	Kribbellaceae bacterium	0.80	19.4	0.697	
+39503
+AF-A0A382N896-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.35	31.9	0.697	
+92361
+AF-D5GHF7-F1-model_v4	Amidase domain-containing protein	Tuber melanosporum Mel28	0.96	31.7	0.697	
+113525
+AF-A0A354BBD0-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.77	22.6	0.696	
+127503
+AF-A0A6H5JCZ7-F1-model_v4	Amidase domain-containing protein	Ectocarpus sp. CCAP 1310/34	0.84	21.6	0.696	
+148525
+AF-A0A845H3V7-F1-model_v4	Amidase	Pusillimonas sp. TS35	0.91	18.3	0.696	
+72503
+AF-A0A109LNC5-F1-model_v4	Uncharacterized protein	Erythrobacter sp. YT30	0.75	19.3	0.696	
+97500
+AF-A0A1I6FNS0-F1-model_v4	Amidase	Robiginitalea myxolifaciens	0.94	16	0.695	
+17503
+AF-A0A177FC48-F1-model_v4	Uncharacterized protein	Fonsecaea monophora	0.57	24.5	0.695	
+8475
+AF-A0A2M6YX93-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Ignavibacteriales bacterium CG07_land_8_20_14_0_80_59_12	0.38	16.1	0.694	
+64519
+AF-K6X275-F1-model_v4	Amidase	Aliiglaciecola lipolytica E3	0.77	13.5	0.694	
+45500
+AF-A0A1V0LB21-F1-model_v4	Amidase	Kosakonia radicincitans DSM 16656	0.75	15	0.694	
+42500
+AF-A0A6G1PL94-F1-model_v4	Fatty-acid amide hydrolase 1	Channa argus	0.96	26.8	0.694	
+80525
+AF-A0A1H2Z2Y8-F1-model_v4	Amidase	Paenibacillus sp. PDC88	0.77	14.5	0.693	
+100500
+AF-A0A3D9TE00-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Rhodococcus sp. OK269	0.75	16.8	0.693	
+56499
+AF-A0A3G6J486-F1-model_v4	6-aminohexanoate-cyclic-dimer hydrolase	Corynebacterium choanae	0.87	14.9	0.693	
+72503
+AF-Q98R10-F1-model_v4	GLUTAMYL-TRNA(GLN) AMIDOTRANSFERASE SUBUNIT A (GLU-ADT SUBUNIT A)	Mycoplasmopsis pulmonis UAB CTIP	0.85	16.1	0.693	
+73500
+AF-A0A094CVL4-F1-model_v4	Amidase	Pseudogymnoascus sp. VKM F-3775	1.00	33.3	0.693	
+9525
+AF-A0A5Q4GF20-F1-model_v4	Amidase domain-containing protein	Trueperaceae bacterium	0.95	19.2	0.693	
+64503
+AF-X0UFA3-F1-model_v4	Amidase domain-containing protein	marine sediment metagenome	0.41	17.2	0.693	
+67461
+AF-A0A2Z5ZHA7-F1-model_v4	Amidase	Acetobacter orientalis	0.38	15.3	0.693	
+68503
+AF-A0A075FQS2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A (GatA)	uncultured marine thaumarchaeote AD1000_39_D02	0.35	22.1	0.692	
+65333
+AF-A0A317Z8V8-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Staphylococcus pseudintermedius	0.38	24.5	0.692	
+110383
+AF-A0A183J259-F1-model_v4	Amidase domain-containing protein	Soboliphyme baturini	0.35	28.4	0.692	
+50322
+AF-A0A6P5NJG2-F1-model_v4	putative amidase C869.01	Arachis duranensis	0.75	17.3	0.692	
+59420
+AF-A0A7L0MV18-F1-model_v4	GATA amidotransferase	Amazona guildingii	0.72	16	0.692	
+76425
+AF-A0A1H7G4D9-F1-model_v4	Amidase	Paraburkholderia caballeronis	0.85	16.1	0.691	
+21500
+AF-A0A7C8UD14-F1-model_v4	Amidase	Orbilia oligospora	0.69	29.3	0.691	
+195525
+AF-A0A395CRS9-F1-model_v4	Amidase	Methylocystaceae bacterium	0.80	19.6	0.691	
+97503
+AF-A0A1H3EMZ4-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Modestobacter sp. DSM 44400	0.87	19.3	0.691	
+75503
+AF-A0A5Q4BE40-F1-model_v4	Amidase	Colletotrichum shisoi	0.92	17.4	0.691	
+65500
+AF-A0A2E2Q7A6-F1-model_v4	Uncharacterized protein	Nocardioides sp.	0.77	15.1	0.690	
+104500
+AF-A0A7J6L5J3-F1-model_v4	Amidase domain-containing protein	Perkinsus chesapeaki	0.95	17.2	0.690	
+69503
+AF-A0A3B0VIF6-F1-model_v4	Amidase family protein	hydrothermal vent metagenome	0.82	18	0.690	
+113503
+AF-A0A543CXG0-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase A subunit family amidase	Pseudonocardia kunmingensis	0.82	19.8	0.689	
+63501
+AF-A0A3M1V559-F1-model_v4	Amidase	Euryarchaeota archaeon	0.90	15.5	0.689	
+75500
+AF-A0A3N5IQM8-F1-model_v4	Glutamyl-tRNA amidotransferase	Candidatus Rokubacteria bacterium	0.57	17.4	0.689	
+104463
+AF-A0A7S3WER0-F1-model_v4	Hypothetical protein	Emiliania huxleyi	0.96	12.5	0.689	
+6503
+AF-A0A7I9G4I4-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Saccharomyces cerevisiae	0.80	14.7	0.689	
+65521
+AF-A0A226WYC5-F1-model_v4	Amidase	Caballeronia sordidicola	0.72	16	0.689	
+116500
+AF-A0A520XHQ8-F1-model_v4	Amidase domain-containing protein	Acidimicrobiales bacterium	0.80	22.5	0.689	
+114503
+AF-A0A6P4GA27-F1-model_v4	LOW QUALITY PROTEIN: glutamyl-tRNA(Gln) amidotransferase subunit A-like	Drosophila takahashii	0.51	21.6	0.688	
+96399
+AF-A0A660C5R0-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Prauserella rugosa	0.93	18.9	0.688	
+64503
+AF-A0A3B9VPC0-F1-model_v4	Amidase	Dehalococcoidia bacterium	0.33	25.7	0.688	
+63317
+AF-A0A424TJ67-F1-model_v4	Amidase	Alteromonadaceae bacterium TMED7	0.77	12.9	0.688	
+48500
+AF-A0A2S4K0Q9-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Alkalispirochaeta sphaeroplastigenens	0.89	17.1	0.688	
+80502
+AF-A0A3C1BQA4-F1-model_v4	Indole-3-acetamide hydrolase	Rhodobiaceae bacterium	0.93	18.4	0.688	
+67500
+AF-A0A2V6PE30-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.94	21.7	0.688	
+64503
+AF-A0A7K2E3E7-F1-model_v4	Amidase domain-containing protein	Acidimicrobiaceae bacterium	0.51	22.6	0.688	
+107425
+AF-A0A1G8D897-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Variovorax sp. OV700	0.75	20.3	0.688	
+138500
+AF-A0A242M726-F1-model_v4	Amidase	Caballeronia sordidicola	0.72	16.2	0.688	
+116500
+AF-A0A800JY56-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.93	18.9	0.687	
+63503
+AF-A0A2V2LF19-F1-model_v4	AtzE family amidohydrolase	Meridianimarinicoccus roseus	0.93	19.7	0.687	
+47500
+AF-A0A2E5FHX5-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	bacterium	0.82	14.1	0.686	
+1500
+AF-A0A1G1W7I7-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	Candidatus Woykebacteria bacterium GWB1_45_5	0.77	21	0.686	
+131500
+AF-A0A7L1V4E7-F1-model_v4	VDHAP protein	Sitta europaea	0.28	35.8	0.686	
+97338
+AF-A0A7W1E4S0-F1-model_v4	Amidase	Actinomycetia bacterium	0.28	28.2	0.685	
+71317
+AF-A0A0K8W6C1-F1-model_v4	Fatty-acid amide hydrolase 2-A	Bactrocera latifrons	0.47	20.4	0.685	
+50362
+AF-A0A6G1BVZ3-F1-model_v4	Amidase domain-containing protein	Oryza meyeriana var. granulata	0.84	13.8	0.685	
+1502
+AF-A0A1Q9NS87-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Candidatus Heimdallarchaeota archaeon LC_2	0.93	17.6	0.685	
+63503
+AF-A0A2D8AXJ0-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Citromicrobium sp.	0.33	25.9	0.684	
+64320
+AF-A0A2N2M7W7-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Chloroflexi bacterium HGW-Chloroflexi-7	0.69	17.4	0.684	
+67401
+AF-A0A5N7RX89-F1-model_v4	Amidase	Alcaligenaceae bacterium SAGV5	0.89	17.8	0.683	
+65503
+AF-A0A2V7CKQ6-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.69	17.3	0.683	
+113500
+AF-A0A375D3Q0-F1-model_v4	Putative amidase	Cupriavidus taiwanensis	0.91	20.6	0.682	
+68499
+AF-A0A2V8RIF6-F1-model_v4	Amidase	Acidobacteria bacterium	0.77	16.1	0.682	
+39413
+AF-G7DTS2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Mixia osmundae IAM 14324	0.90	16.2	0.682	
+86503
+AF-W4L4N5-F1-model_v4	Amidase domain-containing protein	Candidatus Entotheonella gemina	0.33	27.2	0.682	
+77334
+AF-A0A0K9NLL4-F1-model_v4	Amidase 1	Zostera marina	0.80	12.7	0.682	
+23500
+AF-A0A6A5BJL3-F1-model_v4	Uncharacterized protein	Naegleria fowleri	0.72	15	0.682	
+34486
+AF-A0A833G672-F1-model_v4	Amidase	Bauldia sp.	0.80	18.4	0.682	
+74462
+AF-A0A366X835-F1-model_v4	Amidase	Phaeobacter gallaeciensis	0.91	14.6	0.681	
+8503
+AF-A5V482-F1-model_v4	Amidase	Rhizorhabdus wittichii RW1	0.69	20	0.681	
+143500
+AF-A0A7Y3IBP5-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.90	17.1	0.681	
+81506
+AF-A0A646JUH4-F1-model_v4	Amidase	Companilactobacillus mishanensis	0.92	14.8	0.680	
+9503
+AF-A0A1C6QZ34-F1-model_v4	Amidase	Streptomyces sp. AmelKG-D3	0.94	22.3	0.680	
+59503
+AF-A0A838IXB3-F1-model_v4	Amidase	Trueperaceae bacterium	0.89	17.5	0.680	
+63522
+AF-A0A1A9YP11-F1-model_v4	Uncharacterized protein	Glossina fuscipes fuscipes	0.96	18.5	0.680	
+38503
+AF-A0A355DGD3-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.25	25.8	0.680	
+67302
+AF-A0A358MHV8-F1-model_v4	Amidase	Rhodobacteraceae bacterium	0.35	27.7	0.679	
+65339
+AF-A0A3N5I8R1-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.94	16.3	0.679	
+9503
+AF-A0A2U3LW25-F1-model_v4	Amidase	Candidatus Sulfopaludibacter sp. SbA4	0.94	17.2	0.678	
+64503
+AF-A0A395RV64-F1-model_v4	Amidase domain-containing protein	Fusarium sporotrichioides	0.51	35.2	0.678	
+4311
+AF-S3CUU6-F1-model_v4	Amidase signature (AS) enzyme	Glarea lozoyensis ATCC 20868	0.94	15.8	0.677	
+63523
+AF-X8DYH3-F1-model_v4	Amidase family protein	Mycobacterium xenopi 4042	0.33	23.6	0.677	
+64362
+AF-A0A4S4KKM8-F1-model_v4	Amidase domain-containing protein	Hermanssonia centrifuga	0.28	19.7	0.677	
+9496
+AF-A0A7Y3I8H7-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.91	13.6	0.677	
+64519
+AF-A0A2G6G3N0-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	bacterium DOLZORAL124_64_63	0.92	19.4	0.677	
+64503
+AF-A0A7J7B235-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.63	16.9	0.677	
+80500
+AF-A0A3M1PXG3-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Alphaproteobacteria bacterium	0.25	28.3	0.677	
+64306
+AF-A0A061LTC5-F1-model_v4	Glutamyl-tRNA amidotransferase	Leucobacter sp. UCD-THU	0.75	14.9	0.677	
+15496
+AF-A0A2E7D5G3-F1-model_v4	Amidase	Planctomycetaceae bacterium	0.77	20	0.676	
+123503
+AF-A0A6N9XKE0-F1-model_v4	Amidase	Micromonospora aurantiaca	0.23	25.6	0.676	
+64301
+AF-A0A381WNV5-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.87	15.4	0.675	
+82500
+AF-A0A1B0CN79-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.96	17.5	0.675	
+50503
+AF-A0A3C1E1D3-F1-model_v4	Allophanate hydrolase	Microbacteriaceae bacterium	0.96	17.2	0.675	
+43503
+AF-A0A527GIC4-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp.	0.30	27.9	0.675	
+63325
+AF-S3DKF2-F1-model_v4	Amidase signature (AS) enzyme	Glarea lozoyensis ATCC 20868	0.96	14.6	0.675	
+63521
+AF-A0A4Q5Y2N4-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Sphingobacteriales bacterium	0.60	18.3	0.675	
+124459
+AF-A0A2D4UTP9-F1-model_v4	Allophanate hydrolase	Rhodobacteraceae bacterium	0.94	20.1	0.674	
+63503
+AF-A0A3R6H0L0-F1-model_v4	Allophanate hydrolase	Roseburia intestinalis	0.92	16.5	0.674	
+63502
+AF-W8I824-F1-model_v4	Indole-3-acetamide hydrolase	Ensifer adhaerens OV14	0.63	17.7	0.674	
+143500
+AF-A0A258QJJ8-F1-model_v4	Amidase domain-containing protein	Polynucleobacter sp. 35-46-207	0.41	17.1	0.674	
+68376
+AF-A0A493T3I7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Anas platyrhynchos platyrhynchos	0.95	15.4	0.674	
+62499
+AF-A0A4D8YJB5-F1-model_v4	Amidase domain-containing protein	Salvia splendens	0.82	13.6	0.674	
+19522
+AF-J2LBC1-F1-model_v4	Allophanate hydrolase	Rhizobium sp. CF142	0.94	20.8	0.673	
+63503
+AF-A0A800F4J5-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Gemmatimonadetes bacterium	0.35	23	0.673	
+80372
+AF-A0A347VMJ5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Helicobacter saguini	0.89	17.7	0.673	
+78503
+AF-A0A3N9W5S6-F1-model_v4	Amidase	Micromonospora globispora	0.30	25.5	0.673	
+64337
+AF-A0A5Q4GAQ1-F1-model_v4	Amidase	Trueperaceae bacterium	0.93	18.5	0.672	
+32503
+AF-A0A7K2MVE1-F1-model_v4	Amidase	Streptomyces sp. SID6013	0.20	32.7	0.672	
+65284
+AF-A0A1Z5TRX0-F1-model_v4	Amidase	Hortaea werneckii EXF-2000	0.94	14.1	0.672	
+14501
+AF-A0A2G8MHS7-F1-model_v4	Indole-3-acetamide hydrolase	Methylobacterium frigidaeris	0.35	27.7	0.672	
+45330
+AF-A0A8B5GZU3-F1-model_v4	Uncharacterized protein	Carnobacterium divergens	0.91	16.8	0.672	
+80519
+AF-G3B4G6-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Yamadazyma tenuis ATCC 10573	0.84	14	0.672	
+31499
+AF-A0A369K3V7-F1-model_v4	Amidase domain-containing protein	Hypsizygus marmoreus	0.94	12.8	0.671	
+1525
+AF-A0A7X2TYD4-F1-model_v4	Amidase domain-containing protein	Bryobacterales bacterium	0.77	18.6	0.671	
+56438
+AF-A0A2D7AB75-F1-model_v4	Amidase	Magnetovibrio sp.	0.66	21.4	0.671	
+156500
+AF-A0A0C2GMX5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A family protein	Ancylostoma duodenale	0.63	14.5	0.671	
+80425
+AF-A0A2E9XJU7-F1-model_v4	Allophanate hydrolase	Porticoccaceae bacterium	0.94	17.4	0.671	
+46502
+AF-A0A401X347-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A	Acetobacter pasteurianus NBRC 3278	0.94	19.2	0.670	
+65503
+AF-A0A3P7XYB7-F1-model_v4	Amidase domain-containing protein	Heligmosomoides polygyrus	0.80	19.1	0.669	
+84503
+AF-A0A2V8LX13-F1-model_v4	Amidase	Acidobacteria bacterium	0.89	18.7	0.669	
+63479
+AF-A0A1H8DIB3-F1-model_v4	Amidase	Actinacidiphila rubida	0.75	15.7	0.669	
+18499
+AF-N9RXF7-F1-model_v4	Amidase domain-containing protein	Acinetobacter sp. CIP 102143	0.23	24	0.669	
+64301
+AF-W0ZDQ4-F1-model_v4	Amidase	Microbacterium sp. C448	0.85	14.2	0.669	
+37503
+AF-A0A853BXZ8-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase A subunit family amidase	Nocardioides thalensis	0.75	14.3	0.669	
+29500
+AF-A0A0C4DPP4-F1-model_v4	Amidase domain-containing protein	Magnaporthiopsis poae ATCC 64411	0.25	21.3	0.669	
+11485
+AF-A0A838HFP8-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Gemmatimonadetes bacterium	0.94	21.8	0.668	
+71500
+AF-A0A850D073-F1-model_v4	Amidase	Kribbellaceae bacterium	0.25	28.4	0.668	
+60297
+AF-A0A3M1PR57-F1-model_v4	Amidase	Alphaproteobacteria bacterium	0.77	18.8	0.668	
+115507
+AF-A0A1X7V3V6-F1-model_v4	Amidase domain-containing protein	Amphimedon queenslandica	0.77	14.7	0.667	
+106500
+AF-A0A534XRP9-F1-model_v4	Amidase	Deltaproteobacteria bacterium	0.91	17	0.667	
+81500
+AF-A0A168ML02-F1-model_v4	Amidase domain-containing protein	Paenibacillus glacialis	0.20	38.1	0.667	
+91308
+AF-A0A4S3ZV17-F1-model_v4	Allophanate hydrolase	Allorhizobium terrae	0.93	17.1	0.667	
+65503
+AF-B2AZW3-F1-model_v4	Podospora anserina S mat+ genomic DNA chromosome 3, supercontig 2	Podospora anserina S mat+	0.72	29.4	0.667	
+8360
+AF-A0A850DIW9-F1-model_v4	Amidase	Mycobacteriaceae bacterium	0.69	21.7	0.667	
+136500
+AF-A0A7V2L8S2-F1-model_v4	Amidase	Anaerolineae bacterium	0.93	16.2	0.666	
+63502
+AF-K9P7Y5-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Cyanobium gracile PCC 6307	0.89	18.9	0.666	
+78503
+AF-A0A833G1W8-F1-model_v4	Allophanate hydrolase	Bauldia sp.	0.80	20.1	0.666	
+118503
+AF-X0WKG9-F1-model_v4	Amidase domain-containing protein	marine sediment metagenome	0.30	24.6	0.665	
+125387
+AF-A0A5S9MST5-F1-model_v4	Allophanate hydrolase	Zhongshania aliphaticivorans	0.93	18.4	0.665	
+68503
+AF-A0A549TEP1-F1-model_v4	Allophanate hydrolase	Rhizobium straminoryzae	0.92	18.9	0.665	
+76503
+AF-A0A3E0KLN7-F1-model_v4	Amidase	Firmicutes bacterium	0.91	19.7	0.665	
+73503
+AF-C6HQQ5-F1-model_v4	Amidase	Histoplasma capsulatum H143	0.94	12.4	0.665	
+9525
+AF-A0A135TXT6-F1-model_v4	Amidase	Colletotrichum nymphaeae SA-01	0.93	15.4	0.664	
+64525
+AF-A0A842VL30-F1-model_v4	Amidase	Candidatus Lokiarchaeota archaeon	0.18	27.7	0.664	
+64312
+AF-A0A378USS4-F1-model_v4	Amidase	Mycolicibacterium fortuitum	0.57	25.1	0.664	
+64383
+AF-C3E286-F1-model_v4	Amidase	Bacillus thuringiensis serovar pakistani str. T13001	0.75	12.5	0.664	
+118503
+AF-A0A1S5Y1S9-F1-model_v4	CHRD domain-containing protein	uncultured bacterium	0.95	19.3	0.663	
+63503
+AF-A0A2T7T645-F1-model_v4	Amidase	Streptomyces scopuliridis RB72	0.66	16.8	0.662	
+88502
+AF-A0A3D4G3N6-F1-model_v4	Glutamyl-tRNA amidotransferase	Gemmatimonadetes bacterium	0.94	23.4	0.662	
+63503
+AF-A0A3P9ABB4-F1-model_v4	Fatty acid amide hydrolase 2	Esox lucius	0.96	18.2	0.661	
+39503
+AF-A0A6I6YJV4-F1-model_v4	Allophanate hydrolase	Rhodococcus rhodochrous	0.91	22.1	0.661	
+86503
+AF-A0A7X6AQT0-F1-model_v4	Amidase	Actinomycetia bacterium	0.69	18.6	0.661	
+148503
+AF-A0A7H8IDA2-F1-model_v4	Allophanate hydrolase	Pantoea ananatis	0.93	18	0.661	
+64503
+AF-A0A3D5US40-F1-model_v4	Indole-3-acetamide hydrolase	Rhodobiaceae bacterium	0.44	21.6	0.661	
+192499
+AF-A0A0C9ZG69-F1-model_v4	Unplaced genomic scaffold scaffold_9, whole genome shotgun sequence	Pisolithus microcarpus 441	0.66	15.9	0.661	
+8525
+AF-J2L8H9-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Rhizobium sp. CF142	0.57	17.3	0.660	
+70517
+AF-G2H260-F1-model_v4	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Candidatus Regiella insecticola 5.15	0.54	26.2	0.660	
+169501
+AF-A0A3M0K321-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.95	16.7	0.660	
+69503
+AF-A0A364LDJ6-F1-model_v4	Amidase	Talaromyces amestolkiae	1.00	32.3	0.660	
+12525
+AF-A0A6A5BEL8-F1-model_v4	Amidase domain-containing protein	Naegleria fowleri	0.94	18.3	0.659	
+68500
+AF-C0P532-F1-model_v4	Amidase domain-containing protein	Zea mays	0.80	19.8	0.659	
+70433
+AF-A0A842VDV5-F1-model_v4	Amidase	Candidatus Lokiarchaeota archaeon	0.72	18.5	0.659	
+146500
+AF-A0A224YJF9-F1-model_v4	Amidase	Rhipicephalus zambeziensis	0.44	27.2	0.659	
+50373
+AF-A0A2E8IUF2-F1-model_v4	Amidase	bacterium	0.54	21.2	0.658	
+184500
+AF-A0A7S3QM47-F1-model_v4	Hypothetical protein	Dunaliella tertiolecta	0.93	18.6	0.658	
+67503
+AF-A0A1Z8WW85-F1-model_v4	Amidase domain-containing protein	Methylococcaceae bacterium TMED69	0.85	15.2	0.658	
+25500
+AF-A0A1G9YND4-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Haloarchaeobius iranensis	0.82	16	0.658	
+27500
+AF-A0A6L7N9A0-F1-model_v4	Amidase	Gammaproteobacteria bacterium	0.15	33.1	0.657	
+64259
+AF-A0A7C3NY10-F1-model_v4	Amidase	Chloroflexi bacterium	0.94	21	0.657	
+64503
+AF-A0A7S3Y278-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	Heterosigma akashiwo	0.95	19.6	0.657	
+62503
+AF-A0A6J7PIH1-F1-model_v4	Unannotated protein	freshwater metagenome	0.66	21.9	0.656	
+156500
+AF-A0A800K4Q4-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.89	19.8	0.656	
+63506
+AF-A0A350ITU3-F1-model_v4	Amidase domain-containing protein	Chloroflexi bacterium	0.75	21.1	0.656	
+49400
+AF-A0A800KID5-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.95	18.8	0.656	
+63503
+AF-S6V3T0-F1-model_v4	Allophanate hydrolase	Pseudomonas syringae pv. actinidiae ICMP 18807	0.21	21.9	0.656	
+59294
+AF-A0A1I4DKZ1-F1-model_v4	Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Mesorhizobium albiziae	0.80	13.9	0.656	
+31500
+AF-A0A4Y3KT13-F1-model_v4	Amidase domain-containing protein	Cellulomonas cellasea	0.82	13.6	0.655	
+33503
+AF-A0A4U7ETJ8-F1-model_v4	Amidase	Halorubrum sp. GN11_10-6_MGM	0.82	12.6	0.655	
+21502
+AF-A0A6V8KX00-F1-model_v4	Amidase	Phytohabitans rumicis	0.54	19	0.655	
+151499
+AF-A0A2E7D705-F1-model_v4	Amidase	Planctomycetaceae bacterium	0.14	31.9	0.655	
+64257
+AF-U1QYF8-F1-model_v4	Aspartyl/glutamyl-tRNA amidotransferase subunit A	halophilic archaeon J07HX64	0.63	19.5	0.655	
+156500
+AF-A0A524NKY4-F1-model_v4	Amidase	Myxococcales bacterium	0.77	13.9	0.655	
+9503
+AF-A0A2G2IMN5-F1-model_v4	Amidase domain-containing protein	Blastopirellula sp.	0.33	14.9	0.654	
+65498
+AF-A0A418S1P8-F1-model_v4	Amidase	Listeria monocytogenes	0.93	15.6	0.654	
+18503
+AF-A0A7Y3IAK9-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.66	20.3	0.654	
+64401
+AF-A0A428SGV1-F1-model_v4	Amidase	Fusarium oligoseptatum	0.54	27.2	0.654	
+215525
+AF-A0A1E3SJG2-F1-model_v4	Amidase	Mycobacterium intermedium	0.85	17.1	0.653	
+25500
+AF-A0A2R6GXK9-F1-model_v4	Amidase	Halobacteriales archaeon QS_6_64_34	0.84	14.2	0.653	
+24500
+AF-L0JY89-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Natronococcus occultus SP4	0.84	15	0.653	
+25500
+AF-A0A259BC86-F1-model_v4	Allophanate hydrolase	Halothiobacillus sp. 24-54-40	0.92	18	0.652	
+67503
+AF-A0A4Y2WFB7-F1-model_v4	Fatty-acid amide hydrolase 2	Araneus ventricosus	0.63	20.3	0.652	
+154500
+AF-A0A3D1AWQ0-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Bryobacterales bacterium	0.16	33.1	0.652	
+65272
+AF-H1RXW9-F1-model_v4	Amidase	Cupriavidus basilensis OR16	0.54	17.8	0.652	
+160500
+AF-A0A5E4U7L1-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Pandoraea terrae	0.85	13.2	0.651	
+1500
+AF-A0A1Q8BHS3-F1-model_v4	Amidase domain-containing protein	Crenarchaeota archaeon 13_1_20CM_2_51_8	0.75	17.7	0.651	
+48408
+AF-A0A3N6MM13-F1-model_v4	Amidase	Natrarchaeobius chitinivorans	0.82	15.2	0.651	
+24500
+AF-A0A1Z5TGZ1-F1-model_v4	Uncharacterized protein	Hortaea werneckii EXF-2000	0.18	24.1	0.650	
+43347
+AF-A0A0N4WU94-F1-model_v4	Amidase domain-containing protein	Haemonchus placei	0.72	17.6	0.650	
+8503
+AF-A0A3N6M039-F1-model_v4	Amidase	Natrarchaeobius chitinivorans	0.84	16.8	0.650	
+24500
+AF-W3X374-F1-model_v4	Amidase	Pestalotiopsis fici W106-1	0.85	14.2	0.650	
+25505
+AF-A0A7K0LRP7-F1-model_v4	Amidase	Actinomycetia bacterium	0.23	23.1	0.650	
+49301
+AF-A0A1V4CVQ0-F1-model_v4	Amidase	Streptomyces antioxidans	0.85	12.2	0.650	
+1500
+AF-A0A2G8KI94-F1-model_v4	Putative glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Apostichopus japonicus	0.85	15.7	0.649	
+25503
+AF-A0A0G0JPR3-F1-model_v4	Glutamyl-tRNA(Gln) and/or aspartyl-tRNA(Asn) amidotransferase, A subunit	Candidatus Shapirobacteria bacterium GW2011_GWE2_38_30	0.60	19.3	0.649	
+163500
+AF-X0ZYW9-F1-model_v4	Amidase domain-containing protein	marine sediment metagenome	0.60	22	0.649	
+171502
+AF-A0A4R7JKS4-F1-model_v4	Allophanate hydrolase	Halospina denitrificans	0.91	17	0.648	
+63503
+AF-F7AJV6-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Monodelphis domestica	0.95	15.2	0.648	
+63503
+AF-A0A7J6L5J6-F1-model_v4	Amidase domain-containing protein	Perkinsus chesapeaki	0.95	14.1	0.647	
+67502
+AF-A0A0R1NTD5-F1-model_v4	Amidase	Lentilactobacillus kisonensis DSM 19906 = JCM 15041	0.15	22	0.647	
+63310
+AF-A0A350ILM4-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Bacteroidetes bacterium	0.16	25.3	0.647	
+65272
+AF-G3B882-F1-model_v4	Amidase	Yamadazyma tenuis ATCC 10573	0.85	14.5	0.647	
+25505
+AF-A0A2H9U6D7-F1-model_v4	Amidase	Aeromonas cavernicola	0.35	19.6	0.646	
+65367
+AF-A0A7V9UK52-F1-model_v4	Amidase	Acidobacteria bacterium	0.57	24.4	0.646	
+180501
+AF-A0A3N6MGZ1-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	Natrarchaeobius chitinivorans	0.84	13.5	0.645	
+2503
+AF-A0A531K3K4-F1-model_v4	Amidase	Mesorhizobium sp.	0.15	36.1	0.645	
+75276
+AF-A0A845EVA2-F1-model_v4	Amidase	Virgibacillus halodenitrificans	0.21	24	0.644	
+101370
+AF-A0A3N6N1A7-F1-model_v4	Amidase	Natrarchaeobius chitinivorans	0.84	13.5	0.644	
+24500
+AF-A0A7J9CRB7-F1-model_v4	Amidase domain-containing protein	Gossypium gossypioides	0.92	18.3	0.644	
+63501
+AF-A0A7J6NU34-F1-model_v4	Amidase domain-containing protein	Perkinsus olseni	0.82	18.5	0.644	
+68441
+AF-A0A7X7NMU7-F1-model_v4	Amidase	Actinomycetales bacterium	0.84	18.2	0.644	
+74504
+AF-A0A254NSU0-F1-model_v4	Amidase	Saccharibacillus sp. O23	0.93	13.2	0.643	
+1503
+AF-A0A2C9L1F4-F1-model_v4	Amidase domain-containing protein	Biomphalaria glabrata	0.84	14.4	0.643	
+25503
+AF-A0A3N6PGM4-F1-model_v4	Amidase	Natrarchaeobius chitinivorans	0.85	16	0.643	
+24500
+AF-A0A3D8SET6-F1-model_v4	Amidase domain-containing protein	Coleophoma cylindrospora	0.85	14.8	0.643	
+25505
+AF-A0A538QD50-F1-model_v4	Glutamyl-tRNA amidotransferase	Candidatus Rokubacteria bacterium	0.51	12.4	0.642	
+8500
+AF-A0A167P4M8-F1-model_v4	Amidase	Calocera viscosa TUFC12733	0.85	16.1	0.642	
+25506
+AF-A0A837IBC5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit A	Microgenomates group bacterium GW2011_GWC1_44_10	0.14	27	0.642	
+64263
+AF-A0A061H6D2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Pseudozyma flocculosa PF-1	0.89	14.5	0.642	
+13503
+AF-A0A3M4DM24-F1-model_v4	Allophanate hydrolase	Pseudomonas amygdali pv. lachrymans	0.16	25.8	0.641	
+63271
+AF-A0A6M5YN81-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Frigoriglobus tundricola	0.13	27.8	0.641	
+67252
+AF-A0A381WP76-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.13	28.4	0.641	
+63254
+AF-A0A2T0QMG1-F1-model_v4	Amidase	Kineococcus rhizosphaerae	0.84	13.2	0.641	
+25500
+AF-F3GGA8-F1-model_v4	Amidase	Pseudomonas syringae pv. pisi str. 1704B	0.13	26.6	0.640	
+63257
+AF-A0A3M7I9E7-F1-model_v4	Uncharacterized protein	Hortaea werneckii	0.23	28.5	0.640	
+97347
+AF-A0A1B9GMQ2-F1-model_v4	Amidase	Kwoniella heveanensis BCC8398	0.85	12.5	0.639	
+25509
+AF-A0A3N6LNV1-F1-model_v4	Amidase	Natrarchaeobius chitinivorans	0.85	13.4	0.639	
+25503
+AF-H1S4F5-F1-model_v4	Amidase	Cupriavidus basilensis OR16	0.69	14.3	0.639	
+64497
+AF-A0A097PM45-F1-model_v4	Fatty acid amide hydrolase	Chloranthus serratus	0.66	17.4	0.639	
+68436
+AF-A0A6V7M201-F1-model_v4	Amidase domain-containing protein	Bracon brevicornis	0.35	23.2	0.638	
+154445
+AF-A0A0C4DXJ6-F1-model_v4	Amidase domain-containing protein	Magnaporthiopsis poae ATCC 64411	0.16	19.5	0.637	
+9358
+AF-A0A847MS95-F1-model_v4	Amidase	Intrasporangiaceae bacterium	0.12	32.7	0.637	
+67251
+AF-A0A1F7UKE6-F1-model_v4	Glutaminyl-tRNA synthase (glutamine-hydrolyzing)	Candidatus Uhrbacteria bacterium RIFCSPHIGHO2_12_FULL_57_11	0.60	21.3	0.636	
+166500
+AF-A0A109T0E1-F1-model_v4	Glutamyl-tRNA(GLN) amidotransferase subunit A	Mycobacterium tuberculosis variant africanum	0.13	12.4	0.635	
+65466
+AF-A0A428SRD9-F1-model_v4	Amidase	Fusarium oligoseptatum	0.96	16.8	0.635	
+56503
+AF-W4LAU9-F1-model_v4	Amidase domain-containing protein	Candidatus Entotheonella gemina	0.11	31	0.634	
+63239
+AF-A0A2P6V2Z4-F1-model_v4	Fatty acid amide hydrolase-like	Micractinium conductrix	0.93	16.9	0.634	
+68502
+AF-A0A834I1V4-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.96	19.8	0.634	
+40503
+AF-A0A1M2VA46-F1-model_v4	Amidase domain-containing protein	Trametes pubescens	0.41	30.8	0.634	
+230525
+AF-A0A7C4U162-F1-model_v4	Amidase	Bacteroidia bacterium	0.69	20.6	0.634	
+63403
+AF-A0A094ENR6-F1-model_v4	Amidase domain-containing protein	Pseudogymnoascus sp. VKM F-103	0.96	13.4	0.633	
+44525
+AF-A0A0D1Z2F8-F1-model_v4	Amidase	Verruconis gallopava	0.93	15.1	0.632	
+14500
+AF-A0A7Z0L9V4-F1-model_v4	Amidase	Gemella palaticanis	0.92	18.3	0.632	
+63503
+AF-A0A1F8BD22-F1-model_v4	Multifunctional fusion protein	Candidatus Woesebacteria bacterium RIFCSPLOWO2_01_FULL_39_21	0.84	12.3	0.632	
+8503
+AF-A0A2V6UQR6-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Rokubacteria bacterium	0.84	13.7	0.631	
+25503
+AF-H1SH21-F1-model_v4	Amidase	Cupriavidus basilensis OR16	0.28	18.4	0.630	
+65422
+AF-A0A359EKC2-F1-model_v4	Amidase	Halieaceae bacterium	0.33	19.8	0.630	
+33365
+AF-A0A803NVN3-F1-model_v4	Amidase domain-containing protein	Cannabis sativa	0.85	16.8	0.630	
+61501
+AF-A0A0C2GSX2-F1-model_v4	Amidase domain-containing protein	Ancylostoma duodenale	0.60	13.2	0.628	
+1525
+AF-A0A435GCJ8-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp. M7A.F.Ca.US.005.03.2.1	0.51	18.6	0.628	
+184500
+AF-A0A3D3QJC9-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.25	26	0.628	
+58297
+AF-A0A315W0V9-F1-model_v4	Amidase domain-containing protein	Gambusia affinis	0.80	20.7	0.627	
+49503
+AF-A0A2C9DVH3-F1-model_v4	Amidase domain-containing protein	Rhizobium sp. ACO-34A	0.25	25.5	0.627	
+63324
+AF-A0A167FJF1-F1-model_v4	Amidase signature enzyme	Calocera viscosa TUFC12733	0.94	18.7	0.627	
+67503
+AF-A0A0C2GYX9-F1-model_v4	Amidase domain-containing protein	Ancylostoma duodenale	0.10	14.5	0.627	
+79489
+AF-A0A847MTK3-F1-model_v4	Amidase	Intrasporangiaceae bacterium	0.14	35.2	0.627	
+63258
+AF-A0A182ZZC7-F1-model_v4	Amidase domain-containing protein	Echinostoma caproni	0.38	23.4	0.626	
+7313
+AF-A0A094EIX7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Pseudogymnoascus sp. VKM F-103	0.87	13	0.625	
+13506
+AF-A0A1M2V9V8-F1-model_v4	Amidase domain-containing protein	Trametes pubescens	0.14	32.2	0.625	
+8214
+AF-A0A0D2FI25-F1-model_v4	Unplaced genomic scaffold supercont1.1, whole genome shotgun sequence	Fonsecaea pedrosoi CBS 271.37	0.93	15	0.624	
+65501
+AF-A0A0D5A5K6-F1-model_v4	Aspartyl-tRNA amidotransferase subunit A	Rhodococcus sp. B7740	0.72	15.4	0.623	
+109525
+AF-A0A538KKS4-F1-model_v4	Amidase domain-containing protein	Actinomycetia bacterium	0.15	31.7	0.623	
+79287
+AF-A0A381WE43-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.11	29.3	0.623	
+91283
+AF-A0A1E1JR28-F1-model_v4	Related to glu/asp-tRNA amidotransferase subunit A	Rhynchosporium commune	0.93	15.3	0.623	
+64501
+AF-A0A085NF94-F1-model_v4	Uncharacterized protein	Trichuris suis	0.96	12.5	0.623	
+20503
+AF-A0A445KNN6-F1-model_v4	Putative amidase isoform B	Glycine soja	0.69	18.8	0.623	
+64407
+AF-A0A6J1US24-F1-model_v4	fatty-acid amide hydrolase 2-like	Notechis scutatus	0.35	30.7	0.623	
+48316
+AF-A0A094R2X8-F1-model_v4	Amidase domain-containing protein	freshwater metagenome	0.15	22.2	0.623	
+65311
+AF-A0A528HDM6-F1-model_v4	Indole-3-acetamide hydrolase	Mesorhizobium sp.	0.11	27.2	0.622	
+98286
+AF-A0A2C9KVI7-F1-model_v4	Amidase domain-containing protein	Biomphalaria glabrata	0.12	21.6	0.622	
+74290
+AF-A0A167DPQ6-F1-model_v4	Amidase	Colletotrichum incanum	0.87	12	0.621	
+25521
+AF-A0A0D1YD44-F1-model_v4	Amidase domain-containing protein	Exophiala sideris	0.20	36	0.620	
+7231
+AF-A0A1I8BHQ6-F1-model_v4	Amidase domain-containing protein	Meloidogyne hapla	0.90	13.3	0.620	
+84503
+AF-X7Z3R7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Mycobacterium xenopi 4042	0.57	16	0.620	
+65427
+AF-A0A2P9BRX2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, putative	Plasmodium gaboni	0.95	9.5	0.620	
+11503
+AF-A0A251XGA5-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Clavibacter michiganensis subsp. michiganensis	0.63	19.3	0.619	
+160502
+AF-A0A1G9GK27-F1-model_v4	Amidase	Natronorubrum texcoconense	0.84	11.9	0.618	
+8500
+AF-A0A660CBF2-F1-model_v4	Amidase	Prauserella rugosa	0.60	13.2	0.618	
+25452
+AF-A0A1E1LA68-F1-model_v4	Biotin carboxylation domain-containing protein	Rhynchosporium commune	0.92	19.2	0.617	
+64503
+AF-A0A527D224-F1-model_v4	Allophanate hydrolase	Mesorhizobium sp.	0.12	24.3	0.617	
+65259
+AF-A0A1Y3M4H8-F1-model_v4	Allophanate hydrolase	Arthrobacter agilis	0.90	17.5	0.616	
+84500
+AF-A0A1H0TQG8-F1-model_v4	Amidase	Actinopolyspora xinjiangensis	0.21	16.7	0.616	
+65431
+AF-A0A2V2STB2-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Rokubacteria bacterium	0.09	24.8	0.616	
+68232
+AF-A0A7R9EPS4-F1-model_v4	Hypothetical protein	Timema bartmani	0.60	20.1	0.614	
+163503
+AF-M1BWR0-F1-model_v4	Glu-tRNA(Gln) amidotransferase subunit A	Solanum tuberosum	0.77	16.9	0.613	
+48456
+AF-A0A2K1K082-F1-model_v4	Uncharacterized protein	Physcomitrium patens	0.54	14.5	0.611	
+83500
+AF-A0A3C1BKU1-F1-model_v4	Indole-3-acetamide hydrolase	Rhodobiaceae bacterium	0.20	13.7	0.611	
+47488
+AF-A0A539E804-F1-model_v4	Putative amidase	Acidimicrobiaceae bacterium	0.35	22.3	0.610	
+1316
+AF-A0A1H8NAZ5-F1-model_v4	Amidase	Bradyrhizobium sp. OK095	0.51	19.8	0.610	
+178500
+AF-A0A843HQF6-F1-model_v4	Amidase	Sulfolobus sp.	0.57	15.3	0.609	
+25437
+AF-A0A435W6U5-F1-model_v4	Amidase	Mesorhizobium sp. M7A.F.Ca.US.001.02.1.1	0.12	18.2	0.609	
+20302
+AF-A0A182UIQ7-F1-model_v4	Amidase domain-containing protein	Anopheles melas	0.28	30.3	0.608	
+49308
+AF-A0A6V8LK82-F1-model_v4	Allophanate hydrolase	Phytohabitans rumicis	0.84	21.3	0.608	
+104503
+AF-Q5XVM9-F1-model_v4	Lipoamidase	Enterococcus faecalis	0.93	18.5	0.608	
+63503
+AF-A0A1L7AMC8-F1-model_v4	Amidase domain-containing protein	Roseomonas gilardii	0.91	13.3	0.608	
+64525
+AF-A0A2P6VL48-F1-model_v4	Amidase	Micractinium conductrix	0.80	14.4	0.607	
+39503
+AF-A0A0S1Y9W5-F1-model_v4	Allophanate hydrolase	Bordetella sp. N	0.80	21.1	0.607	
+109503
+AF-A0A4T2BBL7-F1-model_v4	DUF3225 domain-containing protein	Subtercola vilae	0.84	12.4	0.606	
+71503
+AF-A0A3N5HVG8-F1-model_v4	Amidase	Candidatus Rokubacteria bacterium	0.09	25.9	0.604	
+65229
+AF-A0A2V6V259-F1-model_v4	Uncharacterized protein	Candidatus Rokubacteria bacterium	0.95	15.3	0.604	
+64517
+AF-A0A433D5D0-F1-model_v4	Amidase signature domain-containing protein	Jimgerdemannia flammicorona	0.10	26.7	0.603	
+8205
+AF-A0A6B0YUR8-F1-model_v4	Amidase domain-containing protein	Caldilineaceae bacterium SB0664_bin_27	0.15	9.4	0.603	
+24498
+AF-A0A6A6T5S8-F1-model_v4	Amidase signature enzyme	Lophiostoma macrostomum CBS 122681	0.93	16	0.602	
+64525
+AF-A0A2N8MIY3-F1-model_v4	Allophanate hydrolase	Amycolatopsis sp. BJA-103	0.80	19.5	0.602	
+80500
+AF-A0A024H837-F1-model_v4	Allophanate hydrolase	Pseudarthrobacter siccitolerans	0.90	16.7	0.601	
+69500
+AF-A0A4S4KKS0-F1-model_v4	Amidase domain-containing protein	Hermanssonia centrifuga	0.12	12.2	0.601	
+9474
+AF-A0A1I8B7F1-F1-model_v4	Amidase domain-containing protein	Meloidogyne hapla	0.33	26.7	0.601	
+50318
+AF-A0A176VIX6-F1-model_v4	Amidase domain-containing protein	Marchantia polymorpha subsp. ruderalis	0.94	19.1	0.600	
+68503
+AF-A0A5Q4G017-F1-model_v4	Amidase	Trueperaceae bacterium	0.21	14.3	0.600	
+64509
+AF-A0A087SLM4-F1-model_v4	Zinc finger CCCH domain-containing protein 4	Auxenochlorella protothecoides	0.96	11.9	0.599	
+15503
+AF-C0P949-F1-model_v4	Amidase domain-containing protein	Zea mays	0.30	10.6	0.599	
+51450
+AF-S0NGB2-F1-model_v4	Amidase domain-containing protein	Enterococcus saccharolyticus subsp. saccharolyticus ATCC 43076	0.92	16	0.598	
+63503
+AF-A0A0J8RWD2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Coccidioides immitis H538.4	0.60	15.6	0.598	
+62448
+AF-A0A524KXR1-F1-model_v4	Amidase	Myxococcales bacterium	0.77	13.3	0.597	
+13472
+AF-A0A0P9PXM9-F1-model_v4	Allophanate hydrolase	Pseudomonas amygdali pv. eriobotryae	0.18	11.8	0.597	
+63487
+AF-A0A2E8Z1M0-F1-model_v4	Amidase domain-containing protein	Nocardioides sp.	0.90	21.2	0.595	
+46500
+AF-A0A2V6ZVU1-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase GatCAB subunit A	Candidatus Rokubacteria bacterium	0.41	16.8	0.592	
+25396
+AF-A0A7Y9JRQ0-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase A subunit family amidase	Nocardioides marinisabuli	0.95	14.3	0.589	
+22506
+AF-A0A538K1L5-F1-model_v4	Amidase	Actinomycetia bacterium	0.57	15.2	0.588	
+68437
+AF-A0A2U3JWZ0-F1-model_v4	Amidase (Modular protein)	Candidatus Sulfopaludibacter sp. SbA4	0.92	14.5	0.588	
+64503
+AF-A0A3M4CGG6-F1-model_v4	Putative amidase	Pseudomonas amygdali pv. lachrymans	0.12	21.1	0.588	
+30245
+AF-A0A699YVH9-F1-model_v4	Uncharacterized protein	Haematococcus lacustris	0.35	14.8	0.587	
+109500
+AF-A0A6A4QH36-F1-model_v4	Putative amidase	Lupinus albus	0.82	10.3	0.584	
+23512
+AF-A0A356VE28-F1-model_v4	Allophanate hydrolase	Halieaceae bacterium	0.72	18.6	0.584	
+144503
+AF-A0A2I1K8T3-F1-model_v4	Amidase domain-containing protein	Aerococcus christensenii	0.93	13.7	0.581	
+30517
+AF-A0A519ZHR0-F1-model_v4	Amidase	Rubrivivax sp.	0.15	12	0.580	
+43454
+AF-A0A0J8RUE4-F1-model_v4	Amidase	Coccidioides immitis H538.4	0.69	15.6	0.577	
+4525
+AF-A0A534XQ62-F1-model_v4	Amidase	Deltaproteobacteria bacterium	0.54	24.3	0.577	
+63370
+AF-A0A1S9DL55-F1-model_v4	Amidase	Aspergillus oryzae	0.93	18	0.577	
+70505
+AF-A0A7Y9F0R4-F1-model_v4	Amidase	Nocardioides marinisabuli	0.95	9.7	0.576	
+11503
+AF-A0A7X3YAQ6-F1-model_v4	Amidase domain-containing protein	Alphaproteobacteria bacterium	0.14	10	0.576	
+49520
+AF-A0A813CBI8-F1-model_v4	GatA protein	Symbiodinium sp. KB8	0.33	26.9	0.574	
+55324
+AF-A0A7Z9M2I1-F1-model_v4	Uncharacterized protein	Gemmatimonadetes bacterium	0.41	10.5	0.572	
+59500
+AF-A0A818Z4Y3-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.90	22.1	0.572	
+79525
+AF-A0A1B0EV00-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.97	10.7	0.572	
+50514
+AF-A0A7J7BAM5-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.97	19.4	0.570	
+5503
+AF-A0A3D2WER4-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.33	25.2	0.570	
+63322
+AF-A0A176VM95-F1-model_v4	Amidase domain-containing protein	Marchantia polymorpha subsp. ruderalis	0.84	13	0.569	
+1511
+AF-A0A533I3F6-F1-model_v4	LPXTG cell wall anchor domain-containing protein	Gemella sp.	0.91	15.4	0.569	
+63503
+AF-A0A6G0XE10-F1-model_v4	Fatty-acid amide hydrolase 2-A	Aphis craccivora	0.21	30.6	0.568	
+50289
+AF-A0A4D8ZBI5-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Salvia splendens	0.82	11.5	0.563	
+38512
+AF-A0A3P7YF70-F1-model_v4	Amidase domain-containing protein	Heligmosomoides polygyrus	0.10	25.3	0.561	
+82301
+AF-A0A2E2Q7A7-F1-model_v4	HTH gntR-type domain-containing protein	Nocardioides sp.	0.80	15.2	0.561	
+67500
+AF-H1S1F3-F1-model_v4	Copper-translocating P-type ATPase	Cupriavidus basilensis OR16	0.94	21.2	0.558	
+78521
+AF-A0A1U7X2S2-F1-model_v4	outer envelope protein 64, chloroplastic	Nicotiana sylvestris	0.63	12.7	0.558	
+110504
+AF-A0A2P6VK38-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Micractinium conductrix	0.95	20.3	0.557	
+62504
+AF-A0A2L0SWS5-F1-model_v4	Allophanate hydrolase	Pseudomonas sp. XWY-1	0.91	19.2	0.554	
+84503
+AF-A0A800KJ46-F1-model_v4	Amidase	Gemmatimonadetes bacterium	0.35	24.3	0.551	
+63325
+AF-A0A094H4E0-F1-model_v4	Amidase domain-containing protein	Pseudogymnoascus sp. VKM F-103	0.95	7.7	0.548	
+31511
+AF-A0A251XHU7-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A	Clavibacter michiganensis subsp. michiganensis	0.94	19.6	0.547	
+48503
+AF-A0A1A8D0B0-F1-model_v4	Fatty acid amide hydrolase	Nothobranchius kadleci	0.12	25.6	0.546	
+9226
+AF-A0A087SCL2-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, chloroplastic/mitochondrial	Auxenochlorella protothecoides	0.94	21.2	0.545	
+64507
+AF-A0A7J7AE17-F1-model_v4	Glutamyl-tRNA(Gln) amidotransferase subunit A, mitochondrial	Abscondita terminalis	0.93	15.9	0.544	
+74503
+AF-A0A091CM89-F1-model_v4	Fatty acid amide hydrolase	Fukomys damarensis	0.18	18.1	0.542	
+154497
+AF-A0A1Q3FFS7-F1-model_v4	Putative amidase	Culex tarsalis	0.14	12.8	0.539	
+51481
+AF-A0A2G8MI24-F1-model_v4	Indole-3-acetamide hydrolase	Methylobacterium frigidaeris	0.14	18.5	0.530	
+24314
+AF-A0A7J6N9I3-F1-model_v4	Uncharacterized protein	Perkinsus olseni	0.94	19	0.527	
+67503
+AF-A0A2P6VAH4-F1-model_v4	Outer envelope mitochondrial	Micractinium conductrix	0.80	10.5	0.527	
+28504
+AF-J3I1I8-F1-model_v4	Amidase, Asp-tRNAAsn/Glu-tRNAGln amidotransferase A subunit	Bradyrhizobium sp. YR681	0.10	31.5	0.523	
+65232
+AF-A0A7K2DDJ9-F1-model_v4	Amidase	Acidimicrobiaceae bacterium	0.12	17	0.519	
+24298
+AF-A0A4D8ZJS4-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Salvia splendens	0.66	10.7	0.513	
+33511
+AF-A0A094E169-F1-model_v4	Amidase domain-containing protein	Pseudogymnoascus sp. VKM F-103	0.91	20.9	0.513	
+64503
+AF-A0A5N5M5H7-F1-model_v4	Glutamyl-tRNA amidotransferase subunit A	Coniochaeta sp. 2T2.1	0.93	18.2	0.513	
+70500
+AF-A0A852YMY3-F1-model_v4	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase A subunit family amidase/acetamidase/formamidase	Lysinimonas sp. SLBN-160	0.85	13	0.512	
+40500
+AF-A0A0C4E434-F1-model_v4	Amidase	Magnaporthiopsis poae ATCC 64411	0.63	33.6	0.510	
+11362
+AF-A0A0J8S206-F1-model_v4	Fatty-acid amide hydrolase 1	Coccidioides immitis H538.4	0.25	26.6	0.501	
+8311
+AF-A0A850DE80-F1-model_v4	Uncharacterized protein	Kribbellaceae bacterium	0.15	10.8	0.499	
+105427
+AF-A0A381WHX2-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.15	29.1	0.464	
+70272
+AF-A0A182UH65-F1-model_v4	Amidase domain-containing protein	Anopheles melas	0.11	27.6	0.461	
+50231
+AF-A0A218VUJ4-F1-model_v4	Uncharacterized protein	Punica granatum	0.77	15.8	0.448	
+64503
+AF-A0A7R9ERX7-F1-model_v4	Hypothetical protein	Timema bartmani	0.54	17.1	0.430	
+62414
+AF-A0A382NPY4-F1-model_v4	Amidase domain-containing protein	marine metagenome	0.11	22.2	0.427	
+68248
+AF-A0A4D8YTF3-F1-model_v4	Aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A	Salvia splendens	0.20	8.3	0.424	
+52508
+AF-A0A833G2U4-F1-model_v4	Tetratricopeptide repeat protein	Bauldia sp.	0.15	24.4	0.411	
+72313
+AF-A0A355VBF0-F1-model_v4	GP-PDE domain-containing protein	Pseudohongiella sp.	0.10	25.1	0.316	
+64239

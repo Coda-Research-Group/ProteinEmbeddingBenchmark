@@ -1,0 +1,2006 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR NITROGENASE COMPONENT II (A0A0A0QIR8)
+AFDB50 1000 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-Q20B51-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	96.2	0.998	
+1108
+AF-B0L7V0-F1-model_v4	Nitrogenase component II	Microseira wollei	1.00	89.8	0.996	
+1108
+AF-B0L7P6-F1-model_v4	Nitrogenase component II	Microseira wollei	1.00	89.8	0.995	
+1108
+AF-Q3YEZ4-F1-model_v4	Dinitrogen reductase	uncultured bacterium	1.00	78.7	0.994	
+1108
+AF-E1UZA8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	95.3	0.993	
+2108
+AF-A0A1C9U6L3-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	94.3	0.993	
+2108
+AF-W5U1N9-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	79.6	0.993	
+1108
+AF-Q3YFC3-F1-model_v4	Dinitrogen reductase	uncultured bacterium	1.00	90.7	0.992	
+1108
+AF-Q20AZ7-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	94.4	0.992	
+1108
+AF-Q1HIG3-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	77.7	0.989	
+1108
+AF-A0A1C9U719-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	82.2	0.989	
+2108
+AF-X5I3Y5-F1-model_v4	Nitrogenase Fe protein	Agrobacterium tumefaciens	1.00	79.4	0.988	
+1107
+AF-Q5IAU8-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.7	0.987	
+1108
+AF-A1Y1P2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.987	
+1108
+AF-Q9F1C0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium NR1616	1.00	77.9	0.987	
+1108
+AF-F6KWC5-F1-model_v4	Nitrogenase iron protein	uncultured prokaryote	1.00	77.5	0.986	
+2108
+AF-C9DSJ2-F1-model_v4	NifH	uncultured organism	1.00	80.3	0.986	
+2108
+AF-C9DSJ9-F1-model_v4	NifH	uncultured organism	1.00	75.7	0.986	
+2108
+AF-Q3L1G0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77	0.986	
+1108
+AF-E5KL58-F1-model_v4	Dinitrogenase reductase	Enterobacter sp. YL34S	1.00	75.2	0.985	
+1108
+AF-Q7WUR8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	81.6	0.985	
+1108
+AF-Q20B31-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	95.3	0.985	
+1108
+AF-A0A1V0BQN2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.985	
+2107
+AF-A0A193PRH8-F1-model_v4	Dinitrogenase reductase	uncultured marine microorganism	1.00	79.8	0.985	
+1108
+AF-C9DSH9-F1-model_v4	NifH	uncultured organism	1.00	90.6	0.984	
+2108
+AF-A0A1V0BY32-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.984	
+2107
+AF-Q93TZ8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.984	
+1108
+AF-A0A1V0BKT9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.984	
+2107
+AF-C9DSG7-F1-model_v4	NifH	uncultured organism	1.00	93.4	0.984	
+2108
+AF-A0A1V0BP33-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.984	
+2107
+AF-U6CKH5-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	81.1	0.984	
+2107
+AF-A0A1V0BL22-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.983	
+2107
+AF-A0A1V0BSJ4-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.983	
+2107
+AF-A0A1V0BTJ3-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.983	
+2107
+AF-A0A1V0BLS4-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.983	
+2107
+AF-A0A1V0BLG2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.983	
+2107
+AF-A0A1V0BMM2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	81.1	0.983	
+2107
+AF-A0A1V0BMU9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.983	
+2107
+AF-A0A1V0BM32-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.983	
+2107
+AF-Q846L0-F1-model_v4	Dinitrogenase reductase Fe protein	uncultured bacterium	1.00	79.8	0.983	
+1108
+AF-Q1HI96-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	77	0.983	
+1108
+AF-A0A1V0BVR0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.983	
+2107
+AF-D7GNN4-F1-model_v4	NifH protein	uncultured bacterium	1.00	77.3	0.983	
+2107
+AF-V5KA11-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	82.4	0.983	
+2108
+AF-A0A1V0BUK2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.3	0.983	
+2107
+AF-A2I8H2-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	83	0.983	
+1106
+AF-D7GNR6-F1-model_v4	NifH protein	uncultured bacterium	1.00	78.3	0.983	
+2107
+AF-A0A192AB63-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	80.1	0.983	
+2107
+AF-A0A1V0BLN6-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	81.1	0.982	
+2107
+AF-A0A1V0BPH2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.982	
+2107
+AF-U6CM39-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	78.3	0.982	
+2107
+AF-A0A1V0BKF7-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.982	
+2107
+AF-A0A1V0BNW5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.982	
+2107
+AF-A0A1V0BS77-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.3	0.981	
+2107
+AF-A0A1V0BPG8-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.981	
+2107
+AF-A0A1V0BQV2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	81.1	0.981	
+2107
+AF-B1B6U7-F1-model_v4	NifH protein	Paenibacillus graminis	1.00	80.1	0.981	
+2107
+AF-A0A0A7RR53-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 20560	1.00	76.1	0.981	
+1108
+AF-U6CNL7-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	78.3	0.981	
+2107
+AF-A0A1V0BRY9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.981	
+2107
+AF-A7YHT9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.8	0.981	
+1108
+AF-A0A1V0BS71-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.3	0.981	
+2107
+AF-A2I8Y7-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	83	0.981	
+1106
+AF-A0A1V0BVK6-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.980	
+2107
+AF-Q6Y1F5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.2	0.980	
+1106
+AF-A0A1V0BSH5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.980	
+2107
+AF-A0A1V0BN38-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.3	0.980	
+2107
+AF-U6CMU2-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	77.3	0.980	
+2107
+AF-A5PI26-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	75.4	0.980	
+2107
+AF-A0A1V0BTJ1-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.980	
+2107
+AF-A0A1V0BNV0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	81.1	0.980	
+2107
+AF-A0A1V0BKN2-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.980	
+2107
+AF-A0A1V0BVB7-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.980	
+2107
+AF-A0A1V0BS75-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.980	
+2107
+AF-A0A1V0BKE0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	81.1	0.980	
+2107
+AF-A7YH26-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.7	0.980	
+1108
+AF-A0A0A7RVD3-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 20559	1.00	77.5	0.979	
+1107
+AF-A0A2U9F3G9-F1-model_v4	Nitrogenase iron protein NifH	uncultured bacterium	1.00	81.6	0.979	
+1108
+AF-U6CMD5-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	78.3	0.979	
+2107
+AF-F1JXP8-F1-model_v4	NifH	uncultured bacterium	1.00	80	0.979	
+2106
+AF-Q1HJL6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.979	
+1108
+AF-A0A1V0BUG5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	81.1	0.979	
+2107
+AF-A7YHG0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77	0.978	
+1108
+AF-A0A1V0BTU7-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.978	
+2107
+AF-Q1HJR1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.978	
+1108
+AF-A0A0S2VEQ9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	93.3	0.977	
+2107
+AF-A0A0A1IVJ1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	81.3	0.977	
+1107
+AF-A0A1V0BLL7-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.3	0.977	
+2107
+AF-Q9R7F9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	76.1	0.977	
+1108
+AF-A0A1V0BV57-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.5	0.977	
+2107
+AF-A0A192AB13-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	78.5	0.977	
+2107
+AF-A0A1V0BSD8-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.4	0.977	
+2107
+AF-A0A1V0BML9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.5	0.977	
+2107
+AF-Q0E7K6-F1-model_v4	NifH protein	Microbacterium sp. ORS 1472	1.00	80.3	0.976	
+1106
+AF-A0A1V0BLF6-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.4	0.976	
+2107
+AF-A0A1V0BV35-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.5	0.976	
+2107
+AF-U6CLJ9-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	78.3	0.975	
+2107
+AF-A5PHW5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.5	0.974	
+2107
+AF-A0A1V0BSC0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	72.8	0.974	
+2107
+AF-A5PHX8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.7	0.974	
+1107
+AF-A0A1V0BSF1-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	76.6	0.974	
+2107
+AF-A0A192AAU5-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	80.1	0.974	
+2107
+AF-W5U283-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	77.5	0.973	
+1106
+AF-A0A1V0BLA1-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.973	
+2107
+AF-A0A1V0BRV4-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.1	0.973	
+2107
+AF-A0A192AAT0-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	76.4	0.973	
+2107
+AF-Q5IJ66-F1-model_v4	NifH	actinomycete 7501	1.00	77.1	0.973	
+2106
+AF-A0A1V0BQW5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.973	
+2107
+AF-A0A1V0BS82-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.971	
+2107
+AF-X2JJB6-F1-model_v4	NifH	uncultured bacterium	1.00	74.5	0.971	
+2106
+AF-A0A6B9R2R9-F1-model_v4	Nitrogenase Fe protein	Ensifer sp.	1.00	79.2	0.971	
+1105
+AF-A0A1V0BWW8-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.3	0.970	
+2107
+AF-Q8KKL5-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	1.00	73.6	0.970	
+1108
+AF-I6QA23-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	94.1	0.968	
+5106
+AF-A0A1V0BXE9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	72.8	0.967	
+2107
+AF-R4HQR7-F1-model_v4	Nitrogenase component II	uncultured Trichodesmium sp.	1.00	82	0.966	
+3108
+AF-A0A0X7YN19-F1-model_v4	NifH	uncultured bacterium	1.00	76.3	0.965	
+1108
+AF-A0A088SH80-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78.6	0.965	
+3105
+AF-A7YH60-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.8	0.965	
+1108
+AF-A0A0X7YV01-F1-model_v4	NifH	uncultured Geobacter sp.	1.00	76.3	0.964	
+1108
+AF-G3CQ94-F1-model_v4	Dinitrogen reductase	uncultured bacterium	1.00	74.3	0.964	
+1108
+AF-G3CQ87-F1-model_v4	Dinitrogen reductase	uncultured bacterium	1.00	77.9	0.964	
+1108
+AF-Q19AP5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	88.3	0.964	
+5107
+AF-K4EM78-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	86.4	0.963	
+3105
+AF-A0A7D5PVZ0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	74.3	0.963	
+1108
+AF-A0A192AAT1-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	73.3	0.961	
+2107
+AF-F2WC42-F1-model_v4	NifH	uncultured prokaryote	1.00	77	0.961	
+1108
+AF-K4EMR9-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	89.3	0.960	
+3105
+AF-W5U2A7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	76.8	0.960	
+2108
+AF-A0A060A4Z1-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	77.7	0.957	
+2108
+AF-A0A0K0MNZ5-F1-model_v4	Nitrogenase reductase iron protein	Cupriavidus sp. UYMRE04A	1.00	77.9	0.956	
+1108
+AF-E1UZ09-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	74.7	0.956	
+2104
+AF-Q3YDB9-F1-model_v4	NifH	uncultured bacterium	1.00	90.5	0.956	
+3108
+AF-A0A7S8BGR3-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	83.9	0.955	
+1106
+AF-R4I4N3-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79	0.952	
+5108
+AF-E3UDP6-F1-model_v4	NifH	uncultured bacterium	1.00	77.9	0.952	
+1108
+AF-U5KF21-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78.7	0.951	
+1108
+AF-Q6ULF8-F1-model_v4	NifH	Klebsiella variicola	1.00	76.6	0.951	
+3108
+AF-U5KE37-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.7	0.950	
+1108
+AF-U5KDU4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78.7	0.950	
+1108
+AF-U5KEX9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.950	
+1108
+AF-U5KE32-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.950	
+1108
+AF-A0A7S8BGR5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	84.1	0.950	
+1106
+AF-A0A088BZ62-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	75.9	0.950	
+1108
+AF-F4ZY14-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	76.4	0.949	
+1105
+AF-Q0PUR3-F1-model_v4	NifH	uncultured soil bacterium	1.00	92.5	0.949	
+1108
+AF-A0A088BZ46-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	92.5	0.949	
+1108
+AF-A4ZVE7-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	85.1	0.949	
+1108
+AF-U5KE02-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.949	
+1108
+AF-R9QUW4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	84.2	0.948	
+1108
+AF-A0A291FC87-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	92.5	0.948	
+1108
+AF-A0A088BZR7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	94.4	0.948	
+1108
+AF-D3X1I6-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	84.2	0.948	
+1108
+AF-A0A291FC15-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	94.4	0.948	
+1108
+AF-A0A2Z4GT95-F1-model_v4	Nitrogenase component II	Salileptolyngbya diazotrophicum SCSIO 43686	1.00	88.8	0.948	
+1108
+AF-A0A1W6LV29-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	79.6	0.947	
+1108
+AF-A0A1L5YFU3-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.5	0.947	
+1108
+AF-A0A2D1BZI5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	82.4	0.947	
+1108
+AF-A0A0H3UQF7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78.7	0.947	
+1108
+AF-R4HXX1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.5	0.947	
+1108
+AF-F4ZY19-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	76.4	0.947	
+1105
+AF-Q19LU8-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	83.3	0.947	
+1108
+AF-A0A088BZ48-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	79.6	0.947	
+1108
+AF-U5KF19-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	75	0.946	
+1108
+AF-A0A291FC83-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.5	0.946	
+1108
+AF-A9CRE1-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium sp. KO3B	1.00	78.7	0.946	
+1108
+AF-J7HGK4-F1-model_v4	Nitrogenase iron protein	uncultured Bradyrhizobium sp.	1.00	78.7	0.946	
+1108
+AF-A0A088BL13-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	79.6	0.946	
+1108
+AF-A0A291F9Z7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.5	0.946	
+1108
+AF-A0A291FAB1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.5	0.946	
+1108
+AF-A0A291FBT4-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77.7	0.946	
+1108
+AF-A0A1W6LUH0-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	79.6	0.946	
+1108
+AF-Q6KBI1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.946	
+1108
+AF-A0A1W6LTW0-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	78.7	0.946	
+1108
+AF-Q6KBD1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.7	0.946	
+1108
+AF-A0A076JTY9-F1-model_v4	NifH	uncultured bacterium	1.00	80.5	0.946	
+1108
+AF-J7H9K4-F1-model_v4	Nitrogenase Fe protein	uncultured Rhizobium sp.	1.00	80.5	0.945	
+1108
+AF-A0A291FC33-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.5	0.945	
+1108
+AF-W5ZUH1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	83.3	0.945	
+1108
+AF-B0FK61-F1-model_v4	NifH	uncultured soil bacterium	1.00	96.2	0.945	
+1108
+AF-W5ZUQ9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.5	0.945	
+1108
+AF-F8USU3-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	87.9	0.944	
+1108
+AF-C9DSK6-F1-model_v4	NifH	uncultured organism	1.00	64.8	0.944	
+2108
+AF-Q83UB5-F1-model_v4	Dinitrogenase reductase Fe protein	uncultured bacterium	1.00	65.1	0.944	
+1108
+AF-A0A1W6LVH8-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	79.6	0.944	
+1108
+AF-A0A2Z5ZV09-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	67.5	0.944	
+1107
+AF-A0A1B3PB40-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.944	
+1108
+AF-B0FK64-F1-model_v4	NifH	uncultured soil bacterium	1.00	79.6	0.944	
+1108
+AF-Q93DT8-F1-model_v4	Nitrogenase iron protein	Methylosinus sp. LW3	1.00	79.6	0.944	
+1108
+AF-Q4JKD3-F1-model_v4	NifH	uncultured bacterium	1.00	86.1	0.943	
+1108
+AF-X5HSB1-F1-model_v4	Nitrogenase Fe protein	Agrobacterium tumefaciens	1.00	78.7	0.943	
+1108
+AF-A0A1V0BW16-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	66.3	0.943	
+2107
+AF-A0A0M4ATC7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	96.2	0.943	
+1108
+AF-A5JTB9-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	78.7	0.943	
+1108
+AF-U5KDJ1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	76.8	0.943	
+1108
+AF-U5PVA1-F1-model_v4	Nitrogenase Fe protein	Rheinheimera hassiensis	1.00	79.6	0.943	
+1108
+AF-A0A0H4IU08-F1-model_v4	Dinitrogenase reductase	Azorhizobium sp. SA12	1.00	76.8	0.943	
+1108
+AF-G8B443-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	76	0.943	
+2100
+AF-A0A0M4ATE1-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	91.6	0.943	
+1108
+AF-D0UFF1-F1-model_v4	Dinitrogenase reductase	Mesorhizobium sp. N105	1.00	78.2	0.942	
+8108
+AF-A0A2Z5ZVN6-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	58.3	0.941	
+1107
+AF-A0A1B0Z5I5-F1-model_v4	NifH	uncultured bacterium	1.00	77.4	0.941	
+1101
+AF-A0A0U2S067-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	76.4	0.941	
+8108
+AF-Q19M94-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	77	0.940	
+1108
+AF-A0A068LA84-F1-model_v4	NifH	uncultured bacterium	1.00	79.6	0.940	
+1108
+AF-U5KD50-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78.8	0.940	
+1108
+AF-A0A286MCT3-F1-model_v4	NifH	uncultured bacterium	1.00	74.3	0.940	
+1108
+AF-A0A7T5VA21-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp.	1.00	79.7	0.939	
+10108
+AF-A0A1W6LWD2-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	77.9	0.939	
+1108
+AF-A0A1L5YFX5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.7	0.939	
+1108
+AF-D9J226-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	77.7	0.939	
+11108
+AF-W5ZV09-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.8	0.939	
+1108
+AF-A0A0K0VMQ2-F1-model_v4	Nitrogenase	uncultured microorganism	1.00	77	0.939	
+1108
+AF-B0FJY9-F1-model_v4	NifH	uncultured soil bacterium	1.00	78.7	0.938	
+1108
+AF-B6V548-F1-model_v4	NifH	uncultured prokaryote	1.00	77.7	0.938	
+1108
+AF-A0A192AB65-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	70	0.938	
+2107
+AF-A0A088BZD0-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	92.5	0.938	
+1108
+AF-A0A088BKQ4-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	79.6	0.938	
+1108
+AF-A0A0M3NFB7-F1-model_v4	Nitrogenase component II	Nostoc sp. NDUPC003	1.00	90.9	0.938	
+1108
+AF-A0A0F7RPA1-F1-model_v4	Dinitrogenase reductase	Klebsiella variicola	1.00	72.6	0.938	
+1103
+AF-U6CM13-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	64.4	0.938	
+2107
+AF-A0A0K0VNQ4-F1-model_v4	Nitrogenase	uncultured microorganism	1.00	77	0.937	
+1108
+AF-Q19M66-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.8	0.937	
+1108
+AF-D3X2T6-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	77	0.937	
+1108
+AF-A0A0C5C1Q5-F1-model_v4	Dinitrogenase reductase	Pantoea sp. CRRI-88_WR23	1.00	73.3	0.937	
+1108
+AF-Q3YDQ6-F1-model_v4	NifH	uncultured bacterium	1.00	75.7	0.937	
+2108
+AF-Q19M37-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	93.5	0.937	
+1108
+AF-A0A0K0VNQ3-F1-model_v4	Nitrogenase	uncultured microorganism	1.00	78.8	0.937	
+1108
+AF-A9Y1R9-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.7	0.936	
+1108
+AF-C6ZK45-F1-model_v4	Dinitrogenase reductase	uncultured Antarctic bacterium	1.00	76.1	0.936	
+1108
+AF-Q6XH08-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	63.9	0.936	
+1108
+AF-A0A075M1R1-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	80	0.936	
+12106
+AF-A9Y1L1-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	76.8	0.936	
+1108
+AF-A0A075M6B0-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	82.1	0.935	
+12106
+AF-Q19M09-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.7	0.935	
+1108
+AF-Q6XH43-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	64.8	0.935	
+1108
+AF-A0A1W6BZH9-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	62.1	0.935	
+1108
+AF-A0A0A1IV24-F1-model_v4	Dinitrogenase reductase	Azospirillum brasilense	1.00	78.7	0.935	
+10108
+AF-U6CML7-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	69.1	0.935	
+2107
+AF-A0A075M0L9-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	82.1	0.935	
+12106
+AF-F4ZY11-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.935	
+1105
+AF-W5U774-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	80.6	0.935	
+10106
+AF-A0A075M6D8-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	83.1	0.935	
+12106
+AF-A0A0F7RPB1-F1-model_v4	Dinitrogenase reductase	Enterobacter sp. NGB-FR98	1.00	73.3	0.934	
+1103
+AF-A0A075M250-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	81	0.934	
+12106
+AF-A0A075M231-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	80	0.934	
+12106
+AF-A0A075M1X5-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	77.8	0.934	
+12106
+AF-A0A075M216-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	78.9	0.934	
+12106
+AF-A0A088BZL2-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	96.2	0.934	
+1108
+AF-A0A0U2QKX6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	74.4	0.934	
+12108
+AF-A0A088BKD5-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	95.3	0.933	
+1108
+AF-A0A1V0BNN0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	65.1	0.933	
+2107
+AF-A0A1V0BX93-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	63.3	0.933	
+2107
+AF-A0A088BZN7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	81.4	0.933	
+1108
+AF-U6CLC5-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	58.8	0.932	
+2107
+AF-A0A1C3MVW2-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. TN04	0.99	80.2	0.932	
+11106
+AF-Q6JT47-F1-model_v4	Nitrogen fixing protein	uncultured bacterium	1.00	78	0.932	
+1100
+AF-A0A2Z5ZV04-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	59.6	0.932	
+1107
+AF-A0A0K0VLZ8-F1-model_v4	Nitrogenase	uncultured microorganism	1.00	79	0.932	
+1108
+AF-Q0E7K8-F1-model_v4	NifH protein	Agromyces sp. ORS 1437	1.00	82.1	0.932	
+8108
+AF-A0A0M3PMT8-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	90.7	0.931	
+1108
+AF-D7PSP4-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	77.7	0.931	
+1108
+AF-Q6JT49-F1-model_v4	Nitrogen fixing protein	uncultured bacterium	1.00	79	0.931	
+1100
+AF-Q8G950-F1-model_v4	Nitrogenase Fe protein	uncultured Rhizobium sp.	1.00	80.5	0.931	
+1108
+AF-A0A023GUG9-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	99	0.930	
+1108
+AF-A0A2Z6A5I2-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	60.5	0.930	
+2107
+AF-U6CKU6-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	68.2	0.930	
+2107
+AF-Q3YDK8-F1-model_v4	NifH	uncultured bacterium	1.00	91	0.929	
+8108
+AF-A0A0U2QQJ4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	77.7	0.929	
+9106
+AF-U6CMJ4-F1-model_v4	Dinitrogenase-reductase	uncultured bacterium	1.00	63.8	0.929	
+2106
+AF-K4HED2-F1-model_v4	Nitrogenase component II	Nostoc sp. Baikal	1.00	96.2	0.929	
+1108
+AF-Q19S49-F1-model_v4	Nitrogenase component II	filamentous thermophilic cyanobacterium tBTRCCn 101	1.00	98.1	0.929	
+1108
+AF-K4HBY1-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	98.1	0.929	
+1108
+AF-A0A7T5VA60-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp.	1.00	81.1	0.929	
+8108
+AF-K4HEC9-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	93.5	0.929	
+1108
+AF-K4HC99-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	86.1	0.928	
+1108
+AF-A0A023GUF0-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	1.00	91.6	0.928	
+1108
+AF-B5A7G2-F1-model_v4	Dinitrogenase reductase	bacterium DZY-N56	1.00	75.7	0.928	
+1107
+AF-D8WX00-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	76.4	0.928	
+1102
+AF-G1CQV2-F1-model_v4	Nitrogenase component II	uncultured heterocystous cyanobacterium	1.00	95.9	0.927	
+11108
+AF-A0A223FV19-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.4	0.927	
+1102
+AF-Q1HJE0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	58.7	0.927	
+1108
+AF-A2I8V8-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	69.7	0.927	
+1106
+AF-B3VBN5-F1-model_v4	NifH	uncultured prokaryote	1.00	75.2	0.927	
+4108
+AF-U4MZR6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	77.7	0.927	
+299
+AF-M1UHC4-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	0.99	80.8	0.926	
+14107
+AF-A2I8E8-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	66	0.926	
+1106
+AF-A0A075M0L3-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	78.9	0.925	
+12106
+AF-Q2L889-F1-model_v4	Nitrogenase reductase	Paenibacillus sabinae	1.00	78.4	0.925	
+1102
+AF-D7PSJ4-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	82.5	0.924	
+1108
+AF-E1UYX8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.6	0.924	
+11108
+AF-A0A0H4TGY0-F1-model_v4	Nitrogenase component II	Nostoc punctiforme CG1	0.99	93.5	0.924	
+16108
+AF-D7PSK9-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	81.6	0.924	
+1108
+AF-A0A0B4U3C1-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 19844	1.00	74.2	0.924	
+1100
+AF-A5Y5B9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79	0.924	
+8106
+AF-Q27V48-F1-model_v4	NifH	Paenibacillus sp. GA12	1.00	78.4	0.924	
+1102
+AF-A0A1B0Z5G9-F1-model_v4	NifH	uncultured bacterium	1.00	75.4	0.924	
+1102
+AF-Q27V44-F1-model_v4	NifH	Bacillus sp. BT97	1.00	78.4	0.923	
+1102
+AF-W5U1K9-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	75	0.923	
+1103
+AF-F8R0M6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	77.3	0.923	
+298
+AF-A0A0B4U1Y0-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 19831	1.00	74.2	0.923	
+1100
+AF-U5KFC7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	60.5	0.922	
+1108
+AF-A5Y5B4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78	0.922	
+8106
+AF-A1IV54-F1-model_v4	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein	uncultured proteobacterium	1.00	59.6	0.922	
+1103
+AF-G1CQU5-F1-model_v4	Nitrogenase component II	Cylindrospermum sp. SU01	0.99	93.7	0.921	
+13108
+AF-A0A075M0M6-F1-model_v4	Nitrogenase subunit	uncultured bacterium	0.99	78.9	0.920	
+12106
+AF-A0A172WBV1-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	63	0.920	
+1108
+AF-F4ZYF8-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	75.4	0.920	
+1102
+AF-A0A1V0BNI0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	63.3	0.919	
+2107
+AF-A0A088BKF2-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	76.8	0.919	
+1108
+AF-G8B409-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	78.7	0.918	
+2100
+AF-A0A2U9F3R5-F1-model_v4	Nitrogenase iron protein NifH	uncultured microorganism	1.00	54.5	0.917	
+1108
+AF-I4DD84-F1-model_v4	Nitrogenase Fe protein	uncultured Rhizobium sp.	0.99	79.7	0.917	
+2100
+AF-Q5PSP7-F1-model_v4	NifH	Halomonas maura	0.99	80.4	0.916	
+298
+AF-Q6UBM5-F1-model_v4	Dinitrogenase reductase Fe protein	Bacillus sp. w5	1.00	75.4	0.916	
+1101
+AF-A9Y1J7-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	78.5	0.916	
+11108
+AF-U5N2Z3-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	81.2	0.916	
+13108
+AF-U5N2Y1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	80.2	0.915	
+13108
+AF-S5AFR0-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	80.5	0.915	
+1108
+AF-B6CJ83-F1-model_v4	Nitrogenase iron protein	uncultured marine microorganism	0.99	84.3	0.915	
+8103
+AF-D0UFF6-F1-model_v4	Dinitrogenase reductase	Mesorhizobium sp. S786	0.99	75	0.915	
+8103
+AF-A0A2L0VYZ9-F1-model_v4	Nitrogenase reductase	Paraburkholderia sp.	0.99	81.9	0.914	
+15108
+AF-K7XWU8-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	57.7	0.914	
+1108
+AF-Q3YDQ9-F1-model_v4	NifH	uncultured bacterium	1.00	74.7	0.914	
+6108
+AF-B8YPR9-F1-model_v4	Dinitrogenase reductase	Paenibacillus riograndensis	0.99	79.7	0.914	
+199
+AF-S5S133-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	73.7	0.914	
+199
+AF-A0A1V0BS89-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	54.6	0.914	
+2107
+AF-A0A1V0BKQ3-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	68	0.914	
+2107
+AF-F8R0V6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	76.2	0.914	
+298
+AF-Q19LT0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	66.9	0.913	
+1108
+AF-V5TA16-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	87.9	0.913	
+1108
+AF-U5N5P8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	83.6	0.913	
+12108
+AF-U4MYJ6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	72.7	0.913	
+299
+AF-A0A0N7EI23-F1-model_v4	Dinitrogenase reductase	Azospirillum agricola	1.00	82.4	0.912	
+1108
+AF-W6BCS6-F1-model_v4	NifH	uncultured bacterium	1.00	78.8	0.912	
+1108
+AF-V5TAI2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.912	
+1108
+AF-A6MWP4-F1-model_v4	Nitrogenase component II	uncultured Tolypothrix sp.	1.00	96	0.912	
+1101
+AF-F2WPB5-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	78.8	0.912	
+1104
+AF-A0A0K1L8J7-F1-model_v4	Nitrogenase component II	Pseudanabaena sp. SCSIO S3	0.99	88.5	0.912	
+13108
+AF-F1JXP2-F1-model_v4	NifH	uncultured bacterium	0.99	82.6	0.912	
+15106
+AF-S5A817-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	77.7	0.912	
+1108
+AF-U5KEG0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	64.2	0.910	
+1108
+AF-A0A142J8Q5-F1-model_v4	NifH	uncultured bacterium	1.00	40.3	0.910	
+1108
+AF-A6MWG6-F1-model_v4	Nitrogenase component II	uncultured Nostoc sp.	0.99	92.8	0.910	
+198
+AF-U4N8G2-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	76.2	0.909	
+298
+AF-E3UDQ4-F1-model_v4	NifH	uncultured bacterium	0.99	68.6	0.909	
+1101
+AF-F2X2A5-F1-model_v4	NifH	Rhodocista pekingensis	1.00	79.6	0.908	
+1108
+AF-W5U1M3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	81.3	0.908	
+8108
+AF-S5AFN7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	76.6	0.908	
+1102
+AF-Q6JT58-F1-model_v4	Nitrogen fixing protein	uncultured bacterium	1.00	80	0.907	
+1100
+AF-U5N2Y9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	78.1	0.907	
+13108
+AF-S5A5N3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	79.8	0.907	
+1108
+AF-D2XUZ3-F1-model_v4	NifH	Azospirillum canadense	1.00	83	0.907	
+1106
+AF-S5AAZ3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	77	0.907	
+1108
+AF-U5N630-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	80.2	0.907	
+13108
+AF-F2WPE8-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	77	0.907	
+1108
+AF-A0A1W6LV72-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	66	0.906	
+1108
+AF-A5JV58-F1-model_v4	NifH	uncultured bacterium	0.99	79.3	0.906	
+10101
+AF-G8B438-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	63	0.906	
+2100
+AF-G1CQV3-F1-model_v4	Nitrogenase component II	uncultured heterocystous cyanobacterium	0.99	95.8	0.906	
+13108
+AF-A0A1V0BK66-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	80.3	0.905	
+2108
+AF-A0A5C0T7S4-F1-model_v4	Nitrogenase iron protein	Paraburkholderia sp.	1.00	79.6	0.905	
+1108
+AF-D3G9U9-F1-model_v4	Dinitrogenase reductase	Klebsiella sp. AL060224_03	1.00	77	0.905	
+1108
+AF-D1G4K9-F1-model_v4	Dinitrogenase reductase	Klebsiella sp. CRLI0730	1.00	77	0.904	
+1108
+AF-D1G4M1-F1-model_v4	Dinitrogenase reductase	Pantoea sp. P0356	1.00	77	0.904	
+1108
+AF-D1G4K6-F1-model_v4	Dinitrogenase reductase	Klebsiella sp. CRPV0610	1.00	77	0.904	
+1108
+AF-D3G9U3-F1-model_v4	Dinitrogenase reductase	Klebsiella sp. MNS_801a	1.00	77	0.904	
+1108
+AF-D3JXT8-F1-model_v4	Nitrogenase reductase	Paenibacillus sp. Bb24	0.99	78.7	0.904	
+8101
+AF-K7XPW8-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	58.7	0.903	
+1108
+AF-A0A182C328-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	69.7	0.903	
+1108
+AF-A0A2Z6A0E8-F1-model_v4	Nitrogenase	uncultured prokaryote	0.99	70.7	0.903	
+299
+AF-F8J462-F1-model_v4	Nitrogenase iron protein	Paraburkholderia phymatum	1.00	79.6	0.903	
+1108
+AF-F2WPD5-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	75.2	0.902	
+1108
+AF-X5CZW5-F1-model_v4	Nitrogenase reductase	Hartmannibacter diazotrophicus	1.00	81	0.902	
+1100
+AF-A0A173N0V3-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	67.8	0.902	
+1108
+AF-A0A1K0I8H5-F1-model_v4	Nitrogenase component II	Nostoc sp. P1-15	0.99	94.8	0.902	
+198
+AF-A0A165U1U0-F1-model_v4	Nitrogenase reductase	Bradyrhizobium elkanii	1.00	78.7	0.902	
+1108
+AF-K7YMB2-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	59.6	0.902	
+1108
+AF-R9QVH1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	62.7	0.901	
+1108
+AF-A0A0S1RLU7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	75.4	0.901	
+1102
+AF-F6L704-F1-model_v4	Nitrogenase component II	Nostoc sp. LCRNK_12	1.00	80.5	0.901	
+1108
+AF-A6MWK1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	91.9	0.900	
+199
+AF-U5N2U9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	81	0.900	
+14108
+AF-J7H0V9-F1-model_v4	Dinitrogenase reductase	Azospirillum brasilense	0.99	83.1	0.900	
+14108
+AF-A6MWL9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	92.8	0.900	
+198
+AF-G1CQX4-F1-model_v4	Nitrogenase component II	uncultured heterocystous cyanobacterium	0.99	93.6	0.900	
+14108
+AF-G4WY24-F1-model_v4	Nitrogenase reductase	Burkholderia sp. UYPR1.313	0.99	80	0.899	
+14108
+AF-G8B402-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	77	0.899	
+2100
+AF-A0A221SN03-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	0.99	60.5	0.898	
+4104
+AF-A6MWI7-F1-model_v4	Nitrogenase component II	uncultured Nostoc sp.	0.99	88.8	0.898	
+199
+AF-A6MWI8-F1-model_v4	Nitrogenase component II	uncultured Nostoc sp.	0.99	87.8	0.898	
+199
+AF-E9K789-F1-model_v4	NifH	uncultured soil bacterium	0.99	74.2	0.898	
+298
+AF-A6MWJ8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	90.8	0.897	
+198
+AF-E9K7K1-F1-model_v4	NifH	uncultured Azospira sp.	0.99	70	0.897	
+1100
+AF-A6MWM7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	91.8	0.897	
+198
+AF-A0A480AI36-F1-model_v4	Nitrogenase component II	Dolichospermum planctonicum	0.99	93.6	0.896	
+599
+AF-A0A1S6EPP2-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp.	1.00	78.7	0.896	
+1108
+AF-A0A291F9Y7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	61.8	0.896	
+1108
+AF-G1CQX2-F1-model_v4	Nitrogenase component II	uncultured heterocystous cyanobacterium	0.99	93.6	0.896	
+14108
+AF-S4VJ62-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. BRUESC119	1.00	78.7	0.896	
+1108
+AF-Q19PU3-F1-model_v4	NifH	uncultured bacterium	0.99	78.8	0.896	
+14103
+AF-G4XM15-F1-model_v4	ChlL/BchL	uncultured prokaryote	0.99	37.6	0.895	
+1108
+AF-A0A0U2RMV0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	66.6	0.895	
+10108
+AF-Q9AP76-F1-model_v4	Dinitrogenase reductase	uncultured temperate forest soil bacterium CF051	1.00	81.3	0.895	
+1107
+AF-Q9AP79-F1-model_v4	Dinitrogenase reductase	uncultured temperate forest soil bacterium CF004a	1.00	79.4	0.895	
+1107
+AF-Q9AP78-F1-model_v4	Dinitrogenase reductase	uncultured temperate forest soil bacterium CF018a	1.00	79.4	0.894	
+1107
+AF-X5HV79-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium yuanmingense	1.00	73.3	0.894	
+1105
+AF-F8R0W2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	71.4	0.894	
+298
+AF-Q9AP74-F1-model_v4	Dinitrogenase reductase	uncultured temperate forest soil bacterium VF003	1.00	80.3	0.894	
+1107
+AF-V5T976-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	87	0.894	
+1108
+AF-A0A088BZB6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	62.3	0.893	
+1108
+AF-A0A2L0VZ14-F1-model_v4	Nitrogenase reductase	Paraburkholderia sp.	0.99	80.8	0.893	
+15108
+AF-A0A088BZF7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	66	0.892	
+1108
+AF-A0A0S1RY57-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	65	0.891	
+1106
+AF-A9CRI0-F1-model_v4	Dinitrogenase reductase	Mesorhizobium loti	1.00	79.6	0.891	
+1108
+AF-A0A1S6EPM8-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp.	1.00	77.7	0.891	
+1108
+AF-F2WPC3-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	80.5	0.891	
+1108
+AF-A5Y5D7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	60.7	0.891	
+3106
+AF-U5KEC1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	69.7	0.890	
+1108
+AF-Q3L168-F1-model_v4	Nitrogenase component II	Tolypothrix sp. PCC 7601	1.00	98.1	0.889	
+1108
+AF-Q3YDU4-F1-model_v4	NifH	uncultured bacterium	0.99	93.6	0.889	
+15108
+AF-A0A218M2L3-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	78.9	0.889	
+15108
+AF-A6MWK6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	68.3	0.888	
+1100
+AF-A0A2Z5ZPW3-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	78.8	0.888	
+1108
+AF-R4I3R4-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	1.00	79.2	0.888	
+1100
+AF-A0A2Z5ZQD2-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	82.5	0.888	
+1108
+AF-Q93DJ4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	83	0.887	
+1106
+AF-A0A2Z5ZQ66-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	82.5	0.887	
+1108
+AF-A0A1B0Z5K0-F1-model_v4	NifH	uncultured archaeon	0.99	66.6	0.886	
+1101
+AF-Q6TFJ5-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	1.00	78.3	0.886	
+1106
+AF-A0A2Z5ZVA2-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	79.5	0.886	
+1198
+AF-A0A2Z5ZPX4-F1-model_v4	Nitrogenase	uncultured prokaryote	1.00	77.9	0.886	
+1108
+AF-Q6T478-F1-model_v4	NifH	uncultured bacterium	0.98	80	0.886	
+1098
+AF-X5I3X3-F1-model_v4	Nitrogenase Fe protein	Agrobacterium tumefaciens	0.99	71.7	0.885	
+199
+AF-Q6T464-F1-model_v4	NifH	uncultured bacterium	0.98	80.8	0.885	
+1098
+AF-A0A2Z6A611-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	76.1	0.885	
+1198
+AF-W5U968-F1-model_v4	Nitrogenase Fe protein	Mesorhizobium opportunistum	1.00	70.2	0.885	
+1108
+AF-G1CQU6-F1-model_v4	Nitrogenase component II	Nostoc sp. 1	0.99	89.6	0.884	
+12108
+AF-Q79AX4-F1-model_v4	Nitrogenase iron protein	Parazoarcus communis	1.00	80.7	0.884	
+1108
+AF-F2WPC5-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	77	0.884	
+1108
+AF-A0A6J4B5M0-F1-model_v4	Dinitrogenase reductase	uncultured Bradyrhizobium sp.	0.98	76.1	0.884	
+1198
+AF-A0A2S1B7I3-F1-model_v4	Nitrogenase component II	Euhalothece sp. T2-1114	1.00	87.9	0.883	
+1108
+AF-A0A2Z5ZVR9-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	77.5	0.883	
+1198
+AF-E1UZG3-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	72.9	0.882	
+398
+AF-A0A1S6EPM7-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp.	1.00	79.6	0.882	
+1108
+AF-A0A223FVF2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	46.7	0.882	
+1108
+AF-A0A2S1B7I4-F1-model_v4	Nitrogenase component II	Nodularia sp. 10KLT1	1.00	94.4	0.882	
+1108
+AF-R4I565-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	0.99	85.8	0.882	
+198
+AF-S5A5L3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	78.3	0.882	
+13108
+AF-S5AAY9-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	77.3	0.881	
+13108
+AF-F2WPC6-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	74.5	0.881	
+1101
+AF-A0A2Z5ZXA7-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	78.6	0.880	
+1198
+AF-A0A0H4TJL2-F1-model_v4	Nitrogenase component II	Fischerella muscicola CG20	0.99	90.7	0.880	
+12108
+AF-H2EZV0-F1-model_v4	Nitrogenase component II	Fischerella sp. Ind81	0.99	88.1	0.879	
+799
+AF-F5CIR0-F1-model_v4	NifH	Celerinatantimonas yamalensis	1.00	78.8	0.879	
+1108
+AF-A0A090C0G0-F1-model_v4	Nitrogenase reductase	Paraburkholderia phymatum	1.00	79.6	0.878	
+1108
+AF-A0A142J8K2-F1-model_v4	NifH	uncultured bacterium	0.98	74.7	0.878	
+186
+AF-Q6QT77-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	63.3	0.878	
+1107
+AF-D5MQL4-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	77.3	0.878	
+184
+AF-A0A0C7TXQ7-F1-model_v4	Nitrogenase Fe protein	Staphylococcus aureus	1.00	77	0.878	
+1108
+AF-B6V580-F1-model_v4	NifH	uncultured prokaryote	1.00	53.6	0.878	
+1108
+AF-A9Y1E0-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	0.99	71	0.878	
+199
+AF-Q0PUM0-F1-model_v4	NifH	uncultured soil bacterium	1.00	79.6	0.877	
+7108
+AF-V5T8E4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	64.2	0.877	
+1108
+AF-E9K7J4-F1-model_v4	NifH	uncultured Azospira sp.	0.99	77.6	0.877	
+7100
+AF-U5N649-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	70.1	0.877	
+13108
+AF-A6MWM6-F1-model_v4	Nitrogenase component II	uncultured Nostoc sp.	0.99	91.5	0.877	
+195
+AF-Q53VG4-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	76.1	0.877	
+184
+AF-X2FV91-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium meliloti	1.00	80.5	0.877	
+1108
+AF-D5MQG3-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	76.1	0.877	
+184
+AF-D5MQH8-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	76.1	0.877	
+184
+AF-Q50L34-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	77.3	0.876	
+184
+AF-D5MQE8-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	77.3	0.876	
+184
+AF-D5MQH9-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	76.1	0.876	
+184
+AF-Q53VG0-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	77.3	0.876	
+184
+AF-A0A0B4U1X4-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 19825	0.98	71.2	0.876	
+186
+AF-U6BY39-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77	0.876	
+1108
+AF-U6BY55-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.8	0.875	
+1108
+AF-D5MQF6-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	77.3	0.875	
+184
+AF-Q1L7S7-F1-model_v4	NifH	Methylocaldum szegediense	0.99	72.7	0.875	
+199
+AF-A0A5B9Y0Z1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.875	
+1108
+AF-A0A2S1B7J5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	67.5	0.875	
+1107
+AF-K4NZ19-F1-model_v4	Nitrogenase component II	Nostoc sp. ARC3	0.97	90.8	0.874	
+22108
+AF-F6L709-F1-model_v4	Nitrogenase component II	Anabaena sp. LCRNK_7	0.98	97.7	0.872	
+21108
+AF-A7KBU1-F1-model_v4	NifH	Azospira restricta	0.98	79.7	0.872	
+21108
+AF-A0A076FM02-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	76.3	0.872	
+9100
+AF-D5MQF3-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	77.3	0.872	
+184
+AF-D4P3M6-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. DASA 68006	1.00	74	0.872	
+9108
+AF-A0A140F3D4-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp. TUTAHSA45	0.98	73.8	0.872	
+187
+AF-K9N4G2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	73.5	0.871	
+1101
+AF-A6MWH2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	91.9	0.871	
+199
+AF-A0A172QPK0-F1-model_v4	Nitrogenase iron protein	Paraburkholderia xenovorans	0.98	80	0.871	
+17106
+AF-A0A0Y0AC08-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium campsiandrae	0.97	72.9	0.871	
+184
+AF-Q6TC21-F1-model_v4	NifH	uncultured bacterium	0.97	74.6	0.869	
+284
+AF-I6MRR5-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.97	83.7	0.868	
+21106
+AF-S5A801-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	75	0.868	
+14108
+AF-Q93DJ1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	81.1	0.867	
+1106
+AF-G4XRD0-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.97	82.5	0.867	
+21106
+AF-Q2VJ04-F1-model_v4	NifH	uncultured bacterium	0.97	81.1	0.867	
+21105
+AF-D2TE77-F1-model_v4	Nitrogenase iron protein	Micromonospora sp. MIA32	1.00	75.4	0.867	
+1102
+AF-A0A3S1CFD8-F1-model_v4	Nitrogenase component II	Calothrix desertica PCC 7102	1.00	88.1	0.867	
+1101
+AF-Q2VIZ9-F1-model_v4	NifH	uncultured bacterium	0.97	80	0.867	
+21105
+AF-B9V343-F1-model_v4	Nitrogenase component II	Mastigocladus laminosus W512	1.00	98.1	0.866	
+1108
+AF-I6MRP2-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.96	79	0.866	
+21106
+AF-U4MYD5-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.97	77.1	0.866	
+284
+AF-A5HEK5-F1-model_v4	Dinitrogenase reductase	uncultured soil bacterium	1.00	78.7	0.866	
+1108
+AF-E9K786-F1-model_v4	NifH	uncultured bacterium	0.98	74.7	0.866	
+288
+AF-B7ZGC5-F1-model_v4	Nitrogenase subunit	uncultured Alphaproteobacteria bacterium	0.98	75.2	0.866	
+799
+AF-B1VK91-F1-model_v4	Putative nitrogenase subunit	uncultured Bradyrhizobium sp.	0.97	77.3	0.866	
+386
+AF-Q846J5-F1-model_v4	Dinitrogenase reductase Fe protein	uncultured bacterium	0.97	71.4	0.866	
+183
+AF-A0A1C4HDS9-F1-model_v4	Dinitrogenase reductase	Mesorhizobium sp. NFY11	1.00	81.8	0.865	
+10108
+AF-E1AG75-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	81.1	0.865	
+1106
+AF-B1N181-F1-model_v4	NifH	Celerinatantimonas diazotrophica	1.00	78.5	0.863	
+1106
+AF-Q9L861-F1-model_v4	Dinitrogenase reductase	nitrogen-fixing bacterium TS210	1.00	77.5	0.863	
+1106
+AF-A0A514CAV9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	33.3	0.863	
+1108
+AF-A0A5C0ZSY8-F1-model_v4	Nitrogenase component II	Nostoc sp. RNMN	0.99	93.4	0.863	
+190
+AF-E1AHB8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.3	0.863	
+1106
+AF-A0A1P8VH10-F1-model_v4	Nitrogenase iron protein	Ochrobactrum sp.	0.97	76.1	0.863	
+21108
+AF-I6YHQ9-F1-model_v4	Nitrogenase Fe protein	Cupriavidus taiwanensis	1.00	79.7	0.862	
+10108
+AF-K7YMH4-F1-model_v4	Nitrogenase	uncultured bacterium	0.99	57.2	0.862	
+14108
+AF-A6MWL0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	87.7	0.862	
+198
+AF-B7ZGH3-F1-model_v4	Nitrogenase subunit	uncultured Alphaproteobacteria bacterium	0.98	70.6	0.862	
+798
+AF-Q50L19-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.97	72.9	0.862	
+184
+AF-Q93DD9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.4	0.862	
+1106
+AF-E1AGM9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	82.2	0.862	
+1106
+AF-U5N2D0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	79.7	0.861	
+20108
+AF-E1AG12-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	81.3	0.860	
+1106
+AF-H2CNW7-F1-model_v4	Nitrogenase reductase	uncultured Frankia sp.	0.99	70.7	0.859	
+199
+AF-E1AGH2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	75.7	0.859	
+1106
+AF-H2CP01-F1-model_v4	Nitrogenase reductase	uncultured Frankia sp.	0.99	70.7	0.858	
+199
+AF-H2CP04-F1-model_v4	Nitrogenase reductase	uncultured Frankia sp.	0.99	69.6	0.858	
+199
+AF-D7GNT5-F1-model_v4	NifH protein	uncultured bacterium	0.99	59.4	0.858	
+4107
+AF-A0A1K0I7J5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	0.99	71.8	0.858	
+14108
+AF-H2CP54-F1-model_v4	Nitrogenase reductase	uncultured Frankia sp.	0.99	71.7	0.857	
+199
+AF-A0A4D6QE28-F1-model_v4	Nitrogenase reductase protein	Enterobacter sp.	1.00	77.9	0.857	
+1108
+AF-A0A514CAU6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	36.9	0.857	
+1108
+AF-A6MWM1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	97.7	0.856	
+190
+AF-A0A3G6IJD5-F1-model_v4	Nitrogenase iron protein 1	uncultured proteobacterium	0.99	77.7	0.855	
+190
+AF-B7ZGD9-F1-model_v4	Nitrogenase subunit	uncultured delta proteobacterium	0.97	74.1	0.854	
+899
+AF-G4XRB3-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.96	81.3	0.854	
+21106
+AF-A0A0K1R0Z3-F1-model_v4	NifH	Bradyrhizobium sp. TUTVSBEK	0.97	75	0.854	
+588
+AF-I6MRR1-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.96	76.7	0.854	
+21106
+AF-I6MRN5-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.96	76.7	0.854	
+21106
+AF-Q6TC11-F1-model_v4	NifH	uncultured bacterium	0.96	79	0.853	
+282
+AF-G5CBZ7-F1-model_v4	Dinitrogenase reductase	Klebsiella sp. HL01	0.98	77.7	0.853	
+20108
+AF-A0A089X032-F1-model_v4	Dinitrogenase reductase	Bacillus sp. ZN17	0.97	80.4	0.853	
+22108
+AF-F2WPC4-F1-model_v4	Nitrogenase component II	uncultured bacterium	0.99	78.2	0.853	
+1100
+AF-E9K774-F1-model_v4	NifH	uncultured bacterium	0.98	78.1	0.853	
+288
+AF-E9K732-F1-model_v4	Nitrogenase Fe protein	uncultured Rhizobium sp.	0.98	73	0.853	
+290
+AF-Q6TBY8-F1-model_v4	NifH	uncultured bacterium	0.95	77.2	0.853	
+280
+AF-Q9ZAZ3-F1-model_v4	Nitrogenase component II	Anabaena sp. CA = ATCC 33047	0.98	93.3	0.852	
+19108
+AF-W5VST8-F1-model_v4	NifH	uncultured bacterium	1.00	38.7	0.852	
+1108
+AF-I6YG03-F1-model_v4	Nitrogenase Fe protein	Mesorhizobium carmichaelinearum	0.96	74.4	0.852	
+1499
+AF-A0A0B5GHA6-F1-model_v4	Dinitrogenase reductase	uncultured microorganism	1.00	81.4	0.849	
+1108
+AF-J7I999-F1-model_v4	Dinitrogen reductase	uncultured Bradyrhizobium sp.	0.98	76.1	0.849	
+188
+AF-Q6GYM8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	81.4	0.849	
+1108
+AF-Q6TC25-F1-model_v4	NifH	uncultured bacterium	0.95	74.6	0.849	
+280
+AF-Q6TC16-F1-model_v4	NifH	uncultured bacterium	0.94	91	0.849	
+279
+AF-W5U2B2-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.97	72.2	0.848	
+19108
+AF-A0A0C5GFQ9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.6	0.848	
+1108
+AF-Q3YDS8-F1-model_v4	NifH	uncultured bacterium	0.98	83.8	0.848	
+16108
+AF-A0A0K1R0Y6-F1-model_v4	NifH	Bradyrhizobium sp. TUTVSRDK-I	1.00	78.7	0.848	
+1108
+AF-G4WY15-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. UYPR7.63	0.99	73.7	0.847	
+10108
+AF-G0LXM2-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	0.97	77.9	0.847	
+388
+AF-G3G9R8-F1-model_v4	Nitrogenase component II	Hydrocoleum sp. MF1	0.98	84	0.846	
+188
+AF-F0V6Q6-F1-model_v4	Dinitrogenase	uncultured bacterium	1.00	79.8	0.844	
+1108
+AF-Q8GCZ0-F1-model_v4	NifH	uncultured low G+C Gram-positive bacterium	0.98	77.2	0.844	
+21108
+AF-G7ZTX4-F1-model_v4	Nitrogen fixation protein H	Bradyrhizobium elkanii	0.99	74.4	0.844	
+198
+AF-D1LZR5-F1-model_v4	Dinitrogenase reductase	uncultured soil bacterium	1.00	80.5	0.843	
+1108
+AF-A0A0S1LG80-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.843	
+1108
+AF-Q6TC14-F1-model_v4	NifH	uncultured bacterium	0.93	71.7	0.842	
+279
+AF-W8GI62-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium meliloti	1.00	80.5	0.842	
+1108
+AF-F2WPE2-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	75.2	0.842	
+1104
+AF-H2CP44-F1-model_v4	Nitrogenase reductase	uncultured Frankia sp.	0.99	73.3	0.842	
+190
+AF-Q6TC04-F1-model_v4	NifH	uncultured bacterium	0.94	79.7	0.841	
+279
+AF-A0A0K1R0S8-F1-model_v4	NifH	Bradyrhizobium sp. TUTVSBMK	0.99	76.6	0.840	
+190
+AF-M1WY18-F1-model_v4	Nitrogenase component II	Richelia intracellularis HM01	0.99	83.8	0.840	
+5102
+AF-D5MQG6-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.96	84.5	0.840	
+184
+AF-A6MWJ9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	84	0.840	
+188
+AF-B7ZGG2-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.96	76.4	0.839	
+1098
+AF-B7ZGG3-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.97	76.9	0.839	
+797
+AF-E9K798-F1-model_v4	NifH	uncultured bacterium	0.98	79.7	0.838	
+290
+AF-Q9EYS0-F1-model_v4	NifH protein	uncultured soil bacterium H5	0.96	81.4	0.838	
+28108
+AF-A0A088BKB4-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.97	79.2	0.838	
+27108
+AF-A0A0D5YBV8-F1-model_v4	Nitrogenase reductase	Cupriavidus sp. mpp2.7	1.00	79.6	0.837	
+1108
+AF-A0A0C7U064-F1-model_v4	Nitrogenase Fe protein	Niallia circulans	0.99	79.1	0.837	
+13108
+AF-A0A0C7TC77-F1-model_v4	Nitrogenase Fe protein	Priestia megaterium	0.99	79.1	0.836	
+13108
+AF-Q6TBZ8-F1-model_v4	NifH	uncultured bacterium	0.93	72.1	0.836	
+279
+AF-Q93C01-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	69.1	0.835	
+1106
+AF-X2J3Q6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	80.7	0.835	
+1108
+AF-G4XRF1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.96	67	0.835	
+21106
+AF-S5A7Z8-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	76.9	0.835	
+190
+AF-A0A1X9Y2U9-F1-model_v4	Dinitrogenase reductase	Pantoea sp.	0.96	82.9	0.835	
+27108
+AF-X2J128-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	79.8	0.834	
+1108
+AF-X2JAR1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	74.3	0.834	
+1108
+AF-F6L707-F1-model_v4	Nitrogenase component II	Anabaena sp. LCRNK_9	1.00	94	0.833	
+9108
+AF-B7ZGE6-F1-model_v4	Nitrogenase subunit	uncultured beta proteobacterium	0.94	74.6	0.833	
+886
+AF-X2J9M0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77	0.833	
+1108
+AF-A0A0H4TGN8-F1-model_v4	Nitrogenase component II	Cylindrospermum stagnale CG18	0.96	86.6	0.832	
+796
+AF-X2J5L6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.832	
+1108
+AF-X2J076-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	75.2	0.832	
+1108
+AF-X2J309-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.832	
+1108
+AF-X2J4E2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.832	
+1108
+AF-A6MWF0-F1-model_v4	Nitrogenase component II	uncultured Tolypothrix sp.	0.95	98.7	0.832	
+179
+AF-X2J4V4-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.832	
+1108
+AF-X2J2P8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	76.1	0.832	
+1108
+AF-X2J356-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.832	
+1108
+AF-A0A0K0VN98-F1-model_v4	Nitrogenase	uncultured microorganism	0.98	70.7	0.832	
+188
+AF-X2J602-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	77.9	0.832	
+1108
+AF-X2J4F1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78.8	0.831	
+1108
+AF-Q0KJ22-F1-model_v4	Nitrogenase iron-protein H	Enterobacter cloacae	0.99	71	0.831	
+199
+AF-Q6TC02-F1-model_v4	NifH	uncultured bacterium	0.92	75.3	0.831	
+278
+AF-A6N2T8-F1-model_v4	Protochlorophyllide reductase	uncultured bacterium	0.98	34	0.830	
+198
+AF-G8B3D6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	86	0.830	
+16108
+AF-G0LXH8-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium medicae	0.98	77.2	0.830	
+188
+AF-D5MQI4-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.96	74.3	0.830	
+384
+AF-B7ZGF3-F1-model_v4	Nitrogenase component II	uncultured cyanobacterium	0.97	69.7	0.829	
+398
+AF-E9K7C0-F1-model_v4	NifH	uncultured bacterium	0.98	76.1	0.829	
+289
+AF-F2WPC1-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	78.4	0.829	
+1102
+AF-E9K7M1-F1-model_v4	NifH	uncultured bacterium	0.97	75.8	0.828	
+288
+AF-B6DNN3-F1-model_v4	Dinitrogenase reductase	uncultured soil bacterium	1.00	77.7	0.828	
+1108
+AF-A0A192WN00-F1-model_v4	NifH	Bradyrhizobium sp. YIC60953	0.91	76.6	0.828	
+28104
+AF-F2WPE7-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	77.4	0.828	
+1102
+AF-G4WY18-F1-model_v4	Nitrogenase reductase	Cupriavidus sp. UYPR2.55	0.96	71.9	0.828	
+27108
+AF-V9VM71-F1-model_v4	NifH	Burkholderia sp. OD55	0.98	78.4	0.827	
+188
+AF-G3AD85-F1-model_v4	Nitrogenase Fe protein	Streptomyces sp. R-46320	0.98	77.2	0.827	
+188
+AF-A0A2Z6A2F2-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	58.5	0.827	
+299
+AF-G0LXH1-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	0.98	79.5	0.826	
+188
+AF-Q1L7S6-F1-model_v4	NifH	Methylocaldum szegediense	0.97	75	0.826	
+184
+AF-K4NWS7-F1-model_v4	Nitrogenase component II	Nostoc sp. ARC4	0.91	96	0.825	
+31105
+AF-A0A140F3D8-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. TUTAHSA60	0.96	76.8	0.825	
+182
+AF-A1YTG5-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	1.00	78	0.824	
+1100
+AF-A0A1B5G013-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	77.3	0.824	
+184
+AF-A0A2Z5EMY4-F1-model_v4	Nitrogenase	uncultured bacterium	1.00	89.8	0.823	
+1108
+AF-A5JV42-F1-model_v4	NifH	uncultured bacterium	0.90	80	0.823	
+1386
+AF-E9K7A0-F1-model_v4	NifH	uncultured bacterium	0.96	72.2	0.822	
+284
+AF-A0A172QPK7-F1-model_v4	Nitrogenase component II	Desmonostoc muscorum SN0603	0.90	91.8	0.822	
+32105
+AF-D5MQJ3-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.87	76.3	0.822	
+1384
+AF-B7ZGG8-F1-model_v4	Nitrogenase subunit	uncultured Firmicutes bacterium	0.96	48.4	0.820	
+699
+AF-G8B3D0-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	73.4	0.820	
+16108
+AF-A0A1Z4UNY5-F1-model_v4	Nitrogenase component II	Sphaerospermopsis kisseleviana NIES-73	1.00	88	0.820	
+1108
+AF-Q53VE6-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.87	74.6	0.820	
+1484
+AF-G8B3C3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	74.1	0.820	
+17108
+AF-A5HEJ6-F1-model_v4	Dinitrogenase reductase	uncultured soil bacterium	1.00	78.8	0.820	
+1108
+AF-A5HEJ1-F1-model_v4	Dinitrogenase reductase	uncultured soil bacterium	1.00	76.1	0.819	
+1108
+AF-A0A0B7C7L5-F1-model_v4	NifH protein	uncultured bacterium	0.99	95.5	0.818	
+190
+AF-G8B3A3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	74.4	0.818	
+16108
+AF-A0A527ZC64-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp.	0.93	80	0.817	
+988
+AF-A0A0Y0AAF6-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. INPA104A	0.97	75	0.816	
+184
+AF-D5MQK0-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.94	78	0.816	
+788
+AF-A7U468-F1-model_v4	Nitrogenase Fe protein	Agrobacterium tumefaciens	0.95	75.9	0.815	
+179
+AF-H2EZU5-F1-model_v4	Nitrogenase component II	Nostoc sp. Ind39	0.92	97.4	0.815	
+1288
+AF-A5JV36-F1-model_v4	NifH	uncultured bacterium	0.92	75.3	0.814	
+20100
+AF-A0A4D6QC29-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.812	
+1108
+AF-A0A0P0KF52-F1-model_v4	Nitrogenase	uncultured bacterium	0.98	73.3	0.812	
+189
+AF-A0A219VH13-F1-model_v4	Nitrogenase reductase	uncultured Bradyrhizobium sp.	0.90	71	0.811	
+175
+AF-A0A2C9PM97-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	74.1	0.810	
+188
+AF-S6CRX7-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.94	68.7	0.809	
+179
+AF-D5MQI5-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.94	78.7	0.808	
+584
+AF-A0A411EVS7-F1-model_v4	NifH	Bradyrhizobium sp.	0.92	81.5	0.808	
+33108
+AF-A0A0H4TKT7-F1-model_v4	Nitrogenase component II	Mastigocladus laminosus CG22	0.98	97.7	0.808	
+188
+AF-G0LXI7-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	0.97	77.1	0.808	
+183
+AF-B1VK86-F1-model_v4	Putative nitrogenase subunit	uncultured Clostridium sp.	0.97	59.5	0.807	
+189
+AF-A0A0N9R0Z9-F1-model_v4	NifH	Burkholderia sp. BL25 I3R1	0.98	79.5	0.807	
+188
+AF-A0A0X9QV27-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. UFLA03-153	0.97	74.6	0.807	
+183
+AF-A0A0A1IX97-F1-model_v4	Dinitrogenase reductase	uncultured Azotobacter sp.	0.98	76.4	0.805	
+188
+AF-A0A0B4U3R8-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 19823	0.87	71.6	0.805	
+1588
+AF-H6U279-F1-model_v4	NifH	uncultured Frankia sp.	0.96	70	0.805	
+180
+AF-D0UFE1-F1-model_v4	Dinitrogenase reductase	Mesorhizobium sp. N441	1.00	77.7	0.805	
+1108
+AF-A0A3B8DZG5-F1-model_v4	Nitrogenase component II	uncultured Nostocales cyanobacterium	0.99	94.4	0.804	
+190
+AF-Q9APE9-F1-model_v4	Nitrogenase iron protein	Klebsiella pneumoniae	1.00	77	0.804	
+1108
+AF-M4QNZ9-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	79.6	0.803	
+1108
+AF-D0V8B8-F1-model_v4	Nitrogenase component II	Chroococcidiopsis sp. MMG-6	1.00	87.2	0.803	
+1101
+AF-Q6QT87-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	69.6	0.802	
+1101
+AF-A0A221S802-F1-model_v4	Nitrogenase reductase	Priestia megaterium	0.99	75.2	0.801	
+12108
+AF-F1BMM6-F1-model_v4	Nitrogenase	uncultured bacterium	0.92	83.1	0.801	
+32108
+AF-M4QG63-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	80.5	0.801	
+1108
+AF-A0A0B4U1Z7-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. ICMP 3154	0.91	70.3	0.800	
+1999
+AF-D5MQH7-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.92	73.4	0.800	
+784
+AF-M1GSP5-F1-model_v4	Dinitrogenase reductase	Mesorhizobium loti NZP2037	0.91	66.6	0.799	
+1298
+AF-A0A0B7C790-F1-model_v4	NifH protein	uncultured bacterium	0.98	76.4	0.799	
+188
+AF-A0A3S0RYB7-F1-model_v4	Nitrogenase Fe protein	Rhizobium chutanense	1.00	80.5	0.799	
+1108
+AF-A0A3S0RWE1-F1-model_v4	Nitrogenase Fe protein	Rhizobium chutanense	1.00	80.5	0.799	
+1108
+AF-C5HIB3-F1-model_v4	NifH	Sphingomonas sp. BR12257	0.99	75.2	0.799	
+197
+AF-F1BM82-F1-model_v4	Nitrogenase	uncultured bacterium	0.92	85.7	0.799	
+32108
+AF-Q6TC13-F1-model_v4	NifH	uncultured bacterium	0.85	81.9	0.798	
+273
+AF-A0A1C3MW77-F1-model_v4	Nitrogenase	Azospirillum sp. TN03	1.00	82.8	0.798	
+10108
+AF-G0LXH9-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. R-45657	0.98	75	0.797	
+188
+AF-M4QCB6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	76.8	0.797	
+1108
+AF-A0A0B7C4L9-F1-model_v4	NifH protein	uncultured bacterium	0.98	97.7	0.797	
+188
+AF-A0A096XDT0-F1-model_v4	Nitrogenase iron protein	uncultured prokaryote	1.00	77.7	0.796	
+1108
+AF-E9K7B5-F1-model_v4	NifH	uncultured Azospirillum sp.	0.96	83.1	0.796	
+890
+AF-B6S8A9-F1-model_v4	NifH	Mesorhizobium albiziae	1.00	77.9	0.796	
+1108
+AF-D5MQI8-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.92	79.4	0.796	
+784
+AF-E9K7J7-F1-model_v4	NifH	uncultured bacterium	0.97	63.1	0.795	
+699
+AF-F1JUI8-F1-model_v4	Nitrogenase reductase	Frankia sp. BCU110345	1.00	77.7	0.794	
+1108
+AF-A0A2C9PM95-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	78.6	0.794	
+188
+AF-A0A159BPE1-F1-model_v4	NifH	uncultured Bradyrhizobium sp.	1.00	78.7	0.793	
+1108
+AF-A5Y523-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	96.5	0.793	
+186
+AF-A5Y525-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	98.8	0.793	
+186
+AF-A5Y517-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	97.6	0.792	
+186
+AF-Q6TC20-F1-model_v4	NifH	uncultured bacterium	0.84	74.6	0.792	
+272
+AF-A0A023ND61-F1-model_v4	Nitrogenase component II	Cylindrospermum sp. NDUPC005	0.92	97.3	0.792	
+33108
+AF-A5Y527-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	94.1	0.792	
+186
+AF-A0A4D6QF26-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.792	
+1108
+AF-A5Y538-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	93	0.791	
+186
+AF-S5A8N6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.95	82.5	0.791	
+29108
+AF-A0A219VGW4-F1-model_v4	Nitrogenase reductase	uncultured Azospirillum sp.	0.92	62.5	0.791	
+1299
+AF-A0A0D5CWS1-F1-model_v4	Dinitrogenase reductase	uncultured Raoultella sp.	0.90	72.3	0.791	
+1589
+AF-D5MQJ4-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.92	73	0.790	
+784
+AF-A0A1L7B5J0-F1-model_v4	Nitrogenase component II	Iningainema pulvinus ES0614	1.00	100	0.790	
+1108
+AF-A0A2C9PM96-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	73	0.790	
+188
+AF-M4QG73-F1-model_v4	Nitrogenase reductase	uncultured bacterium	1.00	80.9	0.790	
+4108
+AF-A0A0M3XNJ7-F1-model_v4	Nitrogenase component II	Nostoc ellipsosporum NDUPC002	0.92	98.6	0.789	
+33108
+AF-A0A1Q1PP58-F1-model_v4	Nitrogenase component II	Ewamiania thermalis TS0513	1.00	100	0.787	
+1108
+AF-B0L8Z5-F1-model_v4	NifH	uncultured Geobacter sp.	1.00	78.8	0.786	
+1108
+AF-Q6TC17-F1-model_v4	NifH	uncultured bacterium	0.84	71.6	0.785	
+274
+AF-A0A1J0MV93-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	76.5	0.784	
+193
+AF-C5IBQ2-F1-model_v4	NifH	uncultured soil bacterium	0.99	94.7	0.783	
+196
+AF-U4N8N8-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.85	78.3	0.782	
+275
+AF-A0A0B5G611-F1-model_v4	Putative nitrogenase reductase	uncultured microorganism	0.99	73.9	0.782	
+195
+AF-F1C9J3-F1-model_v4	Putative nitrogenase reductase	uncultured microorganism	0.99	72.9	0.781	
+195
+AF-D5MQH6-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.91	70	0.781	
+784
+AF-A8I4Y9-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	77	0.781	
+195
+AF-A0A0B5FVB7-F1-model_v4	Putative nitrogenase reductase	uncultured microorganism	0.99	76	0.781	
+195
+AF-A0A0B5G5Y2-F1-model_v4	Putative nitrogenase reductase	uncultured microorganism	0.99	75	0.781	
+195
+AF-A0A161CLJ1-F1-model_v4	NifH	uncultured Bradyrhizobium sp.	1.00	74.5	0.780	
+1108
+AF-A6MWK8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.96	65.1	0.779	
+1104
+AF-A4GR79-F1-model_v4	Nitrogenase reductase	Bradyrhizobium yuanmingense	1.00	78.7	0.779	
+1108
+AF-A0A2C9PMT3-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	77.2	0.779	
+188
+AF-Q531D0-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	78.8	0.778	
+190
+AF-A0A0B7C5E9-F1-model_v4	NifH protein	uncultured bacterium	0.99	72.4	0.778	
+198
+AF-Q589M2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	72.1	0.778	
+196
+AF-I1VWT7-F1-model_v4	Putative nitrogenase reductase	uncultured microorganism	0.99	74.4	0.778	
+196
+AF-A4GR81-F1-model_v4	Nitrogenase reductase	Bradyrhizobium yuanmingense	1.00	79.6	0.778	
+1108
+AF-D2KZU3-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TSA26	1.00	79.6	0.778	
+1108
+AF-A4GR82-F1-model_v4	Nitrogenase reductase	Bradyrhizobium japonicum	1.00	78.7	0.778	
+1108
+AF-D0R8J3-F1-model_v4	Nitrogenase reductase	Burkholderia sp. JPY384	1.00	80.5	0.778	
+1108
+AF-A0A2Z5ZSY7-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	81.1	0.777	
+190
+AF-A0A2Z6A8C2-F1-model_v4	Nitrogenase	uncultured prokaryote	0.98	78.8	0.777	
+190
+AF-C9E3A6-F1-model_v4	Nitrogenase component II	Nodularia spumigena AV1	1.00	96.2	0.777	
+1108
+AF-Q531D6-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	73.6	0.776	
+190
+AF-D2KMT4-F1-model_v4	Nitrogenase iron protein	uncultured prokaryote	0.99	73.1	0.776	
+196
+AF-J7H9L7-F1-model_v4	Nitrogenase iron protein	uncultured Bradyrhizobium sp.	0.99	76.2	0.776	
+196
+AF-A0A2C9PM43-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.98	78.4	0.775	
+188
+AF-A0A3D6DT16-F1-model_v4	Nitrogenase reductase	Candidatus Accumulibacter sp.	1.00	78.8	0.775	
+1108
+AF-A0A1J0MV50-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	72.1	0.775	
+197
+AF-A0A4D6QH29-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium sp.	1.00	81.1	0.774	
+3108
+AF-D7PPQ2-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	1.00	78.7	0.774	
+1108
+AF-A6MWJ2-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.97	85.7	0.773	
+191
+AF-A0A059UIX1-F1-model_v4	NifH	Bradyrhizobium sp. NCSU 2579	1.00	78.7	0.773	
+10108
+AF-Q5MQB8-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium japonicum bv. glycinearum	0.98	75.5	0.772	
+186
+AF-A0A219VGZ5-F1-model_v4	Nitrogenase reductase	uncultured Bradyrhizobium sp.	0.75	74.6	0.772	
+1076
+AF-A6MWN7-F1-model_v4	Nitrogenase component II	uncultured Nostoc sp.	0.87	68.6	0.772	
+199
+AF-Q5MQB6-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium liaoningense bv. glycinearum	0.98	75.5	0.772	
+186
+AF-Q53VE5-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.80	71.4	0.772	
+170
+AF-A0A2P1D0C9-F1-model_v4	NifH	Cupriavidus sp.	0.98	75	0.772	
+188
+AF-A0A1B5G003-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	77.3	0.771	
+184
+AF-A0A1B5FZP6-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	77.3	0.771	
+184
+AF-A0A1B5G000-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	77.3	0.770	
+184
+AF-F6L714-F1-model_v4	Nitrogenase component II	Tolypothrix sp. LCRNK_2	0.97	68.5	0.770	
+1108
+AF-A0A1B5G022-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	76.1	0.770	
+184
+AF-Q53VE9-F1-model_v4	Nitrogenase Fe protein	uncultured bacterium	0.77	75.3	0.770	
+169
+AF-I6QL72-F1-model_v4	Nitrogenase reductase	Burkholderia sp. JPY105	1.00	79.6	0.769	
+1108
+AF-A0A1B5FZY1-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	76.1	0.769	
+184
+AF-A0A1B5FZT0-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	73.8	0.769	
+184
+AF-A0A4D6DJV0-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp.	1.00	78.7	0.768	
+1108
+AF-A0A1I9W5R6-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	73.1	0.768	
+196
+AF-A0A0Y0AI50-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium brasilense	0.97	75	0.768	
+184
+AF-D0QZ66-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	1.00	76.8	0.768	
+1108
+AF-A0A1B5FZX9-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	77.3	0.768	
+184
+AF-A0A1B5G085-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	76.1	0.768	
+184
+AF-G0LX94-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium japonicum	0.98	72.7	0.768	
+188
+AF-A8I4Y1-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.99	73.9	0.767	
+196
+AF-A0A1B5FZQ4-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	73.8	0.767	
+184
+AF-H2CNY1-F1-model_v4	Nitrogenase reductase	uncultured Frankia sp.	1.00	76.8	0.766	
+1108
+AF-F1JUJ5-F1-model_v4	Nitrogenase reductase	Frankia sp. CmF1	1.00	82.4	0.766	
+1108
+AF-A5JV60-F1-model_v4	NifH	uncultured bacterium	0.72	75.7	0.766	
+873
+AF-A0A0A1IX25-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.90	54.4	0.765	
+1101
+AF-C0IRB1-F1-model_v4	Nitrogenase Fe protein	Rhizobium tropici	1.00	80.5	0.765	
+1108
+AF-G0LXE7-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	0.98	76.1	0.764	
+188
+AF-A9Y1D5-F1-model_v4	Nitrogenase iron protein	uncultured bacterium	0.90	76.3	0.764	
+176
+AF-A0A088MV83-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. WBOS7	1.00	78.7	0.764	
+1108
+AF-Q0ZNI8-F1-model_v4	Dinitrogenase	Desulfovibrio dechloracetivorans	0.98	72.4	0.764	
+186
+AF-A1YZL8-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium japonicum	1.00	78.7	0.763	
+1108
+AF-G3AD79-F1-model_v4	Nitrogenase Fe protein	Pseudomonas sp. R-46240	0.98	77.2	0.763	
+188
+AF-A0A1I9W4C1-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	76	0.763	
+196
+AF-A0A0K0MQB7-F1-model_v4	Nitrogenase	uncultured bacterium	0.98	73.5	0.762	
+186
+AF-A0A0K0MR25-F1-model_v4	Nitrogenase	uncultured bacterium	0.98	72.4	0.761	
+186
+AF-A0A0K0MQH6-F1-model_v4	Nitrogenase	uncultured bacterium	0.98	73.5	0.761	
+186
+AF-V9VJV0-F1-model_v4	NifH	Burkholderia sp. MM5477	0.98	79.5	0.761	
+188
+AF-V9VHL1-F1-model_v4	NifH	Bradyrhizobium sp. MM5621	0.98	76.1	0.761	
+188
+AF-A0A4D5YIB2-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium sp.	1.00	81.4	0.760	
+1108
+AF-A0A2P1D092-F1-model_v4	NifH	Bradyrhizobium sp.	0.98	77.2	0.760	
+188
+AF-G3AD77-F1-model_v4	Nitrogenase Fe protein	Paenibacillus sp. R-45815	0.98	78.4	0.760	
+188
+AF-A0A1B5FZX6-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.97	78.5	0.759	
+183
+AF-A0A4D6QC86-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.758	
+1108
+AF-A0A0K1SBX7-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. FVNS4	1.00	78.7	0.758	
+1108
+AF-A0A0K2CVL3-F1-model_v4	NifH	Burkholderia sp. JPY687	1.00	79.5	0.758	
+11108
+AF-A0A0B7C5G5-F1-model_v4	NifH protein	uncultured bacterium	0.99	76.2	0.758	
+1101
+AF-A0A0U2H9G4-F1-model_v4	Nitrogenase component II	Pseudanabaena sp. PCC 9015	1.00	86.1	0.758	
+1108
+AF-B3VI46-F1-model_v4	NifH	Mesorhizobium sp. BA134	1.00	77.7	0.757	
+1108
+AF-A0A0B7C5G0-F1-model_v4	NifH protein	uncultured bacterium	0.99	74	0.757	
+199
+AF-A0A1J0MV77-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	75.8	0.756	
+190
+AF-Q1KY35-F1-model_v4	NifH	Parazoarcus communis	0.90	76	0.756	
+175
+AF-W8FX84-F1-model_v4	Nitrogenase Fe protein	Ensifer sp. JNVU AN11	1.00	82.4	0.754	
+1108
+AF-K9MYE8-F1-model_v4	Nitrogenase Fe protein	Ensifer sp. JNVU MHM1	1.00	80.5	0.754	
+1108
+AF-A0A0H4J4E0-F1-model_v4	Dinitrogenase reductase	Klebsiella sp. WR8	0.96	65.8	0.750	
+184
+AF-A0A0A1IX99-F1-model_v4	Dinitrogenase reductase	uncultured Azoarcus sp.	0.96	78.3	0.750	
+182
+AF-A7U469-F1-model_v4	NifH	Stenotrophomonas maltophilia	0.97	48.8	0.750	
+1106
+AF-M4VLD0-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. CCBAU 43224	1.00	78.7	0.749	
+1108
+AF-A0A0K1R151-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TUTCS2.I	1.00	78.7	0.749	
+1108
+AF-Q70YB2-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. TJ172	1.00	78.7	0.748	
+1108
+AF-A0A2Z5ZPU5-F1-model_v4	Nitrogenase	uncultured prokaryote	0.92	57.6	0.748	
+790
+AF-D0V8B7-F1-model_v4	Nitrogenase component II	Chroococcidiopsis sp. MMG-5	0.99	78.6	0.748	
+1102
+AF-O31255-F1-model_v4	Fe subunit of nitrogenase	Azoarcus sp.	0.97	78.8	0.748	
+184
+AF-A0A0K0LAY9-F1-model_v4	Nitrogenase	uncultured Bradyrhizobium sp.	1.00	79.6	0.747	
+1108
+AF-K9MZS8-F1-model_v4	Nitrogenase Fe protein	Ensifer sp. JNVU MHM24	1.00	81.4	0.746	
+1108
+AF-A0A0K1SC55-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	1.00	80.5	0.746	
+1108
+AF-A0A088N4F5-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. WBAH30	1.00	77.7	0.745	
+1108
+AF-A0A1L6C034-F1-model_v4	Nitrogenase reductase protein	Bradyrhizobium sp.	1.00	79.6	0.744	
+1108
+AF-A0A4D6QH44-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium septentrionale	1.00	81.4	0.744	
+1108
+AF-A0A4D5YIC0-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.743	
+1108
+AF-B3VI48-F1-model_v4	NifH	Mesorhizobium sp. ML105	1.00	77.7	0.743	
+1108
+AF-A0A0K1R119-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TUTCT1.I	1.00	78.7	0.742	
+1108
+AF-W8ELC0-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. CpR3	1.00	78.7	0.742	
+1108
+AF-D1LYH2-F1-model_v4	Nitrogenase reductase	Mesorhizobium tianshanense	1.00	81.4	0.742	
+1108
+AF-A0A481NSA7-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.741	
+1108
+AF-A0A4D6QC58-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.741	
+1108
+AF-A0A4D6QCK5-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.740	
+1108
+AF-U3PL47-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium amphicarpaeae	1.00	80.5	0.739	
+1108
+AF-A0A0K1R130-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TUTCSA5A	1.00	78.7	0.739	
+1108
+AF-A5JPK9-F1-model_v4	Dinitrogenase reductase	Vibrio porteresiae	0.97	74.1	0.739	
+184
+AF-A0A4D6QCN6-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	81.4	0.738	
+1108
+AF-A0A0P0HEH7-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. TUTPVSA6	1.00	80.5	0.736	
+1108
+AF-Q27V40-F1-model_v4	NifH	Paenibacillus sp. BY55	0.96	58.8	0.736	
+1102
+AF-A0A2S0XBM8-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp.	1.00	79.6	0.736	
+1108
+AF-B9TVQ7-F1-model_v4	Nitrogenase Fe protein	Rhizobium etli bv. mimosae	1.00	81.8	0.735	
+10108
+AF-A0A089N5T2-F1-model_v4	Dinitrogenase	uncultured bacterium	0.98	77.7	0.735	
+189
+AF-A0A4D5YIF0-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium mediterraneum	1.00	80.5	0.735	
+1108
+AF-A0A4D5YJH2-F1-model_v4	Nitrogenase reductase protein	Mesorhizobium sp.	1.00	81.4	0.735	
+1108
+AF-J9U833-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp. RITF1564	1.00	81.4	0.734	
+1108
+AF-A4UMR0-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp. USDA 3350	1.00	80.5	0.734	
+1108
+AF-F4ZQZ9-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium tropiciagri	1.00	78.7	0.733	
+1108
+AF-A0A0A0YY43-F1-model_v4	Nitrogenase Fe protein	Mesorhizobium sp. CCBAU 03418	1.00	80.5	0.733	
+1108
+AF-A0A515KV11-F1-model_v4	Nitrogenase Fe protein	Ensifer aridi	1.00	79.5	0.733	
+11108
+AF-C7FF79-F1-model_v4	Nitrogenase reductase	Burkholderia sp. SWF66044	1.00	79.6	0.732	
+1108
+AF-F4ZZT1-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. CCNWSX0884	1.00	81.4	0.732	
+1108
+AF-A0A6B9QYR1-F1-model_v4	Dinitrogen reductase	Bradyrhizobium liaoningense	1.00	78.7	0.732	
+1108
+AF-Q6J4T0-F1-model_v4	NifH	Mesorhizobium sp. WSM1284	1.00	82.4	0.732	
+1108
+AF-H0TSN0-F1-model_v4	Fragment of nitrogenase iron protein, nifH dinitrogenase reductase (Part 1)	Bradyrhizobium sp. STM 3843	0.99	63.6	0.732	
+199
+AF-A0A0K1R1L9-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TUTCSA4A	1.00	78.7	0.731	
+1108
+AF-A0A125SUH4-F1-model_v4	Nitrogenase iron protein	Paraburkholderia phytofirmans	1.00	79.6	0.730	
+1108
+AF-A0A6B9LT86-F1-model_v4	Nitrogenase Fe protein	Ensifer sp.	1.00	83.3	0.730	
+1108
+AF-C3VN88-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. RPP20	1.00	79.6	0.730	
+1108
+AF-A0A0B7C5G4-F1-model_v4	NifH protein	uncultured bacterium	0.98	96.5	0.729	
+188
+AF-A0A678NW44-F1-model_v4	Dinitrogenase reductase	Bradyrhizobium sp. PZHK8	1.00	78.7	0.729	
+1108
+AF-B4YXY1-F1-model_v4	Nitrogenase reductase	Mesorhizobium tianshanense	1.00	80.5	0.729	
+1108
+AF-C8AUS0-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	0.84	72.8	0.729	
+170
+AF-A0A0P0JTR1-F1-model_v4	Nitrogenase	uncultured bacterium	0.98	75.5	0.729	
+189
+AF-A0A6G9HD16-F1-model_v4	Nitrogenase Fe protein	Ensifer sp.	1.00	80.5	0.729	
+1108
+AF-A0A0P0H8S8-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. TUTPVSA18	1.00	80.5	0.728	
+1108
+AF-C8AV15-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	0.84	71.4	0.728	
+170
+AF-A0A3S1MV81-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp. M6A.T.Ca.TU.002.02.2.1	1.00	81.4	0.728	
+1108
+AF-H9BB83-F1-model_v4	NifH	Mesorhizobium gobiense	1.00	81.4	0.727	
+1108
+AF-A0A2S0XBM5-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp.	1.00	79.6	0.727	
+1108
+AF-A0A2D3HJG7-F1-model_v4	NifH	Bradyrhizobium sp.	1.00	79.6	0.727	
+1108
+AF-V9XT38-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. CCBAU 51529	1.00	79.6	0.727	
+1108
+AF-V9XQ88-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium erythrophlei	1.00	78.7	0.727	
+1108
+AF-B9TVQ8-F1-model_v4	Nitrogenase Fe protein	Rhizobium etli bv. mimosae	0.99	81.4	0.727	
+12108
+AF-C8AVB9-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	0.84	71.4	0.727	
+170
+AF-A0A1H8VJI7-F1-model_v4	Nitrogenase iron protein NifH	Paenibacillus sophorae	1.00	81.4	0.726	
+1108
+AF-A0A5C1JP66-F1-model_v4	Nitrogenase	Bradyrhizobium ottawaense	1.00	78.7	0.726	
+1108
+AF-A0A1B5FZN4-F1-model_v4	Putative nitrogenase reductase	uncultured bacterium	0.93	74.3	0.726	
+178
+AF-D9I421-F1-model_v4	Nitrogenase reductase	Bradyrhizobium yuanmingense	1.00	78.7	0.726	
+1108
+AF-D0V0Y6-F1-model_v4	NifH	Bradyrhizobium japonicum	1.00	76.8	0.726	
+1108
+AF-A0A1L6C025-F1-model_v4	Nitrogenase reductase protein	Bradyrhizobium elkanii	1.00	79.6	0.725	
+1108
+AF-A0A4D6DK42-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp.	1.00	78.7	0.725	
+1108
+AF-G0ZEK6-F1-model_v4	Nitrogenase component II	Bradyrhizobium genosp. TUXTLAS-5	1.00	77.7	0.725	
+1108
+AF-D3Y4V7-F1-model_v4	Nitrogenase reductase	Bradyrhizobium elkanii	1.00	79.6	0.725	
+1108
+AF-C8AV08-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	0.84	72.8	0.725	
+170
+AF-A0A7S9ATM7-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp.	1.00	81.4	0.725	
+1108
+AF-A0A0H3YI54-F1-model_v4	Nitrogenase component II	Bradyrhizobium sp. TUTMCJ4B	1.00	79.6	0.725	
+1108
+AF-Q4PS38-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	74.1	0.725	
+188
+AF-Q4PS03-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.98	74.1	0.725	
+188
+AF-C8AVD0-F1-model_v4	Dinitrogenase reductase	uncultured Frankia sp.	0.84	70	0.724	
+170
+AF-A0A0B4R6X6-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	79.6	0.724	
+1108
+AF-B6S8B1-F1-model_v4	NifH	Mesorhizobium albiziae	1.00	80.6	0.724	
+11108
+AF-V9XVR3-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. CCBAU 53299	1.00	79.6	0.724	
+1108
+AF-C1J7F8-F1-model_v4	Nitrogenase component II	Bradyrhizobium algeriense	1.00	78.7	0.724	
+1108
+AF-A4UMQ9-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp. CIAM0210	1.00	78.7	0.724	
+1108
+AF-D7RGV2-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium elkanii	1.00	79.6	0.724	
+1108
+AF-F1CED8-F1-model_v4	NifH	Bradyrhizobium elkanii	1.00	79.6	0.724	
+1108
+AF-A0A088MRS5-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. WBOS3	1.00	75.7	0.723	
+2108
+AF-D0V0Y0-F1-model_v4	NifH	Bradyrhizobium canariense	1.00	78.7	0.723	
+1108
+AF-F1CEB7-F1-model_v4	NifH	Bradyrhizobium elkanii	1.00	79.6	0.723	
+1108
+AF-A0A0M4RAN4-F1-model_v4	Nitrogenase component II	Bradyrhizobium sp. TUTMP10.6	1.00	78.7	0.723	
+1108
+AF-A0A0P0KF62-F1-model_v4	Nitrogenase	uncultured bacterium	0.98	75	0.722	
+187
+AF-A0A0B4R6Y2-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	78.7	0.722	
+1108
+AF-F6L6Z5-F1-model_v4	Nitrogenase component II	Cyanothece sp. LCRNK_21	1.00	89.6	0.722	
+1106
+AF-Q70MS8-F1-model_v4	Nitrogenase component II	Dechloromonas sp. SIUL	1.00	83.4	0.722	
+1108
+AF-C9WM10-F1-model_v4	Nitrogenase iron protein	Mesorhizobium sp. ORS 3369	1.00	81.4	0.721	
+1108
+AF-Q5I7S5-F1-model_v4	Dinitrogenase reductase	Klebsiella pneumoniae	0.98	73.3	0.721	
+189
+AF-D7RGU2-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium sp. CCBAU 05631	1.00	79.6	0.721	
+1108
+AF-Q4H4B7-F1-model_v4	Iron protein of nitrogenase	Derxia gummosa	1.00	81.4	0.721	
+1108
+AF-A0A0B4R6M1-F1-model_v4	NifH	uncultured bacterium	1.00	78.7	0.721	
+1108
+AF-G9L6N9-F1-model_v4	Nitrogenase component II	Bradyrhizobium arachidis	1.00	78.7	0.721	
+1108
+AF-A0A0P0HXN7-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. TUTPVSA128	1.00	80.5	0.720	
+1108
+AF-A0A6M4MLR4-F1-model_v4	Nitrogenase Fe protein	Ensifer sp.	1.00	80.5	0.720	
+1108
+AF-B1A389-F1-model_v4	Nitrogenase reductase	Mesorhizobium silamurunense	1.00	81.4	0.719	
+1108
+AF-A0A1K1KSJ2-F1-model_v4	Nitrogenase component II	Bradyrhizobium sp. VUCR24	1.00	78.7	0.719	
+1108
+AF-V9V6Y9-F1-model_v4	Nitrogenase component II	Bradyrhizobium elkanii	1.00	78.7	0.719	
+1108
+AF-A0A1S5R4F4-F1-model_v4	NifH	Bradyrhizobium sp. Alb4-1-4	1.00	78.7	0.719	
+1108
+AF-V9VM44-F1-model_v4	Nitrogenase Fe protein	Ensifer sp. OD45	0.90	77	0.717	
+174
+AF-A0A6N2DS87-F1-model_v4	Nitrogenase reductase	Rhodospirillales bacterium	0.98	73.2	0.716	
+186
+AF-A0A0Y0AB40-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. UFLA 03-321	0.91	73.6	0.716	
+176
+AF-G0ZEJ9-F1-model_v4	Nitrogenase component II	Bradyrhizobium genosp. TUXTLAS-20	1.00	78.7	0.714	
+1108
+AF-A0A088MRM4-F1-model_v4	Nitrogenase component II	Bradyrhizobium sp. WBOS6	1.00	78.7	0.714	
+1108
+AF-C3UR96-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium meliloti	1.00	81.4	0.714	
+1108
+AF-A8VJ34-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	1.00	81.4	0.713	
+1108
+AF-A0A2Z5XY25-F1-model_v4	Nitrogenase component II	Bradyrhizobium sp.	1.00	80.5	0.713	
+1108
+AF-G0ZEL9-F1-model_v4	Nitrogenase component II	Bradyrhizobium genosp. TUXTLAS-31	1.00	78.7	0.712	
+1108
+AF-A0A0M1QEY0-F1-model_v4	Nitrogenase component II	Mesorhizobium sp. CCANP68	1.00	77.7	0.712	
+1108
+AF-A0A395CYV7-F1-model_v4	Nitrogenase reductase	Methylocystaceae bacterium	0.98	78.1	0.712	
+187
+AF-A0A411NJD7-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium sp.	1.00	81.4	0.711	
+1108
+AF-V5KYM2-F1-model_v4	Nitrogenase component II	Bradyrhizobium canariense	1.00	77.7	0.711	
+1108
+AF-A0A157SWP5-F1-model_v4	Genomic DNA	Pseudomonas plecoglossicida	0.93	72.1	0.710	
+178
+AF-A4GUU8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.95	38.5	0.710	
+1102
+AF-A0A0B6XKA7-F1-model_v4	Nitrogenase reductase	uncultured bacterium	0.99	90.7	0.705	
+196
+AF-A0A088MRS1-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. WBAH24	1.00	78.5	0.704	
+11108
+AF-W8NK89-F1-model_v4	Nitrogenase Fe protein	Sinorhizobium meliloti	1.00	81.4	0.703	
+1108
+AF-A0A0S1RLU8-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.95	67.5	0.702	
+179
+AF-S4TGW4-F1-model_v4	Nitrogenase Fe protein	Rhizobium aegyptiacum	0.99	81	0.702	
+14108
+AF-B3VMM6-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	1.00	80.5	0.701	
+1108
+AF-Q58P13-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. CCBAU 33220A	1.00	80.5	0.701	
+1108
+AF-A0A0K0LB04-F1-model_v4	Nitrogenase component II	uncultured Bradyrhizobium sp.	1.00	77.7	0.700	
+1108
+AF-A0A2P1D0A1-F1-model_v4	NifH	Bradyrhizobium sp.	0.95	73.4	0.699	
+179
+AF-A0A1J5PVH1-F1-model_v4	Nitrogenase component II	mine drainage metagenome	1.00	79.6	0.698	
+1108
+AF-A0A2J4PS97-F1-model_v4	Nitrogenase component II	Klebsiella michiganensis	1.00	77	0.697	
+1108
+AF-A0A2Z5EN59-F1-model_v4	Nitrogenase component II	uncultured bacterium	1.00	94.4	0.696	
+1108
+AF-C9WM05-F1-model_v4	Nitrogenase component II	Mesorhizobium plurifarium	1.00	81.4	0.696	
+1108
+AF-F6L6Z1-F1-model_v4	Nitrogenase component II	Nostoc sp. LCRNK_25	1.00	97	0.696	
+1103
+AF-C1JID2-F1-model_v4	Nitrogenase component II	Cupriavidus sp. SWF66166	1.00	79.6	0.695	
+1108
+AF-A0A0N7G2H7-F1-model_v4	Nitrogenase component II	Mesorhizobium loti	1.00	81.4	0.695	
+1108
+AF-G0LXN0-F1-model_v4	Nitrogenase Fe protein	Rhizobium leguminosarum	0.89	75.3	0.694	
+173
+AF-V9VJX1-F1-model_v4	NifH	Mesorhizobium sp. MM5376	0.89	72.6	0.692	
+173
+AF-C7DP87-F1-model_v4	Nitrogenase component II	Mesorhizobium amorphae	1.00	81.4	0.691	
+1108
+AF-Q9X7K8-F1-model_v4	Nitrogenase Fe protein	Neorhizobium galegae	1.00	80.5	0.689	
+1108
+AF-A0A1S6Q5P7-F1-model_v4	Nitrogenase iron protein	Enterobacter cloacae	0.87	75	0.682	
+172
+AF-A0A6I3SKA3-F1-model_v4	Nitrogenase iron protein	Heliobacterium mobile	1.00	81.6	0.681	
+1108
+AF-A0A218QUC5-F1-model_v4	Nitrogenase iron protein	Tolypothrix sp. NIES-4075	1.00	99	0.681	
+1108
+AF-A0A089LKG5-F1-model_v4	Nitrogenase iron protein	Paenibacillus borealis	1.00	80.5	0.680	
+1108
+AF-A0A526S5T1-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp.	1.00	78.8	0.677	
+5108
+AF-A0A6P0QAB9-F1-model_v4	Nitrogenase component II	Microcoleus sp. SIO2G3	0.97	84.2	0.676	
+185
+AF-A0A0F3IP62-F1-model_v4	Nitrogenase iron protein	Methylocucumis oryzae	1.00	77.9	0.676	
+1108
+AF-A0A2N6MDV7-F1-model_v4	Nitrogenase iron protein	Fischerella thermalis CCMEE 5330	1.00	98.1	0.675	
+1108
+AF-A0A0M4SKT7-F1-model_v4	Nitrogenase iron protein	Nostoc piscinale CENA21	1.00	97.2	0.675	
+1108
+AF-T2IZH7-F1-model_v4	Nitrogenase iron protein	Crocosphaera watsonii WH 0005	1.00	85.1	0.675	
+1108
+AF-A0A0C1NJ69-F1-model_v4	Nitrogenase iron protein	Tolypothrix bouteillei VB521301	1.00	99	0.675	
+1108
+AF-A0A1Z4R776-F1-model_v4	Nitrogenase iron protein	Calothrix sp. NIES-4101	1.00	98.1	0.675	
+1108
+AF-A0A0H1R528-F1-model_v4	Nitrogenase iron protein	Microvirga vignae	1.00	81.4	0.675	
+1108
+AF-X5U5W7-F1-model_v4	Nitrogenase iron protein	Mesorhizobium sp. LSHC426A00	1.00	80.5	0.674	
+1108
+AF-A0A7R7BK49-F1-model_v4	Nitrogenase iron protein	Mesorhizobium sp. 131-2-5	1.00	77.7	0.674	
+1108
+AF-A0A4V2V7S2-F1-model_v4	Nitrogenase iron protein	Rhizobium sullae	1.00	79.6	0.674	
+1108
+AF-A0A401JC01-F1-model_v4	Nitrogenase iron protein	Sulfuriferula multivorans	1.00	77.7	0.673	
+1108
+AF-F6L6Z0-F1-model_v4	Nitrogenase component II	Tolypothrix sp. LCRNK_26	1.00	98	0.673	
+1100
+AF-A0A318TK62-F1-model_v4	Nitrogenase iron protein	Rhodopseudomonas faecalis	1.00	79.6	0.673	
+1108
+AF-A0A1I4THJ6-F1-model_v4	Nitrogenase iron protein	Pleomorphomonas diazotrophica	1.00	81.4	0.673	
+1108
+AF-A0A1N7IL81-F1-model_v4	Nitrogenase iron protein	Insolitispirillum peregrinum	1.00	81.4	0.673	
+1108
+AF-A0A5A9GRR5-F1-model_v4	Nitrogenase iron protein	Azospirillum lipoferum	1.00	81.4	0.672	
+1108
+AF-A0A6C1SWQ0-F1-model_v4	Nitrogenase iron protein	Rhodospirillales bacterium	1.00	76.8	0.672	
+1108
+AF-A0A2K8N8F4-F1-model_v4	Nitrogenase iron protein	Kyrpidia spormannii	1.00	75.9	0.671	
+1108
+AF-G8B463-F1-model_v4	Dinitrogenase reductase	uncultured bacterium	0.85	70.2	0.670	
+275
+AF-D2KZU7-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TSA43	0.99	69.2	0.666	
+6108
+AF-F6L6Z2-F1-model_v4	Nitrogenase component II	Nostoc sp. LCRNK_24	0.99	79.7	0.661	
+199
+AF-A0A2C6TPK9-F1-model_v4	Nitrogenase iron protein	Nostoc linckia z16	1.00	93.5	0.660	
+1108
+AF-A0A841WQT9-F1-model_v4	Nitrogenase iron protein	Nostoc sp. 2RC	1.00	92.5	0.659	
+1108
+AF-A0A1S5R4G0-F1-model_v4	Nitrogenase Fe protein	Ensifer sp. X873B	0.99	81	0.658	
+14108
+AF-A0A2E7LVA9-F1-model_v4	Nitrogenase component II	Synechococcus sp. RS344	0.99	43.1	0.658	
+1108
+AF-Q0RAV4-F1-model_v4	Nitrogenase iron protein	Frankia alni ACN14a	1.00	78.7	0.656	
+1108
+AF-A0A0K1SC28-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. EHNEHU6	0.99	75.2	0.650	
+12108
+AF-F6L703-F1-model_v4	Nitrogenase component II	Calothrix sp. LCRNK_13	0.97	89.5	0.650	
+186
+AF-M9YW36-F1-model_v4	Nitrogenase reductase	Bradyrhizobium guangxiense	0.99	78.2	0.646	
+17108
+AF-A0A0K1R114-F1-model_v4	Nitrogenase reductase	Bradyrhizobium sp. TUTCG2.I	0.98	76	0.646	
+17108
+AF-A0A651ERP8-F1-model_v4	Ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein	Rhodobacteraceae bacterium	0.99	39.6	0.646	
+4108
+AF-A0A5B8LCY4-F1-model_v4	Nitrogenase Fe protein	Ensifer sp.	0.96	81.7	0.643	
+27108
+AF-A0A3D1PJP1-F1-model_v4	Nitrogenase component II	Cyanobacteria bacterium UBA11049	1.00	37.6	0.642	
+1108
+AF-A0A317MVN9-F1-model_v4	NifH/FrxC family 4Fe-4S iron sulfur cluster protein	Plasticicumulans acidivorans	0.89	80.8	0.636	
+173
+AF-A0A088MV75-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp. WBAH27	0.98	76.6	0.635	
+19108
+AF-F6L6Y9-F1-model_v4	Nitrogenase component II	Anabaena sp. LCRNK_27	0.99	88.6	0.627	
+197
+AF-A0A4D6DJV5-F1-model_v4	Nitrogenase Fe protein	Bradyrhizobium sp.	0.97	76.1	0.623	
+21108
+AF-A0A645DGT8-F1-model_v4	Nitrogenase iron protein 1	bioreactor metagenome	0.99	78.5	0.620	
+12108
+AF-F6L6Z4-F1-model_v4	Nitrogenase component II	Leptolyngbya sp. LCRNK_22	0.98	88.7	0.619	
+196
+AF-H6U2M2-F1-model_v4	Nitrogenase Fe protein	Rhizobium sp. FB2504	0.98	77.1	0.617	
+17108
+AF-F6L6Y7-F1-model_v4	Nitrogenase component II	Nostoc sp. LCRNK_29	0.98	97.7	0.611	
+190
+AF-A0A4Y6HT46-F1-model_v4	Nitrogenase Fe protein	Rhizobium binae	0.95	82.5	0.603	
+29108
+AF-F6L6Z8-F1-model_v4	Nitrogenase component II	Anabaena sp. LCRNK_18	0.99	85.7	0.586	
+198
+AF-A0A528I1G4-F1-model_v4	Nitrogenase reductase	Mesorhizobium sp.	0.97	80.4	0.566	
+22108
+AF-F6L6Y8-F1-model_v4	Nitrogenase component II	Anabaena sp. LCRNK_28	0.96	85.7	0.554	
+184
+AF-F6L6Y6-F1-model_v4	Nitrogenase component II	Nostoc sp. LCRNK_30	0.89	94.5	0.530	
+174

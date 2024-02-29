@@ -1,0 +1,1936 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR MATRIX-REMODELLING ASSOCIATED 5 (A0A0B4N201)
+AFDB50 965 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-A0A3B4WQV7-F1-model_v4	Uncharacterized protein	Seriola lalandi dorsalis	0.77	12.6	0.616	
+1219
+AF-A0A4Z2EWP6-F1-model_v4	Protein sidekick-1	Liparis tanakae	0.60	22.1	0.604	
+2204
+AF-A0A3Q2Z1S2-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.60	19.4	0.602	
+1210
+AF-A0A834HLH9-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.41	17.2	0.594	
+28205
+AF-A0A0N4WNF9-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.47	18.8	0.580	
+5207
+AF-A0A3Q2Z0E6-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.63	19	0.577	
+5214
+AF-A0A5J5DKX7-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.75	18.1	0.573	
+1222
+AF-A0A3Q3H2Z0-F1-model_v4	Ig-like domain-containing protein	Labrus bergylta	0.13	19	0.572	
+1110
+AF-A0A7N6BNN8-F1-model_v4	Uncharacterized protein	Anabas testudineus	0.72	17.7	0.571	
+8223
+AF-A0A834IC31-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.63	15.8	0.570	
+1217
+AF-A0A341AID4-F1-model_v4	fibroblast growth factor receptor 1-like	Neophocaena asiaeorientalis asiaeorientalis	0.09	16.3	0.561	
+10108
+AF-A0A6V7J750-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.51	14.5	0.560	
+1202
+AF-A0A6P7P3V5-F1-model_v4	coxsackievirus and adenovirus receptor homolog isoform X1	Betta splendens	0.77	11.6	0.559	
+9256
+AF-A0A060W533-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.33	15.9	0.553	
+17206
+AF-A0A6V7I7T4-F1-model_v4	Ig-like domain-containing protein	Bracon brevicornis	0.11	18.1	0.547	
+2109
+AF-A0A7K5AFQ2-F1-model_v4	HECAM protein	Centropus unirufus	0.63	11.7	0.543	
+8235
+AF-A0A183AGW1-F1-model_v4	Ig-like domain-containing protein	Echinostoma caproni	0.25	18.6	0.536	
+48206
+AF-A0A182YS39-F1-model_v4	Ig-like domain-containing protein	Anopheles stephensi	0.14	12.6	0.535	
+6195
+AF-A0A672U7A7-F1-model_v4	Uncharacterized protein	Strigops habroptila	0.51	16.5	0.535	
+16223
+AF-W5MZH0-F1-model_v4	Ig-like domain-containing protein	Lepisosteus oculatus	0.33	14.2	0.533	
+11200
+AF-A0A3Q3GG31-F1-model_v4	Ig-like domain-containing protein	Labrus bergylta	0.11	10.6	0.521	
+10169
+AF-A0A2L2YND7-F1-model_v4	Papilin	Parasteatoda tepidariorum	0.11	19.5	0.520	
+12135
+AF-A0A3Q2FQE2-F1-model_v4	Ig-like domain-containing protein	Cyprinodon variegatus	0.51	12.5	0.514	
+2221
+AF-A0A834HQI0-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.41	15.2	0.513	
+5217
+AF-A0A5J5DQC4-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.69	13.1	0.511	
+11227
+AF-A0A183PDY1-F1-model_v4	Ig-like domain-containing protein	Schistosoma mattheei	0.11	8.9	0.511	
+20191
+AF-A0A4Z2F7Z6-F1-model_v4	Hemicentin-1	Liparis tanakae	0.51	14.7	0.511	
+13228
+AF-A0A3Q2YDF9-F1-model_v4	Ig-like domain-containing protein	Hippocampus comes	0.13	19.3	0.510	
+6119
+AF-A0A6G0T5T1-F1-model_v4	Ig-like domain-containing protein	Aphis glycines	0.30	11.1	0.509	
+5250
+AF-A0A411DW75-F1-model_v4	Myh_smooth_muscle-like protein	Parasacculina yatsui	0.15	9.7	0.506	
+1200
+AF-A0A7L3X9Q3-F1-model_v4	CNTN5 protein	Calonectris borealis	0.20	14.1	0.504	
+6180
+AF-A0A3Q3GC04-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.75	15.7	0.500	
+1218
+AF-A0A4Y2KMK6-F1-model_v4	Ig-like domain-containing protein	Araneus ventricosus	0.13	13	0.500	
+8204
+AF-A0A183Q258-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.25	10.3	0.498	
+1183
+AF-A0A8A6VP45-F1-model_v4	Matrix-remodelling associated protein 5	Paroedura neglecta	0.23	37	0.498	
+19266
+AF-A0A3P6UZH4-F1-model_v4	Uncharacterized protein	Litomosoides sigmodontis	0.69	14	0.494	
+2228
+AF-A0A6P6NN38-F1-model_v4	roundabout homolog 2-like	Carassius auratus	0.51	14.4	0.494	
+4218
+AF-A0A3Q3Q8D8-F1-model_v4	Coxsackievirus and adenovirus receptor homolog	Monopterus albus	0.51	13.3	0.494	
+7214
+AF-A0A668U760-F1-model_v4	Ig-like domain-containing protein	Oreochromis aureus	0.11	10.8	0.493	
+7192
+AF-A0A7R8UTQ3-F1-model_v4	Hypothetical protein	Hermetia illucens	0.60	11.9	0.493	
+2211
+AF-A0A060W4N1-F1-model_v4	Ig-like domain-containing protein	Oncorhynchus mykiss	0.11	20	0.493	
+8109
+AF-A0A3Q3GRH1-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.60	15.8	0.488	
+2220
+AF-A0A0N4WWA6-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.21	7.6	0.486	
+1146
+AF-A0A2L2YL50-F1-model_v4	Putative contactin 5	Parasteatoda tepidariorum	0.12	16.5	0.485	
+86225
+AF-A0A3Q3GHH5-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.41	6.5	0.485	
+1250
+AF-A0A3P9BLC5-F1-model_v4	Uncharacterized protein	Maylandia zebra	0.54	14.7	0.484	
+6221
+AF-A0A4C1T6P1-F1-model_v4	Twitchin	Eumeta japonica	0.38	5.9	0.483	
+1252
+AF-A0A0C2GHW2-F1-model_v4	Immunoglobulin I-set domain protein	Ancylostoma duodenale	0.11	4.7	0.482	
+5266
+AF-A0A5E4R4W5-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.75	15.4	0.482	
+1215
+AF-A0A7Y3MY94-F1-model_v4	BIG2 domain-containing protein	Gemmatimonadetes bacterium	0.38	10.1	0.480	
+1214
+AF-A0A6P4GQZ1-F1-model_v4	igLON family member 5 isoform X1	Drosophila takahashii	0.63	14.7	0.479	
+1217
+AF-M1EBW0-F1-model_v4	ADAMTS-like 3	Mustela putorius furo	0.14	6	0.479	
+6175
+AF-A0A819FMT0-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.23	9	0.479	
+57218
+AF-A0A3Q3DIF8-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.35	10.8	0.479	
+1206
+AF-A0A3S5FC78-F1-model_v4	Ig-like domain-containing protein	Protopolystoma xenopodis	0.20	10.1	0.478	
+6207
+AF-A0A060WE61-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.23	8.1	0.478	
+7217
+AF-A0A3Q2YX92-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.38	5.7	0.478	
+1242
+AF-A0A7M7P0K4-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.60	13	0.478	
+1207
+AF-A0A1W0WDR5-F1-model_v4	Lachesin	Hypsibius dujardini	0.54	13.9	0.476	
+1221
+AF-G9L0N2-F1-model_v4	GDP-mannose pyrophosphorylase B isoform 2	Mustela putorius furo	0.13	11.2	0.475	
+16218
+AF-A0A1A9YC36-F1-model_v4	Uncharacterized protein	Glossina fuscipes fuscipes	0.54	10.1	0.475	
+1228
+AF-A0A4C1SCV1-F1-model_v4	Down syndrome cell adhesion molecule-like protein Dscam2	Eumeta japonica	0.18	6.9	0.475	
+5216
+AF-A0A1L8G3I4-F1-model_v4	Ig-like domain-containing protein	Xenopus laevis	0.12	14.5	0.474	
+11143
+AF-A0A673NF14-F1-model_v4	Uncharacterized protein	Sinocyclocheilus rhinocerous	0.23	11.8	0.474	
+25214
+AF-M1EQT1-F1-model_v4	Fibroblast growth factor receptor-like 1	Mustela putorius furo	0.12	11.9	0.472	
+4168
+AF-A0A1A8CGG5-F1-model_v4	Myomesin 2	Nothobranchius kadleci	0.09	10.4	0.471	
+24154
+AF-A0A3Q3GI96-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.75	12.9	0.471	
+1223
+AF-A0A3Q2Z5G0-F1-model_v4	Contactin-3-like	Hippocampus comes	0.28	5.8	0.470	
+1250
+AF-A0A1L8FN77-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.38	9.7	0.469	
+14218
+AF-A0A6P7PPC1-F1-model_v4	opioid-binding protein/cell adhesion molecule homolog isoform X10	Betta splendens	0.44	18.9	0.469	
+16217
+AF-A0A803SLA7-F1-model_v4	Neurotrimin	Anolis carolinensis	0.44	12.8	0.469	
+12217
+AF-G1R1M9-F1-model_v4	Uncharacterized protein	Nomascus leucogenys	0.47	14.5	0.468	
+9218
+AF-A0A4Y2K5K7-F1-model_v4	Down syndrome cell adhesion molecule	Araneus ventricosus	0.69	9.9	0.468	
+1228
+AF-A0A5N3ULI2-F1-model_v4	IGv domain-containing protein	Muntiacus muntjak	0.10	11.6	0.468	
+13116
+AF-A0A5N3UN68-F1-model_v4	IG domain-containing protein	Muntiacus muntjak	0.11	13	0.468	
+13119
+AF-A0A7R9EU72-F1-model_v4	Hypothetical protein	Timema bartmani	0.14	10	0.467	
+8208
+AF-A0A534IJA6-F1-model_v4	Uncharacterized protein	Gammaproteobacteria bacterium	0.16	10.2	0.467	
+11174
+AF-A0A7R9F0D8-F1-model_v4	Hypothetical protein	Timema bartmani	0.38	9.5	0.467	
+7230
+AF-A0A7J7BSS1-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.57	10.4	0.466	
+5211
+AF-A0A3Q3GZ54-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.60	13.1	0.466	
+1216
+AF-A0A1B0CN08-F1-model_v4	Putative opioid-binding protein/cell adhesion molecule	Lutzomyia longipalpis	0.63	7.7	0.466	
+1229
+AF-A0A0V1I3M0-F1-model_v4	Netrin receptor UNC5A	Trichinella zimbabwensis	0.44	13.4	0.466	
+16209
+AF-A0A3Q3GYW8-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.38	8.7	0.466	
+8217
+AF-A0A1L8FN79-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.57	12.2	0.465	
+13220
+AF-A0A1W0WMZ1-F1-model_v4	Putative Lachesin	Hypsibius dujardini	0.60	7.7	0.464	
+2269
+AF-A0A3Q2FHW9-F1-model_v4	Uncharacterized protein	Cyprinodon variegatus	0.77	6.9	0.464	
+1223
+AF-A0A183J5R6-F1-model_v4	Ig-like domain-containing protein	Soboliphyme baturini	0.15	10.5	0.464	
+1141
+AF-A0A834HUS6-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.54	14.2	0.463	
+7218
+AF-A0A142FHS8-F1-model_v4	Platelet Derived Growth Factor	Maylandia zebra	0.30	10.7	0.462	
+11212
+AF-A0A672U665-F1-model_v4	Uncharacterized protein	Strigops habroptila	0.69	11.6	0.462	
+1225
+AF-A0A3Q3QSG5-F1-model_v4	Cell adhesion molecule 4	Monopterus albus	0.54	12.2	0.461	
+5220
+AF-A0A3Q3GI02-F1-model_v4	Ig-like domain-containing protein	Labrus bergylta	0.12	15.1	0.461	
+5117
+AF-A0A7R8UQC5-F1-model_v4	Hypothetical protein	Hermetia illucens	0.41	9.2	0.461	
+6207
+AF-A0A2K6FSX6-F1-model_v4	CXADR Ig-like cell adhesion molecule	Propithecus coquereli	0.15	10.3	0.461	
+12160
+AF-A0A803SVA8-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.13	5.8	0.460	
+41226
+AF-A0A6P7LI06-F1-model_v4	myelin-oligodendrocyte glycoprotein-like	Betta splendens	0.16	12.3	0.460	
+59227
+AF-A0A819GKL0-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.57	15.5	0.460	
+1216
+AF-A0A3Q2Z2T7-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.28	8.1	0.460	
+10228
+AF-A0A1L8FGW3-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.57	11.4	0.459	
+13220
+AF-A0A3P9B1Y3-F1-model_v4	Neural cell adhesion molecule 1	Maylandia zebra	0.57	16.7	0.459	
+1215
+AF-A0A6P6MYU6-F1-model_v4	neurotrimin-like isoform X4	Carassius auratus	0.44	18.3	0.458	
+12218
+AF-A0A668UX01-F1-model_v4	Ig-like domain-containing protein	Oreochromis aureus	0.16	13.9	0.458	
+9171
+AF-A0A7M7G429-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.60	10.5	0.458	
+1211
+AF-A0A3Q2FUD0-F1-model_v4	Uncharacterized protein	Cyprinodon variegatus	0.47	14.4	0.457	
+8217
+AF-A0A7J7BNJ2-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.60	11.5	0.456	
+1220
+AF-A0A3Q3FR76-F1-model_v4	Uncharacterized protein	Kryptolebias marmoratus	0.35	12.1	0.456	
+9230
+AF-A0A7G3APB2-F1-model_v4	Putative lachesin	Lutzomyia longipalpis	0.44	9.2	0.456	
+2221
+AF-A0A6J0BQJ1-F1-model_v4	lachesin-like	Neodiprion lecontei	0.63	7.1	0.456	
+3279
+AF-A0A0N4WSM1-F1-model_v4	Ig-like domain-containing protein	Haemonchus placei	0.13	5.3	0.455	
+6190
+AF-A0A6P6NGR8-F1-model_v4	protein sidekick-1-like	Carassius auratus	0.63	8.6	0.455	
+1244
+AF-A0A182N218-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.54	6.9	0.454	
+7270
+AF-A0A1A8D007-F1-model_v4	Neuronal cell adhesion molecule	Nothobranchius kadleci	0.63	13.6	0.454	
+3210
+AF-A0A803SYW7-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.72	10.3	0.453	
+1224
+AF-U3IYG8-F1-model_v4	Hepatic and glial cell adhesion molecule	Anas platyrhynchos platyrhynchos	0.51	12	0.453	
+4216
+AF-A0A7N6BGJ2-F1-model_v4	Uncharacterized protein	Anabas testudineus	0.33	11.7	0.453	
+3212
+AF-A0A6A4TMK4-F1-model_v4	Uncharacterized protein	Scophthalmus maximus	0.47	9	0.452	
+4268
+AF-M1ERI5-F1-model_v4	Fibroblast growth factor receptor 3	Mustela putorius furo	0.13	11.4	0.451	
+16188
+AF-A0A1W0WDX0-F1-model_v4	Putative Neural cell adhesion molecule 1	Hypsibius dujardini	0.60	11.2	0.451	
+11220
+AF-A0A2M4B4C2-F1-model_v4	Putative neural cell adhesion molecule l1	Anopheles triannulatus	0.15	7	0.451	
+1196
+AF-A0A6G0TH66-F1-model_v4	Uncharacterized protein	Aphis glycines	0.51	11	0.450	
+14210
+AF-A0A6P6MBM1-F1-model_v4	uncharacterized protein LOC113066413	Carassius auratus	0.72	7.6	0.450	
+1223
+AF-A0A2K6FGU8-F1-model_v4	Roundabout homolog 2-like	Propithecus coquereli	0.66	12.8	0.450	
+5223
+AF-A0A6J0BP31-F1-model_v4	uncharacterized protein LOC107221521	Neodiprion lecontei	0.35	11.1	0.449	
+8204
+AF-A0A7R8UYT4-F1-model_v4	Hypothetical protein	Hermetia illucens	0.14	10.3	0.449	
+9132
+AF-A0A067R5S2-F1-model_v4	Lachesin	Zootermopsis nevadensis	0.57	6.8	0.449	
+3270
+AF-A0A3Q3GCX7-F1-model_v4	Roundabout homolog 2-like	Labrus bergylta	0.51	14.9	0.449	
+5219
+AF-A0A6P7P8A7-F1-model_v4	limbic system-associated membrane protein isoform X1	Betta splendens	0.47	17	0.449	
+14217
+AF-A0A1F8MQL1-F1-model_v4	Uncharacterized protein	Chloroflexi bacterium RBG_13_51_52	0.35	4	0.448	
+6268
+AF-A0A2I2UMJ9-F1-model_v4	Opioid binding protein/cell adhesion molecule like	Felis catus	0.47	13.2	0.447	
+8217
+AF-A0A7R8V4P4-F1-model_v4	Hypothetical protein	Hermetia illucens	0.35	12.6	0.445	
+1214
+AF-A0A085NCJ3-F1-model_v4	Uncharacterized protein	Trichuris suis	0.51	13.3	0.445	
+20219
+AF-A0A1B0CW35-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.54	9.1	0.445	
+1248
+AF-A0A4Y2KID2-F1-model_v4	Twitchin	Araneus ventricosus	0.13	6.6	0.444	
+14208
+AF-A0A1L8FHP6-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.47	11.2	0.444	
+12210
+AF-A0A0A1X7L8-F1-model_v4	Neural cell adhesion molecule 2	Zeugodacus cucurbitae	0.44	8.1	0.444	
+2267
+AF-A0A0C2GKN5-F1-model_v4	Immunoglobulin I-set domain protein	Ancylostoma duodenale	0.77	8.8	0.444	
+2267
+AF-A0A3B4WNE7-F1-model_v4	Uncharacterized protein	Seriola lalandi dorsalis	0.63	15.8	0.444	
+1207
+AF-A0A6P7KV87-F1-model_v4	cell adhesion molecule 4 isoform X3	Betta splendens	0.54	7.6	0.443	
+8265
+AF-A0A6V7I096-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.18	7.9	0.443	
+7206
+AF-A0A2V9G1D4-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.63	7.2	0.443	
+1223
+AF-A0A851QKK1-F1-model_v4	ICAM5 protein	Anhinga anhinga	0.30	11.3	0.443	
+12219
+AF-A0A6P4J1P8-F1-model_v4	uncharacterized protein LOC108083530	Drosophila kikkawai	0.11	7.6	0.443	
+15172
+AF-A0A3Q3KWQ8-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.33	8.3	0.442	
+13223
+AF-A0A0C2H316-F1-model_v4	Immunoglobulin I-set domain protein	Ancylostoma duodenale	0.23	7.4	0.442	
+29250
+AF-A0A085NNE4-F1-model_v4	Ig-like domain-containing protein	Trichuris suis	0.09	9.1	0.442	
+10175
+AF-A0A6J3ATI5-F1-model_v4	OX-2 membrane glycoprotein isoform X3	Vicugna pacos	0.35	10.6	0.442	
+11205
+AF-A0A7M7HDP0-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.54	7.8	0.441	
+10268
+AF-A0A493T4M1-F1-model_v4	Endothelial cell adhesion molecule	Anas platyrhynchos platyrhynchos	0.54	15.3	0.441	
+3243
+AF-A0A7N6B6L9-F1-model_v4	Uncharacterized protein	Anabas testudineus	0.15	16.4	0.441	
+4138
+AF-A0A1W0WMF7-F1-model_v4	Uncharacterized protein	Hypsibius dujardini	0.33	12.4	0.440	
+16212
+AF-A0A0K8WD47-F1-model_v4	Fasciclin-2	Bactrocera latifrons	0.84	6	0.439	
+3275
+AF-A0A485MNJ4-F1-model_v4	Tyrosine-protein kinase	Lynx pardinus	0.14	9.9	0.439	
+5190
+AF-A0A803T4Y6-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.41	15.5	0.439	
+6208
+AF-A0A815VBS4-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.12	16.2	0.438	
+11123
+AF-G7NVA9-F1-model_v4	Uncharacterized protein	Macaca fascicularis	0.51	7.6	0.438	
+1279
+AF-A0A834HWN7-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.51	10.5	0.438	
+5213
+AF-A0A672TDZ6-F1-model_v4	Interleukin 1 receptor type 1	Strigops habroptila	0.12	8.6	0.438	
+10158
+AF-A0A7L2MGJ3-F1-model_v4	NCAM1 protein	Rhadina sibilatrix	0.77	16.4	0.438	
+1221
+AF-A0A1D1UFV7-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.84	5.3	0.437	
+1251
+AF-A0A3B4WSR5-F1-model_v4	Neuronal growth regulator 1	Seriola lalandi dorsalis	0.47	16	0.437	
+13218
+AF-A0A818X4R7-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.38	8.6	0.437	
+9245
+AF-A0A3Q3GIB8-F1-model_v4	Cell adhesion molecule 1-like	Kryptolebias marmoratus	0.44	6.7	0.436	
+31275
+AF-A0A6P6NLL8-F1-model_v4	igLON family member 5-like	Carassius auratus	0.44	15.3	0.436	
+12218
+AF-A0A3Q3GCP0-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.38	10.8	0.435	
+16209
+AF-A0A6B0V819-F1-model_v4	Putative down syndrome cell adhesion molecule	Ixodes ricinus	0.30	9.8	0.435	
+11227
+AF-A0A6V7I3Y5-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.21	11.8	0.434	
+11210
+AF-A0A172X184-F1-model_v4	Uncharacterized protein	Leifsonia xyli	0.16	2.7	0.434	
+38221
+AF-A0A6P6NCB7-F1-model_v4	carcinoembryonic antigen-related cell adhesion molecule 2-like	Carassius auratus	0.25	10.4	0.434	
+17222
+AF-A0A4Y2KLB7-F1-model_v4	Ig-like domain-containing protein	Araneus ventricosus	0.11	16.9	0.434	
+4121
+AF-A0A359F9W1-F1-model_v4	Uncharacterized protein	Propionibacteriaceae bacterium	0.54	3.6	0.434	
+1279
+AF-A0A6J0BDR0-F1-model_v4	lachesin-like	Neodiprion lecontei	0.47	9.3	0.433	
+6217
+AF-W5MSQ4-F1-model_v4	Ig-like domain-containing protein	Lepisosteus oculatus	0.16	7.6	0.433	
+11214
+AF-A0A672U9T9-F1-model_v4	Uncharacterized protein	Strigops habroptila	0.69	11.3	0.433	
+1222
+AF-A0A7N4PRC3-F1-model_v4	Neurotrimin	Sarcophilus harrisii	0.35	13.2	0.433	
+16218
+AF-A0A3Q2YFE1-F1-model_v4	IG domain-containing protein	Hippocampus comes	0.10	9.8	0.433	
+59213
+AF-A0A7N5P6P7-F1-model_v4	Kirre like nephrin family adhesion molecule 1	Ailuropoda melanoleuca	0.63	11.7	0.432	
+1217
+AF-A0A3Q3GIG3-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.25	8.6	0.431	
+27221
+AF-A0A6E8W5C5-F1-model_v4	Ig-like domain-containing protein	Anopheles coluzzii	0.13	13.8	0.431	
+51206
+AF-A0A819G1W3-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.12	11.2	0.431	
+3119
+AF-A0A5E4R0P3-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.38	8.4	0.431	
+1264
+AF-B4NP19-F1-model_v4	Uncharacterized protein	Drosophila willistoni	0.54	10.8	0.431	
+1213
+AF-A0A183J0S0-F1-model_v4	Ig-like domain-containing protein	Soboliphyme baturini	0.15	8.8	0.430	
+6194
+AF-A0A060VQR2-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.54	7.9	0.429	
+1248
+AF-A0A1W0WDU5-F1-model_v4	Fasciclin-2	Hypsibius dujardini	0.82	5.4	0.429	
+1254
+AF-A0A803T538-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.15	7.1	0.429	
+1218
+AF-A0A060WI45-F1-model_v4	Ig-like domain-containing protein	Oncorhynchus mykiss	0.12	12.8	0.429	
+115247
+AF-A0A673NML9-F1-model_v4	Neural cell adhesion molecule 1-like	Sinocyclocheilus rhinocerous	0.82	4.7	0.427	
+1266
+AF-W5MTA7-F1-model_v4	T cell immunoglobulin and mucin domain containing 4	Lepisosteus oculatus	0.18	6.1	0.427	
+16279
+AF-A0A3Q2EES8-F1-model_v4	Matrix-remodeling-associated protein 5-like	Cyprinodon variegatus	0.23	12.2	0.427	
+7204
+AF-A0A3Q2Z0D5-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.21	10	0.427	
+1205
+AF-A0A5E4QK95-F1-model_v4	Ig-like domain-containing protein	Leptidea sinapis	0.10	14.8	0.426	
+111214
+AF-A0A183IB35-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.51	9.2	0.426	
+2249
+AF-A0A6P6NYS9-F1-model_v4	hemicentin-1-like isoform X2	Carassius auratus	0.51	9.2	0.426	
+1279
+AF-A0A3Q2GDU4-F1-model_v4	Neural cell adhesion molecule 1-like	Cyprinodon variegatus	0.82	7.6	0.426	
+1241
+AF-W5MZ70-F1-model_v4	Neural cell adhesion molecule 2	Lepisosteus oculatus	0.80	6.4	0.425	
+1253
+AF-A0A3B4WAB3-F1-model_v4	Nectin-3-like protein	Seriola lalandi dorsalis	0.57	6.2	0.425	
+9279
+AF-A0A3B4WNS5-F1-model_v4	Uncharacterized protein	Seriola lalandi dorsalis	0.28	7.9	0.425	
+1219
+AF-A0A673NL02-F1-model_v4	Uncharacterized protein	Sinocyclocheilus rhinocerous	0.25	8.4	0.425	
+24222
+AF-A0A7M7GEW9-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.35	12	0.425	
+6220
+AF-A0A673N6G0-F1-model_v4	Uncharacterized protein	Sinocyclocheilus rhinocerous	0.21	16.1	0.425	
+1174
+AF-A0A3Q3D1K9-F1-model_v4	IG domain-containing protein	Hippocampus comes	0.10	10.6	0.425	
+13117
+AF-A0A6P7KXR1-F1-model_v4	cell adhesion molecule 4 isoform X1	Betta splendens	0.54	12.4	0.425	
+4221
+AF-A0A813ZNH1-F1-model_v4	Hypothetical protein	Rotaria sordida	0.38	13.4	0.424	
+16219
+AF-A0A5J5DPZ6-F1-model_v4	Ig-like domain-containing protein	Etheostoma spectabile	0.12	13.4	0.424	
+6165
+AF-A0A3Q3D8T2-F1-model_v4	Roundabout guidance receptor 3	Hippocampus comes	0.57	10.9	0.424	
+1215
+AF-A0A3S5BEP8-F1-model_v4	Uncharacterized protein	Protopolystoma xenopodis	0.54	9.8	0.424	
+1222
+AF-A0A6P4GPP5-F1-model_v4	uncharacterized protein LOC108062690 isoform X2	Drosophila takahashii	0.35	10.7	0.423	
+9208
+AF-W5N1H2-F1-model_v4	Ig-like domain-containing protein	Lepisosteus oculatus	0.12	3.3	0.423	
+12279
+AF-A0A7K6YUK7-F1-model_v4	HAVR1 protein	Alca torda	0.16	12.5	0.423	
+113248
+AF-A0A821YSQ0-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.14	6	0.423	
+3197
+AF-A0A819FCT2-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.54	7.7	0.423	
+1210
+AF-A0A6J0ALR3-F1-model_v4	cell adhesion molecule 1	Vicugna pacos	0.57	8.7	0.423	
+11251
+AF-A0A315VZ21-F1-model_v4	Uncharacterized protein	Gambusia affinis	0.25	6.7	0.423	
+23250
+AF-A0A5N3UTI6-F1-model_v4	Ig-like domain-containing protein	Muntiacus muntjak	0.30	10.8	0.422	
+18205
+AF-A0A3P9BHS0-F1-model_v4	Ig-like domain-containing protein	Maylandia zebra	0.14	7.1	0.422	
+9188
+AF-A0A833SG19-F1-model_v4	Uncharacterized protein	Cervus hanglu yarkandensis	0.16	7.9	0.422	
+1193
+AF-A0A4C1XE08-F1-model_v4	Cell adhesion molecule 3	Eumeta japonica	0.20	11	0.422	
+13219
+AF-A0A6H5J4L0-F1-model_v4	Uncharacterized protein	Trichogramma brassicae	0.35	5.8	0.421	
+6279
+AF-A0A1W0WMT8-F1-model_v4	Putative Lachesin	Hypsibius dujardini	0.41	13.2	0.421	
+8218
+AF-A0A7R8UY33-F1-model_v4	Hypothetical protein	Hermetia illucens	0.13	6.4	0.421	
+1275
+AF-D2GUW5-F1-model_v4	Uncharacterized protein	Ailuropoda melanoleuca	0.15	10.9	0.421	
+22212
+AF-A0A4C1SDF1-F1-model_v4	Down syndrome cell adhesion molecule-like protein Dscam2	Eumeta japonica	0.66	11	0.421	
+1212
+AF-A0A182NQK4-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.54	6.8	0.420	
+1260
+AF-A0A3P9BFQ4-F1-model_v4	Uncharacterized protein	Maylandia zebra	0.10	5.9	0.420	
+114261
+AF-A0A803TD54-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.11	5.6	0.420	
+12204
+AF-A0A0C2GQ85-F1-model_v4	Immunoglobulin I-set domain protein	Ancylostoma duodenale	0.77	12.9	0.420	
+1224
+AF-A0A337S6K3-F1-model_v4	Fibroblast growth factor receptor 1	Felis catus	0.18	9.8	0.419	
+3209
+AF-W5N1G3-F1-model_v4	CMRF35-like molecule 5	Lepisosteus oculatus	0.13	4.9	0.419	
+11279
+AF-A0A673NGP2-F1-model_v4	Uncharacterized protein	Sinocyclocheilus rhinocerous	0.28	6.4	0.419	
+24253
+AF-A0A673NJA5-F1-model_v4	Neural cell adhesion molecule 1-like	Sinocyclocheilus rhinocerous	0.82	5.5	0.419	
+1272
+AF-A0A1L8FGY0-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.10	6.7	0.418	
+11258
+AF-A0A673NH67-F1-model_v4	Uncharacterized protein	Sinocyclocheilus rhinocerous	0.20	10	0.418	
+13253
+AF-A0A224YM70-F1-model_v4	Contactin 5	Rhipicephalus zambeziensis	0.66	13.7	0.417	
+9219
+AF-A0A060WEL0-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.35	12.2	0.417	
+1209
+AF-A0A6P6NBD7-F1-model_v4	uncharacterized protein LOC113077319 isoform X1	Carassius auratus	0.23	12	0.417	
+15224
+AF-A0A6J0B7D3-F1-model_v4	neuroglian-like	Neodiprion lecontei	0.60	8.5	0.417	
+8238
+AF-A0A3M0KWK2-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.51	4.6	0.417	
+7279
+AF-A0A3B4WTZ8-F1-model_v4	Uncharacterized protein	Seriola lalandi dorsalis	0.28	16	0.417	
+21208
+AF-A0A834KZA6-F1-model_v4	Myomesin-1	Oryzias melastigma	0.16	7.8	0.416	
+31214
+AF-A0A2L2YS38-F1-model_v4	Interference hedgehog	Parasteatoda tepidariorum	0.23	10.1	0.415	
+8203
+AF-A0A7N6BKH5-F1-model_v4	Ig-like domain-containing protein	Anabas testudineus	0.14	6.8	0.415	
+48256
+AF-A0A3P9A2A6-F1-model_v4	IG domain-containing protein	Esox lucius	0.12	11.3	0.415	
+115224
+AF-A0A4Z2EY09-F1-model_v4	Tapasin	Liparis tanakae	0.44	5.3	0.414	
+4222
+AF-A0A7M7ISD2-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.47	12.2	0.414	
+1212
+AF-A0A0A1WVN9-F1-model_v4	Lachesin	Zeugodacus cucurbitae	0.51	12	0.414	
+1218
+AF-A0A2K6AEK3-F1-model_v4	Ig-like domain-containing protein	Mandrillus leucophaeus	0.13	9.2	0.414	
+37208
+AF-A0A803SMK3-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.12	11.9	0.414	
+118223
+AF-A0A1B0CB18-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.15	8.3	0.414	
+4133
+AF-A0A4C1X8X3-F1-model_v4	Down syndrome cell adhesion molecule-like protein Dscam2	Eumeta japonica	0.47	9.5	0.414	
+4216
+AF-A0A7N4UYQ9-F1-model_v4	Cell adhesion molecule 2	Sarcophilus harrisii	0.41	9.9	0.413	
+12218
+AF-A0A4C1X989-F1-model_v4	Roundabout homolog 2	Eumeta japonica	0.25	9.2	0.413	
+11220
+AF-A0A6G1PZB0-F1-model_v4	Neogenin	Channa argus	0.63	5.4	0.412	
+1276
+AF-A0A671URT7-F1-model_v4	Kin of IRRE-like protein 1	Sparus aurata	0.57	15.3	0.412	
+4218
+AF-A0A7N4PH77-F1-model_v4	IgLON family member 5	Sarcophilus harrisii	0.35	9.8	0.412	
+27220
+AF-A0A6A4TI31-F1-model_v4	Uncharacterized protein	Scophthalmus maximus	0.47	18.3	0.412	
+5208
+AF-A0A834HUU8-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.18	7.5	0.412	
+4220
+AF-A0A3Q3GKL5-F1-model_v4	Ig-like domain-containing protein	Labrus bergylta	0.13	10.6	0.411	
+9192
+AF-A0A3Q3Q3G9-F1-model_v4	Sidekick cell adhesion molecule 1	Monopterus albus	0.21	8.1	0.411	
+1213
+AF-A0A6G0TJM7-F1-model_v4	Uncharacterized protein	Aphis glycines	0.28	12.7	0.411	
+44218
+AF-A0A7R9HY78-F1-model_v4	Hypothetical protein	Timema bartmani	0.44	8.9	0.410	
+11212
+AF-A0A5N3UVF2-F1-model_v4	Ig-like domain-containing protein	Muntiacus muntjak	0.14	6.4	0.410	
+11263
+AF-A0A060WBW8-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.60	14.1	0.410	
+8221
+AF-A0A3Q3E3Q2-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.63	14.8	0.409	
+1214
+AF-A0A6P4FPU6-F1-model_v4	uncharacterized protein LOC108054211	Drosophila takahashii	0.14	5.8	0.409	
+7237
+AF-A0A183P8Y8-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.63	9.6	0.409	
+4213
+AF-A0A6P6NC51-F1-model_v4	contactin-4-like	Carassius auratus	0.44	7.6	0.408	
+5279
+AF-A0A3M0KBX2-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.20	6.6	0.408	
+4219
+AF-A0A6P6MQW7-F1-model_v4	netrin receptor DCC-like	Carassius auratus	0.28	12.7	0.408	
+11206
+AF-A0A803T195-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.20	8.5	0.407	
+27212
+AF-G1QGP5-F1-model_v4	Receptor protein-tyrosine kinase	Nomascus leucogenys	0.44	8	0.407	
+4217
+AF-A0A815WFX0-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.12	11.9	0.407	
+119267
+AF-A0A493TG71-F1-model_v4	Neural cell adhesion molecule 2	Anas platyrhynchos platyrhynchos	0.75	5.6	0.406	
+4258
+AF-A0A1B0CP75-F1-model_v4	Putative muscle skeletal receptor tyrosine-protein kinase	Lutzomyia longipalpis	0.20	7.4	0.406	
+25228
+AF-A0A814KUE4-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	0.54	9.4	0.406	
+1209
+AF-A0A673NFI9-F1-model_v4	Uncharacterized protein	Sinocyclocheilus rhinocerous	0.47	10.2	0.405	
+1246
+AF-A0A6J1UG92-F1-model_v4	vascular cell adhesion protein 1	Notechis scutatus	0.38	8.6	0.405	
+1208
+AF-A0A1B0CTG9-F1-model_v4	Putative neural cell adhesion molecule l1	Lutzomyia longipalpis	0.72	9	0.405	
+1236
+AF-A0A2K6G561-F1-model_v4	Transmembrane and immunoglobulin domain containing 2	Propithecus coquereli	0.15	9.5	0.405	
+7182
+AF-A0A3P8ZYX4-F1-model_v4	Cell adhesion molecule 3	Esox lucius	0.60	5.2	0.405	
+8279
+AF-A0A6V7HZX1-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.38	7.3	0.405	
+1218
+AF-A0A6A4TN30-F1-model_v4	IGv domain-containing protein	Scophthalmus maximus	0.12	5.4	0.404	
+18209
+AF-A0A3M0KFH0-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.54	5.2	0.404	
+11279
+AF-A0A815WF38-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.12	9.5	0.403	
+1112
+AF-U3J0T2-F1-model_v4	Ig-like domain-containing protein	Anas platyrhynchos platyrhynchos	0.35	8.4	0.403	
+4210
+AF-A0A493SWX9-F1-model_v4	IG domain-containing protein	Anas platyrhynchos platyrhynchos	0.25	8.3	0.403	
+21253
+AF-A0A852J5J6-F1-model_v4	CNTN3 protein	Tricholaema leucomelas	0.63	14.2	0.402	
+5209
+AF-A0A7M7H9E5-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.33	6.3	0.402	
+1206
+AF-A0A1A9Y983-F1-model_v4	Uncharacterized protein	Glossina fuscipes fuscipes	0.18	8.6	0.402	
+13192
+AF-A0A3Q2FQT5-F1-model_v4	Uncharacterized protein	Cyprinodon variegatus	0.21	7.8	0.402	
+19226
+AF-G7PLI9-F1-model_v4	Uncharacterized protein	Macaca fascicularis	0.47	17.5	0.401	
+1215
+AF-A0A5N3V174-F1-model_v4	Uncharacterized protein	Muntiacus muntjak	0.41	6.4	0.401	
+1218
+AF-A0A3Q3GTA0-F1-model_v4	Ig-like domain-containing protein	Labrus bergylta	0.13	7.3	0.401	
+5209
+AF-A0A7M7P4I4-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.66	9.3	0.401	
+1225
+AF-A0A060WDK6-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.21	6.9	0.400	
+20220
+AF-A0A2L2YW19-F1-model_v4	Hemicentin-2	Parasteatoda tepidariorum	0.11	7.6	0.400	
+54218
+AF-A0A485MPV1-F1-model_v4	Low quality protein	Lynx pardinus	0.13	7.9	0.400	
+8214
+AF-A0A493T1F8-F1-model_v4	Ig-like domain-containing protein	Anas platyrhynchos platyrhynchos	0.14	9.7	0.399	
+1205
+AF-A0A7R9EWH9-F1-model_v4	Hypothetical protein	Timema bartmani	0.38	4.7	0.399	
+1241
+AF-A0A7M7NHM0-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.60	2.1	0.399	
+1275
+AF-A0A6P6MYP6-F1-model_v4	CMRF35-like molecule 1	Carassius auratus	0.10	16.2	0.398	
+20121
+AF-A0A6P6NF22-F1-model_v4	neural cell adhesion molecule L1-like protein	Carassius auratus	0.63	12.8	0.398	
+10224
+AF-A0A085N6Q3-F1-model_v4	Uncharacterized protein	Trichuris suis	0.60	18.6	0.397	
+1216
+AF-A0A1L8FGX5-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.12	13.5	0.397	
+109223
+AF-A0A3M0KCM3-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.54	6.2	0.396	
+16252
+AF-A0A834HX70-F1-model_v4	Uncharacterized protein	Rhynchophorus ferrugineus	0.12	14.1	0.396	
+7142
+AF-A0A5J5D5J7-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.35	9.1	0.396	
+1206
+AF-A0A3Q3GCI8-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.66	17.7	0.396	
+1215
+AF-X0TXP8-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.44	2	0.396	
+4258
+AF-A0A075RAC5-F1-model_v4	Transcriptional regulator ICP4	Brevibacillus laterosporus LMG 15441	0.25	3.9	0.395	
+9279
+AF-A0A821Z9S6-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.51	13	0.395	
+3207
+AF-A0A183IVG3-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.57	16.5	0.395	
+9217
+AF-A0A6P6N062-F1-model_v4	uncharacterized protein LOC113073287	Carassius auratus	0.15	7.9	0.395	
+16201
+AF-A0A0P4VF33-F1-model_v4	Putative neural cell adhesion molecule l1	Rhodnius neglectus	0.47	6.5	0.395	
+4278
+AF-A0A6P6NV21-F1-model_v4	uncharacterized protein LOC113091273	Carassius auratus	0.25	8.8	0.394	
+26222
+AF-A0A3Q3QN52-F1-model_v4	Netrin receptor UNC5C-like	Monopterus albus	0.21	8.3	0.394	
+9206
+AF-A0A3M0L5A2-F1-model_v4	Ig-like domain-containing protein	Hirundo rustica rustica	0.21	8.5	0.394	
+1208
+AF-A0A224YNN0-F1-model_v4	Down syndrome cell adhesion molecule-like protein 1	Rhipicephalus zambeziensis	0.69	7.6	0.394	
+1231
+AF-A0A5S3XI86-F1-model_v4	Uncharacterized protein	Pseudoalteromonas sp. S1688	0.30	6.2	0.394	
+7220
+AF-A0A818ZBI4-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.21	7.4	0.394	
+1207
+AF-G7PBT8-F1-model_v4	Uncharacterized protein	Macaca fascicularis	0.47	11.8	0.393	
+3216
+AF-A0A3Q3GUZ2-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.13	7.8	0.393	
+26247
+AF-A0A3P9AJN3-F1-model_v4	T-cell immunoglobulin and mucin domain-containing protein 4	Esox lucius	0.16	15.3	0.392	
+114259
+AF-A0A7N6BCL6-F1-model_v4	Ig-like domain-containing protein	Anabas testudineus	0.10	15.1	0.391	
+112218
+AF-A0A1A8CEE4-F1-model_v4	Roundabout, axon guidance receptor, homolog 1	Nothobranchius kadleci	0.51	14.3	0.391	
+5216
+AF-A0A7S1HW54-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	0.35	2.5	0.390	
+1269
+AF-A0A6P6MXS6-F1-model_v4	roundabout homolog 2-like	Carassius auratus	0.69	4	0.390	
+2261
+AF-A0A6J6IZE0-F1-model_v4	Unannotated protein	freshwater metagenome	0.35	6.4	0.390	
+1213
+AF-A0A814W4R6-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	0.54	11.6	0.390	
+1213
+AF-A0A3Q2GJW7-F1-model_v4	Contactin-3-like	Cyprinodon variegatus	0.63	4.2	0.390	
+1237
+AF-A0A2V8H8C0-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.33	3.8	0.390	
+1258
+AF-A0A3Q2Z189-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.21	9.1	0.389	
+45257
+AF-A0A4T2BCQ3-F1-model_v4	YncE family protein	Subtercola vilae	0.47	6.4	0.389	
+1218
+AF-A0A803T3E1-F1-model_v4	Myelin protein zero like 2	Anolis carolinensis	0.13	6.7	0.388	
+12179
+AF-A0A2L2YUN4-F1-model_v4	Neural cell adhesion molecule L1, putative	Parasteatoda tepidariorum	0.18	11.2	0.387	
+7206
+AF-A0A5N3V1G8-F1-model_v4	Ig-like domain-containing protein	Muntiacus muntjak	0.11	6.4	0.386	
+28214
+AF-A0A0V1HQ67-F1-model_v4	Protogenin A	Trichinella zimbabwensis	0.60	6	0.386	
+4279
+AF-A0A6P6MYD2-F1-model_v4	uncharacterized protein LOC113072104 isoform X1	Carassius auratus	0.12	12.7	0.386	
+79220
+AF-A0A6P7PN26-F1-model_v4	uncharacterized protein LOC114869193	Betta splendens	0.14	12.2	0.386	
+61214
+AF-A0A183PW15-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.51	12	0.386	
+1227
+AF-A0A6A4TEG3-F1-model_v4	Ig-like domain-containing protein	Scophthalmus maximus	0.15	5	0.385	
+49263
+AF-A0A094PXS6-F1-model_v4	Uncharacterized protein	freshwater metagenome	0.25	4.2	0.385	
+1273
+AF-A0A1D1V3M0-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.57	16.5	0.385	
+3209
+AF-A0A3Q3ELH4-F1-model_v4	Ig-like domain-containing protein	Kryptolebias marmoratus	0.11	8.2	0.385	
+17139
+AF-A0A6A4TFS4-F1-model_v4	Uncharacterized protein	Scophthalmus maximus	0.35	9.1	0.385	
+20235
+AF-W5MSN0-F1-model_v4	Nectin-3-like	Lepisosteus oculatus	0.41	5.2	0.384	
+2278
+AF-A0A6J3B1T2-F1-model_v4	Peroxidase	Vicugna pacos	0.72	5.9	0.384	
+2276
+AF-A0A7M7P2Y2-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.66	8.3	0.384	
+1227
+AF-A0A7L3IXS2-F1-model_v4	ISLR protein	Pardalotus punctatus	0.16	7.2	0.384	
+13211
+AF-A0A4Y2GVB9-F1-model_v4	Ig-like domain-containing protein	Araneus ventricosus	0.12	11.5	0.384	
+51225
+AF-A0A7G3AYY5-F1-model_v4	Putative receptor mediating netrin-dependent axon guidance	Lutzomyia longipalpis	0.54	5.3	0.383	
+1226
+AF-A0A671UAB2-F1-model_v4	Ig-like domain-containing protein	Sparus aurata	0.11	12.1	0.383	
+114217
+AF-A0A673N2B8-F1-model_v4	Ig-like domain-containing protein	Sinocyclocheilus rhinocerous	0.13	8.4	0.383	
+6141
+AF-A0A2K6A1P4-F1-model_v4	Myosin binding protein C1	Mandrillus leucophaeus	0.54	7.4	0.383	
+1232
+AF-A0A060VWN4-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.25	8.7	0.383	
+5198
+AF-A0A7R8UEY7-F1-model_v4	Hypothetical protein	Hermetia illucens	0.33	7	0.383	
+1268
+AF-A0A357YZP2-F1-model_v4	Cadherin-like domain-containing protein	Oscillospiraceae bacterium	0.25	3.5	0.382	
+9279
+AF-A0A1K1P8Y3-F1-model_v4	Uncharacterized protein	Amycolatopsis australiensis	0.11	3.3	0.382	
+111266
+AF-A0A6P6NQB7-F1-model_v4	myosin light chain kinase, smooth muscle-like	Carassius auratus	0.51	4.7	0.382	
+1273
+AF-A0A1B0C9F9-F1-model_v4	Putative secreted protein	Lutzomyia longipalpis	0.18	12.8	0.382	
+1209
+AF-A0A1W0WYT8-F1-model_v4	Uncharacterized protein	Hypsibius dujardini	0.33	5.8	0.382	
+3218
+AF-A0A7K4CVG2-F1-model_v4	Ig-like domain-containing protein	Candidatus Lokiarchaeota archaeon	0.57	2.3	0.382	
+6275
+AF-A0A060W432-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.57	14.4	0.382	
+6213
+AF-A0A6P6NAJ8-F1-model_v4	uncharacterized protein LOC113077365	Carassius auratus	0.15	7.1	0.382	
+12220
+AF-A0A7L1V3D2-F1-model_v4	LRIG1 protein	Sitta europaea	0.47	13	0.382	
+4205
+AF-A0A6P6NRV3-F1-model_v4	uncharacterized protein LOC113086837	Carassius auratus	0.14	5.7	0.382	
+9279
+AF-A0A182NSW5-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.13	3.8	0.381	
+11263
+AF-A0A660RC52-F1-model_v4	Uncharacterized protein	Thermotoga sp.	0.54	3.4	0.381	
+1259
+AF-A0A0Q8DPC1-F1-model_v4	Uncharacterized protein	Nocardioides sp. Root614	0.35	3.1	0.381	
+1260
+AF-A0A7L3XTG9-F1-model_v4	IL1R2 protein	Calonectris borealis	0.15	8.6	0.381	
+6186
+AF-A0A672U6F7-F1-model_v4	Uncharacterized protein	Strigops habroptila	0.38	11.5	0.381	
+6220
+AF-A0A7M7P2Y1-F1-model_v4	Ig-like domain-containing protein	Strongylocentrotus purpuratus	0.12	6.4	0.381	
+28254
+AF-A0A1D1UZM3-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.51	7.3	0.381	
+11204
+AF-A0A3Q3GKM0-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.23	6.3	0.380	
+6262
+AF-A0A4P8RB17-F1-model_v4	Uncharacterized protein	Agrococcus sp. SGAir0287	0.35	5.2	0.380	
+10224
+AF-A0A1D1V8J7-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.72	3.8	0.380	
+9262
+AF-A0A060W114-F1-model_v4	Ig-like domain-containing protein	Oncorhynchus mykiss	0.10	3.9	0.380	
+26214
+AF-A0A6P6NK67-F1-model_v4	uncharacterized protein LOC113080552 isoform X1	Carassius auratus	0.16	6.5	0.380	
+22215
+AF-A0A183II72-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.28	10.7	0.379	
+8207
+AF-A0A7N4PIQ2-F1-model_v4	Contactin 5	Sarcophilus harrisii	0.54	12.2	0.379	
+5207
+AF-A0A1A9Y8P3-F1-model_v4	Uncharacterized protein	Glossina fuscipes fuscipes	0.38	13	0.379	
+4268
+AF-A0A7G9R001-F1-model_v4	Uncharacterized protein	Phycicoccus endophyticus	0.47	3.3	0.379	
+1268
+AF-A0A7L3XBL4-F1-model_v4	NGCA protein	Calonectris borealis	0.09	5.8	0.378	
+23207
+AF-A0A6P6MXB7-F1-model_v4	uncharacterized protein LOC113072510	Carassius auratus	0.11	8.8	0.378	
+17159
+AF-A0A341ALB6-F1-model_v4	transmembrane and immunoglobulin domain-containing protein 1	Neophocaena asiaeorientalis asiaeorientalis	0.16	9	0.378	
+22226
+AF-A0A6P6NEL9-F1-model_v4	uncharacterized protein LOC113078533	Carassius auratus	0.15	6.7	0.377	
+30273
+AF-A0A142FHH1-F1-model_v4	Cell adhesion molecule L1-like protein	Maylandia zebra	0.13	9.3	0.377	
+23220
+AF-A0A1H8U9Q6-F1-model_v4	Uncharacterized protein	Actinacidiphila rubida	0.35	2.3	0.377	
+1210
+AF-A0A5S6R4K3-F1-model_v4	Receptor protein-tyrosine kinase	Trichuris muris	0.75	4.1	0.377	
+1273
+AF-A0A493SSH1-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.23	6.6	0.377	
+3208
+AF-A0A1L8FN34-F1-model_v4	IG domain-containing protein	Xenopus laevis	0.10	17.6	0.377	
+13121
+AF-A0A6G0T467-F1-model_v4	Ig-like domain-containing protein	Aphis glycines	0.14	8.5	0.377	
+49279
+AF-A0A7L3MT85-F1-model_v4	LRIT1 protein	Horornis vulcanius	0.23	10.6	0.376	
+12269
+AF-A0A6J0AK30-F1-model_v4	mucosal addressin cell adhesion molecule 1 isoform X2	Vicugna pacos	0.51	11.1	0.376	
+11224
+AF-A0A819JV31-F1-model_v4	Hypothetical protein	Adineta steineri	0.69	15.5	0.375	
+1222
+AF-A0A7L0MQD3-F1-model_v4	PALLD protein	Amazona guildingii	0.13	6.4	0.375	
+5262
+AF-A0A6P3UGJ4-F1-model_v4	lachesin	Bombus terrestris	0.16	7.2	0.375	
+9204
+AF-A0A7J7BN43-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.30	8.4	0.375	
+1217
+AF-A0A0V1I5E6-F1-model_v4	Protein turtle	Trichinella zimbabwensis	0.44	10.2	0.375	
+1220
+AF-A0A256IJG8-F1-model_v4	Uncharacterized protein	Halorubrum ezzemoulense	0.09	2.8	0.374	
+26267
+AF-A0A183IEA2-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.72	3.7	0.374	
+1269
+AF-A0A4Z2FE00-F1-model_v4	Papilin	Liparis tanakae	0.28	6.8	0.374	
+11257
+AF-A0A3Q2YLJ1-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.15	9.2	0.374	
+8195
+AF-A0A6G1PWM2-F1-model_v4	Interleukin-1 receptor accessory protein-like 1-A	Channa argus	0.13	5.4	0.373	
+12195
+AF-A0A6J0AGI0-F1-model_v4	triggering receptor expressed on myeloid cells 2 isoform X4	Vicugna pacos	0.10	11.2	0.373	
+114219
+AF-A0A060VTQ3-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.14	10.4	0.373	
+41216
+AF-A0A4C1X2P5-F1-model_v4	Lachesin	Eumeta japonica	0.41	8.6	0.373	
+3220
+AF-A0A6P6NYL8-F1-model_v4	uncharacterized protein LOC113092174	Carassius auratus	0.12	9.1	0.373	
+63214
+AF-A0A816AFU5-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.14	6.1	0.373	
+3202
+AF-A0A7K6H077-F1-model_v4	CNTN5 protein	Malurus elegans	0.51	10.6	0.373	
+5208
+AF-A0A6J0BGQ6-F1-model_v4	roundabout homolog 2-like	Neodiprion lecontei	0.72	3.1	0.372	
+7258
+AF-A0A183AJK3-F1-model_v4	Uncharacterized protein	Echinostoma caproni	0.57	16.3	0.372	
+4207
+AF-A0A4Y2JSZ6-F1-model_v4	Obscurin	Araneus ventricosus	0.35	6.2	0.372	
+3214
+AF-A0A060WCI7-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.51	9.1	0.372	
+6223
+AF-A0A6P6MXP6-F1-model_v4	CMRF35-like molecule 1 isoform X2	Carassius auratus	0.12	9.8	0.371	
+114262
+AF-A0A4Z2DRL7-F1-model_v4	Contactin-3	Schistosoma japonicum	0.72	12.3	0.371	
+5218
+AF-A0A6P6NCM1-F1-model_v4	uncharacterized protein LOC113078162	Carassius auratus	0.13	4.9	0.371	
+14272
+AF-A0A093R5A4-F1-model_v4	Myosin-binding protein C, slow-type	Phalacrocorax carbo	0.57	8.9	0.371	
+1226
+AF-A0A536P7J9-F1-model_v4	Uncharacterized protein	Chloroflexi bacterium	0.15	3.5	0.371	
+1249
+AF-A0A6G0T660-F1-model_v4	Uncharacterized protein	Aphis glycines	0.47	10.6	0.371	
+6210
+AF-A0A1A9Y681-F1-model_v4	Uncharacterized protein	Glossina fuscipes fuscipes	0.47	4.5	0.370	
+1215
+AF-A0A668U8T4-F1-model_v4	Melanoma cell adhesion molecule b	Oreochromis aureus	0.44	9.7	0.370	
+7220
+AF-A0A7M7G2I1-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.44	4.1	0.370	
+10263
+AF-A0A341AFR7-F1-model_v4	X-linked interleukin-1 receptor accessory protein-like 2	Neophocaena asiaeorientalis asiaeorientalis	0.13	6.3	0.370	
+12195
+AF-A0A493TM01-F1-model_v4	Ig-like domain-containing protein	Anas platyrhynchos platyrhynchos	0.21	4.8	0.369	
+1274
+AF-A0A060VZT7-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.15	9.2	0.368	
+1220
+AF-A0A6J0C124-F1-model_v4	neurotrimin-like	Neodiprion lecontei	0.18	4.4	0.367	
+10275
+AF-A0A1D1UX34-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.60	8	0.367	
+5270
+AF-A0A7R8UTL7-F1-model_v4	Hypothetical protein	Hermetia illucens	0.33	15.4	0.367	
+6213
+AF-W5MVS3-F1-model_v4	Uncharacterized protein	Lepisosteus oculatus	0.15	3.9	0.367	
+27222
+AF-W5J5E7-F1-model_v4	Uncharacterized protein	Anopheles darlingi	0.41	10.3	0.367	
+15218
+AF-A0A668UKW6-F1-model_v4	Uncharacterized protein	Oreochromis aureus	0.47	8.7	0.367	
+11227
+AF-A0A2K6A5M5-F1-model_v4	Triggering receptor expressed on myeloid cells 1	Mandrillus leucophaeus	0.11	10.9	0.367	
+20152
+AF-A0A7L3XRB6-F1-model_v4	LRIG2 protein	Calonectris borealis	0.44	8.9	0.366	
+3213
+AF-A0A3M0KFM0-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.28	9.4	0.366	
+4205
+AF-A0A6P6MXG7-F1-model_v4	uncharacterized protein LOC113072103 isoform X1	Carassius auratus	0.11	18.1	0.366	
+114216
+AF-A0A7L9BWS5-F1-model_v4	Uncharacterized protein	Planctomycetia bacterium	0.35	4.8	0.366	
+18276
+AF-A0A803SPC9-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.15	8.5	0.366	
+6267
+AF-A0A2V5MVR4-F1-model_v4	Uncharacterized protein	Verrucomicrobia bacterium	0.51	2.9	0.366	
+1263
+AF-A0A7M7NEV8-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.66	4.6	0.365	
+1271
+AF-A0A671UAL5-F1-model_v4	Ig-like domain-containing protein	Sparus aurata	0.11	10.8	0.365	
+115220
+AF-A0A493T067-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.14	6.5	0.365	
+7211
+AF-A0A060WCH4-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.47	13.5	0.365	
+11209
+AF-A0A5E4R3Z2-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.12	11.9	0.365	
+27210
+AF-R7HCV5-F1-model_v4	Conserved repeat domain protein	Eubacterium sp. CAG:38	0.51	8.6	0.364	
+3268
+AF-A0A6P7PAG0-F1-model_v4	cell surface glycoprotein MUC18-like isoform X2	Betta splendens	0.41	4.1	0.364	
+9268
+AF-A0A6J0B8X6-F1-model_v4	neuroglian-like	Neodiprion lecontei	0.51	14.2	0.364	
+3206
+AF-A0A224YUM9-F1-model_v4	Neural cell adhesion molecule l1	Rhipicephalus zambeziensis	0.51	16.9	0.364	
+2207
+AF-A0A7W7YLD5-F1-model_v4	Uncharacterized protein	Prosthecobacter dejongeii	0.66	4.8	0.364	
+2279
+AF-A0A093QYG0-F1-model_v4	Neural cell adhesion molecule L1-like	Phalacrocorax carbo	0.51	4.4	0.363	
+12254
+AF-A0A4C1SP27-F1-model_v4	Titin homolog	Eumeta japonica	0.47	5.3	0.363	
+1279
+AF-A0A067QWY3-F1-model_v4	Roundabout-like protein 2	Zootermopsis nevadensis	0.25	10.5	0.363	
+1199
+AF-A0A6P7P902-F1-model_v4	hepatitis A virus cellular receptor 1 homolog isoform X7	Betta splendens	0.13	5.4	0.362	
+6255
+AF-A0A3Q3GKH6-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.20	9.9	0.362	
+1202
+AF-A0A6G0TGF1-F1-model_v4	Uncharacterized protein	Aphis glycines	0.60	5	0.362	
+5258
+AF-A0A3P8ZTI6-F1-model_v4	Leucine rich repeats and immunoglobulin like domains 2	Esox lucius	0.54	6.7	0.362	
+4271
+AF-A0A6P6M6J0-F1-model_v4	uncharacterized protein LOC113065172 isoform X3	Carassius auratus	0.10	7.8	0.361	
+114252
+AF-A0A7N4PF10-F1-model_v4	Ig-like domain-containing protein	Sarcophilus harrisii	0.10	8.4	0.361	
+16193
+AF-A0A1W0WNZ1-F1-model_v4	Receptor protein-tyrosine kinase	Hypsibius dujardini	0.63	3.5	0.361	
+7267
+AF-A0A060WAJ1-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.30	8.2	0.361	
+4271
+AF-A0A7R8UR84-F1-model_v4	Hypothetical protein	Hermetia illucens	0.18	9.7	0.361	
+14225
+AF-A0A0M2S965-F1-model_v4	Uncharacterized protein	Micromonospora sp. HK10	0.11	5	0.361	
+14242
+AF-A0A091DAL3-F1-model_v4	Myosin-binding protein C, cardiac-type	Fukomys damarensis	0.66	8.9	0.361	
+1221
+AF-A0A7M7NEX0-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.41	4.1	0.360	
+2265
+AF-A0A5J5DH08-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.38	4.2	0.360	
+1271
+AF-A0A4C1XEG5-F1-model_v4	Lachesin	Eumeta japonica	0.28	13.3	0.360	
+42218
+AF-A0A067QYP5-F1-model_v4	Uncharacterized protein	Zootermopsis nevadensis	0.41	11	0.360	
+4219
+AF-A0A493TF90-F1-model_v4	Ciliary neurotrophic factor receptor	Anas platyrhynchos platyrhynchos	0.25	5.2	0.360	
+16261
+AF-A0A7V2LA24-F1-model_v4	Uncharacterized protein	Anaerolineae bacterium	0.35	2.3	0.360	
+1279
+AF-A0A183A6A3-F1-model_v4	Uncharacterized protein	Echinostoma caproni	0.16	10.6	0.360	
+6210
+AF-A0A341ADX8-F1-model_v4	tapasin-related protein isoform X4	Neophocaena asiaeorientalis asiaeorientalis	0.21	7.3	0.359	
+18223
+AF-A0A6B0V4E2-F1-model_v4	Putative tyrosine kinase receptor cad96ca-like protein	Ixodes ricinus	0.11	5	0.359	
+6279
+AF-A0A2K6FEG4-F1-model_v4	Palladin, cytoskeletal associated protein	Propithecus coquereli	0.41	4.2	0.359	
+1211
+AF-A0A4Y2K5T2-F1-model_v4	Uncharacterized protein	Araneus ventricosus	0.25	9.4	0.358	
+11221
+AF-A0A0N4WXZ2-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.14	13.8	0.358	
+22210
+AF-A0A2K6G1Q6-F1-model_v4	T cell immunoglobulin and mucin domain containing 4	Propithecus coquereli	0.12	6.4	0.358	
+20272
+AF-A0A5E4R4K9-F1-model_v4	Ig-like domain-containing protein	Leptidea sinapis	0.13	10.9	0.358	
+52219
+AF-A0A1B0CC61-F1-model_v4	Putative down syndrome cell adhesion molecule-like protein dscam2 isoform x3	Lutzomyia longipalpis	0.63	9.6	0.358	
+8225
+AF-A0A1D1UR05-F1-model_v4	Ig-like domain-containing protein	Ramazzottius varieornatus	0.23	9.3	0.358	
+15260
+AF-A0A493SZY3-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.33	12.8	0.358	
+6205
+AF-A0A3A9C518-F1-model_v4	Uncharacterized protein	bacterium C-53	0.41	5.5	0.358	
+1218
+AF-A0A1L8FVB0-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.16	3.2	0.357	
+1279
+AF-Q0W0K5-F1-model_v4	Uncharacterized protein	Methanocella arvoryzae MRE50	0.33	2.1	0.357	
+1258
+AF-A0A7M7NNM8-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.18	4.5	0.357	
+1204
+AF-A0A3Q3GVP7-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.16	8.5	0.357	
+2204
+AF-W5MT89-F1-model_v4	Ig-like domain-containing protein	Lepisosteus oculatus	0.13	9.3	0.356	
+114276
+AF-A0A3Q2FQG7-F1-model_v4	Uncharacterized protein	Cyprinodon variegatus	0.18	7.8	0.356	
+1194
+AF-A0A315W367-F1-model_v4	Uncharacterized protein	Gambusia affinis	0.25	9.3	0.356	
+15221
+AF-A0A6H5IZS4-F1-model_v4	Uncharacterized protein	Trichogramma brassicae	0.51	11.6	0.356	
+5213
+AF-A0A1L8FZ28-F1-model_v4	IGv domain-containing protein	Xenopus laevis	0.16	3.6	0.355	
+1279
+AF-A0A6P6NBE5-F1-model_v4	uncharacterized protein LOC113078435	Carassius auratus	0.14	5.6	0.355	
+7214
+AF-A0A819L4Z5-F1-model_v4	Hypothetical protein	Adineta steineri	0.23	7.5	0.354	
+2174
+AF-A0A7R8UWS1-F1-model_v4	Hypothetical protein	Hermetia illucens	0.60	7.5	0.354	
+1231
+AF-A0A0N4X8U3-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.15	5.5	0.354	
+10213
+AF-A0A819GUI9-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.18	6.9	0.354	
+42209
+AF-A0A183IK42-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.63	5.3	0.354	
+1253
+AF-A0A7N6B9X7-F1-model_v4	Roundabout, axon guidance receptor, homolog 3 (Drosophila)	Anabas testudineus	0.60	5.1	0.354	
+1276
+AF-A0A4Y2H1S0-F1-model_v4	Peroxidasin	Araneus ventricosus	0.47	5	0.354	
+1269
+AF-A0A6P6NNE4-F1-model_v4	uncharacterized protein LOC113082917 isoform X2	Carassius auratus	0.09	10	0.353	
+20192
+AF-A0A1Q3EZZ0-F1-model_v4	Putative leucine-rich repeat and immunoglobulin-like protein 3	Culex tarsalis	0.60	7.2	0.353	
+4266
+AF-A0A7R8UZ25-F1-model_v4	Hypothetical protein	Hermetia illucens	0.30	8.5	0.353	
+6216
+AF-M1EQY4-F1-model_v4	Vascular endothelial growth factor receptor 3	Mustela putorius furo	0.54	3.3	0.353	
+7268
+AF-A0A1Q3FN15-F1-model_v4	Putative contactin	Culex tarsalis	0.47	13.4	0.353	
+5212
+AF-A0A1L8FP16-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.38	5.6	0.353	
+1232
+AF-A0A1L8FQS8-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.20	6.5	0.353	
+28261
+AF-A0A3P9BE09-F1-model_v4	Uncharacterized protein	Maylandia zebra	0.30	4.2	0.353	
+1262
+AF-A0A493T1E5-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.11	8.3	0.352	
+28212
+AF-A0A4Y2GYD6-F1-model_v4	Down syndrome cell adhesion molecule-like protein Dscam2	Araneus ventricosus	0.09	10.1	0.352	
+14169
+AF-A0A4Y2JHP8-F1-model_v4	Obscurin	Araneus ventricosus	0.28	10.9	0.352	
+10206
+AF-A0A6P7KJQ3-F1-model_v4	uncharacterized protein LOC114841799 isoform X2	Betta splendens	0.11	7.2	0.352	
+15176
+AF-A0A819JSR9-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.51	9.7	0.351	
+1208
+AF-A0A4Z2F3Q5-F1-model_v4	Cadherin-23	Liparis tanakae	0.44	3.3	0.351	
+1276
+AF-A0A493TLG0-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.14	9	0.351	
+22211
+AF-A0A315WAP4-F1-model_v4	Uncharacterized protein	Gambusia affinis	0.23	9.6	0.351	
+1199
+AF-A0A6P7P8G1-F1-model_v4	hepatitis A virus cellular receptor 1 homolog isoform X1	Betta splendens	0.11	7.8	0.351	
+13193
+AF-A0A3Q3BK38-F1-model_v4	Uncharacterized protein	Kryptolebias marmoratus	0.21	9.7	0.351	
+1211
+AF-A0A6P7KJD4-F1-model_v4	uncharacterized protein LOC114841798 isoform X2	Betta splendens	0.10	9.3	0.350	
+15174
+AF-A0A7R9EWV6-F1-model_v4	Hypothetical protein	Timema bartmani	0.60	2.7	0.350	
+6259
+AF-A0A1M6V565-F1-model_v4	Uncharacterized protein	Clostridium cavendishii DSM 21758	0.13	5.4	0.350	
+14221
+AF-A0A4Z2F4A4-F1-model_v4	Interleukin-1 receptor type 2	Liparis tanakae	0.12	8.5	0.350	
+11194
+AF-A0A1Q3EW68-F1-model_v4	Putative lachesin	Culex tarsalis	0.12	13.1	0.350	
+8129
+AF-A0A1B0CVQ8-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.51	9.6	0.350	
+3209
+AF-A0A6A4TCE3-F1-model_v4	Ig-like domain-containing protein	Scophthalmus maximus	0.12	6	0.350	
+23210
+AF-A0A1A9Y9G6-F1-model_v4	Ig-like domain-containing protein	Glossina fuscipes fuscipes	0.14	5.5	0.349	
+6279
+AF-A0A1A8SMI7-F1-model_v4	Palladin, cytoskeletal associated protein	Nothobranchius rachovii	0.41	4.9	0.349	
+1235
+AF-A0A183PYB7-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.51	3.3	0.349	
+2261
+AF-A0A6P6N8I3-F1-model_v4	uncharacterized protein LOC113077305	Carassius auratus	0.33	6.8	0.349	
+13215
+AF-A0A183J121-F1-model_v4	Ig-like domain-containing protein	Soboliphyme baturini	0.11	14.8	0.349	
+6143
+AF-A0A6G0TES0-F1-model_v4	Ig-like domain-containing protein	Aphis glycines	0.12	15.4	0.349	
+42193
+AF-A0A3Q3BK58-F1-model_v4	Uncharacterized protein	Kryptolebias marmoratus	0.15	9.5	0.349	
+2190
+AF-A0A485MKR8-F1-model_v4	Protocadherin beta-15	Lynx pardinus	0.41	2.4	0.349	
+1270
+AF-A0A4T2BMZ1-F1-model_v4	CADG domain-containing protein	Subtercola vilae	0.28	2.8	0.349	
+26274
+AF-Q0W539-F1-model_v4	FlgD_ig domain-containing protein	Methanocella arvoryzae MRE50	0.38	3.7	0.349	
+1279
+AF-A0A3Q2YRM7-F1-model_v4	Contactin 1	Hippocampus comes	0.21	3.9	0.349	
+5265
+AF-A0A3Q3GI72-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.14	8.6	0.349	
+80253
+AF-A0A1B0CC48-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.33	9.4	0.349	
+5224
+AF-L0GYB8-F1-model_v4	Uncharacterized protein	Thioflavicoccus mobilis 8321	0.21	4.5	0.349	
+1247
+AF-A0A1W0WC43-F1-model_v4	Ig-like domain-containing protein	Hypsibius dujardini	0.18	6.9	0.348	
+1201
+AF-A0A3Q3R375-F1-model_v4	Myosin binding protein C3	Monopterus albus	0.41	10.5	0.348	
+1208
+AF-A0A165FR32-F1-model_v4	Uncharacterized protein	Microbacterium sp. T32	0.10	5.7	0.348	
+4214
+AF-W5JEB0-F1-model_v4	Uncharacterized protein	Anopheles darlingi	0.60	5.2	0.348	
+5256
+AF-A0A7M7NIZ9-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.12	7	0.348	
+5199
+AF-A0A3Q2E6K6-F1-model_v4	Contactin-3-like	Cyprinodon variegatus	0.51	7.2	0.348	
+1279
+AF-A0A3Q3DE72-F1-model_v4	Contactin-4-like	Hippocampus comes	0.54	14.3	0.348	
+6213
+AF-A0A7R9F401-F1-model_v4	Hypothetical protein	Timema bartmani	0.25	6.6	0.348	
+3279
+AF-A0A6P6NFC1-F1-model_v4	contactin-4-like isoform X2	Carassius auratus	0.54	17.9	0.347	
+5215
+AF-A0A315W5H8-F1-model_v4	Ig-like domain-containing protein	Gambusia affinis	0.21	8.8	0.347	
+1196
+AF-D4J462-F1-model_v4	Ig-like_bact domain-containing protein	Coprococcus catus GD/7	0.38	2	0.347	
+1251
+AF-A0A6I5ZYK9-F1-model_v4	IgGFc_binding domain-containing protein	Cellulomonas sp. JZ18	0.41	3.3	0.347	
+1222
+AF-A0A2K9DDL3-F1-model_v4	Sortase	Microbacterium hominis	0.18	4.6	0.347	
+7257
+AF-A0A4C1T3B7-F1-model_v4	Roundabout homolog 1	Eumeta japonica	0.51	4.5	0.347	
+6261
+AF-A0A0N4WZT0-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.11	6.2	0.347	
+6273
+AF-A0A060WGE3-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.44	4.3	0.346	
+1279
+AF-A0A5C6BRZ5-F1-model_v4	Ser-Thr-rich glycosyl-phosphatidyl-inositol-anchored membrane family protein	Symmachiella macrocystis	0.30	7	0.346	
+20208
+AF-A0A818WW28-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.11	8.9	0.346	
+60225
+AF-A0A7K5KFP7-F1-model_v4	VSI10 protein	Mionectes macconnelli	0.20	4.7	0.346	
+16214
+AF-A0A6P7LJE4-F1-model_v4	leucine-rich repeat, immunoglobulin-like domain and transmembrane domain-containing protein 3 isoform X1	Betta splendens	0.21	5.7	0.346	
+13275
+AF-A0A7R9G4U2-F1-model_v4	Hypothetical protein	Timema shepardi	0.23	5.7	0.346	
+1225
+AF-A0A7J7B3J4-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.60	4.2	0.346	
+3268
+AF-A0A3Q2YQW8-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.33	11.1	0.346	
+1207
+AF-A0A7R8UM06-F1-model_v4	Hypothetical protein	Hermetia illucens	0.12	9.3	0.346	
+27209
+AF-A0A7G3AQR0-F1-model_v4	Putative receptor mediating netrin-dependent axon guidance	Lutzomyia longipalpis	0.41	6.6	0.345	
+6276
+AF-A0A6J2Q452-F1-model_v4	uncharacterized protein LOC115011162 isoform X3	Cottoperca gobio	0.12	5.2	0.345	
+114273
+AF-A0A7R9EPV5-F1-model_v4	Hypothetical protein	Timema bartmani	0.44	10.9	0.345	
+3220
+AF-A0A4C1SE96-F1-model_v4	Twitchin	Eumeta japonica	0.41	6.9	0.345	
+1223
+AF-A0A6V7IBG2-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.18	5.2	0.345	
+1262
+AF-A0A167N0Q5-F1-model_v4	Uncharacterized protein	Calocera viscosa TUFC12733	0.12	4.5	0.345	
+40273
+AF-A0A7R8UWG7-F1-model_v4	Hypothetical protein	Hermetia illucens	0.33	4.7	0.345	
+1279
+AF-A0A6H5IZX8-F1-model_v4	Uncharacterized protein	Trichogramma brassicae	0.54	12.1	0.344	
+3218
+AF-A0A814G0H9-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	0.54	16.9	0.344	
+5217
+AF-A0A315VRS7-F1-model_v4	Uncharacterized protein	Gambusia affinis	0.60	10.8	0.344	
+1221
+AF-A0A1A9Y330-F1-model_v4	Uncharacterized protein	Glossina fuscipes fuscipes	0.16	9.3	0.344	
+23216
+AF-A0A183A5G1-F1-model_v4	Uncharacterized protein	Echinostoma caproni	0.44	1.6	0.344	
+1277
+AF-A0A3P9A8I0-F1-model_v4	Immunoglobulin superfamily DCC subclass member 3	Esox lucius	0.41	21	0.344	
+5215
+AF-A0A6P6NZG0-F1-model_v4	neural cell adhesion molecule L1-like protein	Carassius auratus	0.57	11.3	0.344	
+1212
+AF-A0A7N4PE84-F1-model_v4	Myosin binding protein C2	Sarcophilus harrisii	0.44	5.9	0.343	
+1239
+AF-A0A7G3ATH4-F1-model_v4	Peroxidase	Lutzomyia longipalpis	0.41	10.3	0.343	
+1224
+AF-U3ISB9-F1-model_v4	Immunoglobulin superfamily member 9B	Anas platyrhynchos platyrhynchos	0.54	3.4	0.343	
+11273
+AF-W5JBW2-F1-model_v4	Uncharacterized protein	Anopheles darlingi	0.25	8.7	0.343	
+43253
+AF-A0A6P6M7Q1-F1-model_v4	neural cell adhesion molecule L1-like isoform X4	Carassius auratus	0.54	7.6	0.343	
+9271
+AF-A0A2S7C2X9-F1-model_v4	Uncharacterized protein	Xanthomonas codiaei	0.21	4.6	0.342	
+27258
+AF-A0A821Z718-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.20	7.8	0.342	
+10221
+AF-A0A485MGD2-F1-model_v4	Ig-like domain-containing protein	Lynx pardinus	0.12	6.5	0.342	
+115275
+AF-A0A5E4QWN6-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.54	3.6	0.341	
+3279
+AF-A0A673N491-F1-model_v4	Si:ch73-44m9.3	Sinocyclocheilus rhinocerous	0.14	8.3	0.341	
+12221
+AF-A0A7M7NPD5-F1-model_v4	Ig-like domain-containing protein	Strongylocentrotus purpuratus	0.18	12.5	0.341	
+21220
+AF-A0A3P8ZWQ1-F1-model_v4	Uncharacterized protein	Esox lucius	0.21	10.7	0.341	
+8226
+AF-A0A7K9TS87-F1-model_v4	LRIT2 protein	Chloroceryle aenea	0.16	9.5	0.340	
+8215
+AF-A0A7M7LJC5-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.54	6	0.340	
+3265
+AF-A0A7G3AQW8-F1-model_v4	Putative neural cell adhesion molecule l1	Lutzomyia longipalpis	0.51	6.2	0.340	
+1223
+AF-A0A6H5J281-F1-model_v4	Uncharacterized protein	Trichogramma brassicae	0.44	5.1	0.340	
+4206
+AF-A0A4C1T327-F1-model_v4	Twitchin	Eumeta japonica	0.23	5.5	0.340	
+20257
+AF-A0A6A4TBU1-F1-model_v4	Uncharacterized protein	Scophthalmus maximus	0.44	10.7	0.340	
+3259
+AF-A0A1L8FP03-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.41	7.6	0.339	
+14268
+AF-A0A7L0MMH0-F1-model_v4	KALRN protein	Amazona guildingii	0.51	6.3	0.339	
+2271
+AF-A0A7K4CW17-F1-model_v4	Fibronectin type III domain-containing protein	Candidatus Lokiarchaeota archaeon	0.38	2.7	0.339	
+1267
+AF-A0A5J5DQ56-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.18	8.3	0.339	
+9199
+AF-A0A2I3HTX9-F1-model_v4	Ig-like domain-containing protein	Nomascus leucogenys	0.12	5.3	0.339	
+16277
+AF-W5JE60-F1-model_v4	Ig-like domain-containing protein	Anopheles darlingi	0.16	6.3	0.339	
+1159
+AF-A0A6P6NMI3-F1-model_v4	uncharacterized protein LOC113082912	Carassius auratus	0.10	17.9	0.338	
+112210
+AF-A0A493TG88-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.14	8.6	0.338	
+22211
+AF-W5MUH8-F1-model_v4	Uncharacterized protein	Lepisosteus oculatus	0.47	6.4	0.338	
+6279
+AF-A0A060VXW9-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.25	8.4	0.338	
+31274
+AF-A0A6P7PHB7-F1-model_v4	hepatitis A virus cellular receptor 2 homolog isoform X3	Betta splendens	0.13	6.8	0.338	
+112263
+AF-W5N3T6-F1-model_v4	Microfibril associated protein 3	Lepisosteus oculatus	0.14	9.5	0.337	
+114240
+AF-A0A256JCK8-F1-model_v4	Uncharacterized protein	Halorubrum ezzemoulense	0.35	4	0.337	
+1210
+AF-A0A3Q3DHN4-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.28	4.8	0.337	
+4269
+AF-A0A6P3UIZ2-F1-model_v4	neural cell adhesion molecule 1-like	Bombus terrestris	0.14	10.1	0.337	
+10209
+AF-A0A091D599-F1-model_v4	Sialic acid-binding Ig-like lectin 11	Fukomys damarensis	0.30	7.5	0.337	
+1226
+AF-A0A818V9F8-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.11	7.3	0.337	
+47215
+AF-A0A3S5CCK8-F1-model_v4	I-set domain-containing protein	Protopolystoma xenopodis	0.11	9.5	0.336	
+104256
+AF-A0A7W7AVX1-F1-model_v4	Uncharacterized protein	Parabacteroides faecis	0.33	3.5	0.336	
+6227
+AF-A0A091CX60-F1-model_v4	Myosin-binding protein H-like	Fukomys damarensis	0.38	6.4	0.336	
+1279
+AF-A0A3Q3GMU6-F1-model_v4	Uncharacterized protein	Kryptolebias marmoratus	0.16	6.1	0.336	
+2250
+AF-A0A819G420-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.44	6.9	0.336	
+1254
+AF-A0A671UTC4-F1-model_v4	Semaphorin 3A	Sparus aurata	0.33	3.2	0.336	
+3262
+AF-A0A3Q3KBU1-F1-model_v4	Uncharacterized protein	Monopterus albus	0.14	9.6	0.336	
+29223
+AF-A0A2E7D007-F1-model_v4	Uncharacterized protein	Planctomycetaceae bacterium	0.30	4.3	0.336	
+1254
+AF-A0A093P466-F1-model_v4	Contactin-6	Pygoscelis adeliae	0.47	5.8	0.335	
+6279
+AF-A0A5J5DRA6-F1-model_v4	Ig-like domain-containing protein	Etheostoma spectabile	0.13	9.5	0.335	
+9198
+AF-A0A3P9A2V6-F1-model_v4	CMRF35-like molecule 6	Esox lucius	0.10	9.9	0.335	
+16153
+AF-A0A2E5ZV39-F1-model_v4	Uncharacterized protein	Euryarchaeota archaeon	0.41	7.7	0.335	
+2220
+AF-A0A3P9BE70-F1-model_v4	Uncharacterized protein	Maylandia zebra	0.13	6	0.335	
+62262
+AF-Q0W6M3-F1-model_v4	Uncharacterized protein	Methanocella arvoryzae MRE50	0.47	0.7	0.335	
+1273
+AF-A0A3Q3DDT5-F1-model_v4	Neural cell adhesion molecule L1-like	Hippocampus comes	0.54	11.6	0.334	
+4206
+AF-A0A183ALD6-F1-model_v4	Uncharacterized protein	Echinostoma caproni	0.47	8.1	0.334	
+6207
+AF-A0A5E4QT96-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.23	4.7	0.334	
+11275
+AF-A0A6P6NP02-F1-model_v4	uncharacterized protein LOC113084455	Carassius auratus	0.20	5	0.334	
+14225
+AF-A0A0A1WKQ8-F1-model_v4	Muscle M-line assembly protein unc-89	Zeugodacus cucurbitae	0.54	3.9	0.334	
+1278
+AF-A0A7N6BZC3-F1-model_v4	Uncharacterized protein	Anabas testudineus	0.47	16.5	0.333	
+2216
+AF-Q83FU6-F1-model_v4	WND domain-containing protein	Tropheryma whipplei str. Twist	0.38	5.4	0.333	
+4209
+AF-A0A4Q5M5D2-F1-model_v4	Ig-like domain-containing protein	Emticicia agri	0.54	4.6	0.333	
+1259
+AF-G1R7J9-F1-model_v4	Uncharacterized protein	Nomascus leucogenys	0.47	6.4	0.333	
+4267
+AF-A0A5N3UP05-F1-model_v4	Ig-like domain-containing protein	Muntiacus muntjak	0.12	8	0.333	
+20214
+AF-A0A7G3AL66-F1-model_v4	Putative neural cell adhesion molecule l1	Lutzomyia longipalpis	0.14	5	0.333	
+19268
+AF-A0A6P6MXT5-F1-model_v4	CMRF35-like molecule 1 isoform X2	Carassius auratus	0.11	16.8	0.333	
+115223
+AF-A0A3Q3D9P7-F1-model_v4	Contactin 1	Hippocampus comes	0.35	9.1	0.333	
+5257
+AF-A0A7R9F5B4-F1-model_v4	Hypothetical protein	Timema bartmani	0.35	2.2	0.332	
+1232
+AF-A0A7G3AP63-F1-model_v4	Putative transmembrane protein of the immunoglobulin family of cell adhesion molecules	Lutzomyia longipalpis	0.51	2.8	0.332	
+1252
+AF-A0A493TEE4-F1-model_v4	IG domain-containing protein	Anas platyrhynchos platyrhynchos	0.12	4.3	0.332	
+18277
+AF-A0A1D1UIM9-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.51	3.6	0.332	
+4272
+AF-A0A672TI27-F1-model_v4	Uncharacterized protein	Strigops habroptila	0.30	5.9	0.332	
+9219
+AF-A0A7R8URP9-F1-model_v4	Hypothetical protein	Hermetia illucens	0.14	6.8	0.332	
+45240
+AF-A0A315WCP3-F1-model_v4	Uncharacterized protein	Gambusia affinis	0.44	6.3	0.331	
+1277
+AF-A0A6J0C339-F1-model_v4	hemicentin-2 isoform X2	Neodiprion lecontei	0.30	6.3	0.331	
+18216
+AF-A0A842P6K8-F1-model_v4	Tandem-95 repeat protein	DPANN group archaeon	0.35	3.9	0.331	
+1252
+AF-A0A3Q2YYE9-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.30	2.2	0.331	
+1270
+AF-A0A1L8FQW3-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.13	4	0.331	
+6269
+AF-A0A5C5VTA5-F1-model_v4	Ser-Thr-rich glycosyl-phosphatidyl-inositol-anchored membrane family protein	Botrimarina hoheduenensis	0.25	4.3	0.331	
+18271
+AF-A0A3Q3R406-F1-model_v4	Immunoglobulin superfamily DCC subclass member 3	Monopterus albus	0.28	4.6	0.330	
+11279
+AF-A0A6G1PNQ9-F1-model_v4	Sialoadhesin Sialic acid-binding Ig-like lectin 1	Channa argus	0.25	6.9	0.330	
+9218
+AF-A0A673N7V3-F1-model_v4	Fibroblast growth factor receptor	Sinocyclocheilus rhinocerous	0.33	9	0.330	
+5211
+AF-A0A1Q3EWP5-F1-model_v4	Putative lachesin	Culex tarsalis	0.15	10.4	0.330	
+10211
+AF-A0A3S0V5B4-F1-model_v4	HtaA domain-containing protein	Corynebacterium propinquum	0.41	5.1	0.330	
+1277
+AF-A0A3Q3KPL0-F1-model_v4	Contactin-3-like	Monopterus albus	0.41	13	0.330	
+3213
+AF-A0A1W0WK41-F1-model_v4	Putative Brother of CDO	Hypsibius dujardini	0.51	5.4	0.330	
+5270
+AF-A0A5C7QMR7-F1-model_v4	PKD domain-containing protein	Bacteroidia bacterium	0.47	4.6	0.330	
+1216
+AF-A0A4C1SBZ9-F1-model_v4	Down syndrome cell adhesion molecule-like protein Dscam2	Eumeta japonica	0.18	8.5	0.330	
+1199
+AF-A0A6V7I9Q3-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.25	3.3	0.330	
+1230
+AF-A0A6P6NXR8-F1-model_v4	uncharacterized protein LOC113092160 isoform X1	Carassius auratus	0.20	6	0.329	
+12223
+AF-A0A5J5D5B3-F1-model_v4	Ig-like domain-containing protein	Etheostoma spectabile	0.20	12.1	0.329	
+16220
+AF-A0A2G6M7K7-F1-model_v4	Cadherin_4 domain-containing protein	Desulfobulbus propionicus	0.25	1.7	0.329	
+3258
+AF-A0A0Q5Q705-F1-model_v4	Uncharacterized protein	Microbacterium sp. Leaf179	0.30	5.1	0.329	
+4218
+AF-M3WH77-F1-model_v4	Microfibril associated protein 3 like	Felis catus	0.20	5.4	0.329	
+1268
+AF-A0A493T282-F1-model_v4	Ig-like domain-containing protein	Anas platyrhynchos platyrhynchos	0.10	16.5	0.329	
+114211
+AF-A0A2E7EPA1-F1-model_v4	Uncharacterized protein	Planctomycetaceae bacterium	0.28	4.6	0.329	
+21258
+AF-A0A7N6BPI7-F1-model_v4	Uncharacterized protein	Anabas testudineus	0.47	3.5	0.329	
+6265
+AF-A0A7L1H4T2-F1-model_v4	NFASC protein	Nycticryphes semicollaris	0.51	14	0.329	
+4205
+AF-U3IZG7-F1-model_v4	DS cell adhesion molecule like 1	Anas platyrhynchos platyrhynchos	0.51	8.6	0.329	
+3223
+AF-A0A6P7LH59-F1-model_v4	myosin light chain kinase, smooth muscle-like	Betta splendens	0.44	3.9	0.329	
+1276
+AF-A0A7X1J0N4-F1-model_v4	Lytic polysaccharide monooxygenase	Streptomyces sp. PSKA01	0.11	2.3	0.329	
+1234
+AF-A0A3Q2YBP0-F1-model_v4	Papilin a, proteoglycan-like sulfated glycoprotein	Hippocampus comes	0.47	8.3	0.329	
+1217
+AF-A0A106QCF1-F1-model_v4	Uncharacterized protein	Burkholderia ubonensis	0.30	2.4	0.328	
+1279
+AF-A0A4T2BML1-F1-model_v4	Uncharacterized protein	Subtercola vilae	0.09	4.5	0.327	
+43251
+AF-A0A671UP24-F1-model_v4	Myosin binding protein C, cardiac	Sparus aurata	0.44	4.6	0.327	
+1244
+AF-A0A5J5DJT7-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.47	10.6	0.327	
+3256
+AF-A0A6J1UPY1-F1-model_v4	cadherin-related family member 3	Notechis scutatus	0.41	2.3	0.327	
+1272
+AF-A0A7N4PMC5-F1-model_v4	Triggering receptor expressed on myeloid cells like 2	Sarcophilus harrisii	0.11	7.1	0.326	
+114270
+AF-A0A3P9AX32-F1-model_v4	Protocadherin 1 gamma 31	Maylandia zebra	0.35	5	0.326	
+1279
+AF-A0A4T2BKW2-F1-model_v4	YncE family protein	Subtercola vilae	0.20	3.5	0.326	
+15279
+AF-A0A819KNA8-F1-model_v4	Hypothetical protein	Adineta steineri	0.35	5.1	0.325	
+1253
+AF-A0A821Y6S6-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.16	9.3	0.325	
+5188
+AF-W5MUQ1-F1-model_v4	Contactin-3-like	Lepisosteus oculatus	0.41	6.1	0.325	
+2279
+AF-A0A3M0KHB6-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.33	3.1	0.325	
+1219
+AF-A0A7G3AE27-F1-model_v4	Putative ca2+/calmodulin-dependent protein	Lutzomyia longipalpis	0.33	5.7	0.325	
+3271
+AF-A0A3Q3EA09-F1-model_v4	Hepatitis A virus cellular receptor 1 homolog	Hippocampus comes	0.12	12.5	0.324	
+20193
+AF-A0A1B0CUQ3-F1-model_v4	Ig-like domain-containing protein	Lutzomyia longipalpis	0.28	2.6	0.324	
+8259
+AF-A0A1L8FNF2-F1-model_v4	Uncharacterized protein	Xenopus laevis	0.38	5.1	0.324	
+5240
+AF-B4NPW7-F1-model_v4	Uncharacterized protein	Drosophila willistoni	0.16	4.1	0.324	
+13277
+AF-A0A7R9HW35-F1-model_v4	Hypothetical protein	Timema bartmani	0.15	4.4	0.323	
+10279
+AF-A0A7R9EVR2-F1-model_v4	Hypothetical protein	Timema bartmani	0.11	14.1	0.323	
+3118
+AF-A0A7X8UT05-F1-model_v4	PKD domain-containing protein	Phycisphaerales bacterium	0.38	4.3	0.323	
+1228
+AF-A0A7K9X920-F1-model_v4	SIRPG protein	Psophia crepitans	0.11	4.9	0.323	
+12276
+AF-A0A3Q2FBS0-F1-model_v4	Contactin 5	Cyprinodon variegatus	0.33	12.3	0.323	
+12207
+AF-A0A4C1T0Z6-F1-model_v4	Uncharacterized protein	Eumeta japonica	0.30	5.4	0.323	
+13254
+AF-A0A183P8I2-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.41	6.3	0.323	
+1249
+AF-A0A5C5WRK5-F1-model_v4	Uncharacterized protein	Rubripirellula amarantea	0.30	4.4	0.322	
+21241
+AF-A0A1D3L0E4-F1-model_v4	WD40 domain-containing protein	Methanobacterium congolense	0.44	2.2	0.322	
+1267
+AF-A0A5J5DPZ3-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.23	7.4	0.322	
+6253
+AF-W5J7E0-F1-model_v4	Protocadherin	Anopheles darlingi	0.30	1.7	0.322	
+1248
+AF-A0A6G0T0X2-F1-model_v4	Uncharacterized protein	Aphis glycines	0.25	8.5	0.322	
+9220
+AF-A0A3P9BE99-F1-model_v4	Uncharacterized protein	Maylandia zebra	0.38	6	0.322	
+2228
+AF-A0A834L0P5-F1-model_v4	Uncharacterized protein	Oryzias melastigma	0.14	14.7	0.322	
+112256
+AF-A0A2U4ARY0-F1-model_v4	Receptor protein-tyrosine kinase	Tursiops truncatus	0.47	2.5	0.322	
+8260
+AF-A0A2P8EAY7-F1-model_v4	RNA polymerase sigma factor (Sigma-70 family)	Haloactinopolyspora alba	0.38	4.7	0.322	
+1256
+AF-A0A0S8KI90-F1-model_v4	Uncharacterized protein	Anaerolineae bacterium SM23_84	0.28	2.2	0.322	
+1279
+AF-A0A6J1UNQ6-F1-model_v4	contactin-2	Notechis scutatus	0.41	7.2	0.322	
+6279
+AF-A0A068RV96-F1-model_v4	Uncharacterized protein	Lichtheimia corymbifera JMRC:FSU:9682	0.10	6.4	0.321	
+56249
+AF-A0A7K8TW65-F1-model_v4	PALLD protein	Oceanites oceanicus	0.33	5.8	0.321	
+1238
+AF-A0A3Q3GGH7-F1-model_v4	Neural cell adhesion molecule L1-like protein	Labrus bergylta	0.44	16.2	0.320	
+1209
+AF-A0A7R9F6U8-F1-model_v4	Hypothetical protein	Timema bartmani	0.41	3.7	0.320	
+1224
+AF-A0A7C7V106-F1-model_v4	Peptidase_S8 domain-containing protein	Aquificaceae bacterium	0.10	3.8	0.320	
+28219
+AF-A0A182N460-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.41	4.7	0.319	
+6273
+AF-A0A5C5Y6G4-F1-model_v4	Uncharacterized protein	Crateriforma conspicua	0.28	5.6	0.319	
+16254
+AF-A0A3Q2YRP7-F1-model_v4	Receptor protein-tyrosine kinase	Hippocampus comes	0.33	3.7	0.319	
+15279
+AF-A0A7N6B7C2-F1-model_v4	Uncharacterized protein	Anabas testudineus	0.16	6.7	0.319	
+25279
+AF-A0A497HB34-F1-model_v4	Ig-like domain-containing protein	Thermoplasmata archaeon	0.44	2.6	0.319	
+7268
+AF-A0A3Q3QMB5-F1-model_v4	Leucine-rich repeat and fibronectin type III domain-containing protein 1-like protein	Monopterus albus	0.15	8.5	0.319	
+13219
+AF-A0A493TK97-F1-model_v4	Fibroblast growth factor receptor	Anas platyrhynchos platyrhynchos	0.30	10.8	0.319	
+3215
+AF-A0A1W0W9A4-F1-model_v4	Tyrosine-protein kinase transmembrane receptor ROR2	Hypsibius dujardini	0.16	3.8	0.319	
+5279
+AF-A0A6J0BIY6-F1-model_v4	protogenin B	Neodiprion lecontei	0.44	9.3	0.318	
+5238
+AF-A0A5E4QTI6-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.38	12.3	0.318	
+1207
+AF-A0A1B0GIV8-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.33	3	0.318	
+51265
+AF-A0A7N6B665-F1-model_v4	Fibroblast growth factor receptor	Anabas testudineus	0.28	3.8	0.318	
+6203
+AF-A0A182NSW6-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.33	12.4	0.317	
+18211
+AF-A0A0Q5PM51-F1-model_v4	GRAM_POS_ANCHORING domain-containing protein	Microbacterium sp. Leaf179	0.30	3	0.317	
+1218
+AF-A0A3Q3KPL7-F1-model_v4	Contactin-3-like	Monopterus albus	0.38	7.1	0.317	
+11279
+AF-A0A3P6T4U4-F1-model_v4	Uncharacterized protein	Litomosoides sigmodontis	0.44	4.2	0.317	
+9254
+AF-A0A6A4TPH5-F1-model_v4	Uncharacterized protein	Scophthalmus maximus	0.28	13.8	0.317	
+5254
+AF-A0A6G1PUT3-F1-model_v4	Receptor protein-tyrosine kinase	Channa argus	0.44	1.6	0.317	
+9250
+AF-A0A6P6MY59-F1-model_v4	CMRF35-like molecule 8	Carassius auratus	0.11	9.1	0.316	
+114258
+AF-A0A818VH38-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.21	3.5	0.316	
+1258
+AF-A0A1A8DAM1-F1-model_v4	Uncharacterized protein	Nothobranchius kadleci	0.28	8.4	0.316	
+9274
+AF-A0A0N4WTR3-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.28	3.1	0.315	
+6272
+AF-A0A1A8D8A2-F1-model_v4	Kinase insert domain receptor like	Nothobranchius kadleci	0.33	4.2	0.315	
+8255
+AF-A0A816EY43-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.20	3.3	0.315	
+29218
+AF-A0A3Q2YUQ4-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.23	3	0.314	
+4220
+AF-A0A3A1WRD8-F1-model_v4	Uncharacterized protein	Bifidobacteriaceae bacterium NR047	0.25	2.7	0.314	
+1228
+AF-A0A6J1UER9-F1-model_v4	immunoglobulin superfamily DCC subclass member 4	Notechis scutatus	0.41	3.7	0.314	
+1279
+AF-A0A1W0WLL1-F1-model_v4	Uncharacterized protein	Hypsibius dujardini	0.12	2.2	0.314	
+1279
+AF-A0A5E4R367-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.11	5.6	0.314	
+1221
+AF-A0A821XBR2-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.14	5.2	0.314	
+15217
+AF-A0A4C1X7L6-F1-model_v4	Papilin	Eumeta japonica	0.13	7.3	0.314	
+16260
+AF-A0A6P6NCA7-F1-model_v4	uncharacterized protein LOC113078545	Carassius auratus	0.16	6.7	0.314	
+11228
+AF-A0A6P3Q4Q2-F1-model_v4	triggering receptor expressed on myeloid cells 2 isoform X2	Pteropus vampyrus	0.09	8	0.314	
+20121
+AF-A0A493SV56-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.14	7.7	0.314	
+21225
+AF-A0A821ZBY5-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.21	8.2	0.313	
+1219
+AF-A0A1F4WJC8-F1-model_v4	Big_13 domain-containing protein	candidate division WWE3 bacterium RIFOXYC1_FULL_39_7	0.30	1.9	0.312	
+7252
+AF-A0A183PE18-F1-model_v4	Ig-like domain-containing protein	Schistosoma mattheei	0.12	8.2	0.312	
+102244
+AF-A0A3Q2ZH84-F1-model_v4	Ig-like domain-containing protein	Hippocampus comes	0.14	6.2	0.312	
+5194
+AF-Q0W3X5-F1-model_v4	FlgD_ig domain-containing protein	Methanocella arvoryzae MRE50	0.35	4.5	0.312	
+1218
+AF-A0A1W0WCN3-F1-model_v4	Uncharacterized protein	Hypsibius dujardini	0.41	4.4	0.312	
+11221
+AF-A0A6G1Q1X2-F1-model_v4	Netrin receptor UNC5	Channa argus	0.28	3.8	0.311	
+4277
+AF-A0A091CPT5-F1-model_v4	Fas apoptotic inhibitory molecule 3	Fukomys damarensis	0.11	5.1	0.311	
+64267
+AF-A0A4Z2DR52-F1-model_v4	Receptor-type tyrosine-protein phosphatase F	Schistosoma japonicum	0.11	4.3	0.311	
+4266
+AF-A0A1D1ZU50-F1-model_v4	Uncharacterized protein	Auxenochlorella protothecoides	0.38	2.8	0.311	
+1231
+AF-A0A060W152-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.14	8.1	0.311	
+7189
+AF-A0A254QRU0-F1-model_v4	Uncharacterized protein	Phaeobacter sp. 22II1-1F12B	0.18	3.5	0.310	
+1270
+AF-A0A1D1V7B2-F1-model_v4	Ig-like domain-containing protein	Ramazzottius varieornatus	0.18	3.7	0.310	
+15267
+AF-A0A0Q5LF81-F1-model_v4	Uncharacterized protein	Microbacterium sp. Leaf161	0.20	2.7	0.309	
+27226
+AF-A0A060W365-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.16	5.6	0.309	
+21276
+AF-W5N2G2-F1-model_v4	Uncharacterized protein	Lepisosteus oculatus	0.35	4.9	0.309	
+1248
+AF-A0A7R8UXL3-F1-model_v4	Hypothetical protein	Hermetia illucens	0.35	6.9	0.309	
+17232
+AF-A0A485MP39-F1-model_v4	Ig-like domain-containing protein	Lynx pardinus	0.13	4.8	0.308	
+20167
+AF-A0A545TQF1-F1-model_v4	Uncharacterized protein	Exilibacterium tricleocarpae	0.41	2.1	0.308	
+1249
+AF-A0A182NT44-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.21	8.8	0.308	
+17221
+AF-A0A091DFD8-F1-model_v4	Palladin	Fukomys damarensis	0.33	10.3	0.308	
+1270
+AF-A0A6J3AY24-F1-model_v4	myopalladin isoform X4	Vicugna pacos	0.35	5	0.307	
+1263
+AF-A0A1A8SPP8-F1-model_v4	Contactin 2	Nothobranchius rachovii	0.23	14.1	0.306	
+11207
+AF-A0A1A8D4H7-F1-model_v4	Brother of CDO	Nothobranchius kadleci	0.33	3.7	0.306	
+10262
+AF-A0A668UBX1-F1-model_v4	Palladin, cytoskeletal associated protein	Oreochromis aureus	0.38	7	0.306	
+1257
+AF-A0A2G8CUQ5-F1-model_v4	Uncharacterized protein	Leucobacter sp. OAMSW11	0.21	3.3	0.304	
+23218
+AF-A0A5Q0RZL3-F1-model_v4	Uncharacterized protein	Pseudomonas brassicacearum	0.10	5.1	0.304	
+4279
+AF-A0A5E4QGK6-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.28	9.3	0.304	
+1207
+AF-A0A3Q3DN67-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.21	4.4	0.304	
+11252
+AF-A0A6P6NGU5-F1-model_v4	uncharacterized protein LOC113079610	Carassius auratus	0.10	4.5	0.304	
+17238
+AF-A0A6P7LHK0-F1-model_v4	interleukin-1 receptor accessory protein-like 1-A isoform X3	Betta splendens	0.11	4.9	0.304	
+26209
+AF-A0A2D6NEA5-F1-model_v4	PKD domain-containing protein	Candidatus Woesearchaeota archaeon	0.35	5	0.303	
+1214
+AF-A0A816FAL0-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.20	6.6	0.303	
+1220
+AF-G1QJR7-F1-model_v4	Uncharacterized protein	Nomascus leucogenys	0.14	8.4	0.303	
+6279
+AF-A0A6J1UH61-F1-model_v4	roundabout homolog 3 isoform X3	Notechis scutatus	0.41	3.8	0.303	
+34279
+AF-M1ERI3-F1-model_v4	Fibroblast growth factor receptor 1	Mustela putorius furo	0.25	2.8	0.302	
+4219
+AF-A0A1W0WCT7-F1-model_v4	Putative Basement membrane-specific heparan sulfate proteoglycan core protein	Hypsibius dujardini	0.20	4.4	0.302	
+27269
+AF-A0A4Z2F1I5-F1-model_v4	Myomesin-2	Liparis tanakae	0.16	8.1	0.301	
+29209
+AF-A0A839UQS5-F1-model_v4	PKD repeat protein	Simiduia aestuariiviva	0.28	2.4	0.301	
+1270
+AF-A0A3Q2ZHH0-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.12	8.7	0.301	
+81249
+AF-A0A4Z2EXI6-F1-model_v4	CD83 antigen	Liparis tanakae	0.09	10.2	0.300	
+112207
+AF-A0A6P6NMQ3-F1-model_v4	CMRF35-like molecule 5	Carassius auratus	0.11	3.7	0.300	
+114267
+AF-A0A4C1S8Z2-F1-model_v4	Hemicentin-1	Eumeta japonica	0.18	4.3	0.300	
+12276
+AF-A0A2L2YN29-F1-model_v4	Leucine-rich repeat neuronal protein 1	Parasteatoda tepidariorum	0.15	10	0.300	
+27232
+AF-A0A6P6MZV1-F1-model_v4	roundabout homolog 3-like	Carassius auratus	0.35	2.4	0.300	
+1256
+AF-A0A2I3HTE5-F1-model_v4	Ig-like domain-containing protein	Nomascus leucogenys	0.12	4.5	0.300	
+48223
+AF-A0A818ZPU4-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.21	4.4	0.299	
+1199
+AF-A0A671UF89-F1-model_v4	Ig-like domain-containing protein	Sparus aurata	0.09	15.5	0.299	
+113210
+AF-W5JAW8-F1-model_v4	Ig-like domain-containing protein	Anopheles darlingi	0.20	5.3	0.299	
+25209
+AF-A0A485MKW8-F1-model_v4	Pro-neuregulin-membrane-bound	Lynx pardinus	0.15	11	0.298	
+35216
+AF-A0A3Q3E2Y6-F1-model_v4	Uncharacterized protein	Hippocampus comes	0.33	9.6	0.298	
+2216
+AF-A0A2K6FQQ6-F1-model_v4	Hepatitis A virus cellular receptor 1	Propithecus coquereli	0.11	12.5	0.298	
+21152
+AF-A0A1V5SF78-F1-model_v4	Uncharacterized protein	candidate division WS2 bacterium ADurb.Bin280	0.28	1.9	0.297	
+4217
+AF-A0A493T145-F1-model_v4	Uncharacterized protein	Anas platyrhynchos platyrhynchos	0.16	6.5	0.297	
+21239
+AF-A0A842TNH2-F1-model_v4	Uncharacterized protein	Candidatus Lokiarchaeota archaeon	0.23	3.5	0.297	
+1210
+AF-A0A3N6MYD1-F1-model_v4	PKD domain-containing protein	Natrarchaeobius chitinivorans	0.20	2	0.296	
+9263
+AF-A0A3S5BKH1-F1-model_v4	Uncharacterized protein	Protopolystoma xenopodis	0.14	7	0.296	
+4201
+AF-A0A6J2PYZ8-F1-model_v4	hemicentin-1-like	Cottoperca gobio	0.35	9.5	0.296	
+1257
+AF-A0A6J0AYY4-F1-model_v4	CMRF35-like molecule 9 isoform X5	Vicugna pacos	0.13	5.6	0.296	
+11163
+AF-A0A182NT43-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.30	5.6	0.296	
+3207
+AF-A0A671V3E0-F1-model_v4	Uncharacterized protein	Sparus aurata	0.16	6.2	0.295	
+27222
+AF-A0A1Q3FQW8-F1-model_v4	Putative neural cell adhesion molecule l1	Culex tarsalis	0.20	7.5	0.295	
+8203
+AF-A0A2G8D6R9-F1-model_v4	Uncharacterized protein	Leucobacter sp. OAMSW11	0.23	2	0.295	
+1244
+AF-A0A6V7M5A9-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.13	4.4	0.295	
+8279
+AF-A0A341APS8-F1-model_v4	brother of CDO isoform X1	Neophocaena asiaeorientalis asiaeorientalis	0.30	2	0.295	
+1250
+AF-A0A2U8E1U7-F1-model_v4	Ig-like domain-containing protein	Ereboglobus luteus	0.25	4.3	0.295	
+3207
+AF-A0A1B0CEQ6-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.21	7.4	0.294	
+4201
+AF-A0A318C5J3-F1-model_v4	Uncharacterized protein	Pokkaliibacter plantistimulans	0.30	1.6	0.294	
+1278
+AF-A0A672TKM6-F1-model_v4	Leucine rich repeat and fibronectin type III domain containing 1	Strigops habroptila	0.18	4.9	0.294	
+16279
+AF-A0A1A8SNS9-F1-model_v4	Receptor protein-tyrosine kinase	Nothobranchius rachovii	0.30	2.1	0.294	
+10263
+AF-A0A1B0CIW0-F1-model_v4	Uncharacterized protein	Lutzomyia longipalpis	0.30	5.2	0.293	
+1220
+AF-A0A183A506-F1-model_v4	Uncharacterized protein	Echinostoma caproni	0.21	5.4	0.293	
+30273
+AF-A0A3P9AIS4-F1-model_v4	Myopalladin	Esox lucius	0.25	5.4	0.292	
+1237
+AF-A0A4C1SG74-F1-model_v4	Twitchin	Eumeta japonica	0.16	3.1	0.292	
+18206
+AF-A0A1W0WF49-F1-model_v4	EGF-like domain-containing protein	Hypsibius dujardini	0.30	1.3	0.292	
+1279
+AF-A0A0A1WK23-F1-model_v4	Protein turtle	Zeugodacus cucurbitae	0.20	11.6	0.292	
+12204
+AF-A0A2E8CQY8-F1-model_v4	Fibronectin type-III domain-containing protein	Verrucomicrobiales bacterium	0.20	1.2	0.291	
+1256
+AF-A0A2D6LHI8-F1-model_v4	Uncharacterized protein	Candidatus Woesearchaeota archaeon	0.30	2.7	0.291	
+5260
+AF-A0A493TMY3-F1-model_v4	Fibroblast growth factor receptor	Anas platyrhynchos platyrhynchos	0.28	3.5	0.291	
+5260
+AF-A0A6G0T6T4-F1-model_v4	Uncharacterized protein	Aphis glycines	0.16	6.3	0.290	
+8257
+AF-A0A2L2YNI3-F1-model_v4	Papilin	Parasteatoda tepidariorum	0.12	20.8	0.290	
+104220
+AF-A0A6P4JM70-F1-model_v4	Fibroblast growth factor receptor	Drosophila kikkawai	0.21	7.7	0.290	
+6257
+AF-A0A6P7KU93-F1-model_v4	uncharacterized protein LOC114843095	Betta splendens	0.25	7.6	0.289	
+1221
+AF-A0A093P202-F1-model_v4	Receptor protein-tyrosine kinase	Pygoscelis adeliae	0.20	6.4	0.288	
+6253
+AF-A0A091D565-F1-model_v4	Myosin-binding protein C, fast-type	Fukomys damarensis	0.14	9.5	0.287	
+101257
+AF-A0A6J1UFJ8-F1-model_v4	amphoterin-induced protein 3	Notechis scutatus	0.14	5.3	0.287	
+11277
+AF-A0A183P8P9-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.20	4.2	0.287	
+1246
+AF-A0A7L4L3I3-F1-model_v4	Receptor protein-tyrosine kinase	Callaeas wilsoni	0.21	4.3	0.287	
+6205
+AF-A0A7R9FY42-F1-model_v4	Hypothetical protein	Timema shepardi	0.21	2.2	0.287	
+5279
+AF-A0A5J5DQA7-F1-model_v4	RHD domain-containing protein	Etheostoma spectabile	0.23	6	0.286	
+9211
+AF-A0A493T383-F1-model_v4	Adhesion molecule with Ig like domain 1	Anas platyrhynchos platyrhynchos	0.15	6.2	0.286	
+14255
+AF-A0A060WGK8-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.20	4.8	0.286	
+15279
+AF-A0A7N6B6K7-F1-model_v4	Fibroblast growth factor receptor	Anabas testudineus	0.20	6	0.286	
+6267
+AF-A0A3Q7S034-F1-model_v4	triggering receptor expressed on myeloid cells 2 isoform X1	Callorhinus ursinus	0.10	4.1	0.284	
+20262
+AF-A0A4C1SPN4-F1-model_v4	Muscle M-line assembly protein unc-89	Eumeta japonica	0.11	8.4	0.284	
+19209
+AF-A0A842UA24-F1-model_v4	Uncharacterized protein	Candidatus Lokiarchaeota archaeon	0.23	2.3	0.284	
+1206
+AF-A0A6P6NN49-F1-model_v4	uncharacterized protein LOC113083503	Carassius auratus	0.18	5.2	0.284	
+25225
+AF-A0A4Y2HDY6-F1-model_v4	Papilin	Araneus ventricosus	0.12	11.5	0.284	
+51259
+AF-A0A5C6E6Z5-F1-model_v4	Uncharacterized protein	Novipirellula aureliae	0.21	6.4	0.283	
+21206
+AF-A0A315VWE8-F1-model_v4	Receptor protein-tyrosine kinase	Gambusia affinis	0.20	7.8	0.283	
+6203
+AF-A0A5J5DDY2-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.28	6.4	0.283	
+11279
+AF-A0A6P6NGT6-F1-model_v4	palladin-like	Carassius auratus	0.11	16	0.283	
+104241
+AF-A0A2I3HQM2-F1-model_v4	Uncharacterized protein	Nomascus leucogenys	0.20	4.7	0.283	
+13270
+AF-A0A2V8GZE5-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.28	1.1	0.282	
+10269
+AF-A0A6P6NK99-F1-model_v4	uncharacterized protein LOC113081545	Carassius auratus	0.28	2.1	0.282	
+20248
+AF-A0A7G3AW55-F1-model_v4	Fibroblast growth factor receptor	Lutzomyia longipalpis	0.21	6.1	0.281	
+3203
+AF-A0A821Y193-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.16	3.5	0.281	
+9268
+AF-A0A821XS77-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.16	3	0.281	
+4268
+AF-A0A3P9AHE9-F1-model_v4	Myopalladin	Esox lucius	0.28	5	0.281	
+1238
+AF-A0A183GQC1-F1-model_v4	Uncharacterized protein	Heligmosomoides polygyrus	0.18	4.1	0.281	
+6264
+AF-A0A6P6N8K6-F1-model_v4	immunoglobulin superfamily member 3-like	Carassius auratus	0.15	5.5	0.281	
+11201
+AF-A0A3Q3GLJ2-F1-model_v4	Uncharacterized protein	Labrus bergylta	0.23	5.3	0.280	
+1273
+AF-A0A6J2PEF6-F1-model_v4	semaphorin-4B-like	Cottoperca gobio	0.16	5.3	0.280	
+46255
+AF-A0A182NL74-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.21	4.9	0.280	
+13268
+AF-A0A1W0WC89-F1-model_v4	Receptor protein-tyrosine kinase	Hypsibius dujardini	0.21	6.6	0.280	
+7231
+AF-A0A257A4N9-F1-model_v4	Uncharacterized protein	Desulfurococcales archaeon ex4484_217_1	0.15	4.8	0.279	
+10219
+AF-A0A1A8CUK9-F1-model_v4	Fibroblast growth factor receptor	Nothobranchius kadleci	0.18	7.6	0.278	
+6205
+AF-A0A0B3AZ83-F1-model_v4	Uncharacterized protein	archaeon GW2011_AR18	0.23	3.5	0.278	
+4270
+AF-A0A7R9EXV4-F1-model_v4	Hypothetical protein	Timema bartmani	0.12	2.2	0.278	
+1279
+AF-A0A7C9BHR1-F1-model_v4	Family 14 glycosylhydrolase	Cytophagaceae bacterium SJW1-29	0.20	2.1	0.278	
+1261
+AF-A0A0D1X916-F1-model_v4	Uncharacterized protein	Exophiala sideris	0.09	2.8	0.278	
+14279
+AF-A0A093QNA0-F1-model_v4	Receptor protein-tyrosine kinase	Phalacrocorax carbo	0.18	6.1	0.278	
+4267
+AF-A0A7K6YTN3-F1-model_v4	PIGR protein	Alca torda	0.13	3.1	0.277	
+13272
+AF-A0A0C2YF45-F1-model_v4	Large exoprotein involved in heme utilization or adhesion	Magnetospirillum magnetotacticum MS-1	0.25	1.4	0.275	
+1279
+AF-A0A7Y3IAZ2-F1-model_v4	Non-specific serine/threonine protein kinase	Gemmatimonadetes bacterium	0.20	5.1	0.275	
+9261
+AF-D2GUH5-F1-model_v4	Ig-like domain-containing protein	Ailuropoda melanoleuca	0.11	6.9	0.275	
+113277
+AF-A0A818X947-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.13	3.2	0.275	
+6258
+AF-A0A7G3ARB7-F1-model_v4	Putative neural cell adhesion molecule l1	Lutzomyia longipalpis	0.20	3.6	0.275	
+1262
+AF-A0A7K8U4Q3-F1-model_v4	Receptor protein-tyrosine kinase	Oceanites oceanicus	0.18	3.3	0.275	
+7181
+AF-A0A183PFY7-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.14	15.4	0.274	
+1119
+AF-A0A3M0KZ98-F1-model_v4	Uncharacterized protein	Hirundo rustica rustica	0.14	10.6	0.274	
+1219
+AF-A0A4C1T0W6-F1-model_v4	Leucine-rich repeats and immunoglobulin-like domains protein 3	Eumeta japonica	0.18	2.7	0.272	
+1279
+AF-A0A6G0T9G7-F1-model_v4	Uncharacterized protein	Aphis glycines	0.21	2.2	0.272	
+14266
+AF-A0A241WKZ8-F1-model_v4	Uncharacterized protein	Acinetobacter sp. ANC 3832	0.20	3.2	0.272	
+3279
+AF-A0A7M7NG75-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.16	2.4	0.271	
+4197
+AF-A0A819FMJ0-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.14	7.6	0.271	
+17219
+AF-A0A1B0CI98-F1-model_v4	Putative neural cell adhesion molecule l1	Lutzomyia longipalpis	0.14	9.2	0.271	
+85262
+AF-A0A2G2KIN0-F1-model_v4	Cadherin domain-containing protein	Blastopirellula sp.	0.23	3.7	0.271	
+1279
+AF-A0A0N4WZS8-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.23	4.4	0.270	
+4272
+AF-G7P3E7-F1-model_v4	Uncharacterized protein	Macaca fascicularis	0.15	5.3	0.270	
+15279
+AF-A0A673N7N2-F1-model_v4	Fibroblast growth factor receptor	Sinocyclocheilus rhinocerous	0.16	3	0.270	
+6191
+AF-A0A6P7PCQ8-F1-model_v4	pro-neuregulin-2, membrane-bound isoform-like isoform X4	Betta splendens	0.15	2.8	0.270	
+8212
+AF-A0A6G1PAY2-F1-model_v4	Meteorin-like protein	Channa argus	0.21	3.3	0.270	
+17245
+AF-A0A7K5A687-F1-model_v4	PIGR protein	Centropus unirufus	0.12	3.7	0.269	
+62215
+AF-A0A7R8V0K5-F1-model_v4	Hypothetical protein	Hermetia illucens	0.21	3.1	0.269	
+10251
+AF-A0A6A4TSS9-F1-model_v4	Uncharacterized protein	Scophthalmus maximus	0.18	3.4	0.269	
+1219
+AF-A0A6J0BCI5-F1-model_v4	platelet-derived growth factor receptor alpha-like	Neodiprion lecontei	0.13	4.6	0.268	
+10209
+AF-A0A5J5DEV5-F1-model_v4	Uncharacterized protein	Etheostoma spectabile	0.23	8	0.268	
+1270
+AF-A0A315W7I0-F1-model_v4	Uncharacterized protein	Gambusia affinis	0.21	8.1	0.268	
+4218
+AF-A0A673NGT9-F1-model_v4	Fibroblast growth factor receptor	Sinocyclocheilus rhinocerous	0.16	4.2	0.268	
+83262
+AF-A0A7J7B5Y0-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.20	1.8	0.268	
+47275
+AF-A0A2L2YWS0-F1-model_v4	Titin	Parasteatoda tepidariorum	0.11	14.5	0.267	
+85221
+AF-A0A182NMY1-F1-model_v4	Uncharacterized protein	Anopheles dirus	0.20	5.9	0.266	
+3264
+AF-A0A7J4K1M6-F1-model_v4	Uncharacterized protein	Candidatus Woesearchaeota archaeon	0.12	4.5	0.265	
+24222
+AF-A0A1D1UVX0-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.15	3.6	0.265	
+5272
+AF-A0A1A8CNH6-F1-model_v4	Uncharacterized protein	Nothobranchius kadleci	0.20	1.7	0.265	
+1194
+AF-A0A5E4QHG6-F1-model_v4	Uncharacterized protein	Leptidea sinapis	0.15	4.6	0.265	
+1206
+AF-A0A6P6NPD2-F1-model_v4	uncharacterized protein LOC113082904	Carassius auratus	0.18	2.9	0.265	
+6278
+AF-A0A183IBB0-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.18	8.7	0.263	
+14213
+AF-A0A060W158-F1-model_v4	Ig-like domain-containing protein	Oncorhynchus mykiss	0.16	8.2	0.263	
+2244
+AF-A0A6J2PQR5-F1-model_v4	immunoglobulin-like and fibronectin type III domain-containing protein 1	Cottoperca gobio	0.21	1.6	0.263	
+13252
+AF-A0A6J3KSI8-F1-model_v4	Peroxidase	Bombus vosnesenskii	0.21	5.3	0.263	
+13260
+AF-A0A672TUX9-F1-model_v4	Uncharacterized LOC115611004	Strigops habroptila	0.09	4.6	0.262	
+113255
+AF-A0A6J0BKC0-F1-model_v4	single Ig IL-1-related receptor-like	Neodiprion lecontei	0.11	8.7	0.261	
+81228
+AF-A0A4S8TIL9-F1-model_v4	Uncharacterized protein	Aureobasidium pullulans	0.20	2	0.261	
+20247
+AF-A0A3Q2Z609-F1-model_v4	Leucine rich repeat containing 4B	Hippocampus comes	0.14	7.2	0.261	
+23266
+AF-A0A091D668-F1-model_v4	Receptor protein-tyrosine kinase	Fukomys damarensis	0.20	3.5	0.261	
+1271
+AF-A0A315VZ08-F1-model_v4	Protein-tyrosine-phosphatase	Gambusia affinis	0.16	1.4	0.259	
+22279
+AF-U3J2Y2-F1-model_v4	Neuregulin 1	Anas platyrhynchos platyrhynchos	0.14	9.8	0.259	
+3169
+AF-A0A3P8AW94-F1-model_v4	Uncharacterized protein	Heligmosomoides polygyrus	0.20	1.4	0.259	
+11279
+AF-A0A7W7PEE6-F1-model_v4	Uncharacterized protein	Streptomyces netropsis	0.11	2.2	0.259	
+19278
+AF-A0A093NIM1-F1-model_v4	Titin	Pygoscelis adeliae	0.14	5.6	0.258	
+1264
+AF-A0A060WGR8-F1-model_v4	Uncharacterized protein	Oncorhynchus mykiss	0.15	6.4	0.258	
+6195
+AF-A0A672TEW0-F1-model_v4	Interleukin 1 receptor type 1	Strigops habroptila	0.11	6	0.257	
+21194
+AF-A0A060WA08-F1-model_v4	Ig-like domain-containing protein	Oncorhynchus mykiss	0.11	6.3	0.256	
+7206
+AF-A0A2V8LG62-F1-model_v4	Ig-like domain-containing protein	Acidobacteria bacterium	0.20	3.8	0.256	
+3224
+AF-A0A2I2UXI1-F1-model_v4	Leucine rich repeat and Ig domain containing 3	Felis catus	0.14	12.3	0.256	
+17213
+AF-A0A315W2W3-F1-model_v4	Ig-like domain-containing protein	Gambusia affinis	0.13	23.2	0.256	
+2116
+AF-A0A1D1UXL3-F1-model_v4	Ig-like domain-containing protein	Ramazzottius varieornatus	0.16	4.4	0.255	
+8235
+AF-Q83FS9-F1-model_v4	WND domain-containing protein	Tropheryma whipplei str. Twist	0.13	2.9	0.254	
+8226
+AF-A0A821XNC3-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.14	3.4	0.253	
+27213
+AF-A0A1D1V5N1-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.16	2	0.253	
+1270
+AF-A0A673N7F1-F1-model_v4	Fibroblast growth factor receptor	Sinocyclocheilus rhinocerous	0.14	3.7	0.252	
+3274
+AF-A0A315VZR9-F1-model_v4	Ig-like domain-containing protein	Gambusia affinis	0.15	5.7	0.252	
+1273
+AF-A0A315VQG8-F1-model_v4	Ig-like domain-containing protein	Gambusia affinis	0.11	19.8	0.251	
+5114
+AF-A0A158QLB2-F1-model_v4	Uncharacterized protein	Haemonchus placei	0.18	4	0.251	
+4270
+AF-A0A093P320-F1-model_v4	Fibroblast growth factor receptor 4	Pygoscelis adeliae	0.11	4.1	0.250	
+86255
+AF-A0A3Q2GII2-F1-model_v4	Uncharacterized protein	Cyprinodon variegatus	0.11	8	0.250	
+4208
+AF-A0A0Q9TB02-F1-model_v4	ZnMc domain-containing protein	Nocardioides sp. Soil805	0.11	6.3	0.248	
+54225
+AF-U3IZ81-F1-model_v4	Semaphorin 3G	Anas platyrhynchos platyrhynchos	0.16	4.1	0.248	
+16264
+AF-G9L1F9-F1-model_v4	Polycystic kidney disease 1-like isoform a	Mustela putorius furo	0.15	4	0.248	
+30236
+AF-A0A819LAX8-F1-model_v4	Hypothetical protein	Adineta steineri	0.13	2.4	0.248	
+7203
+AF-W5MXK8-F1-model_v4	Interleukin-1 receptor-like 1	Lepisosteus oculatus	0.10	7.3	0.247	
+12195
+AF-A0A3B4X2B4-F1-model_v4	Leucine-rich repeat neuronal protein 3-like	Seriola lalandi dorsalis	0.12	12.9	0.247	
+27206
+AF-A0A1K1T5G1-F1-model_v4	Caspase domain-containing protein	Amycolatopsis australiensis	0.13	3.1	0.246	
+22279
+AF-A0A0A1WVS7-F1-model_v4	Muscle M-line assembly protein unc-89	Zeugodacus cucurbitae	0.16	2.6	0.244	
+7279
+AF-A0A7K8TMI9-F1-model_v4	LRRN1 protein	Oceanites oceanicus	0.13	13.6	0.241	
+27206
+AF-A0A3P7X260-F1-model_v4	Peroxidase	Heligmosomoides polygyrus	0.15	10.4	0.240	
+51210
+AF-A0A6A4TJ20-F1-model_v4	Ig-like domain-containing protein	Scophthalmus maximus	0.13	3.1	0.239	
+1249
+AF-A0A7R9ETJ2-F1-model_v4	Hypothetical protein	Timema bartmani	0.13	6.1	0.239	
+6211
+AF-A0A673NKE3-F1-model_v4	Fibroblast growth factor receptor	Sinocyclocheilus rhinocerous	0.12	8.2	0.238	
+50241
+AF-A0A0A1XC41-F1-model_v4	Vascular endothelial growth factor receptor 1	Zeugodacus cucurbitae	0.11	5.1	0.238	
+22216
+AF-A0A257DFA1-F1-model_v4	Uncharacterized protein	Burkholderiales bacterium PBB1	0.10	5.8	0.237	
+62246
+AF-A0A1B0CEU7-F1-model_v4	Putative tyrosine-protein kinase-like otk	Lutzomyia longipalpis	0.13	5.1	0.234	
+3159
+AF-A0A672U8E2-F1-model_v4	Vascular endothelial growth factor receptor 3	Strigops habroptila	0.14	3.3	0.231	
+22275
+AF-A0A7M7NSA2-F1-model_v4	Uncharacterized protein	Strongylocentrotus purpuratus	0.14	2.6	0.230	
+5196
+AF-A0A0A1X9D3-F1-model_v4	Muscle M-line assembly protein unc-89	Zeugodacus cucurbitae	0.13	4	0.230	
+2267
+AF-A0A091D6S6-F1-model_v4	Leucine-rich repeat-containing protein 4B	Fukomys damarensis	0.15	22.9	0.230	
+2122
+AF-A0A5S6QWG1-F1-model_v4	Uncharacterized protein	Trichuris muris	0.14	4.4	0.229	
+4275
+AF-A0A5J5DR90-F1-model_v4	Ig-like domain-containing protein	Etheostoma spectabile	0.14	2.7	0.229	
+3210
+AF-G7NXC8-F1-model_v4	Uncharacterized protein	Macaca fascicularis	0.13	1.4	0.227	
+7271
+AF-A0A2I2UDG1-F1-model_v4	Striated muscle enriched protein kinase	Felis catus	0.12	3.2	0.226	
+18263
+AF-A0A6A4TG87-F1-model_v4	Ig-like domain-containing protein	Scophthalmus maximus	0.12	8.3	0.226	
+23264
+AF-A0A0K8WAZ0-F1-model_v4	Muscle M-line assembly protein unc-89	Bactrocera latifrons	0.14	4.3	0.225	
+1195
+AF-A0A315WMR7-F1-model_v4	Gap junction protein	Gambusia affinis	0.12	5.4	0.224	
+2219
+AF-A0A1D1V7D9-F1-model_v4	Uncharacterized protein	Ramazzottius varieornatus	0.13	5.1	0.224	
+6264
+AF-A0A0P4VKD0-F1-model_v4	Putative carboxypeptidase inhibitor smci	Rhodnius neglectus	0.12	6.3	0.217	
+14272
+AF-A0A0P7FP76-F1-model_v4	Uncharacterized protein	Vibrio alginolyticus	0.09	3.2	0.217	
+15214
+AF-A0A443IS46-F1-model_v4	DD-transpeptidase	Siminovitchia fortis	0.09	1.1	0.208	
+43217
+AF-A0A7L5BVR9-F1-model_v4	Uncharacterized protein	Pikeienuella piscinae	0.10	3.6	0.206	
+1162
