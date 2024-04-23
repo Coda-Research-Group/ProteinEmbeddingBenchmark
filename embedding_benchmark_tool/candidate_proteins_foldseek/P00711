@@ -1,0 +1,2004 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR ALPHA-LACTALBUMIN (P00711)
+AFDB50 999 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-P81646-F1-model_v4	Alpha-lactalbumin	Tachyglossus aculeatus aculeatus	0.98	46	0.852	
+20139
+AF-M3XHF1-F1-model_v4	Lysozyme	Latimeria chalumnae	0.99	30.8	0.849	
+4142
+AF-A0A3R5YJJ1-F1-model_v4	Lysozyme	Clarias gariepinus	0.98	35.9	0.849	
+19142
+AF-A0A4W2EMQ5-F1-model_v4	Alpha-lactalbumin	Bos indicus x Bos taurus	1.00	89	0.847	
+1142
+AF-G8HWZ3-F1-model_v4	Lysozyme C	Carassius auratus	0.98	30.1	0.845	
+17139
+AF-A0A7K8VXT5-F1-model_v4	Lysozyme	Sclerurus mexicanus	0.98	35.4	0.844	
+19141
+AF-A0A852FRD8-F1-model_v4	LYSC protein	Peucedramus taeniatus	0.98	35.4	0.841	
+19141
+AF-H9NKK4-F1-model_v4	Lysozyme C	Labeo catla	0.98	32	0.841	
+14138
+AF-A0A023FPB8-F1-model_v4	Putative lysozyme	Amblyomma cajennense	0.99	29.6	0.841	
+2142
+AF-P00708-F1-model_v4	Lysozyme C	Columba livia	0.98	37.7	0.839	
+20141
+AF-Q29145-F1-model_v4	Alpha-lactalbumin	Trichosurus vulpecula	0.99	45.4	0.838	
+1139
+AF-P85345-F1-model_v4	Lysozyme C	Amyda cartilaginea	0.98	36.4	0.838	
+20142
+AF-P16973-F1-model_v4	Lysozyme C	Oryctolagus cuniculus	0.98	36.4	0.834	
+20142
+AF-P37156-F1-model_v4	Lysozyme C I	Tachyglossus aculeatus aculeatus	0.98	45.6	0.833	
+20139
+AF-A0A3B1JSE8-F1-model_v4	Lysozyme	Astyanax mexicanus	0.99	27.4	0.829	
+7142
+AF-A0A7K8CNX7-F1-model_v4	Lysozyme	Eulacestoma nigropectus	0.99	33.8	0.829	
+7141
+AF-A0A402FP39-F1-model_v4	Sperm acrosome membrane-associated protein 3	Paroedura picta	0.98	34.1	0.826	
+19142
+AF-Q9TTU7-F1-model_v4	Alpha-lactalbumin	Cervus elaphus xanthopygus	0.90	97.9	0.823	
+46142
+AF-A0A444U6E3-F1-model_v4	Lysozyme	Acipenser ruthenus	0.98	41	0.823	
+19142
+AF-A0A2Y9EJ32-F1-model_v4	Lysozyme	Physeter catodon	0.99	34.3	0.821	
+17142
+AF-P07458-F1-model_v4	Alpha-lactalbumin	Notamacropus rufogriseus	0.97	46.4	0.820	
+20139
+AF-P00714-F1-model_v4	Alpha-lactalbumin	Rattus norvegicus	0.99	63	0.818	
+13142
+AF-A0A3Q7WVD3-F1-model_v4	lysozyme-like protein 6	Ursus arctos horribilis	0.99	30.7	0.817	
+1142
+AF-A0A674I509-F1-model_v4	Sperm acrosome membrane-associated protein 3	Terrapene carolina triunguis	0.98	35.1	0.815	
+17142
+AF-Q69B59-F1-model_v4	Alpha-lactalbumin	Balaenoptera acutorostrata	0.85	80.6	0.814	
+24116
+AF-Q29575-F1-model_v4	Lysozyme	Sus scrofa	0.94	43.6	0.810	
+20125
+AF-I3PU22-F1-model_v4	Lysozyme C	Systomus sarana	0.93	33.3	0.809	
+24129
+AF-A0A3N0YAA9-F1-model_v4	Lysozyme C	Anabarilius grahami	0.97	29.7	0.807	
+7131
+AF-P85045-F1-model_v4	Lysozyme C	Bufo gargarizans andrewsi	0.99	38.5	0.806	
+15142
+AF-W5KVZ7-F1-model_v4	Lysozyme	Astyanax mexicanus	0.99	34.4	0.805	
+6142
+AF-P51782-F1-model_v4	Lysozyme C	Trichosurus vulpecula	0.99	37.2	0.803	
+19142
+AF-A0A851WT27-F1-model_v4	LYSC protein	Corvus moneduloides	0.96	38.8	0.803	
+7123
+AF-A0A6J0U030-F1-model_v4	Lysozyme	Pogona vitticeps	0.99	35.6	0.803	
+17142
+AF-F7BW92-F1-model_v4	Lysozyme	Ornithorhynchus anatinus	0.93	46.7	0.802	
+34139
+AF-A0A3Q1HNL3-F1-model_v4	Lysozyme	Anabas testudineus	0.98	36.6	0.802	
+17142
+AF-A0A452SSC5-F1-model_v4	Lysozyme	Ursus americanus	0.99	37.5	0.801	
+6142
+AF-A0A6J1UWZ9-F1-model_v4	Lysozyme	Notechis scutatus	0.98	34.6	0.801	
+18142
+AF-A0A485NLA8-F1-model_v4	Lactose synthase B protein	Lynx pardinus	0.99	72.2	0.800	
+17142
+AF-A0A452H0T7-F1-model_v4	Lysozyme	Gopherus agassizii	0.99	34.6	0.800	
+18142
+AF-B8R1K4-F1-model_v4	Lysozyme	Bos grunniens	0.98	36.8	0.800	
+5137
+AF-A0A401RJR9-F1-model_v4	Lysozyme	Chiloscyllium punctatum	0.99	28	0.799	
+15142
+AF-A0A3B3Q923-F1-model_v4	Lysozyme	Paramormyrops kingsleyae	0.98	37.4	0.799	
+17142
+AF-Q29RT1-F1-model_v4	Lysozyme-like protein 6	Bos taurus	0.99	31.6	0.799	
+13142
+AF-A0A851SUH2-F1-model_v4	LYSC protein	Nothocercus nigrocapillus	0.92	40.7	0.798	
+20123
+AF-A0A401PQ69-F1-model_v4	Lysozyme	Scyliorhinus torazame	0.97	37.2	0.798	
+25142
+AF-F7D6D7-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Ornithorhynchus anatinus	0.99	38.1	0.797	
+18142
+AF-B4H5I8-F1-model_v4	GL16157	Drosophila persimilis	0.96	28.8	0.797	
+22142
+AF-A0A023FMM3-F1-model_v4	Putative lysozyme	Amblyomma cajennense	0.98	29.6	0.796	
+2142
+AF-A0A7J7FKI2-F1-model_v4	Lactose synthase B protein	Diceros bicornis minor	0.97	58.1	0.795	
+1123
+AF-A0A5J6SUJ6-F1-model_v4	Lysozyme	Nothobranchius guentheri	0.94	40.3	0.795	
+31139
+AF-P61634-F1-model_v4	Lysozyme C	Erythrocebus patas	0.99	36.9	0.795	
+19142
+AF-A0A672HF83-F1-model_v4	Lysozyme	Salarias fasciatus	0.98	37.6	0.794	
+18142
+AF-A0A452IFV3-F1-model_v4	Lysozyme	Gopherus agassizii	0.99	37.8	0.794	
+17142
+AF-Q9GLA6-F1-model_v4	Alpha-lactalbumin	Cephalorhynchus eutropia	0.90	83.6	0.794	
+17114
+AF-A0A6J0TXX2-F1-model_v4	Lysozyme	Pogona vitticeps	0.99	32.8	0.793	
+18142
+AF-W5KW10-F1-model_v4	Lysozyme	Astyanax mexicanus	0.95	34.4	0.793	
+23142
+AF-A0A6J0TXJ5-F1-model_v4	Sperm acrosome membrane-associated protein 3	Pogona vitticeps	0.98	32.3	0.793	
+19142
+AF-A0A6P9DCI5-F1-model_v4	Sperm acrosome membrane-associated protein 3	Pantherophis guttatus	0.98	31.5	0.792	
+18142
+AF-P61627-F1-model_v4	Lysozyme C	Pan paniscus	0.98	34.6	0.790	
+19142
+AF-G1KF47-F1-model_v4	Lysozyme	Anolis carolinensis	0.98	35	0.788	
+14142
+AF-F1MC59-F1-model_v4	Lysozyme	Bos taurus	0.98	35.1	0.787	
+17142
+AF-G1PZX7-F1-model_v4	Lysozyme	Myotis lucifugus	0.98	39.5	0.787	
+16142
+AF-A0A6J3QMS3-F1-model_v4	lysozyme-like protein 6	Tursiops truncatus	0.99	28.8	0.784	
+2142
+AF-Q90WE9-F1-model_v4	Hibernation related protein	Lithobates catesbeianus	0.97	29	0.784	
+15141
+AF-A0A2K6AXK6-F1-model_v4	1,4-beta-N-acetylmuramidase C	Macaca nemestrina	0.95	30.5	0.781	
+26142
+AF-A0A3Q2E2A5-F1-model_v4	Lysozyme	Cyprinodon variegatus	0.98	36.6	0.781	
+17142
+AF-Q6XHI6-F1-model_v4	Similar to Drosophila melanogaster LysS	Drosophila yakuba	0.96	30.2	0.779	
+18142
+AF-A0A6P9D2I5-F1-model_v4	Lysozyme	Pantherophis guttatus	0.98	32.1	0.778	
+13142
+AF-A0A6P7XUT5-F1-model_v4	Lysozyme	Microcaecilia unicolor	0.92	28.5	0.778	
+32141
+AF-D4ABW7-F1-model_v4	Lysozyme-like protein 4	Rattus norvegicus	0.98	32	0.777	
+16142
+AF-A0A3Q2HXW9-F1-model_v4	Lactose synthase B protein	Equus caballus	0.97	60.4	0.777	
+22142
+AF-G5AXP3-F1-model_v4	Sperm acrosome-associated protein 5	Heterocephalus glaber	0.97	31.7	0.777	
+19136
+AF-G3IM39-F1-model_v4	Lactose synthase B protein	Cricetulus griseus	0.95	62.7	0.777	
+15123
+AF-A0A6P7WXE7-F1-model_v4	Lysozyme	Microcaecilia unicolor	0.99	38.7	0.776	
+18142
+AF-A0A023GMI0-F1-model_v4	Putative alpha-lactalbumin / lysozyme c	Amblyomma triste	0.97	26.8	0.776	
+3142
+AF-A0A3L7II73-F1-model_v4	1,4-beta-N-acetylmuramidase C	Cricetulus griseus	0.98	34.2	0.776	
+2142
+AF-A1ZAB8-F1-model_v4	GEO02684p1	Drosophila melanogaster	0.98	29.1	0.775	
+3142
+AF-L7MA68-F1-model_v4	Putative lysozyme	Rhipicephalus pulchellus	0.97	26.7	0.775	
+6142
+AF-A0A3Q0RZ31-F1-model_v4	Lysozyme	Amphilophus citrinellus	0.98	35.8	0.774	
+17142
+AF-A0A3B1JNX5-F1-model_v4	Lysozyme	Astyanax mexicanus	0.97	33.8	0.773	
+14142
+AF-A0A6J1VHA0-F1-model_v4	Lysozyme	Notechis scutatus	0.97	35.3	0.773	
+17142
+AF-P82174-F1-model_v4	Lysozyme	Galleria mellonella	0.94	28.3	0.773	
+20141
+AF-A0A4X1VXD1-F1-model_v4	Lysozyme	Sus scrofa	0.97	40.6	0.772	
+17136
+AF-A0A0A1WYN2-F1-model_v4	Lysozyme D	Zeugodacus cucurbitae	0.97	26.9	0.771	
+17142
+AF-A0A212DFY0-F1-model_v4	Alpha-lactalbumin	Cervus elaphus hippelaphus	0.94	88.9	0.771	
+35142
+AF-G3MMW7-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Amblyomma maculatum	0.97	27.8	0.770	
+1142
+AF-G3MMW6-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Amblyomma maculatum	0.97	27.1	0.770	
+1142
+AF-A0A328B3F2-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Hymenobacter edaphi	0.96	27.9	0.769	
+18142
+AF-A0A384BK51-F1-model_v4	Lysozyme	Ursus maritimus	0.99	34.2	0.769	
+6142
+AF-F2Z7L0-F1-model_v4	Lysozyme	Haemaphysalis longicornis	0.97	26.3	0.769	
+1142
+AF-A0A811Y331-F1-model_v4	(raccoon dog) hypothetical protein	Nyctereutes procyonoides	0.99	29.6	0.768	
+4142
+AF-A0A1A9X9S5-F1-model_v4	Lysozyme	Glossina fuscipes fuscipes	0.97	27.9	0.768	
+13142
+AF-A0A6J0BTF3-F1-model_v4	lysozyme-like	Neodiprion lecontei	0.98	23.5	0.767	
+1142
+AF-G3T178-F1-model_v4	Lysozyme	Loxodonta africana	0.98	31	0.767	
+17142
+AF-A0A023FWL0-F1-model_v4	Putative lysozyme ixodes scapularis lysozyme	Amblyomma parvum	0.97	28.7	0.767	
+15142
+AF-B7S635-F1-model_v4	Lysozyme C	Labeo rohita	0.80	33.3	0.766	
+46137
+AF-A0A147B990-F1-model_v4	Lysozyme	Alectorobius mimon	0.96	27.4	0.766	
+18142
+AF-A0A6P9F3Y0-F1-model_v4	lysozyme-like protein 6 isoform X2	Zalophus californianus	0.93	31.9	0.766	
+30142
+AF-A0A6I8N971-F1-model_v4	Lysozyme	Ornithorhynchus anatinus	0.96	27.8	0.765	
+4139
+AF-A0A4W2EJ27-F1-model_v4	Lysozyme	Bos indicus x Bos taurus	0.99	38.1	0.764	
+17142
+AF-A0A803SMV6-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.98	26.8	0.764	
+12142
+AF-A0A6I8N664-F1-model_v4	Uncharacterized protein	Ornithorhynchus anatinus	0.99	36.6	0.763	
+17142
+AF-G1Q6Q5-F1-model_v4	Uncharacterized protein	Myotis lucifugus	0.85	32	0.762	
+43142
+AF-G3MMW8-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Amblyomma maculatum	0.97	29.7	0.760	
+16142
+AF-O97722-F1-model_v4	Alpha-lactalbumin	Hippopotamus amphibius	0.77	62.8	0.760	
+17113
+AF-T1DH93-F1-model_v4	Putative salivary lysozyme	Psorophora albipes	0.96	29.4	0.760	
+17142
+AF-A0A060WS79-F1-model_v4	Lysozyme	Oncorhynchus mykiss	0.93	44.1	0.760	
+17123
+AF-A0A646QDT3-F1-model_v4	Scol-LysoC	Hemiscolopendra marginata	0.97	31	0.760	
+15142
+AF-A0A455BB16-F1-model_v4	Lysozyme	Physeter catodon	0.95	35.1	0.759	
+6123
+AF-A0A452SS98-F1-model_v4	Lactose synthase B protein	Ursus americanus	0.96	62.6	0.758	
+20142
+AF-A0A5F8GZW9-F1-model_v4	Lysozyme	Monodelphis domestica	0.99	33.3	0.758	
+18142
+AF-H9GKL4-F1-model_v4	Lysozyme	Anolis carolinensis	0.99	34.8	0.758	
+17142
+AF-A0A7R8UXH6-F1-model_v4	Hypothetical protein	Hermetia illucens	0.97	31.3	0.758	
+15142
+AF-A2AE20-F1-model_v4	Sperm acrosome-associated protein 5	Mus musculus	0.98	31	0.758	
+19142
+AF-C0HLB7-F1-model_v4	Lysozyme 2	Lucilia sericata	0.97	27.6	0.758	
+13142
+AF-A0A6J1MUJ9-F1-model_v4	1,4-beta-N-acetylmuramidase	Bicyclus anynana	0.97	26.8	0.758	
+2142
+AF-A0A6P5VP40-F1-model_v4	lysozyme B-like	Drosophila obscura	0.97	27.4	0.758	
+13142
+AF-P05105-F1-model_v4	Lysozyme	Hyalophora cecropia	0.97	26.8	0.757	
+6141
+AF-V4AQL2-F1-model_v4	Uncharacterized protein	Lottia gigantea	0.97	24	0.757	
+17142
+AF-H3AT74-F1-model_v4	Lysozyme	Latimeria chalumnae	0.97	29.1	0.757	
+19142
+AF-A0A2K5TVB4-F1-model_v4	Sperm acrosome membrane-associated protein 3	Macaca fascicularis	0.90	30	0.756	
+34142
+AF-A0A1A8UPG4-F1-model_v4	Lysozyme	Nothobranchius furzeri	0.98	37.3	0.755	
+15142
+AF-W5NZE3-F1-model_v4	Lysozyme like 4	Ovis aries	0.98	29.4	0.755	
+13142
+AF-A0A3M0JF33-F1-model_v4	Lysozyme	Hirundo rustica rustica	0.92	33.6	0.755	
+27137
+AF-R4GBZ2-F1-model_v4	Lysozyme	Anolis carolinensis	0.98	29.4	0.755	
+19142
+AF-A6QQ77-F1-model_v4	Sperm acrosome membrane-associated protein 3	Bos taurus	0.98	35.3	0.754	
+18142
+AF-A0A0K8W3M0-F1-model_v4	Lysozyme D	Bactrocera latifrons	0.84	30	0.753	
+42142
+AF-A0A3Q1M555-F1-model_v4	Alpha-lactalbumin	Bos taurus	0.99	67.5	0.751	
+7142
+AF-A0A4W2GGM6-F1-model_v4	Alpha-lactalbumin	Bos indicus x Bos taurus	0.99	89	0.751	
+9136
+AF-G3U6D0-F1-model_v4	Lysozyme	Loxodonta africana	0.98	36.9	0.751	
+19142
+AF-A0A6P9AIP9-F1-model_v4	lysozyme 2-like	Thrips palmi	0.97	22.5	0.751	
+10142
+AF-A0A6L5CET0-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Ephemera danica	0.97	29.4	0.750	
+18141
+AF-Q06655-F1-model_v4	Alpha-lactalbumin	Notamacropus eugenii	0.96	46	0.750	
+20139
+AF-A0A6P5ACA9-F1-model_v4	lysozyme c-1-like	Branchiostoma belcheri	0.96	28.7	0.750	
+17142
+AF-A0A6I8VV09-F1-model_v4	lysozyme P	Drosophila pseudoobscura pseudoobscura	0.97	29.5	0.750	
+7142
+AF-Q4TCT5-F1-model_v4	Lysozyme	Tetraodon nigroviridis	0.82	37	0.750	
+46142
+AF-A0A2I2YU52-F1-model_v4	Sperm acrosome membrane-associated protein 3	Gorilla gorilla gorilla	0.89	29.4	0.750	
+35142
+AF-A0A3B1JSF8-F1-model_v4	Lysozyme	Astyanax mexicanus	0.96	34.4	0.750	
+23142
+AF-A0A226PTZ8-F1-model_v4	Lysozyme C	Colinus virginianus	0.93	39.4	0.749	
+19123
+AF-A0A5F4W5G7-F1-model_v4	Lysozyme	Callithrix jacchus	0.99	34.3	0.749	
+17142
+AF-A0A0A1WWF9-F1-model_v4	Lysozyme P	Zeugodacus cucurbitae	0.97	25.9	0.748	
+17142
+AF-A0A7E4RK29-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Cimex lectularius	0.97	20.7	0.748	
+1141
+AF-A0A1I8P6X4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Stomoxys calcitrans	0.97	26.9	0.747	
+18142
+AF-A0A3B3T4T9-F1-model_v4	Lysozyme C-like	Paramormyrops kingsleyae	0.99	30.5	0.747	
+17142
+AF-A0A6I8NPL6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Ornithorhynchus anatinus	0.99	34.1	0.747	
+19142
+AF-A0A485N227-F1-model_v4	Lysozyme	Lynx pardinus	0.99	26.9	0.747	
+1142
+AF-Q672J4-F1-model_v4	AAEL003712-PA	Aedes aegypti	0.97	29.4	0.747	
+19142
+AF-A0A7D5D3I9-F1-model_v4	Pedal mucus protein 9	Patella vulgata	0.97	26.8	0.747	
+17142
+AF-A0A6I9KZK9-F1-model_v4	lysozyme-like protein 6 isoform X1	Peromyscus maniculatus bairdii	0.98	31.3	0.747	
+15142
+AF-A0A4U1EER2-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Monodon monoceros	0.93	34.2	0.746	
+15123
+AF-A0A3Q3Q148-F1-model_v4	Lysozyme	Monopterus albus	0.98	30.7	0.746	
+17142
+AF-A0A5N4C4Y4-F1-model_v4	Lysozyme	Camelus dromedarius	0.93	35.1	0.746	
+17123
+AF-A0A7K8SMX7-F1-model_v4	Sperm acrosome membrane-associated protein 3	Nyctibius bracteatus	0.93	40.3	0.746	
+19123
+AF-A0A2Z2CBW8-F1-model_v4	Lysozyme	Haliotis diversicolor	0.97	27.4	0.745	
+19142
+AF-A0A671FIA3-F1-model_v4	Lysozyme	Rhinolophus ferrumequinum	0.93	30.8	0.745	
+20137
+AF-A0A5F5XN65-F1-model_v4	Sperm acrosome-associated protein 5	Felis catus	0.97	27.5	0.744	
+19139
+AF-A0A6I8PXE3-F1-model_v4	Lysozyme C	Xenopus tropicalis	0.98	34.8	0.744	
+15142
+AF-A0A212DF22-F1-model_v4	Lysozyme	Cervus elaphus hippelaphus	0.84	34.6	0.743	
+46142
+AF-A0A672G4A2-F1-model_v4	Lysozyme	Salarias fasciatus	0.98	37.2	0.743	
+19142
+AF-A0A7R8UXB2-F1-model_v4	Hypothetical protein	Hermetia illucens	0.96	30.7	0.743	
+17142
+AF-A0A4D9DXN6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Platysternon megacephalum	0.92	32.1	0.742	
+19123
+AF-A0A023EFF7-F1-model_v4	Putative c-type lysozyme	Aedes albopictus	0.97	30.5	0.741	
+18142
+AF-A0A1L8E692-F1-model_v4	Putative lysozyme 1	Haematobia irritans	0.82	32.6	0.741	
+44142
+AF-B4MXY0-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila willistoni	0.96	27.6	0.740	
+17142
+AF-A0A7M4EKB2-F1-model_v4	Sperm acrosome membrane-associated protein 3	Crocodylus porosus	0.96	32.7	0.740	
+18133
+AF-A0A6J0U4N4-F1-model_v4	Sperm acrosome membrane-associated protein 3	Pogona vitticeps	0.98	34.1	0.740	
+19142
+AF-A0A2P1M9K7-F1-model_v4	Chicken-type lysozyme	Procambarus clarkii	0.96	28.4	0.740	
+18142
+AF-A0A452V535-F1-model_v4	Lysozyme	Ursus maritimus	0.99	35.3	0.739	
+4142
+AF-A0A6P9D2W0-F1-model_v4	Lysozyme	Pantherophis guttatus	0.92	36.3	0.739	
+18123
+AF-U5EQF8-F1-model_v4	Putative lysozyme c-4 lysozyme c-4	Corethrella appendiculata	0.96	34.1	0.739	
+18142
+AF-A0A2K5RLZ0-F1-model_v4	Lysozyme	Cebus imitator	0.99	25.9	0.738	
+12142
+AF-A0A6J1TBU6-F1-model_v4	sperm acrosome-associated protein 5-like	Frankliniella occidentalis	0.82	31.3	0.738	
+46142
+AF-A0A151PFN0-F1-model_v4	Lysozyme	Alligator mississippiensis	0.95	33	0.738	
+30142
+AF-G1KVM9-F1-model_v4	Lysozyme	Anolis carolinensis	0.98	36.6	0.738	
+17142
+AF-F5GTS1-F1-model_v4	Salivary lysozyme	Simulium guianense	0.96	28.9	0.738	
+4141
+AF-A0A6J2YSG9-F1-model_v4	lysozyme-like	Sitophilus oryzae	0.93	27.3	0.738	
+18141
+AF-A0A6I8N7M7-F1-model_v4	Lysozyme	Ornithorhynchus anatinus	0.97	33.3	0.738	
+17142
+AF-P48816-F1-model_v4	Lysozyme	Bombyx mori	0.95	30.7	0.738	
+19142
+AF-A0A091T5M5-F1-model_v4	Lysozyme	Pelecanus crispus	0.87	27.1	0.738	
+36142
+AF-Q4RZF0-F1-model_v4	Lysozyme	Tetraodon nigroviridis	0.98	36.2	0.737	
+15142
+AF-A0A7R8UXA6-F1-model_v4	Hypothetical protein	Hermetia illucens	0.95	30	0.737	
+18142
+AF-A0A6J1PBX1-F1-model_v4	1,4-beta-N-acetylmuramidase	Bicyclus anynana	0.95	29.4	0.737	
+17141
+AF-A0A6I9YGT1-F1-model_v4	Lysozyme	Thamnophis sirtalis	0.92	33.6	0.736	
+18123
+AF-A1Z9D5-F1-model_v4	IP06881p	Drosophila melanogaster	0.98	27.8	0.736	
+3142
+AF-A0A811V8E7-F1-model_v4	(Mediterranean fruit fly) hypothetical protein	Ceratitis capitata	0.90	28.3	0.736	
+32142
+AF-L7X3S6-F1-model_v4	Alpha-lactalbumin	Stenella frontalis	0.51	79.7	0.736	
+2194
+AF-A0A0U1S886-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Isometrus maculatus	0.96	29	0.735	
+19142
+AF-A0A3B0J1U0-F1-model_v4	Blast:Lysozyme P	Drosophila guanche	0.98	28.2	0.735	
+7142
+AF-A0A401Q2C4-F1-model_v4	Lysozyme	Scyliorhinus torazame	0.77	38.3	0.734	
+46142
+AF-A0A2D0QJL2-F1-model_v4	Lysozyme	Ictalurus punctatus	0.66	38.6	0.734	
+37123
+AF-A0A6A0GZL0-F1-model_v4	Uncharacterized protein	Hyalella azteca	0.92	32	0.733	
+18142
+AF-A0A2M3ZYC4-F1-model_v4	Putative lysozyme	Anopheles triannulatus	0.96	31.7	0.733	
+18142
+AF-A0A5N3X1H6-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Muntiacus reevesi	0.97	25.3	0.732	
+1142
+AF-A0A7R9M157-F1-model_v4	Hypothetical protein	Oppiella nova	0.87	33.3	0.732	
+19125
+AF-A0A1A9X9S4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Glossina fuscipes fuscipes	0.97	25.5	0.732	
+19142
+AF-A0A7M4EAF9-F1-model_v4	Sperm acrosome membrane-associated protein 3	Crocodylus porosus	0.95	25.7	0.731	
+22142
+AF-A0A4W2ED78-F1-model_v4	Lysozyme	Bos indicus x Bos taurus	0.98	33.3	0.731	
+17141
+AF-A0A226F3Y0-F1-model_v4	Lysozyme	Folsomia candida	0.96	28.2	0.731	
+1142
+AF-A0A3B3XS52-F1-model_v4	Lysozyme	Poecilia mexicana	0.98	34.5	0.731	
+13142
+AF-A0A6P3F5C0-F1-model_v4	1,4-beta-N-acetylmuramidase C	Octodon degus	0.90	33	0.731	
+36142
+AF-A0A0Q9XLD1-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila mojavensis	0.97	28.4	0.731	
+13142
+AF-L9LDP7-F1-model_v4	Lysozyme	Tupaia chinensis	0.99	27.1	0.730	
+14142
+AF-A0A240PMQ9-F1-model_v4	Lysozyme	Anopheles atroparvus	0.95	33.8	0.730	
+18142
+AF-A0A1I8MHY6-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Musca domestica	0.97	20.5	0.729	
+1142
+AF-A0A3Q7XR53-F1-model_v4	sperm acrosome-associated protein 5 isoform X1	Ursus arctos horribilis	0.95	24.4	0.728	
+19142
+AF-A0A0L0C9G9-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Lucilia cuprina	0.95	29.2	0.728	
+17142
+AF-Q9GLA2-F1-model_v4	Alpha-lactalbumin	Inia geoffrensis	0.44	81.9	0.728	
+40111
+AF-A0A6J2MAW6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Phyllostomus discolor	0.96	21.9	0.728	
+23142
+AF-A0A2M4AYK0-F1-model_v4	Putative lysozyme	Anopheles triannulatus	0.85	34.5	0.728	
+18122
+AF-A0A2P4SNM5-F1-model_v4	Lysozyme C	Bambusicola thoracicus	0.93	30.2	0.728	
+19142
+AF-A0A670Z7Y7-F1-model_v4	Lysozyme	Pseudonaja textilis	0.89	29.1	0.727	
+19132
+AF-A0A5N3XXK3-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Muntiacus reevesi	0.94	28.5	0.726	
+16131
+AF-M3YPS2-F1-model_v4	Uncharacterized protein	Mustela putorius furo	0.98	31.7	0.726	
+19142
+AF-A0A6P7WBC4-F1-model_v4	lysozyme C-1/C-2-like	Ixodes scapularis	0.97	24	0.725	
+14142
+AF-R4GBQ6-F1-model_v4	Lysozyme	Anolis carolinensis	0.91	28.4	0.725	
+18123
+AF-A0A3Q7NKD3-F1-model_v4	lysozyme-like protein 6	Callorhinus ursinus	0.93	21.9	0.724	
+8127
+AF-A0A499U6F4-F1-model_v4	C-type lysozyme	Plautia stali	0.94	22.5	0.724	
+15142
+AF-A0A7M4EHK8-F1-model_v4	Lysozyme	Crocodylus porosus	0.97	30.3	0.724	
+18142
+AF-A0A4X2K5L6-F1-model_v4	Lysozyme	Vombatus ursinus	0.99	38.4	0.724	
+18142
+AF-A0A834KLL1-F1-model_v4	Uncharacterized protein	Vespula vulgaris	0.96	30	0.724	
+16142
+AF-A0A2I3H6E0-F1-model_v4	Sperm acrosome membrane-associated protein 3	Nomascus leucogenys	0.90	30.3	0.723	
+35142
+AF-A0A2K6EF04-F1-model_v4	Lysozyme	Propithecus coquereli	0.98	35.1	0.723	
+17142
+AF-A0A1L3GWJ6-F1-model_v4	Alpha-lactalbumin	Balaenoptera acutorostrata	0.35	80.3	0.723	
+53118
+AF-A0A803SML6-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.89	35.9	0.722	
+15123
+AF-A0A0L0BNQ5-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Lucilia cuprina	0.97	27.2	0.722	
+15142
+AF-A0A6A0H143-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Hyalella azteca	0.96	32	0.721	
+18142
+AF-A0A0Q9WP51-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila willistoni	0.99	23.9	0.721	
+1142
+AF-Q16TW8-F1-model_v4	AAEL010100-PB	Aedes aegypti	0.95	30.7	0.720	
+17142
+AF-A0A6I8NMR9-F1-model_v4	Lactose synthase B protein	Ornithorhynchus anatinus	0.99	36.1	0.720	
+16142
+AF-A0A194Q2X0-F1-model_v4	1,4-beta-N-acetylmuramidase	Papilio xuthus	0.84	26.7	0.720	
+35142
+AF-A0A7J8CZL4-F1-model_v4	Lysozyme like 6	Molossus molossus	1.00	28.8	0.720	
+1142
+AF-A0A0A1WKE6-F1-model_v4	Lysozyme P	Zeugodacus cucurbitae	0.97	30.8	0.720	
+16142
+AF-A0A1L8E2X6-F1-model_v4	Putative lysozyme	Nyssomyia neivai	0.95	32	0.720	
+18141
+AF-A0A667I5Z2-F1-model_v4	Golgi SNAP receptor complex member 2	Lynx canadensis	0.99	30.8	0.720	
+5142
+AF-A0A3Q2ZZD1-F1-model_v4	Lysozyme	Kryptolebias marmoratus	0.85	34.3	0.720	
+44142
+AF-H2MKJ6-F1-model_v4	Lysozyme	Oryzias latipes	0.98	35.8	0.719	
+18142
+AF-A0A6B0R5E9-F1-model_v4	Sperm acrosome membrane-associated protein 3	Bos mutus	0.98	34.6	0.719	
+18142
+AF-A0A5F8G1P2-F1-model_v4	Lactose synthase B protein	Monodelphis domestica	0.96	37	0.719	
+17142
+AF-A0A1V9XSD7-F1-model_v4	Lysozyme C-like	Tropilaelaps mercedesae	0.96	22.7	0.719	
+13142
+AF-A0A7N9DFC1-F1-model_v4	Uncharacterized protein	Macaca fascicularis	0.97	27.1	0.718	
+18142
+AF-V8NWF8-F1-model_v4	Sperm acrosome membrane-associated protein 3	Ophiophagus hannah	0.92	29.9	0.718	
+19130
+AF-A0A7S9KI69-F1-model_v4	Lysc	Lasioderma serricorne	0.94	33.8	0.717	
+18140
+AF-A0A443S8S8-F1-model_v4	Lysozyme-like protein	Leptotrombidium deliense	0.96	25.7	0.717	
+18142
+AF-A0A811XVJ0-F1-model_v4	(raccoon dog) hypothetical protein	Nyctereutes procyonoides	0.91	28.3	0.716	
+20142
+AF-A0A4Y0BP38-F1-model_v4	C type lysozyme	Anopheles funestus	0.96	32.3	0.716	
+17142
+AF-A0A6J0BJA0-F1-model_v4	putative lysozyme C-2	Neodiprion lecontei	0.96	25.1	0.716	
+16142
+AF-A0A6P7GTD2-F1-model_v4	lysozyme-like	Diabrotica virgifera virgifera	0.94	27.6	0.715	
+18142
+AF-A0A226F1D3-F1-model_v4	Lysozyme C	Folsomia candida	0.96	23.4	0.714	
+14142
+AF-A0A6P9DEV5-F1-model_v4	Lysozyme	Pantherophis guttatus	0.90	30.3	0.714	
+35142
+AF-A0A673USF9-F1-model_v4	Sperm acrosome membrane-associated protein 3	Suricata suricatta	0.98	33.8	0.713	
+18142
+AF-A0A091DS47-F1-model_v4	Sperm acrosome membrane-associated protein 3	Fukomys damarensis	0.98	36.6	0.713	
+18142
+AF-A0A3P4PJN0-F1-model_v4	Lysozyme	Gulo gulo	0.95	36.4	0.713	
+8125
+AF-A0A803J884-F1-model_v4	MGC89221 protein	Xenopus tropicalis	0.98	22.2	0.712	
+11141
+AF-A0A6P4KYW2-F1-model_v4	lysozyme X-like	Drosophila bipectinata	0.97	27.6	0.712	
+17142
+AF-A0A3B4CQF1-F1-model_v4	Lysozyme	Pygocentrus nattereri	0.89	30.4	0.711	
+19142
+AF-A0A6B0RJ34-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Bos mutus	0.95	27.6	0.711	
+16133
+AF-A4V9X6-F1-model_v4	LysX	Drosophila simulans	0.96	26.3	0.711	
+18142
+AF-A0A1L8EAF0-F1-model_v4	Putative lysozyme 1-like protein	Haematobia irritans	0.96	29	0.711	
+18142
+AF-A0A833ZR07-F1-model_v4	Sperm acrosome associated 3	Phyllostomus discolor	0.92	36.3	0.711	
+18123
+AF-A0A385NEX3-F1-model_v4	C-type lysozyme	Dialeurodes citri	0.96	23.7	0.710	
+18141
+AF-A0A2D4LAZ6-F1-model_v4	Lysozyme	Micrurus spixii	0.98	27.5	0.710	
+16142
+AF-A0A3B4F4Y4-F1-model_v4	Lysozyme	Pundamilia nyererei	0.98	35.5	0.710	
+15142
+AF-A0A0A1XJ20-F1-model_v4	Lysozyme c-1	Zeugodacus cucurbitae	0.95	29.3	0.710	
+6142
+AF-A0A3Q0JAV9-F1-model_v4	lysozyme 1-like	Diaphorina citri	0.96	23.7	0.709	
+17142
+AF-A0A6B0UWN4-F1-model_v4	Putative alpha-lactalbumin / lysozyme c	Ixodes ricinus	0.96	29.5	0.709	
+19142
+AF-F6V8C8-F1-model_v4	Lactose synthase B protein	Equus caballus	0.95	50.3	0.709	
+20142
+AF-A0A670Z8S5-F1-model_v4	Lysozyme	Pseudonaja textilis	0.91	34.8	0.709	
+18125
+AF-A0A482X354-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Laodelphax striatellus	0.96	28.6	0.709	
+18142
+AF-A0A182XYM2-F1-model_v4	Lysozyme	Anopheles stephensi	0.97	34.3	0.708	
+13142
+AF-C1IIX1-F1-model_v4	Lysozyme C	Penaeus merguiensis	0.96	29.4	0.708	
+19142
+AF-L5JT50-F1-model_v4	Lysozyme	Pteropus alecto	0.95	31	0.708	
+6134
+AF-A7TWT0-F1-model_v4	Lactose synthase B protein	Odobenus rosmarus rosmarus	0.99	44.3	0.707	
+17142
+AF-G9K939-F1-model_v4	Lysozyme	Mustela putorius furo	0.47	38.9	0.707	
+41115
+AF-A0A2I2ZH58-F1-model_v4	1,4-beta-N-acetylmuramidase C	Gorilla gorilla gorilla	0.92	31.4	0.705	
+19129
+AF-A0A7M4E9G5-F1-model_v4	Sperm acrosome membrane-associated protein 3	Crocodylus porosus	0.96	26.1	0.705	
+18142
+AF-G3U9V6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Loxodonta africana	0.98	30.5	0.705	
+17142
+AF-A1BWC1-F1-model_v4	CG16799-like protein	Drosophila affinis	0.92	30.4	0.704	
+24142
+AF-A0A6I8P8R1-F1-model_v4	Lysozyme	Ornithorhynchus anatinus	0.95	32.8	0.703	
+20142
+AF-B4M2J4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila virilis	0.94	26.7	0.702	
+19142
+AF-T1KU80-F1-model_v4	Uncharacterized protein	Tetranychus urticae	0.96	26.5	0.702	
+17142
+AF-A0A6B0S810-F1-model_v4	Lysozyme	Bos mutus	0.96	33.5	0.702	
+17136
+AF-H0W0R8-F1-model_v4	Sperm acrosome membrane-associated protein 3	Cavia porcellus	0.98	36.9	0.702	
+18142
+AF-D8L124-F1-model_v4	1,4-beta-N-acetylmuramidase	Papilio xuthus	0.96	27	0.701	
+11141
+AF-A0A5F4C547-F1-model_v4	Lysozyme	Canis lupus familiaris	0.94	31.6	0.701	
+17133
+AF-A0A6J2TDD6-F1-model_v4	lysozyme X-like	Scaptodrosophila lebanonensis	0.97	26.5	0.701	
+19142
+AF-T1JE48-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Strigamia maritima	0.92	22.3	0.700	
+17142
+AF-A0A834XSJ5-F1-model_v4	Uncharacterized protein	Aphidius gifuensis	0.96	33.3	0.699	
+16142
+AF-A0A6B2E4T7-F1-model_v4	Putative alpha-lactalbumin / lysozyme c	Phlebotomus kandelakii	0.97	33.8	0.698	
+17142
+AF-A0A5F5Y322-F1-model_v4	Lysozyme	Felis catus	0.95	28.2	0.698	
+21142
+AF-A0A0T6BDJ3-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Oryctes borbonicus	0.85	28.3	0.697	
+16123
+AF-A0A2Y9JS06-F1-model_v4	sperm acrosome-associated protein 5-like	Enhydra lutris kenyoni	0.98	31.7	0.697	
+19142
+AF-A0A663F5H8-F1-model_v4	Lysozyme	Aquila chrysaetos chrysaetos	0.93	27.9	0.696	
+18132
+AF-A0A6J3B8Z0-F1-model_v4	lysozyme-like protein 6	Vicugna pacos	0.96	25.5	0.696	
+14142
+AF-A0A6J8C4V6-F1-model_v4	LYZ	Mytilus coruscus	0.94	22.3	0.696	
+14142
+AF-A0A2M3ZY34-F1-model_v4	Putative lysozyme	Anopheles triannulatus	0.72	36.7	0.694	
+18113
+AF-F6QGN0-F1-model_v4	Lysozyme like 4	Callithrix jacchus	0.98	30.3	0.694	
+15142
+AF-A0A034WRA4-F1-model_v4	Alpha-lactalbumin	Bactrocera dorsalis	0.96	26.3	0.694	
+19142
+AF-A0A6J0BSD3-F1-model_v4	lysozyme S-like	Neodiprion lecontei	0.96	23.9	0.694	
+19142
+AF-A0A6P5KMT9-F1-model_v4	Lysozyme	Phascolarctos cinereus	0.92	30.5	0.693	
+18130
+AF-A0A6J1V9K0-F1-model_v4	Lysozyme	Notechis scutatus	0.93	29.2	0.693	
+34142
+AF-A0A5F5XW15-F1-model_v4	Sperm acrosome-associated protein 5	Felis catus	0.93	28.5	0.692	
+19131
+AF-A0A670JZI9-F1-model_v4	Sperm acrosome associated 3	Podarcis muralis	0.94	26.5	0.691	
+18142
+AF-A0A7N4NT84-F1-model_v4	Lysozyme	Sarcophilus harrisii	0.97	34.7	0.691	
+17133
+AF-A0A6I8PGY6-F1-model_v4	Lysozyme	Ornithorhynchus anatinus	0.96	32.5	0.690	
+18142
+AF-R4WCJ5-F1-model_v4	C-type lysozyme	Riptortus pedestris	0.91	24.6	0.690	
+19142
+AF-A0A484B8G4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila navojoa	0.97	28.4	0.689	
+17142
+AF-L7X0M0-F1-model_v4	Alpha-lactalbumin	Stenella frontalis	0.23	81.3	0.689	
+3694
+AF-A0A4Y2IAC6-F1-model_v4	Lysozyme	Araneus ventricosus	0.92	22.3	0.688	
+15142
+AF-T1GLB4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Megaselia scalaris	0.96	24.6	0.688	
+17142
+AF-B4J6D4-F1-model_v4	GH21144	Drosophila grimshawi	0.96	27.9	0.688	
+18142
+AF-A0A4W2H7A3-F1-model_v4	Lysozyme	Bos indicus x Bos taurus	0.90	29.5	0.686	
+19131
+AF-A0A6P8YUS0-F1-model_v4	lysozyme B	Drosophila albomicans	0.97	24	0.685	
+1142
+AF-A0A061I726-F1-model_v4	Lysozyme-like protein 4	Cricetulus griseus	0.98	30.5	0.684	
+16142
+AF-A0A6J2T175-F1-model_v4	lysozyme isoform X2	Scaptodrosophila lebanonensis	0.96	28.5	0.684	
+13142
+AF-T1H1Z2-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Megaselia scalaris	0.97	26.5	0.683	
+17142
+AF-A1BW47-F1-model_v4	CG11159-like protein	Drosophila miranda	0.72	37.6	0.683	
+16113
+AF-A0A5F4W9P3-F1-model_v4	Lysozyme	Callithrix jacchus	0.96	27.4	0.683	
+10139
+AF-A0A0P7CD31-F1-model_v4	Transglycosylase	Frankia sp. R43	0.92	16.6	0.683	
+8142
+AF-A0A6P9ABL8-F1-model_v4	lysozyme S-like	Thrips palmi	0.96	27.2	0.683	
+18142
+AF-S9X5F3-F1-model_v4	Lysozyme-like protein 4	Camelus ferus	0.96	24.6	0.682	
+13142
+AF-A0A493SW13-F1-model_v4	Lysozyme	Anas platyrhynchos platyrhynchos	0.95	20	0.682	
+18142
+AF-A0A6J3GRK3-F1-model_v4	lysozyme-like protein 4	Sapajus apella	0.98	31.3	0.682	
+16142
+AF-A0A674K601-F1-model_v4	Sperm acrosome membrane-associated protein 3	Terrapene carolina triunguis	0.97	22.7	0.681	
+19142
+AF-A0A0F8CXQ1-F1-model_v4	Lysozyme	Larimichthys crocea	0.98	34.8	0.681	
+15142
+AF-A0A7M4E9H9-F1-model_v4	Sperm acrosome membrane-associated protein 3	Crocodylus porosus	0.99	32.5	0.681	
+19142
+AF-A9UDH1-F1-model_v4	Alpha-lactalbumin	Phocoena phocoena	0.51	80.2	0.680	
+1994
+AF-A0A6L5CMD4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Ephemera danica	0.96	25.1	0.679	
+18142
+AF-A0A6P8YJK3-F1-model_v4	lysozyme P-like	Drosophila albomicans	0.97	24.8	0.678	
+17142
+AF-A9UDH0-F1-model_v4	Alpha-lactalbumin	Phocoenoides dalli	0.23	81.9	0.678	
+2888
+AF-A0A034WDG6-F1-model_v4	Lysozyme c-1	Bactrocera dorsalis	0.95	25.6	0.678	
+3142
+AF-A0A452J0L6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Gopherus agassizii	0.85	23	0.677	
+18131
+AF-A0A1A9WV20-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Glossina brevipalpis	0.96	25	0.675	
+17140
+AF-A0A7M4EHJ5-F1-model_v4	Lysozyme	Crocodylus porosus	0.98	31.8	0.675	
+17142
+AF-B4GI84-F1-model_v4	GL16804	Drosophila persimilis	0.94	28.4	0.675	
+6125
+AF-A0A6J1TJM4-F1-model_v4	lysozyme C, milk isozyme-like	Frankliniella occidentalis	0.97	27.5	0.675	
+14142
+AF-A0A0V0GAT0-F1-model_v4	Putative lysozyme	Triatoma dimidiata	0.96	29.4	0.674	
+14142
+AF-A0A670ZE10-F1-model_v4	Lysozyme	Pseudonaja textilis	0.85	26.6	0.674	
+18133
+AF-A0A803STQ7-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.92	22.3	0.673	
+19142
+AF-A0A4W2H996-F1-model_v4	Lysozyme	Bos indicus x Bos taurus	0.99	39.3	0.673	
+16142
+AF-B4J6D3-F1-model_v4	GH21143	Drosophila grimshawi	0.97	19.7	0.673	
+1142
+AF-A0A4D9EIZ5-F1-model_v4	Lysozyme	Platysternon megacephalum	0.91	28.6	0.672	
+17130
+AF-Q9D9X8-F1-model_v4	Sperm acrosome membrane-associated protein 3	Mus musculus	0.99	34.3	0.672	
+17142
+AF-A0A6I9YCM0-F1-model_v4	Lysozyme	Thamnophis sirtalis	0.90	27.3	0.672	
+18133
+AF-A0A2Y9KU99-F1-model_v4	lysozyme-like protein 4	Enhydra lutris kenyoni	0.98	29.7	0.672	
+13142
+AF-A0A7E4S0E7-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Cimex lectularius	0.84	23.4	0.671	
+18142
+AF-A0A151PCY4-F1-model_v4	Sperm acrosome membrane-associated protein 3	Alligator mississippiensis	0.98	34.6	0.671	
+18142
+AF-A0A182QXE0-F1-model_v4	C type lysozyme	Anopheles farauti	0.96	23.3	0.671	
+16142
+AF-A0A670KAR9-F1-model_v4	Lysozyme	Podarcis muralis	0.75	23.2	0.671	
+10113
+AF-A0A1I8MC38-F1-model_v4	Uncharacterized protein	Musca domestica	0.51	27	0.670	
+59142
+AF-B4H5I9-F1-model_v4	GL16158	Drosophila persimilis	0.95	24.6	0.669	
+18142
+AF-A0A4U1F302-F1-model_v4	Sperm acrosome membrane-associated protein 3	Monodon monoceros	0.98	35.6	0.668	
+19142
+AF-B5DR87-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila pseudoobscura pseudoobscura	0.96	29.4	0.668	
+18142
+AF-A0A7J8D292-F1-model_v4	Sperm acrosome membrane-associated protein 3	Molossus molossus	0.97	33	0.668	
+18138
+AF-A0A670ZGM2-F1-model_v4	Lysozyme	Pseudonaja textilis	0.84	25	0.667	
+15142
+AF-A0A6B0SCU1-F1-model_v4	Alpha-lactalbumin	Bos mutus	0.99	88.1	0.667	
+16142
+AF-D1L278-F1-model_v4	Alpha-lactalbumin	Balaenoptera bonaerensis	0.21	81.3	0.666	
+1977
+AF-A0A643BQ94-F1-model_v4	Uncharacterized protein	Balaenoptera physalus	0.96	25.8	0.666	
+19140
+AF-A0A811YSC9-F1-model_v4	(raccoon dog) hypothetical protein	Nyctereutes procyonoides	0.93	20.2	0.665	
+12142
+AF-A0A5N3X2C4-F1-model_v4	Sperm acrosome membrane-associated protein 3	Muntiacus reevesi	0.97	30.2	0.665	
+18139
+AF-A0A6J1T1A1-F1-model_v4	lysozyme c-1-like	Frankliniella occidentalis	0.94	25.7	0.664	
+16142
+AF-A0A6B0S9I4-F1-model_v4	Uncharacterized protein	Bos mutus	0.93	31.8	0.664	
+19128
+AF-A0A0L0CFX8-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Lucilia cuprina	0.95	22.3	0.664	
+1142
+AF-A0A5N3VLJ5-F1-model_v4	Lysozyme	Muntiacus muntjak	0.87	25.3	0.664	
+17133
+AF-A0A0Q5PZ87-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila erecta	0.44	32.5	0.663	
+63142
+AF-A0A6J0TXI0-F1-model_v4	Lysozyme	Pogona vitticeps	0.99	35.6	0.663	
+17142
+AF-A0A3B4CSP8-F1-model_v4	Lysozyme	Pygocentrus nattereri	0.91	25	0.663	
+18142
+AF-A1YQB2-F1-model_v4	Alpha-lactalbumin	Bos taurus	0.15	98	0.663	
+4697
+AF-A0A7J7EK31-F1-model_v4	Sperm acrosome membrane-associated protein 3	Diceros bicornis minor	0.98	33	0.661	
+18142
+AF-A0A212EHF8-F1-model_v4	1,4-beta-N-acetylmuramidase	Danaus plexippus plexippus	0.96	30	0.661	
+17142
+AF-A0A835ZTT5-F1-model_v4	Uncharacterized protein	Ovis aries	0.98	29.1	0.661	
+17142
+AF-S9XKJ8-F1-model_v4	Sperm acrosome-associated protein 5	Camelus ferus	0.96	21	0.657	
+4138
+AF-A0A0G3DPZ8-F1-model_v4	1,4-beta-N-acetylmuramidase	Spodoptera exigua	0.96	27	0.657	
+8142
+AF-A0A1A6HE05-F1-model_v4	Lysozyme	Neotoma lepida	0.75	25.2	0.657	
+17114
+AF-A0A170ZLD1-F1-model_v4	Lysozyme p	Triatoma infestans	0.96	31.3	0.656	
+17142
+AF-A0A7R9DW60-F1-model_v4	Hypothetical protein	Timema poppensis	0.96	27.4	0.656	
+18142
+AF-A0A346RAF3-F1-model_v4	1,4-beta-N-acetylmuramidase	Leguminivora glycinivorella	0.96	29.1	0.656	
+16142
+AF-F4PIB6-F1-model_v4	SLT domain-containing protein	Cavenderia fasciculata SH3	0.84	14.1	0.656	
+18139
+AF-A0A669CBQ5-F1-model_v4	Lysozyme	Oreochromis niloticus	0.98	25.5	0.656	
+7142
+AF-A0A6G1BAR5-F1-model_v4	CCNT1 protein	Crocuta crocuta	0.57	71.2	0.655	
+1897
+AF-A0A2K6NMH6-F1-model_v4	Lysozyme	Rhinopithecus roxellana	0.94	27.9	0.655	
+11122
+AF-A0A6P4E5Z1-F1-model_v4	lysozyme-like	Drosophila rhopaloa	0.77	36.1	0.654	
+16117
+AF-A0A670ZF11-F1-model_v4	Lysozyme	Pseudonaja textilis	0.84	29.1	0.654	
+19131
+AF-A0A670JU67-F1-model_v4	Sperm acrosome membrane-associated protein 3	Podarcis muralis	0.96	25.1	0.654	
+14131
+AF-A0A672ZVK8-F1-model_v4	Lysozyme	Sphaeramia orbicularis	0.82	32.5	0.654	
+19128
+AF-A0A821MI86-F1-model_v4	Hypothetical protein	Pieris macdunnoughi	0.95	27.4	0.654	
+18142
+AF-A0A7S1CL10-F1-model_v4	Hypothetical protein	Bicosoecida sp. CB-2014	0.93	16.2	0.653	
+2141
+AF-A0A7L3KAU7-F1-model_v4	Lysozyme	Drymodes brunneopygia	0.57	37.8	0.653	
+1998
+AF-A0A670ZAG5-F1-model_v4	Lysozyme	Pseudonaja textilis	0.80	21.7	0.651	
+18129
+AF-A0A7R8Z0K8-F1-model_v4	Hypothetical protein	Hermetia illucens	0.97	30.2	0.650	
+10142
+AF-A0A4X2KD57-F1-model_v4	Lysozyme	Vombatus ursinus	0.87	27.3	0.650	
+19129
+AF-T1GSD0-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Megaselia scalaris	0.54	16.2	0.650	
+17142
+AF-I3MI98-F1-model_v4	Sperm acrosome membrane-associated protein 3	Ictidomys tridecemlineatus	0.93	39	0.650	
+18123
+AF-A0A5N3WWF9-F1-model_v4	Lysozyme	Muntiacus muntjak	0.87	30.8	0.649	
+21140
+AF-A0A7J7ZKC5-F1-model_v4	Lysozyme	Pipistrellus kuhlii	0.87	31.7	0.649	
+19132
+AF-A0A2G9RWI5-F1-model_v4	Lysozyme	Lithobates catesbeianus	0.69	33.6	0.648	
+35134
+AF-A0A6J1T377-F1-model_v4	lysozyme S-like	Frankliniella occidentalis	0.96	28.3	0.647	
+17142
+AF-A0A7M4E9H1-F1-model_v4	Sperm acrosome membrane-associated protein 3	Crocodylus porosus	0.92	24	0.647	
+18142
+AF-A0A6I9YW88-F1-model_v4	Sperm acrosome membrane-associated protein 3	Thamnophis sirtalis	0.98	33	0.647	
+19142
+AF-A0A669EKL1-F1-model_v4	Lysozyme	Oreochromis niloticus	0.95	33.1	0.646	
+16141
+AF-T1KDS6-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Tetranychus urticae	0.96	31.8	0.644	
+18142
+AF-A0A670JZJ5-F1-model_v4	Lysozyme	Podarcis muralis	0.85	33.3	0.644	
+23123
+AF-A0A5N4DHH6-F1-model_v4	Lysozyme	Camelus dromedarius	0.84	28.8	0.643	
+18129
+AF-A0A6J3B1B8-F1-model_v4	Lysozyme	Vicugna pacos	0.99	33.1	0.640	
+10142
+AF-L5JUS4-F1-model_v4	Lysozyme	Pteropus alecto	0.98	23.3	0.639	
+6142
+AF-A0A1I8NJ61-F1-model_v4	Uncharacterized protein	Musca domestica	0.97	16	0.639	
+9142
+AF-A0A822I4S7-F1-model_v4	(mimic poison frog) hypothetical protein	Ranitomeya imitator	0.15	38.8	0.639	
+4699
+AF-A0A6G1A5W3-F1-model_v4	Sperm acrosome membrane-associated protein 3	Crocuta crocuta	0.92	37.2	0.638	
+18123
+AF-E0W0U2-F1-model_v4	Lysozyme P precursor, putative	Pediculus humanus corporis	0.95	29.7	0.637	
+17142
+AF-A0A3Q7XZY6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Ursus arctos horribilis	0.98	33.8	0.637	
+18142
+AF-A0A6P5DE87-F1-model_v4	Sperm acrosome membrane-associated protein 3	Bos indicus	0.90	30	0.636	
+36142
+AF-S9XBH3-F1-model_v4	Lysozyme	Camelus ferus	0.87	31.6	0.635	
+18130
+AF-A0A5F8A0H8-F1-model_v4	Lysozyme like 4	Macaca mulatta	0.95	16.8	0.634	
+13142
+AF-A0A672ZX16-F1-model_v4	Lysozyme	Sphaeramia orbicularis	0.91	25.4	0.633	
+19142
+AF-A0A6P3HKG0-F1-model_v4	Lysozyme	Bison bison bison	0.89	30	0.631	
+18130
+AF-M3VVM4-F1-model_v4	Sperm acrosome membrane-associated protein 3	Felis catus	0.98	33	0.631	
+18142
+AF-E9HED4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Daphnia pulex	0.96	23.8	0.629	
+11142
+AF-A0A4Y2M6A5-F1-model_v4	Lysozyme C-1	Araneus ventricosus	0.97	29.7	0.627	
+19142
+AF-A0A336LX92-F1-model_v4	CSON006893 protein	Culicoides sonorensis	0.95	27.4	0.626	
+18142
+AF-A0A4C1TSR2-F1-model_v4	1,4-beta-N-acetylmuramidase	Eumeta japonica	0.90	23.4	0.625	
+18142
+AF-E3JBN6-F1-model_v4	Transglycosylase-like domain protein	Frankia inefficax	0.89	15.7	0.622	
+15142
+AF-B2RYD4-F1-model_v4	1,4-beta-N-acetylmuramidase C	Rattus norvegicus	0.85	28.7	0.620	
+18142
+AF-A0A3G3CBB5-F1-model_v4	Lysozyme	Neocaridina davidi	0.96	33.5	0.620	
+19142
+AF-L9KZ14-F1-model_v4	1,4-beta-N-acetylmuramidase C	Tupaia chinensis	0.84	30.5	0.618	
+19129
+AF-A0A2G9RUR6-F1-model_v4	Lysozyme	Lithobates catesbeianus	0.82	25.8	0.617	
+33140
+AF-A0A6B0SBG4-F1-model_v4	Lysozyme	Bos mutus	0.95	33.8	0.616	
+6129
+AF-A0A1J1JCB4-F1-model_v4	CLUMA_CG021392, isoform A	Clunio marinus	0.96	16.8	0.615	
+1142
+AF-A0A257LRP0-F1-model_v4	SLT domain-containing protein	Burkholderiales bacterium PBB5	0.84	14.5	0.610	
+1138
+AF-A0A1I8N828-F1-model_v4	Uncharacterized protein	Musca domestica	0.57	35.4	0.610	
+17105
+AF-A0A4Q7YHT2-F1-model_v4	Transglycosylase-like protein with SLT domain	Fluviicoccus keumensis	0.72	17.4	0.610	
+21141
+AF-M7BEB2-F1-model_v4	Lysozyme	Chelonia mydas	0.60	41.1	0.610	
+36123
+AF-A0A7J5Y7J1-F1-model_v4	Lysozyme	Dissostichus mawsoni	0.98	35.6	0.609	
+16142
+AF-D2H7P7-F1-model_v4	Uncharacterized protein	Ailuropoda melanoleuca	0.96	20.7	0.608	
+17139
+AF-A0A1B0FD42-F1-model_v4	Uncharacterized protein	Glossina morsitans morsitans	0.98	26.6	0.607	
+10142
+AF-A0A3Q1LXZ0-F1-model_v4	Lysozyme-like protein 6	Bos taurus	0.85	20	0.607	
+4131
+AF-A0A452UJN5-F1-model_v4	Lysozyme like 6	Ursus maritimus	0.94	17.2	0.606	
+2127
+AF-A0A6G1AVK1-F1-model_v4	LYZL6 protein	Crocuta crocuta	0.82	29.3	0.606	
+5104
+AF-G3GY33-F1-model_v4	1,4-beta-N-acetylmuramidase C	Cricetulus griseus	0.98	33.5	0.605	
+16142
+AF-V8P1N6-F1-model_v4	Sperm acrosome membrane-associated protein 3	Ophiophagus hannah	0.99	35.1	0.605	
+17142
+AF-A0A5F9DC76-F1-model_v4	Lysozyme	Oryctolagus cuniculus	0.85	19.8	0.604	
+17137
+AF-A0A1B0ART3-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Glossina palpalis gambiensis	0.97	22.8	0.604	
+19142
+AF-A0A5N4A5M0-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Photinus pyralis	0.95	27.5	0.603	
+18142
+AF-A0A2D4LAL5-F1-model_v4	Lysozyme	Micrurus spixii	0.57	25.8	0.602	
+18104
+AF-E3JB53-F1-model_v4	Peptidoglycan-binding domain 1 protein	Frankia inefficax	0.94	12.7	0.601	
+1142
+AF-A0A3E3IBV0-F1-model_v4	SLT domain-containing protein	Eisenbergiella massiliensis	0.82	9.7	0.598	
+5140
+AF-A0A6Q2ZN50-F1-model_v4	Lysozyme	Esox lucius	0.92	26.5	0.598	
+24142
+AF-A0A4W2GRI5-F1-model_v4	Lysozyme like 6	Bos indicus x Bos taurus	0.99	27	0.598	
+1142
+AF-M7BT50-F1-model_v4	Lysozyme	Chelonia mydas	0.84	24.4	0.596	
+18134
+AF-A0A5N4DHL6-F1-model_v4	Lysozyme	Camelus dromedarius	0.57	24	0.596	
+24124
+AF-A0A6I9XRM4-F1-model_v4	Lysozyme	Thamnophis sirtalis	0.98	32.5	0.595	
+18142
+AF-A0A6B0SCT1-F1-model_v4	Lysozyme	Bos mutus	0.99	15	0.593	
+3142
+AF-A0A1I8Q0F1-F1-model_v4	Uncharacterized protein	Stomoxys calcitrans	0.57	21.8	0.593	
+18142
+AF-A0A358SKU6-F1-model_v4	SLT_3 domain-containing protein	Actinomycetia bacterium	0.66	11.9	0.592	
+18138
+AF-A0A0K8UBG4-F1-model_v4	Lysozyme c-1	Bactrocera latifrons	0.95	26.8	0.592	
+18142
+AF-A0A182WJG9-F1-model_v4	Lysozyme	Anopheles minimus	0.97	35	0.591	
+10142
+AF-A0A6L5WI21-F1-model_v4	Lytic transglycosylase domain-containing protein	Campylobacter portucalensis	0.75	12.1	0.584	
+21138
+AF-A0A0L0CMC7-F1-model_v4	Uncharacterized protein	Lucilia cuprina	0.97	22	0.582	
+12142
+AF-B4HVN5-F1-model_v4	GM14233	Drosophila sechellia	0.75	20.4	0.581	
+35142
+AF-A0A081BF36-F1-model_v4	Invasion protein	Tepidicaulis marinus	0.80	10.8	0.581	
+12142
+AF-A0A023EMD7-F1-model_v4	Putative cpij002161 lysozyme	Aedes albopictus	0.96	26.9	0.581	
+19142
+AF-A0A670K5D9-F1-model_v4	Lysozyme	Podarcis muralis	0.82	18.8	0.580	
+18131
+AF-A0A452UJP5-F1-model_v4	Lysozyme like 6	Ursus maritimus	0.85	21.2	0.580	
+4131
+AF-A0A6A4J0H4-F1-model_v4	Uncharacterized protein	Apolygus lucorum	0.89	18	0.577	
+5142
+AF-A0A522RP64-F1-model_v4	SLT domain-containing protein	Rhodanobacteraceae bacterium	0.80	13.4	0.577	
+21142
+AF-A0A0L0CIN1-F1-model_v4	Uncharacterized protein	Lucilia cuprina	0.41	30.9	0.576	
+1897
+AF-A0A670K8S2-F1-model_v4	Lysozyme	Podarcis muralis	0.84	20.6	0.576	
+19135
+AF-A0A0M4EBY1-F1-model_v4	Maker628	Drosophila busckii	0.41	24.2	0.576	
+49142
+AF-A0A6J1V9H7-F1-model_v4	Lysozyme	Notechis scutatus	0.99	23.7	0.574	
+2142
+AF-A0A0K8VAL7-F1-model_v4	Lysozyme c-1	Bactrocera latifrons	0.96	28.4	0.573	
+18142
+AF-A0A182XYQ5-F1-model_v4	Uncharacterized protein	Anopheles stephensi	0.97	13.8	0.573	
+1142
+AF-A0A1A9ZR63-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Glossina pallidipes	0.95	24.8	0.573	
+18138
+AF-E6PGP2-F1-model_v4	SLT domain-containing protein	mine drainage metagenome	0.75	11.4	0.570	
+10137
+AF-Q1MXI6-F1-model_v4	Putative PilT protein	Bermanella marisrubri	0.69	11.2	0.568	
+21138
+AF-G3IPM6-F1-model_v4	Lysozyme-like protein 6	Cricetulus griseus	0.63	37.9	0.568	
+39123
+AF-A0A410UV92-F1-model_v4	SLT domain-containing protein	Janthinobacterium sp. 17J80-10	0.75	8.3	0.567	
+1140
+AF-A0A6A4J4N4-F1-model_v4	Uncharacterized protein	Apolygus lucorum	0.82	13.9	0.565	
+2142
+AF-A0A395U164-F1-model_v4	SLT domain-containing protein	Vibrio cholerae	0.75	9.8	0.565	
+22142
+AF-A0A1F3TA19-F1-model_v4	SLT domain-containing protein	Bdellovibrionales bacterium RIFOXYA1_FULL_36_14	0.75	5.9	0.564	
+21140
+AF-A0A4Y2M680-F1-model_v4	Lysozyme C-1	Araneus ventricosus	0.97	31	0.563	
+19142
+AF-A0A151N8P8-F1-model_v4	Sperm acrosome membrane-associated protein 3	Alligator mississippiensis	0.99	33	0.563	
+18142
+AF-A0A182PQK7-F1-model_v4	C type lysozyme	Anopheles epiroticus	0.95	18.2	0.562	
+17142
+AF-A0A1H3F9D7-F1-model_v4	Transglycosylase SLT domain-containing protein	Nitrosomonas halophila	0.69	12	0.562	
+22140
+AF-A0A2N2KG34-F1-model_v4	Murein transglycosylase	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-12	0.66	11.5	0.562	
+22140
+AF-A0A0S8ERC0-F1-model_v4	SLT domain-containing protein	Thiotrichales bacterium SG8_50	0.66	16	0.562	
+20138
+AF-A0A7Z9PPX9-F1-model_v4	Lytic transglycosylase domain-containing protein	Phycisphaerales bacterium	0.75	5.6	0.561	
+1141
+AF-A0A5B8E4L7-F1-model_v4	Lytic transglycosylase	Herbaspirillum seropedicae	0.69	14.6	0.561	
+22140
+AF-A0A2D8I3B3-F1-model_v4	SLT domain-containing protein	Opitutae bacterium	0.75	8.6	0.560	
+16140
+AF-A0A6I8PGT4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Ornithorhynchus anatinus	0.98	34.1	0.560	
+19142
+AF-A0A1G0AWJ3-F1-model_v4	Lytic transglycosylase	Gallionellales bacterium GWA2_54_124	0.69	12.4	0.559	
+22141
+AF-A0A2J6XAH4-F1-model_v4	SLT_3 domain-containing protein	Thermodesulfobium narugense	0.82	14.3	0.558	
+17141
+AF-A0A5M3Q648-F1-model_v4	SLT domain-containing protein	Marinobacter salsuginis	0.72	9.2	0.556	
+18140
+AF-A0A4S3KQK4-F1-model_v4	SLT domain-containing protein	Metallibacterium scheffleri	0.69	10.1	0.553	
+23139
+AF-A0A4R7Q4M6-F1-model_v4	Transglycosylase-like protein with SLT domain	Photorhabdus temperata	0.72	13.5	0.552	
+22141
+AF-A0A2E5A0E5-F1-model_v4	SLT domain-containing protein	Opitutae bacterium	0.75	6.7	0.552	
+17141
+AF-E6V5J8-F1-model_v4	Uncharacterized protein	Variovorax paradoxus EPS	0.82	7.1	0.552	
+17142
+AF-A0A7J6ZSI6-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Abscondita terminalis	0.95	25	0.551	
+15142
+AF-A0A3K1A8T4-F1-model_v4	Lytic transglycosylase	Escherichia coli	0.51	16.3	0.551	
+22120
+AF-D8L9Y5-F1-model_v4	Lytic tranglycosylase	Campylobacter fetus subsp. fetus	0.72	12.2	0.551	
+21138
+AF-A0A5E4YWR0-F1-model_v4	Muramidase	Pandoraea fibrosis	0.77	8.6	0.551	
+17142
+AF-A0A6A7G3K1-F1-model_v4	Lysozyme	Hirondellea gigas	0.96	27.9	0.550	
+19142
+AF-A0A3M7TYD6-F1-model_v4	Lytic transglycosylase domain-containing protein	Alteribacter keqinensis	0.75	7.5	0.550	
+9134
+AF-A0A4P6HJX6-F1-model_v4	Lytic transglycosylase domain-containing protein	Solidesulfovibrio carbinolicus	0.82	11.1	0.550	
+1136
+AF-A0A3D4HEY4-F1-model_v4	SLT domain-containing protein	Opitutae bacterium	0.75	7.4	0.549	
+1141
+AF-A0A417MXL6-F1-model_v4	Invasion protein	Burkholderiales bacterium	0.69	13.4	0.548	
+28142
+AF-A0A522M984-F1-model_v4	Lytic transglycosylase	Paraburkholderia sp.	0.75	12.4	0.548	
+22142
+AF-A0A7X1AX07-F1-model_v4	Lytic transglycosylase domain-containing protein	Puniceicoccus vermicola	0.75	6.1	0.545	
+18142
+AF-A0A2E7JT10-F1-model_v4	Lytic transglycosylase	Gemmatimonadetes bacterium	0.80	7.6	0.544	
+1140
+AF-A0A182PRC9-F1-model_v4	Lysozyme	Anopheles epiroticus	0.97	15.7	0.544	
+1142
+AF-A0A5Y2RQU2-F1-model_v4	Lytic transglycosylase domain-containing protein	Salmonella enterica	0.69	10.8	0.544	
+26141
+AF-A0A6A4WKF8-F1-model_v4	Lysozyme C	Amphibalanus amphitrite	0.97	32.6	0.544	
+19142
+AF-T1J024-F1-model_v4	Neur_chan_memb domain-containing protein	Strigamia maritima	0.97	27.4	0.544	
+17142
+AF-A0A060QCR6-F1-model_v4	SLT domain-containing protein	Asaia bogorensis	0.69	9.6	0.543	
+1140
+AF-A0A629S6E0-F1-model_v4	Transglycosylase SLT domain-containing protein	Salmonella enterica subsp. enterica serovar Montevideo	0.69	15.1	0.543	
+23138
+AF-A0A6B1GMB0-F1-model_v4	SLT_3 domain-containing protein	Chloroflexi bacterium	0.80	10	0.543	
+17142
+AF-A0A2P6U5N2-F1-model_v4	Lysozyme P	Chlorella sorokiniana	0.89	26.3	0.543	
+22138
+AF-A0A1A9VZ55-F1-model_v4	SLT domain-containing protein	Glossina brevipalpis	0.75	13.8	0.542	
+22142
+AF-A0A3M5I4J9-F1-model_v4	SLT domain-containing protein	Pseudomonas amygdali pv. lachrymans	0.89	7.6	0.542	
+1141
+AF-D4H137-F1-model_v4	Lytic transglycosylase catalytic	Denitrovibrio acetiphilus DSM 12809	0.60	9.2	0.542	
+14135
+AF-A0A1D8IMS6-F1-model_v4	SLT domain-containing protein	Acidihalobacter yilgarnensis	0.69	6.4	0.541	
+19140
+AF-A0A535D4M0-F1-model_v4	SLT domain-containing protein	Chloroflexi bacterium	0.47	11.1	0.541	
+2126
+AF-A0A0F0FJ59-F1-model_v4	SLT domain-containing protein	Burkholderiaceae bacterium 16	0.63	13.4	0.540	
+22140
+AF-A0A556TL04-F1-model_v4	Alpha-lactalbumin	Bagarius yarrelli	0.96	10	0.540	
+8142
+AF-C3ZFG3-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Branchiostoma floridae	0.98	21.4	0.538	
+5142
+AF-A0A1A5XJD4-F1-model_v4	Lytic transglycosylase	Paraburkholderia tropica	0.63	14.8	0.537	
+26138
+AF-A0A1V4EV48-F1-model_v4	SLT domain-containing protein	Acidibacillus ferrooxidans	0.66	7.6	0.537	
+13136
+AF-G8QNR3-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Azospira oryzae PS	0.66	8.3	0.537	
+22140
+AF-A0A6G8CZV1-F1-model_v4	Lytic transglycosylase domain-containing protein	Diaphorobacter sp. HDW4A	0.66	10.6	0.537	
+26141
+AF-A0A1G6UA39-F1-model_v4	Transglycosylase SLT domain-containing protein	Cupriavidus sp. YR651	0.75	11.8	0.537	
+22142
+AF-A0A6B0RYB7-F1-model_v4	Lysozyme	Bos mutus	0.98	27.2	0.537	
+17142
+AF-A0A1D9HCH0-F1-model_v4	SLT domain-containing protein	Cupriavidus sp. USMAA2-4	0.60	12	0.537	
+22140
+AF-A0A1H1RID2-F1-model_v4	Transglycosylase SLT domain-containing protein	Opitutus sp. GAS368	0.69	7.5	0.537	
+20140
+AF-A0A424P260-F1-model_v4	Uncharacterized protein	Flavobacteriaceae bacterium TMED238	0.85	12.2	0.536	
+16142
+AF-B4DYD1-F1-model_v4	Sperm acrosome membrane-associated protein 3	Homo sapiens	0.99	27.9	0.534	
+2142
+AF-Q2J8P7-F1-model_v4	Peptidoglycan-binding domain 1	Frankia casuarinae	0.89	19.1	0.533	
+14142
+AF-A0A6N4J5U1-F1-model_v4	Invasion protein	Burkholderia cepacia	0.66	11.8	0.532	
+26139
+AF-A0A6G9D486-F1-model_v4	SLT domain-containing protein	Rhodococcus erythropolis	0.77	9.1	0.532	
+5137
+AF-A0A4U2F9T2-F1-model_v4	Lytic transglycosylase domain-containing protein	Vibrio sp. F13	0.75	10.1	0.532	
+17142
+AF-A0A2A7EER5-F1-model_v4	Uncharacterized protein	Bacillus cereus	0.54	8.5	0.532	
+12124
+AF-A0A336LY88-F1-model_v4	CSON005727 protein	Culicoides sonorensis	0.96	15.4	0.531	
+5142
+AF-A0A6P3B152-F1-model_v4	Lytic transglycosylase	Burkholderia contaminans	0.60	14.7	0.530	
+25138
+AF-A1VV48-F1-model_v4	Lytic transglycosylase, catalytic	Polaromonas naphthalenivorans CJ2	0.69	10.2	0.530	
+23142
+AF-A0A7W4NPB1-F1-model_v4	Lytic transglycosylase domain-containing protein	Gluconacetobacter sacchari	0.66	12	0.530	
+19138
+AF-A0A5E4U7P0-F1-model_v4	Invasion protein IagB	Pandoraea commovens	0.66	10.4	0.529	
+28141
+AF-A0A2E9RR56-F1-model_v4	SLT domain-containing protein	Opitutae bacterium	0.75	7.4	0.529	
+17141
+AF-A0A139WK39-F1-model_v4	Sensory neuron membrane protein 2-like Protein	Tribolium castaneum	0.97	12.5	0.529	
+4141
+AF-A0A2K6AXK3-F1-model_v4	1,4-beta-N-acetylmuramidase C	Macaca nemestrina	0.41	29	0.529	
+33119
+AF-A0A1S8CR37-F1-model_v4	SLT domain-containing protein	Alkanindiges hydrocarboniclasticus	0.72	9.3	0.528	
+23139
+AF-A0A7G1LFE6-F1-model_v4	SLT domain-containing protein	Aeromonas hydrophila	0.69	10.6	0.528	
+23139
+AF-A0A1X3LC38-F1-model_v4	PilT protein	Escherichia coli H420	0.69	14.4	0.528	
+26138
+AF-F2LSH4-F1-model_v4	Transglycosylase SLT domain-containing protein	Burkholderia gladioli BSR3	0.72	11.3	0.527	
+23140
+AF-A0A3M1UKK4-F1-model_v4	SLT domain-containing protein	Euryarchaeota archaeon	0.66	10.5	0.527	
+21138
+AF-A0A494XI21-F1-model_v4	Lytic transglycosylase	Pararobbsia silviterrae	0.60	12.5	0.526	
+26138
+AF-A0A1Q3VB42-F1-model_v4	SLT domain-containing protein	Rhodospirillales bacterium 69-11	0.69	9.7	0.526	
+6138
+AF-A0A3N8KCA0-F1-model_v4	Lytic transglycosylase	Burkholderia sp. Bp8963	0.63	12.9	0.525	
+22138
+AF-A0A2J6MM42-F1-model_v4	Lytic transglycosylase	Burkholderia sp. WAC0059	0.69	12.7	0.525	
+22142
+AF-A0A6F9WZL8-F1-model_v4	SLT domain-containing protein	Geobacter sp. SVR	0.66	14.9	0.525	
+25140
+AF-A0A352SFF8-F1-model_v4	SLT domain-containing protein	Lachnospiraceae bacterium	0.60	6.2	0.524	
+22140
+AF-A0A7X6DQ42-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Manganitrophus noduliformans	0.57	13.3	0.523	
+22137
+AF-A0A845DA00-F1-model_v4	Transglycosylase SLT domain-containing protein	Candidatus Spechtbacteria bacterium SB0662_bin_43	0.75	12.6	0.523	
+21132
+AF-A0A832JBF4-F1-model_v4	Lytic transglycosylase domain-containing protein	Armatimonadetes bacterium	0.69	8.5	0.523	
+6138
+AF-A0A0A9W8T4-F1-model_v4	Lysozyme C-2	Lygus hesperus	0.72	18.4	0.522	
+22142
+AF-A0A7W7NX58-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Novosphingobium chloroacetimidivorans	0.69	9.8	0.522	
+21138
+AF-A0A2R5LAQ9-F1-model_v4	Putative c-type lysozyme	Ornithodoros turicata	0.97	29.4	0.522	
+19142
+AF-A0A0F9KXF0-F1-model_v4	SLT domain-containing protein	marine sediment metagenome	0.57	7	0.521	
+6140
+AF-A0A7V2MIK1-F1-model_v4	Lytic transglycosylase domain-containing protein	Bryobacteraceae bacterium	0.75	7.5	0.521	
+10134
+AF-A0A0F8YK14-F1-model_v4	SLT domain-containing protein	marine sediment metagenome	0.66	11.8	0.520	
+20138
+AF-A0A182T1W5-F1-model_v4	C type lysozyme	Anopheles maculatus	0.96	27.4	0.520	
+19142
+AF-B2IL34-F1-model_v4	Lytic transglycosylase catalytic	Beijerinckia indica subsp. indica ATCC 9039	0.63	8.4	0.520	
+23141
+AF-A0A2M6VT11-F1-model_v4	SLT domain-containing protein	Limnohabitans sp. 15K	0.63	12.4	0.519	
+25139
+AF-A0A2G3K5Z6-F1-model_v4	SLT domain-containing protein	Chitinimonas sp. BJB300	0.84	8.5	0.519	
+11142
+AF-A0A1V6GYA2-F1-model_v4	Membrane-bound lytic murein transglycosylase C	Deltaproteobacteria bacterium ADurb.Bin058	0.75	10.8	0.518	
+17141
+AF-A0A1Y5E9V2-F1-model_v4	SLT domain-containing protein	Alphaproteobacteria bacterium 46_93_T64	0.69	6.8	0.518	
+1142
+AF-A0A643FMM5-F1-model_v4	Lytic transglycosylase domain-containing protein	Cupriavidus basilensis	0.60	14	0.518	
+26138
+AF-A0A2E9PEF6-F1-model_v4	SLT domain-containing protein	Alteromonas sp.	0.66	12.3	0.518	
+26141
+AF-A0A519DWP7-F1-model_v4	Lytic transglycosylase	Rubrivivax sp.	0.75	17.9	0.518	
+22141
+AF-A0A7C0YAI0-F1-model_v4	SLT domain-containing protein	Candidatus Desulfofervidus auxilii	0.72	7.4	0.517	
+21141
+AF-A0A3P0PH30-F1-model_v4	Transglycosylase SLT domain-containing protein	Burkholderia sp. Bp9017	0.69	10.9	0.517	
+23139
+AF-A0A1Q3VSL8-F1-model_v4	SLT domain-containing protein	Candidatus Accumulibacter sp. 66-26	0.69	10.3	0.517	
+22142
+AF-A0A1G3VEC5-F1-model_v4	SLT domain-containing protein	Syntrophobacterales bacterium RIFOXYC2_FULL_60_23	0.69	6.4	0.517	
+18140
+AF-A0A2V8VDA5-F1-model_v4	SLT domain-containing protein	Acidobacteria bacterium	0.77	7.9	0.517	
+11141
+AF-A0A7Z3CT15-F1-model_v4	SLT domain-containing protein	Aeromonas media	0.77	8.5	0.516	
+1142
+AF-A0A674D3F3-F1-model_v4	Uncharacterized LOC115177798	Salmo trutta	0.95	9.2	0.516	
+17142
+AF-A0A1X7FLX1-F1-model_v4	Transglycosylase SLT domain-containing protein	Trinickia caryophylli	0.57	13.7	0.516	
+28139
+AF-A0A2N1PT97-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Wallbacteria bacterium HGW-Wallbacteria-1	0.66	7	0.516	
+17140
+AF-A0A2M9LY64-F1-model_v4	Transglycosylase	Streptomyces sp. CB02959	0.63	6.6	0.516	
+23142
+AF-G7V5J8-F1-model_v4	Lytic transglycosylase catalytic	Thermovirga lienii DSM 17291	0.72	6.5	0.516	
+4140
+AF-A0A0D5IU19-F1-model_v4	Transglycosylase SLT domain protein	Burkholderia dolosa AU0158	0.69	12.3	0.515	
+25141
+AF-A0A6I8N1T8-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Ornithorhynchus anatinus	0.92	23.6	0.514	
+12142
+AF-A0A842HA47-F1-model_v4	Lytic transglycosylase domain-containing protein	Ruficoccus amylovorans	0.66	7.6	0.514	
+20139
+AF-A0A0P9EZF7-F1-model_v4	SLT domain-containing protein	Alicyclobacillus ferrooxydans	0.63	9.2	0.513	
+17138
+AF-A0A4Z0GY29-F1-model_v4	Lytic transglycosylase domain-containing protein	Halobacillus salinus	0.69	10.1	0.513	
+6134
+AF-A0A3P4NMU5-F1-model_v4	Uncharacterized protein	Gulo gulo	0.89	18.4	0.513	
+1128
+AF-A0A315AZM1-F1-model_v4	SLT domain-containing protein	Limnohabitans sp. T6-20	0.66	12.9	0.513	
+23139
+AF-B2JML4-F1-model_v4	Lytic transglycosylase catalytic	Paraburkholderia phymatum STM815	0.60	14.8	0.513	
+26138
+AF-A0A2H5DW27-F1-model_v4	Lytic murein transglycosylase	Chromobacterium sp. ATCC 53434	0.72	6.7	0.513	
+21142
+AF-A0A6B0SCL3-F1-model_v4	Cleavage and polyadenylation specificity factor subunit 6	Bos mutus	0.99	14.5	0.512	
+2142
+AF-A0A318I924-F1-model_v4	Transglycosylase-like protein with SLT domain	Burkholderia pyrrocinia	0.66	8.9	0.511	
+26141
+AF-A0A3N5P7L8-F1-model_v4	Lytic transglycosylase domain-containing protein	Acidobacteria bacterium	0.60	7.8	0.511	
+20140
+AF-A0A2M7U3C9-F1-model_v4	Transglycosylas domain-containing protein	Candidatus Roizmanbacteria bacterium CG_4_10_14_0_2_um_filter_36_9	0.54	12.9	0.511	
+17127
+AF-A0A3R8WK79-F1-model_v4	Lytic transglycosylase	Pseudomonas sp. o96-267	0.60	8.3	0.511	
+20140
+AF-E6PHJ3-F1-model_v4	Lytic transglycosylase (Modular protein)	mine drainage metagenome	0.77	9	0.510	
+12142
+AF-A0A1C3K2A4-F1-model_v4	Soluble lytic murein transglycosylase and related regulatory proteins (Some contain LysM/invasin domains)	Orrella dioscoreae	0.66	11.8	0.510	
+17137
+AF-A0A843A4A9-F1-model_v4	Lytic transglycosylase domain-containing protein	Thermoplasmata archaeon	0.51	10.8	0.510	
+22138
+AF-A0A378Z272-F1-model_v4	Invasion protein IagB	Pandoraea pulmonicola	0.72	9.9	0.510	
+20140
+AF-A0A534RM38-F1-model_v4	Lytic transglycosylase domain-containing protein	Deltaproteobacteria bacterium	0.75	6.9	0.509	
+5140
+AF-A0A522Q320-F1-model_v4	Lytic transglycosylase domain-containing protein	Acidobacteria bacterium	0.57	9	0.509	
+21140
+AF-A0A2N2I8J4-F1-model_v4	Transglycosylase	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-18	0.69	9	0.508	
+12137
+AF-A0A454TLP0-F1-model_v4	Lytic transglycosylase domain-containing protein	Ralstonia pseudosolanacearum	0.69	10.7	0.508	
+23142
+AF-M7ANB9-F1-model_v4	Lysozyme-like protein 6	Chelonia mydas	0.90	20.7	0.508	
+17123
+AF-A0A270MZ50-F1-model_v4	SLT domain-containing protein	Stenotrophomonas maltophilia	0.54	8.8	0.508	
+22135
+AF-A0A336LKI5-F1-model_v4	CSON010136 protein	Culicoides sonorensis	0.96	25.9	0.508	
+19142
+AF-A0A158EK31-F1-model_v4	Lytic transglycosylase, catalytic	Caballeronia calidae	0.84	8.2	0.507	
+13141
+AF-A0A2N9MLL8-F1-model_v4	Lytic transglycosylase, catalytic	Candidatus Sulfopaludibacter sp. SbA3	0.66	7.3	0.507	
+16135
+AF-A0A6P7VFP9-F1-model_v4	leucine-rich repeat extensin-like protein 1	Ixodes scapularis	0.97	31	0.507	
+19142
+AF-A0A3Q1LP58-F1-model_v4	Lysozyme-like protein 6	Bos taurus	0.77	21.1	0.506	
+7132
+AF-A0A519BJI4-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Acididesulfobacter guangdongensis	0.54	7.5	0.506	
+17138
+AF-A0A1Z3MNV2-F1-model_v4	Putative transglycosylase	Aeromonas salmonicida subsp. salmonicida	0.63	9.9	0.505	
+28142
+AF-A0A674D4P8-F1-model_v4	Uncharacterized LOC115177798	Salmo trutta	0.96	9.3	0.505	
+8142
+AF-A0A238D953-F1-model_v4	Lytic transglycosylase, catalytic (Modular protein)	Thiomonas delicata	0.69	8.3	0.505	
+26142
+AF-A0A7Y3NYJ7-F1-model_v4	Lytic transglycosylase domain-containing protein	Bacilli bacterium	0.57	6.5	0.505	
+1138
+AF-A0A6C8X6F7-F1-model_v4	SLT domain-containing protein	Stenotrophomonas maltophilia	0.30	10.4	0.504	
+19120
+AF-A0A0L0C723-F1-model_v4	Lysozyme E	Lucilia cuprina	0.97	25.8	0.504	
+13142
+AF-A0A432PT85-F1-model_v4	SLT domain-containing protein	Aquifex sp.	0.51	8.3	0.504	
+19135
+AF-A0A3A4ZVV4-F1-model_v4	SLT domain-containing protein	Deltaproteobacteria bacterium	0.72	7.6	0.504	
+14140
+AF-A0A1G3ZQV3-F1-model_v4	SLT domain-containing protein	Verrucomicrobia bacterium RIFCSPLOWO2_12_FULL_64_8	0.80	7.6	0.504	
+12142
+AF-A0A261U2H5-F1-model_v4	SLT domain-containing protein	Bordetella genomosp. 4	0.72	7.6	0.503	
+8140
+AF-A0A2T3XMP9-F1-model_v4	Lytic transglycosylase	Trinickia symbiotica	0.66	15.6	0.503	
+20137
+AF-A0A2E5PE06-F1-model_v4	SLT domain-containing protein	Rhodospirillaceae bacterium	0.77	5.5	0.503	
+1142
+AF-A0A1G1WGD7-F1-model_v4	SLT domain-containing protein	Candidatus Woykebacteria bacterium RBG_16_44_10	0.47	9.6	0.503	
+11128
+AF-A0A5E8GVB4-F1-model_v4	Soluble lytic murein transglycosylase	Roseibium alexandrii DFL-11	0.63	10.7	0.501	
+21137
+AF-A0A4R7S2J8-F1-model_v4	Transglycosylase-like protein with SLT domain	Labrenzia sp. PT13C1	0.63	10.7	0.501	
+21137
+AF-L9JB80-F1-model_v4	RAD52 motif-containing protein 1	Tupaia chinensis	0.94	26.8	0.501	
+7119
+AF-A0A1X7QDD2-F1-model_v4	Uncharacterized protein	Azospirillum lipoferum	0.57	12.9	0.501	
+21139
+AF-A0A679HXP3-F1-model_v4	SLT domain-containing protein	Nitrospira sp. KM1	0.54	8.6	0.501	
+20138
+AF-A0A091D5E7-F1-model_v4	Olfactory receptor 1P1	Fukomys damarensis	0.96	12.1	0.500	
+3136
+AF-A0A269XUX7-F1-model_v4	Conjugal transfer protein TrbN	Acetobacter fabarum	0.66	14	0.500	
+21141
+AF-A0A315C9F9-F1-model_v4	SLT domain-containing protein	Limnohabitans sp. JirII-29	0.66	10	0.499	
+24139
+AF-A0A2S4K331-F1-model_v4	SLT domain-containing protein	Diaphorobacter sp. LR2014-1	0.63	12.6	0.499	
+20139
+AF-A0A7K3Z8N1-F1-model_v4	Lytic transglycosylase domain-containing protein	Crenarchaeota archaeon	0.66	9.8	0.499	
+22140
+AF-A0A367VR85-F1-model_v4	Lytic transglycosylase	Thalassospira lucentensis MCCC 1A00383 = DSM 14000	0.63	9	0.499	
+18138
+AF-A0A2V9S1S5-F1-model_v4	SLT domain-containing protein	Acidobacteria bacterium	0.57	5.8	0.499	
+20140
+AF-W8AUY3-F1-model_v4	Lysozyme c-1	Ceratitis capitata	0.96	26.3	0.499	
+19142
+AF-A0A7Y5LH44-F1-model_v4	Lytic transglycosylase domain-containing protein	Bryobacteraceae bacterium	0.66	9.2	0.498	
+7135
+AF-A0A0G0LYZ6-F1-model_v4	SLT domain-containing protein	Candidatus Woesebacteria bacterium GW2011_GWB1_39_12	0.60	12.2	0.498	
+6133
+AF-A0A6J5AJB1-F1-model_v4	SLT domain-containing protein	Paraburkholderia phenoliruptrix	0.63	12.6	0.497	
+20137
+AF-A0A0P8YDS8-F1-model_v4	Uncharacterized protein, isoform D	Drosophila ananassae	0.98	22.1	0.497	
+1141
+AF-A0A223DQA7-F1-model_v4	Lytic Transglycosylase (LT) and Goose Egg White Lysozyme (GEWL) domain protein	Klebsiella pneumoniae	0.77	9.1	0.497	
+15137
+AF-A0A2W4WBF7-F1-model_v4	Lytic transglycosylase, catalytic	Burkholderiales bacterium	0.66	13	0.496	
+24139
+AF-A0A662AGB0-F1-model_v4	SLT domain-containing protein	Bacteroidetes bacterium	0.63	11.5	0.496	
+21142
+AF-A0A1X7D7S0-F1-model_v4	Transglycosylase SLT domain-containing protein	Trinickia caryophylli	0.63	12.8	0.495	
+25141
+AF-A0A1A9ULV5-F1-model_v4	Lysozyme	Glossina austeni	0.96	18	0.495	
+16142
+AF-A0A5A9X6R0-F1-model_v4	SLT domain-containing protein	Oryzomonas rubra	0.69	5.5	0.495	
+20139
+AF-A0A2T7UU84-F1-model_v4	Transglycosylase	Pararhodobacter aggregans	0.69	5.6	0.495	
+1142
+AF-A0A139CW26-F1-model_v4	Soluble lytic murein transglycosylase	Candidatus Frackibacter sp. T328-2	0.69	14.5	0.495	
+22140
+AF-A0A2H5WYD3-F1-model_v4	Soluble lytic murein transglycosylase	bacterium HR15	0.54	8.5	0.495	
+21132
+AF-A0A6N4T5G9-F1-model_v4	Uncharacterized protein	Undibacterium sp. KW1	0.63	3.8	0.494	
+20142
+AF-A0A182SI32-F1-model_v4	Lysozyme	Anopheles maculatus	0.97	22.2	0.494	
+11142
+AF-A0A2V7UVT5-F1-model_v4	Lytic transglycosylase	Acidobacteria bacterium	0.63	6.9	0.494	
+12136
+AF-A0A2V8JVS3-F1-model_v4	SLT domain-containing protein	Acidobacteria bacterium	0.60	16	0.493	
+25142
+AF-A0A835ZM46-F1-model_v4	Uncharacterized protein	Ovis aries	0.92	33.3	0.493	
+18124
+AF-A0A524M8I8-F1-model_v4	SLT domain-containing protein	Candidatus Thorarchaeota archaeon	0.63	13.2	0.493	
+19138
+AF-A0A7W0ZPX2-F1-model_v4	Transglycosylase SLT domain-containing protein	Chloroflexia bacterium	0.47	10.4	0.493	
+16126
+AF-A0A2N1V651-F1-model_v4	SLT domain-containing protein	Candidatus Melainabacteria bacterium HGW-Melainabacteria-1	0.69	9.3	0.492	
+14138
+AF-A0A0N8P0G9-F1-model_v4	Uncharacterized protein, isoform G	Drosophila ananassae	0.98	24.8	0.492	
+2137
+AF-A0A524LH89-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Thorarchaeota archaeon	0.66	13.1	0.492	
+20140
+AF-A0A7T8MK70-F1-model_v4	Lytic transglycosylase domain-containing protein	Lysobacter enzymogenes	0.60	12.9	0.491	
+22137
+AF-A0A7C5I6L9-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Solibacter sp.	0.69	6.5	0.491	
+7138
+AF-A0A0F9KLP9-F1-model_v4	SLT domain-containing protein	marine sediment metagenome	0.66	10.2	0.491	
+19140
+AF-A0A315D439-F1-model_v4	SLT domain-containing protein	Limnohabitans sp. Bal53	0.63	15.9	0.491	
+23139
+AF-E0RPX4-F1-model_v4	SLT domain-containing protein	Spirochaeta thermophila DSM 6192	0.77	8.1	0.490	
+9142
+AF-A0A1F8B0R7-F1-model_v4	Transglycosylas domain-containing protein	Candidatus Woesebacteria bacterium RIFCSPLOWO2_01_FULL_37_19	0.66	10	0.490	
+8135
+AF-F2NDR6-F1-model_v4	Lytic transglycosylase catalytic	Desulfobacca acetoxidans DSM 11109	0.69	9	0.490	
+17142
+AF-A0A1V5R1K4-F1-model_v4	Transglycosylase SLT domain protein	Parcubacteria group bacterium ADurb.Bin326	0.60	17.5	0.489	
+20131
+AF-A0A0G0NYD2-F1-model_v4	SLT domain-containing protein	Parcubacteria group bacterium GW2011_GWF2_38_76	0.44	13.7	0.489	
+20132
+AF-A0A1W4VMM0-F1-model_v4	uncharacterized protein LOC108096221 isoform X2	Drosophila ficusphila	0.95	25.7	0.489	
+19142
+AF-A0A060WDQ6-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Oncorhynchus mykiss	0.95	8.4	0.489	
+17142
+AF-A0A4U8SWL9-F1-model_v4	SLT domain-containing protein	Helicobacter magdeburgensis	0.60	10.8	0.489	
+18136
+AF-A0L965-F1-model_v4	Lytic transglycosylase, catalytic	Magnetococcus marinus MC-1	0.80	9.8	0.489	
+1142
+AF-F0JCJ1-F1-model_v4	Lytic transglycosylase catalytic	Pseudodesulfovibrio mercurii	0.66	7.8	0.488	
+21140
+AF-A0A0F2PT79-F1-model_v4	SLT domain-containing protein	Peptococcaceae bacterium BRH_c4b	0.69	6.3	0.488	
+13139
+AF-A0A7W0UXS4-F1-model_v4	Lytic transglycosylase domain-containing protein	Pyrinomonadaceae bacterium	0.63	9.5	0.487	
+21140
+AF-A0A7C6A557-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Solibacter sp.	0.72	6.2	0.487	
+13138
+AF-A0A258NSW4-F1-model_v4	Lytic transglycosylase, catalytic	Polaromonas sp. 35-63-35	0.60	15.4	0.487	
+26139
+AF-A0A2I5T822-F1-model_v4	Peptidoglycan lytic exotransglycosylase	Serratia sp. ATCC 39006	0.63	7.4	0.486	
+18137
+AF-A0A8B6MYB4-F1-model_v4	Transglycosylase SLT domain-containing protein	Serratia marcescens	0.63	10.1	0.486	
+18137
+AF-A0A502GB53-F1-model_v4	Peptidoglycan lytic exotransglycosylase	Ewingella americana	0.63	5.8	0.486	
+18137
+AF-A0A5E8AW61-F1-model_v4	SLT domain-containing protein	Hoeflea sp. EC-HK425	0.57	7	0.486	
+19140
+AF-A0A4Q7XXE8-F1-model_v4	Transglycosylase-like protein with SLT domain	Edaphobacter modestus	0.60	8.5	0.486	
+22140
+AF-A0A7C5IAQ6-F1-model_v4	Lytic transglycosylase domain-containing protein	Deltaproteobacteria bacterium	0.72	11.3	0.485	
+15141
+AF-A0A6N7HGC4-F1-model_v4	Transglycosylase SLT domain-containing protein	Actinophytocola sp.	0.84	14.4	0.485	
+17142
+AF-A0A2V8G3H2-F1-model_v4	Lytic transglycosylase domain-containing protein	Acidobacteria bacterium	0.63	5.9	0.485	
+7140
+AF-A0A5C1MI91-F1-model_v4	Lytic transglycosylase domain-containing protein	Geobacter sp. FeAm09	0.66	12.4	0.485	
+20142
+AF-A0A1G3LRS2-F1-model_v4	SLT domain-containing protein	Spirochaetes bacterium GWB1_66_5	0.66	16.1	0.484	
+22142
+AF-Q0E6D3-F1-model_v4	TrbN protein	Pseudomonas aeruginosa	0.72	11	0.484	
+21142
+AF-A0A160FE35-F1-model_v4	Transglycosylase SLT domain protein	Anoxybacillus sp. B7M1	0.63	7.7	0.484	
+1136
+AF-A0A4W2CBH0-F1-model_v4	Uncharacterized protein	Bos indicus x Bos taurus	0.84	17.5	0.484	
+4133
+AF-A0A0K8VPJ2-F1-model_v4	Lysozyme S	Bactrocera latifrons	0.96	26.6	0.484	
+19142
+AF-A0A7M7KTF0-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Varroa destructor	0.98	24.5	0.484	
+1142
+AF-A0A433H0I4-F1-model_v4	Lytic transglycosylase domain-containing protein	Kocuria sp. HSID16901	0.63	6.9	0.483	
+23142
+AF-A0A2H0W7Q9-F1-model_v4	SLT domain-containing protein	Candidatus Beckwithbacteria bacterium CG10_big_fil_rev_8_21_14_0_10_34_10	0.54	8.5	0.482	
+17127
+AF-A0A2D8Z195-F1-model_v4	SLT domain-containing protein	Magnetovibrio sp.	0.69	7.2	0.482	
+1142
+AF-A0A525BW59-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetaceae bacterium	0.66	9.6	0.481	
+22142
+AF-A0A1F7W774-F1-model_v4	Uncharacterized protein	Candidatus Uhrbacteria bacterium RIFOXYB2_FULL_57_15	0.57	13.3	0.481	
+25141
+AF-A0A7R9M099-F1-model_v4	Hypothetical protein	Oppiella nova	0.82	32.2	0.480	
+49142
+AF-K2DIW5-F1-model_v4	SLT domain-containing protein	uncultured bacterium	0.63	10.2	0.480	
+26137
+AF-A0A6C1PJ17-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetaceae bacterium	0.72	6.1	0.480	
+10142
+AF-A0A7V6D1A0-F1-model_v4	Lytic transglycosylase domain-containing protein	Bryobacteraceae bacterium	0.69	6.3	0.480	
+17140
+AF-A0A1F5EKT1-F1-model_v4	SLT domain-containing protein	Candidatus Berkelbacteria bacterium RIFCSPHIGHO2_12_FULL_36_9	0.75	6.5	0.480	
+8139
+AF-A0A5B9EA32-F1-model_v4	Lytic transglycosylase domain-containing protein	Terriglobus albidus	0.69	8.6	0.480	
+14140
+AF-A0A532E5R0-F1-model_v4	Lytic transglycosylase domain-containing protein	Nitrospira sp.	0.60	9.2	0.479	
+13140
+AF-A0A7X3FGW8-F1-model_v4	Transglycosylase SLT domain-containing protein	Paenibacillus lutrae	0.75	7	0.479	
+11140
+AF-A0A839RJW5-F1-model_v4	Uncharacterized protein	Hoyosella altamirensis	0.63	6.2	0.479	
+23142
+AF-A0A7J5VTY1-F1-model_v4	Soluble lytic murein transglycosylase-like	Desulfobulbaceae bacterium	0.63	7.9	0.478	
+18139
+AF-A0A1W9L2W8-F1-model_v4	SLT domain-containing protein	Beggiatoa sp. IS2	0.57	8.6	0.478	
+20139
+AF-A0A240CB57-F1-model_v4	Peptidoglycan lytic exotransglycosylase	Serratia ficaria	0.60	9.5	0.478	
+18137
+AF-A0A7T6APR6-F1-model_v4	Lytic transglycosylase domain-containing protein	Desulfobulbus oligotrophicus	0.60	9	0.478	
+9140
+AF-L8Y2L8-F1-model_v4	60S ribosomal protein L31	Tupaia chinensis	0.75	39.5	0.477	
+18109
+AF-A0A7T9G406-F1-model_v4	Transglycosylase SLT domain-containing protein	Candidatus Woesebacteria bacterium	0.54	11.7	0.477	
+17130
+AF-A0A7W1GIL7-F1-model_v4	Lytic transglycosylase domain-containing protein	Pyrinomonadaceae bacterium	0.63	10	0.477	
+19140
+AF-A0A660RUU7-F1-model_v4	Uncharacterized protein	Thermodesulfobacteria bacterium	0.63	5.1	0.476	
+20137
+AF-A0A7X7Y7F1-F1-model_v4	Lytic transglycosylase domain-containing protein	Bacilli bacterium	0.51	8.3	0.476	
+23136
+AF-A0A840QSN8-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Texcoconibacillus texcoconensis	0.60	10.1	0.476	
+19137
+AF-A0A1F2RYQ3-F1-model_v4	SLT domain-containing protein	Acidobacteria bacterium RIFCSPLOWO2_02_FULL_60_20	0.57	7.4	0.475	
+19135
+AF-A0A484BSY4-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Drosophila navojoa	0.96	26.2	0.475	
+8138
+AF-A0A7C3RQ49-F1-model_v4	Lytic transglycosylase domain-containing protein	bacterium	0.66	8.8	0.475	
+16136
+AF-A0A1Z9SR33-F1-model_v4	SLT domain-containing protein	Rhodospirillaceae bacterium TMED256	0.75	9.6	0.474	
+13142
+AF-A0A7C5SQN1-F1-model_v4	SLT domain-containing protein	Epsilonproteobacteria bacterium	0.63	5.7	0.474	
+15138
+AF-A0A7W9ARD2-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Sphingomonas yantingensis	0.75	9.3	0.474	
+17142
+AF-A0A839HI66-F1-model_v4	Lytic transglycosylase domain-containing protein	Aquariibacter albus	0.60	10.9	0.474	
+25138
+AF-A0A1I4GSN2-F1-model_v4	Transglycosylase SLT domain-containing protein	Paenibacillus sp. 1_12	0.66	10.3	0.474	
+15139
+AF-A0A2G8RL38-F1-model_v4	SLT domain-containing protein	Puniceibacterium antarcticum	0.75	10.8	0.474	
+13133
+AF-A0A5R9F9V0-F1-model_v4	Lytic transglycosylase domain-containing protein	Pseudalkalibacillus caeni	0.60	9	0.473	
+11136
+AF-A0A135L3J9-F1-model_v4	SLT domain-containing protein	Tepidibacillus decaturensis	0.57	8.8	0.473	
+16135
+AF-S9W9P0-F1-model_v4	Uncharacterized protein	Camelus ferus	0.54	15.1	0.473	
+24128
+AF-A0A7V5A131-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetales bacterium	0.66	13.1	0.473	
+22141
+AF-A0A317IRY5-F1-model_v4	SLT domain-containing protein	Acidobacteriia bacterium	0.63	9.2	0.472	
+14136
+AF-A0A4R3NB35-F1-model_v4	Transglycosylase-like protein with SLT domain	Melghiribacillus thermohalophilus	0.57	8.3	0.472	
+11137
+AF-A0A1W0D4H0-F1-model_v4	SLT domain-containing protein	Chromobacterium haemolyticum	0.63	6.5	0.472	
+22142
+AF-A0A2W4LTF6-F1-model_v4	Lytic murein transglycosylase	Proteobacteria bacterium	0.63	6.4	0.472	
+16137
+AF-A0A4Q1SBG0-F1-model_v4	Lytic transglycosylase domain-containing protein	Silvibacterium dinghuense	0.75	11.2	0.472	
+15140
+AF-A0A235FCK3-F1-model_v4	SLT domain-containing protein	Fictibacillus aquaticus	0.63	9	0.472	
+14135
+AF-A0A6N2E4Q0-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetaceae bacterium	0.66	11.6	0.472	
+22142
+AF-A0A1G3L0P4-F1-model_v4	SLT domain-containing protein	Spirochaetes bacterium GWB1_48_6	0.63	9.2	0.472	
+22141
+AF-A0A6H2CGD0-F1-model_v4	Lytic transglycosylase domain-containing protein	Acinetobacter sp. NEB149	0.63	9.3	0.472	
+23142
+AF-A0A6N8CM99-F1-model_v4	Transglycosylase SLT domain-containing protein	Terrilactibacillus tamarindi	0.60	7.9	0.472	
+8136
+AF-A0A7C5C3G4-F1-model_v4	Lytic transglycosylase domain-containing protein	Treponema sp.	0.66	10.3	0.471	
+22141
+AF-A0A660TCT2-F1-model_v4	Lytic transglycosylase	Spirochaetes bacterium	0.66	10.2	0.471	
+22142
+AF-A0A7X2PKT8-F1-model_v4	Lytic transglycosylase domain-containing protein	Bryobacterales bacterium	0.77	6.2	0.470	
+6135
+AF-A0A7C1T4D7-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetales bacterium	0.66	13.3	0.470	
+22141
+AF-A0A182FCC9-F1-model_v4	C type lysozyme	Anopheles albimanus	0.98	26.8	0.469	
+1142
+AF-A0A1Y1RXE8-F1-model_v4	SLT domain-containing protein	Marispirochaeta aestuarii	0.66	9	0.469	
+22141
+AF-R6Q5Q1-F1-model_v4	SLT domain-containing protein	Faecalibacterium sp. CAG:82	0.57	11.5	0.468	
+22140
+AF-A0A2G6FSL6-F1-model_v4	Lytic transglycosylase	Deltaproteobacteria bacterium	0.63	7.1	0.468	
+22142
+AF-A0A1W9VNU4-F1-model_v4	SLT domain-containing protein	Spirochaetaceae bacterium 4572_7	0.66	12.2	0.468	
+22142
+AF-A0A1F5FVL8-F1-model_v4	SLT domain-containing protein	Candidatus Collierbacteria bacterium RIFOXYD1_FULL_40_9	0.51	13	0.468	
+19130
+AF-A0A323TFC7-F1-model_v4	Lytic transglycosylase	Salipaludibacillus keqinensis	0.60	10.6	0.468	
+21138
+AF-A0A3B9GI54-F1-model_v4	Transglycosylase	Spirochaetaceae bacterium	0.69	14.1	0.467	
+22142
+AF-A0A7M7KZC9-F1-model_v4	GLYCOSYL_HYDROL_F22_1 domain-containing protein	Varroa destructor	0.98	24.5	0.467	
+1142
+AF-S9YF58-F1-model_v4	Lysozyme	Camelus ferus	0.97	21	0.467	
+17136
+AF-A0A643FMJ3-F1-model_v4	Lytic transglycosylase domain-containing protein	Cupriavidus basilensis	0.63	5.8	0.466	
+14142
+AF-A0A1C3PBT9-F1-model_v4	Lytic transglycosylase catalytic subunit	Candidatus Frankia californiensis	0.63	9	0.466	
+21142
+AF-A0A3D1BL25-F1-model_v4	Lytic transglycosylase	Nitrospiraceae bacterium	0.72	7.2	0.466	
+12142
+AF-A0A1F5EBR1-F1-model_v4	SLT_2 domain-containing protein	Candidatus Berkelbacteria bacterium RIFCSPLOWO2_01_FULL_50_28	0.63	6.6	0.466	
+8139
+AF-A0A1B0D639-F1-model_v4	Lysozyme	Phlebotomus papatasi	0.97	20.2	0.465	
+19142
+AF-A0A2E7DF13-F1-model_v4	SLT domain-containing protein	Rhodospirillaceae bacterium	0.80	6.9	0.465	
+1142
+AF-A0A538QDM2-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.75	6	0.465	
+15134
+AF-A0A4R1L9Q8-F1-model_v4	Transglycosylase-like protein with SLT domain	Acidipila rosea	0.66	8.8	0.465	
+17140
+AF-G2J5Z3-F1-model_v4	MIP30171p1	Drosophila melanogaster	0.96	9.3	0.465	
+9142
+AF-A0A1Q4AJP4-F1-model_v4	Lytic transglycosylase	Mesorhizobium sp. 65-26	0.63	11.2	0.465	
+20138
+AF-A0A1G3RF10-F1-model_v4	SLT domain-containing protein	Spirochaetes bacterium RIFOXYC1_FULL_54_7	0.66	9.8	0.465	
+22141
+AF-A0A840NHE2-F1-model_v4	Uncharacterized protein	Saccharopolyspora gloriosae	0.85	15.4	0.464	
+13142
+AF-W6KNL3-F1-model_v4	GH23: related to soluble lytic transglycosylase	Magnetospira sp. QH-2	0.72	7.9	0.463	
+19142
+AF-A0A8B5X1Y4-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetaceae bacterium	0.69	11.6	0.463	
+22142
+AF-A0A521IFV4-F1-model_v4	Lytic transglycosylase domain-containing protein	Treponema sp.	0.66	12	0.462	
+22140
+AF-A0A1Y6C0Y5-F1-model_v4	Uncharacterized protein	Pseudogulbenkiania subflava DSM 22618	0.60	8.5	0.462	
+20138
+AF-C8C412-F1-model_v4	Lysozyme	Tribolium castaneum	0.95	12.9	0.462	
+10141
+AF-A0A2G6DW46-F1-model_v4	SLT domain-containing protein	Micrococcales bacterium	0.57	7.5	0.461	
+21138
+AF-A0A656XZF0-F1-model_v4	SLT domain-containing protein	Cellulomonas sp. Root137	0.69	7.3	0.461	
+23142
+AF-A0A3C1N3K3-F1-model_v4	Phage_lysozyme2 domain-containing protein	Erysipelotrichaceae bacterium	0.72	6.9	0.460	
+12142
+AF-L0GXG2-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Thioflavicoccus mobilis 8321	0.66	10.4	0.460	
+17135
+AF-A0A7C7XXM2-F1-model_v4	DUF4124 domain-containing protein	Myxococcales bacterium	0.69	5.4	0.460	
+11142
+AF-A0A1H7ZB57-F1-model_v4	Uncharacterized protein	Streptacidiphilus jiangxiensis	0.60	4.5	0.460	
+18142
+AF-A0A847LUH8-F1-model_v4	Lytic transglycosylase domain-containing protein	Treponema sp.	0.69	8.3	0.460	
+22142
+AF-A0A496RAL5-F1-model_v4	Lytic transglycosylase	Spirochaetes bacterium	0.66	10.7	0.460	
+22140
+AF-A0A7J5WLN5-F1-model_v4	Lytic	Desulfovibrionaceae bacterium	0.60	10.1	0.459	
+21137
+AF-A0A177RE39-F1-model_v4	SLT domain-containing protein	Acidobacteria bacterium SCGC AG-212-P17	0.75	7.6	0.459	
+6142
+AF-A0A524K7L3-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetales bacterium	0.66	12.9	0.459	
+22142
+AF-A0A7T9JAE8-F1-model_v4	Transglycosylase family protein	Candidatus Woesebacteria bacterium	0.57	12.2	0.458	
+17129
+AF-A0A803T3B4-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.97	28.8	0.458	
+15142
+AF-A0A2P7AQN3-F1-model_v4	Lytic transglycosylase domain-containing protein	Phyllobacterium sophorae	0.57	7.1	0.457	
+17136
+AF-A0A066UIE2-F1-model_v4	Transglycosylase	Moraxella bovoculi 237	0.54	7.8	0.457	
+22140
+AF-B4PCB0-F1-model_v4	Uncharacterized protein, isoform E	Drosophila yakuba	0.96	19.6	0.457	
+1142
+AF-A0A349TX46-F1-model_v4	SLT domain-containing protein	Rhodospirillaceae bacterium	0.69	9	0.457	
+20142
+AF-A0A3D3FM63-F1-model_v4	Transglycosylase	Treponema sp.	0.69	11.3	0.457	
+22141
+AF-A0A496Y146-F1-model_v4	SLT domain-containing protein	Deltaproteobacteria bacterium	0.63	10	0.456	
+17134
+AF-A0A7C6AL21-F1-model_v4	Lytic transglycosylase domain-containing protein	Candidatus Aminicenantes bacterium	0.51	9.8	0.456	
+23135
+AF-A0A2B0DHG8-F1-model_v4	Uncharacterized protein	Bacillus thuringiensis	0.72	6.7	0.455	
+10134
+AF-A0A4R4BS43-F1-model_v4	Transglycosylase	Treponema sp. J25	0.66	8.8	0.455	
+22141
+AF-A0A7R9L176-F1-model_v4	Hypothetical protein	Medioppia subpectinata	0.80	32.3	0.455	
+40142
+AF-A0A177PM14-F1-model_v4	Transglycosylase	Methylosinus sp. R-45379	0.57	11.2	0.455	
+20138
+AF-A0A4W2CVA3-F1-model_v4	Uncharacterized protein	Bos indicus x Bos taurus	0.84	27.7	0.455	
+5104
+AF-A0A7X8XMR5-F1-model_v4	Transglycosylase SLT domain-containing protein	Burkholderiales bacterium	0.60	8.2	0.455	
+6142
+AF-A0A1B0CTG4-F1-model_v4	Lysozyme	Lutzomyia longipalpis	0.96	28.6	0.455	
+18142
+AF-A0A832JNA9-F1-model_v4	Lytic transglycosylase domain-containing protein	Synergistales bacterium	0.57	5.8	0.455	
+22141
+AF-A0A3N5U9W8-F1-model_v4	Lytic transglycosylase domain-containing protein	Spirochaetaceae bacterium	0.66	13.1	0.454	
+22141
+AF-A0A365YR02-F1-model_v4	Transglycosylase	Novacetimonas cocois	0.60	7.7	0.454	
+23142
+AF-A0A350XX76-F1-model_v4	Dockerin domain-containing protein	Oscillospiraceae bacterium	0.66	6.7	0.454	
+21142
+AF-A0A7W6D1D9-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Hansschlegelia beijingensis	0.57	7.6	0.454	
+20137
+AF-A0A1W9GPM5-F1-model_v4	SLT domain-containing protein	Nitrospira sp. SG-bin2	0.60	8.1	0.453	
+19142
+AF-A0A2T3CVP7-F1-model_v4	Lytic transglycosylase domain-containing protein	Ensifer sp. NM-2	0.54	5.7	0.453	
+1135
+AF-A0A2N1PT59-F1-model_v4	Lytic transglycosylase	Candidatus Wallbacteria bacterium HGW-Wallbacteria-1	0.60	8	0.453	
+21140
+AF-A0A336L9G4-F1-model_v4	CSON006766 protein	Culicoides sonorensis	0.94	21.9	0.453	
+18142
+AF-I6ZA43-F1-model_v4	Lysozyme	Cristaria plicata	0.38	9.3	0.452	
+36137
+AF-A0A1M3NMD6-F1-model_v4	SLT domain-containing protein	Rhizobiales bacterium 65-9	0.60	10.4	0.452	
+21138
+AF-A0A4R0PBF3-F1-model_v4	Lytic transglycosylase domain-containing protein	Oricola cellulosilytica	0.57	10.2	0.451	
+18138
+AF-A0A1S6EUA7-F1-model_v4	SLT domain-containing protein	Brevundimonas sp. LM2	0.51	9.2	0.450	
+17134
+AF-A0A2H1VQD1-F1-model_v4	1,4-beta-N-acetylmuramidase	Spodoptera frugiperda	0.95	25.9	0.450	
+17142
+AF-A0A1G6AWX5-F1-model_v4	Sporulation related domain-containing protein	Bauldia litoralis	0.69	4.7	0.450	
+1140
+AF-A0A5C1QBE4-F1-model_v4	Lytic transglycosylase domain-containing protein	Thiospirochaeta perfilievii	0.66	10.9	0.449	
+22142
+AF-A0A0D6PYH5-F1-model_v4	Lytic transglycosylase	Komagataeibacter europaeus NBRC 3261	0.57	8.3	0.449	
+18139
+AF-A0A5E4P0M9-F1-model_v4	Lytic transglycosylase catalytic	Beijerinckiaceae bacterium RH AL1	0.60	11.4	0.449	
+22138
+AF-A0A177K1V4-F1-model_v4	Lytic transglycosylase	Sphingobium yanoikuyae	0.54	7.5	0.449	
+16134
+AF-A0A3B9U5Q0-F1-model_v4	SLT domain-containing protein	Patescibacteria group bacterium	0.54	14.5	0.449	
+10132
+AF-A0A3N5GZL6-F1-model_v4	Lytic transglycosylase domain-containing protein	Acidobacteria bacterium	0.63	6.6	0.449	
+20140
+AF-A0A1F8BJ71-F1-model_v4	Transglycosylas domain-containing protein	Candidatus Woesebacteria bacterium RIFCSPLOWO2_01_FULL_39_25	0.69	12	0.449	
+16135
+AF-A0A2T5KT16-F1-model_v4	RHS repeat-associated protein	Luteibacter sp. OK325	0.80	11.9	0.449	
+15140
+AF-A0A4V1TCL3-F1-model_v4	Lytic transglycosylase domain-containing protein	Oxalobacteraceae bacterium	0.60	5.8	0.449	
+19137
+AF-A0A532C4L0-F1-model_v4	Lytic transglycosylase domain-containing protein	Nitrospira sp.	0.60	9.6	0.448	
+19140
+AF-A0A7I0ZML9-F1-model_v4	1,4-beta-N-acetylmuramidase	Danaus plexippus plexippus	0.97	23.4	0.448	
+1142
+AF-A0A7X9QCM3-F1-model_v4	Lytic transglycosylase domain-containing protein	Deltaproteobacteria bacterium	0.60	7.9	0.448	
+5135
+AF-A0A840H453-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Bradyrhizobium sp. ERR14	0.57	12.1	0.447	
+22138
+AF-A0A2M7RSA5-F1-model_v4	SLT domain-containing protein	Candidatus Gottesmanbacteria bacterium CG_4_10_14_0_8_um_filter_37_24	0.51	10.3	0.447	
+18128
+AF-K9CVM2-F1-model_v4	SLT domain-containing protein	Sphingobium yanoikuyae ATCC 51230	0.57	7.8	0.447	
+22138
+AF-A0A3D4TYN2-F1-model_v4	SLT domain-containing protein	Bacteroidales bacterium	0.60	9.8	0.447	
+22140
+AF-A0A514KH66-F1-model_v4	Lytic transglycosylase domain-containing protein	Methylorubrum populi	0.75	4.6	0.447	
+1136
+AF-A0A7X8KZD8-F1-model_v4	Lytic transglycosylase domain-containing protein	Tissierellia bacterium	0.60	9.5	0.446	
+1135
+AF-A0A1W9M9L0-F1-model_v4	SLT domain-containing protein	Desulfobulbaceae bacterium A2	0.60	7	0.445	
+20140
+AF-A0A3S3SLP7-F1-model_v4	SLT domain-containing protein	Candidatus Electrothrix aarhusiensis	0.60	6.4	0.445	
+22142
+AF-B2IJU3-F1-model_v4	Lytic transglycosylase catalytic	Beijerinckia indica subsp. indica ATCC 9039	0.63	11	0.445	
+2131
+AF-A0A7G8STN2-F1-model_v4	Transglycosylase SLT domain-containing protein	Serratia sp. JUb9	0.60	7.5	0.445	
+22140
+AF-A0A3P8Y8G8-F1-model_v4	Basic salivary proline-rich protein 1-like	Esox lucius	0.93	4.7	0.444	
+18142
+AF-B4QKX1-F1-model_v4	GD13037	Drosophila simulans	0.96	12.7	0.444	
+5142
+AF-A0A252EEL0-F1-model_v4	SLT domain-containing protein	Acetobacter senegalensis	0.54	8.4	0.443	
+20138
+AF-A0A6J2UCN1-F1-model_v4	uncharacterized protein LOC115632734	Scaptodrosophila lebanonensis	0.96	24.5	0.443	
+8142
+AF-Q7Q6R2-F1-model_v4	AGAP005717-PA	Anopheles gambiae	0.96	23.9	0.443	
+14142
+AF-A0A1Z8QUY9-F1-model_v4	SLT domain-containing protein	Bacteroidetes bacterium TMED39	0.41	6.8	0.443	
+20134
+AF-A0A845UFR9-F1-model_v4	Lytic transglycosylase domain-containing protein	Acidipila sp.	0.63	8.9	0.443	
+13137
+AF-A0A1I4R9G3-F1-model_v4	Transglycosylase SLT domain-containing protein	Bradyrhizobium sp. Rc3b	0.60	12.1	0.442	
+22138
+AF-A0A2U8WQ36-F1-model_v4	Lytic transglycosylase	Methylobacterium terrae	0.60	7.3	0.441	
+16133
+AF-A0A1W9I843-F1-model_v4	SLT domain-containing protein	Proteobacteria bacterium SG_bin9	0.63	7.3	0.441	
+16142
+AF-A0A182PMJ8-F1-model_v4	C type lysozyme	Anopheles epiroticus	0.97	26.9	0.441	
+14142
+AF-A0A542AH19-F1-model_v4	Transglycosylase-like protein with SLT domain	Clostridium sp. KNHs216	0.57	10	0.440	
+22140
+AF-A0A358QKB8-F1-model_v4	SLT domain-containing protein	Chloroflexi bacterium	0.47	11.8	0.440	
+17131
+AF-A0A4W2GPE6-F1-model_v4	Lysozyme like 6	Bos indicus x Bos taurus	0.82	27.5	0.439	
+5105
+AF-A0A7C4M5M3-F1-model_v4	Uncharacterized protein	candidate division CPR3 bacterium	0.54	12.5	0.439	
+17136
+AF-A0A6I8TT06-F1-model_v4	C-Type Lysozyme (multi-lysozyme domain protein)	Aedes aegypti	0.96	12.6	0.439	
+5142
+AF-A0A3N5HNV7-F1-model_v4	Lytic transglycosylase domain-containing protein	Hyphomicrobiales bacterium	0.54	11.2	0.438	
+20131
+AF-A0A833J2Y5-F1-model_v4	Uncharacterized protein	Methylorubrum populi	0.60	6.7	0.438	
+1132
+AF-A0A034VHE5-F1-model_v4	Lysozyme c-1	Bactrocera dorsalis	0.96	25.6	0.438	
+12142
+AF-A0A0M0EJK5-F1-model_v4	Soluble lytic murein transglycosylase	Komagataeibacter europaeus	0.60	9.7	0.437	
+22142
+AF-A0A0Q8Q640-F1-model_v4	SLT domain-containing protein	Sphingomonas sp. Root710	0.47	7.6	0.437	
+17139
+AF-A0A0G1BBC6-F1-model_v4	SLT domain-containing protein	Parcubacteria group bacterium GW2011_GWF2_42_7	0.66	6.3	0.437	
+22139
+AF-A0A504F6S2-F1-model_v4	Lytic transglycosylase domain-containing protein	Mesorhizobium sp. B1-1-8	0.60	7.7	0.437	
+22140
+AF-A0A0G1TLK5-F1-model_v4	SLT domain-containing protein	Candidatus Amesbacteria bacterium GW2011_GWA2_47_11	0.47	14.9	0.437	
+20128
+AF-A0A6L4WZ65-F1-model_v4	Lytic transglycosylase	Bifidobacterium ramosum	0.72	3.9	0.436	
+23142
+AF-A0A0G1JWS3-F1-model_v4	Uncharacterized protein	Candidatus Peregrinibacteria bacterium GW2011_GWA2_44_7	0.63	5.8	0.435	
+17142
+AF-A0A0L0CIR7-F1-model_v4	Lysozyme D	Lucilia cuprina	0.97	2.8	0.434	
+1142
+AF-A0A7V1N9M2-F1-model_v4	DUF4124 domain-containing protein	Deltaproteobacteria bacterium	0.69	4.4	0.433	
+6142
+AF-A0A1A9XRA7-F1-model_v4	Lysozyme	Glossina fuscipes fuscipes	0.96	20.3	0.433	
+11142
+AF-A0A6L9LA87-F1-model_v4	Phage_lysozyme2 domain-containing protein	Spirosoma terrae	0.57	7.8	0.432	
+22142
+AF-A0A1B0A293-F1-model_v4	Lysozyme	Glossina pallidipes	0.96	31.9	0.432	
+18142
+AF-B4MY10-F1-model_v4	Uncharacterized protein	Drosophila willistoni	0.96	10.4	0.431	
+3142
+AF-A0A1D8P2I4-F1-model_v4	Uncharacterized protein	Hydrogenophaga crassostreae	0.63	6.8	0.431	
+14133
+AF-A0A841M2S3-F1-model_v4	Uncharacterized protein	Paenochrobactrum gallinarii	0.66	8	0.431	
+17142
+AF-A0A561LYB9-F1-model_v4	Transglycosylase-like protein with SLT domain	Burkholderia sp. 604	0.63	6.2	0.430	
+1141
+AF-A0A351KUH5-F1-model_v4	Lytic transglycosylase	Methylococcaceae bacterium	0.54	6.8	0.430	
+21136
+AF-A0A7K0A0A6-F1-model_v4	Transglycosylase SLT domain-containing protein	Actinomycetia bacterium	0.44	12.5	0.430	
+20130
+AF-A0A0G0D792-F1-model_v4	Peptidase M23	Berkelbacteria bacterium GW2011_GWA2_35_9	0.54	9	0.429	
+15137
+AF-A0A2W4IAT0-F1-model_v4	Uncharacterized protein	Candidatus Melainabacteria bacterium	0.66	7.3	0.429	
+15136
+AF-A0A662EZT3-F1-model_v4	Uncharacterized protein	Candidatus Woesearchaeota archaeon	0.77	5.3	0.428	
+21142
+AF-A0A7R8ZLZ4-F1-model_v4	Hypothetical protein	Cyprideis torosa	0.63	10.4	0.428	
+12136
+AF-A0A0R3E1Z4-F1-model_v4	SLT domain-containing protein	Bradyrhizobium manausense	0.51	9.5	0.428	
+21135
+AF-A0A484BXD1-F1-model_v4	Uncharacterized protein	Drosophila navojoa	0.96	22.2	0.427	
+6142
+AF-B4KWW1-F1-model_v4	Uncharacterized protein	Drosophila mojavensis	0.96	21.1	0.427	
+8142
+AF-A0A1A9WIY7-F1-model_v4	Lysozyme	Glossina brevipalpis	0.95	30.4	0.426	
+18142
+AF-A0A0P8ZRM7-F1-model_v4	Uncharacterized protein, isoform F	Drosophila ananassae	0.97	25.1	0.426	
+7140
+AF-A0A4R6RLB1-F1-model_v4	Transglycosylase-like protein with SLT domain	Oharaeibacter diazotrophicus	0.63	6.3	0.425	
+21140
+AF-A0A2E0IP40-F1-model_v4	Lytic transglycosylase	Ahrensia sp.	0.60	6.2	0.424	
+1140
+AF-A0A4R3MZR6-F1-model_v4	Transglycosylase-like protein with SLT domain	Thiobaca trueperi	0.66	8.3	0.423	
+4136
+AF-A0A316BP18-F1-model_v4	Sporulation related protein	Pseudaminobacter salicylatoxidans	0.66	6.4	0.423	
+19141
+AF-A0A3S0RGX1-F1-model_v4	Lytic transglycosylase domain-containing protein	Sphingomonas sp. TF3	0.51	10.1	0.423	
+18132
+AF-Q9VSA5-F1-model_v4	Uncharacterized protein	Drosophila melanogaster	0.97	23.4	0.423	
+7142
+AF-A0A1Y5PRI0-F1-model_v4	SLT domain-containing protein	uncultured Sphingopyxis sp.	0.47	9.4	0.423	
+22133
+AF-L0H0M2-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Thioflavicoccus mobilis 8321	0.66	8.5	0.423	
+11135
+AF-A0A660PKG6-F1-model_v4	Uncharacterized protein	candidate division Zixibacteria bacterium	0.63	7.8	0.422	
+22142
+AF-A0A838CS60-F1-model_v4	Transglycosylase SLT domain-containing protein	Halobacillus locisalis	0.77	6.2	0.422	
+1141
+AF-B4H299-F1-model_v4	GL17828	Drosophila persimilis	0.96	23.7	0.422	
+18142
+AF-A0A7U3FE10-F1-model_v4	Transglycosylase SLT domain-containing protein	Alicyclobacillus sp. TC	0.72	6.1	0.421	
+23142
+AF-A0A1Q7UEG2-F1-model_v4	SLT domain-containing protein	Candidatus Rokubacteria bacterium 13_1_20CM_4_68_9	0.54	6.6	0.421	
+1135
+AF-W8AYU9-F1-model_v4	Lysozyme c-1	Ceratitis capitata	0.96	20.4	0.420	
+10142
+AF-A0A7V9AU88-F1-model_v4	Lytic transglycosylase domain-containing protein	Acidobacteria bacterium	0.54	8.2	0.420	
+23138
+AF-A0A432V8X8-F1-model_v4	Uncharacterized protein	Pseudaminobacter arsenicus	0.63	8.7	0.420	
+20142
+AF-A0A4R6YBZ3-F1-model_v4	Transglycosylase-like protein with SLT domain	Aquamicrobium defluvii	0.54	12.3	0.419	
+14131
+AF-B4IWP9-F1-model_v4	GH16162	Drosophila grimshawi	0.96	24.4	0.419	
+17142
+AF-A0A0A1X8Z0-F1-model_v4	Lysozyme c-1	Zeugodacus cucurbitae	0.96	25	0.419	
+11142
+AF-A0A1D7UCM6-F1-model_v4	SLT domain-containing protein	Bosea vaviloviae	0.51	7.9	0.419	
+19136
+AF-A0A839EIR9-F1-model_v4	Uncharacterized protein	Phyllobacterium myrsinacearum	0.51	5.9	0.418	
+17136
+AF-A0A6P5V535-F1-model_v4	uncharacterized protein LOC111072224 isoform X1	Drosophila obscura	0.96	12.6	0.418	
+11142
+AF-A5V2N6-F1-model_v4	Lytic transglycosylase, catalytic	Rhizorhabdus wittichii RW1	0.47	6.8	0.418	
+19133
+AF-A0A2R3J5X3-F1-model_v4	Transglycosylase SLT domain protein	Pseudomonas aeruginosa	0.51	10.2	0.418	
+23133
+AF-A0A336LPC4-F1-model_v4	CSON010116 protein	Culicoides sonorensis	0.95	25.1	0.418	
+18141
+AF-A0A7T5JTP2-F1-model_v4	Transglycosylase SLT domain-containing protein	Alicyclobacillus sp. SO9	0.69	8.1	0.417	
+23142
+AF-A0A1A9VFF1-F1-model_v4	Lysozyme	Glossina austeni	0.96	31.9	0.416	
+18142
+AF-V4RIP1-F1-model_v4	Transglycosylase	Lutibaculum baratangense AMV1	0.60	5.2	0.416	
+6140
+AF-A0A2N9ATQ6-F1-model_v4	SLT domain-containing protein	Methylorubrum extorquens	0.57	6.1	0.416	
+21139
+AF-A0A3S0WK09-F1-model_v4	Tail length tape measure protein	Prevotella koreensis	0.75	6.5	0.416	
+16140
+AF-A0A0V2FGP2-F1-model_v4	SLT domain-containing protein	Caulobacter vibrioides	0.51	6.8	0.415	
+22133
+AF-A0A1A9XRA3-F1-model_v4	Lysozyme	Glossina fuscipes fuscipes	0.95	28.4	0.415	
+19142
+AF-A0A7Y9UPX7-F1-model_v4	LysM domain-containing protein	Nocardioides daedukensis	0.54	7	0.415	
+19139
+AF-A0A3A1P4E7-F1-model_v4	Lytic transglycosylase domain-containing protein	Aurantiacibacter xanthus	0.47	10	0.414	
+20134
+AF-A0A2L1GPJ1-F1-model_v4	Uncharacterized protein	Desulfobulbus oralis	0.63	6.3	0.413	
+19141
+AF-A0A537NID6-F1-model_v4	Lytic transglycosylase domain-containing protein	Alphaproteobacteria bacterium	0.66	6.1	0.413	
+9140
+AF-A0A1I1C7H6-F1-model_v4	Transglycosylase SLT domain-containing protein	Amycolatopsis marina	0.69	7.1	0.411	
+21140
+AF-A0A6P8X3C8-F1-model_v4	uncharacterized protein LOC117572151	Drosophila albomicans	0.95	28.4	0.410	
+18142
+AF-A0A1H5N0S8-F1-model_v4	Transglycosylase SLT domain-containing protein	Jiangella alba	0.69	6.5	0.407	
+23139
+AF-A0A7S7U490-F1-model_v4	Lytic transglycosylase domain-containing protein	Bradyrhizobium sp. CCBAU 53421	0.51	10.1	0.407	
+18135
+AF-A0A2A3BQS2-F1-model_v4	Lytic transglycosylase	Mesorhizobium sp. WSM4308	0.47	9.8	0.407	
+23134
+AF-A0A258IET3-F1-model_v4	Lytic transglycosylase	Rhizobiales bacterium 32-66-11	0.60	4.2	0.407	
+21140
+AF-A0A656Y6I1-F1-model_v4	SLT domain-containing protein	Cellulomonas sp. Root137	0.72	7.9	0.407	
+23140
+AF-A0A3P1WP02-F1-model_v4	CHAP domain-containing protein	Arachnia propionica	0.66	3.8	0.406	
+23142
+AF-A0A836D3V4-F1-model_v4	Uncharacterized protein	Ovis aries	0.87	36.7	0.406	
+6129
+AF-A0A838J3U9-F1-model_v4	Lytic transglycosylase domain-containing protein	Ktedonobacteraceae bacterium	0.47	6	0.406	
+20132
+AF-A0A1I7FYF9-F1-model_v4	Uncharacterized protein	Butyrivibrio sp. INlla21	0.66	5	0.405	
+11142
+AF-A0A366I5Y1-F1-model_v4	Transglycosylase-like protein with SLT domain	Brenneria salicis ATCC 15712 = DSM 30166	0.51	10.6	0.404	
+23138
+AF-A0A6I1LBN4-F1-model_v4	SLT domain-containing protein	Pseudomonas sp.	0.57	5.7	0.403	
+17140
+AF-A0A371B9L0-F1-model_v4	Lytic transglycosylase domain-containing protein	Undibacter mobilis	0.63	8	0.403	
+19142
+AF-A0A0G0ZNZ7-F1-model_v4	SLT domain-containing protein	Parcubacteria group bacterium GW2011_GWB1_41_6	0.63	5.7	0.403	
+22139
+AF-A0A7Y5ZX95-F1-model_v4	Lytic transglycosylase domain-containing protein	Cellulomonas humilata	0.72	7.6	0.402	
+23140
+AF-K7S3X4-F1-model_v4	Lytic Transglycosylase	Acidipropionibacterium acidipropionici ATCC 4875	0.60	4.9	0.401	
+23135
+AF-A0A6F9E626-F1-model_v4	Lytic transglycosylase catalytic	Kyrpidia spormannii	0.54	8.2	0.400	
+23138
+AF-A0A455UHI3-F1-model_v4	SLT domain-containing protein	Halomonas sulfidaeris	0.66	11.4	0.399	
+23135
+AF-N0B133-F1-model_v4	Lytic transglycosylase	Hyphomicrobium denitrificans 1NES1	0.47	10	0.399	
+22135
+AF-C8WVT3-F1-model_v4	Lytic transglycosylase catalytic	Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446	0.66	8.4	0.399	
+23137
+AF-A0A4Y8LSX1-F1-model_v4	Uncharacterized protein	Jeotgalibacillus salarius	0.75	4.8	0.399	
+18142
+AF-A0A5M9ZHF0-F1-model_v4	CHAP domain-containing protein	Bifidobacterium callitrichos	0.69	3	0.398	
+1142
+AF-R5VRV4-F1-model_v4	Listeria/Bacterioides repeat	Ruminococcus sp. CAG:254	0.66	9.8	0.397	
+20142
+AF-A0A537RIP2-F1-model_v4	TIGR02594 family protein	Alphaproteobacteria bacterium	0.47	10.1	0.396	
+21130
+AF-A0A7J7QPV1-F1-model_v4	SLT domain-containing protein	Scenedesmus sp. NREL 46B-D3	0.87	10.6	0.396	
+13142
+AF-A0A1M4M2I5-F1-model_v4	Endoglucanase	Proteiniborus sp. DW1	0.69	8.6	0.396	
+1138
+AF-A0A255H2C4-F1-model_v4	Uncharacterized protein	Enemella dayhoffiae	0.63	7.5	0.394	
+23135
+AF-A0A1F6SDU0-F1-model_v4	SLT domain-containing protein	Candidatus Moranbacteria bacterium RIFCSPLOWO2_12_FULL_48_12	0.63	6.5	0.391	
+22138
+AF-A0A5M9ZSQ2-F1-model_v4	CHAP domain-containing protein	Bifidobacterium tissieri	0.66	3.3	0.391	
+7142
+AF-A0A3P1UZR6-F1-model_v4	Lytic transglycosylase domain-containing protein	Brucellaceae bacterium VT-16-1752	0.47	9.4	0.390	
+23134
+AF-A0A7Y9TBF0-F1-model_v4	Soluble lytic murein transglycosylase-like protein	Methylobacterium sp. YL-MPn6-2016	0.54	6.8	0.385	
+24133
+AF-A0A0Q7TR53-F1-model_v4	SLT domain-containing protein	Pseudolabrys sp. Root1462	0.63	5.3	0.384	
+2142
+AF-A0A346A4S8-F1-model_v4	Lytic transglycosylase domain-containing protein	Pseudolabrys taiwanensis	0.60	8.5	0.384	
+19141
+AF-A0A6A4WD08-F1-model_v4	Lysozyme	Amphibalanus amphitrite	0.28	10	0.383	
+36130
+AF-A0A146H5K2-F1-model_v4	SLT domain-containing protein	Mycena chlorophos	0.77	5	0.383	
+1138
+AF-A0A3S0ER99-F1-model_v4	VanY domain-containing protein	Candidatus Melainabacteria bacterium	0.69	11.8	0.379	
+16142
+AF-A0A7L9TUC5-F1-model_v4	CHAP domain-containing protein	Bifidobacterium longum subsp. infantis	0.63	4.2	0.379	
+23142
+AF-A0A3G5T5A2-F1-model_v4	Uncharacterized protein	Actinobacteria bacterium YIM 96077	0.69	6.3	0.378	
+22140
+AF-A0A5P8JJU1-F1-model_v4	Transglycosylase SLT domain-containing protein	Paracoccus kondratievae	0.63	11.4	0.376	
+22140
+AF-A0A7Z0IML2-F1-model_v4	Uncharacterized protein	Naumannella cuiyingiana	0.69	4.7	0.376	
+4138
+AF-A0A2T3GC27-F1-model_v4	Lytic transglycosylase	Bifidobacterium callitrichos	0.60	7.1	0.375	
+23142
+AF-A0A845DC50-F1-model_v4	Uncharacterized protein	Candidatus Spechtbacteria bacterium SB0662_bin_43	0.80	1.9	0.373	
+5131
+AF-A0A2S3VY17-F1-model_v4	SLT domain-containing protein	Novacetimonas maltaceti	0.51	10.6	0.369	
+22138
+AF-A0A7Z2QD62-F1-model_v4	Transglycosylase SLT domain-containing protein	Bacillus sp. N1-1	0.69	3.4	0.369	
+20142
+AF-A0A2V2GG78-F1-model_v4	Dockerin domain-containing protein	Oscillospiraceae bacterium	0.66	7	0.368	
+21142
+AF-A0A2M6ZM23-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium CG07_land_8_20_14_0_80_60_11	0.54	7.3	0.367	
+20140
+AF-E9I6P5-F1-model_v4	Uncharacterized protein	Daphnia pulex	0.28	7.3	0.365	
+20111
+AF-A0A2V2D8X4-F1-model_v4	Dockerin domain-containing protein	Oscillospiraceae bacterium	0.66	10.2	0.365	
+21141
+AF-A0A2K9B9R0-F1-model_v4	Peptidase C51 domain-containing protein	Bifidobacterium breve	0.63	6.7	0.365	
+23135
+AF-A4XJF2-F1-model_v4	Peptidase M23B	Caldicellulosiruptor saccharolyticus DSM 8903	0.72	4.8	0.363	
+15141
+AF-A0A087CIV3-F1-model_v4	Transglycosylase SLT domain-containing protein	Bifidobacterium reuteri DSM 23975	0.63	7.2	0.363	
+23136
+AF-A0A1D2SRF2-F1-model_v4	SLT domain-containing protein	Mesorhizobium sp. SCN 65-20	0.44	10	0.362	
+19124
+AF-A0A7I6N4U8-F1-model_v4	NlpC/P60 domain-containing protein	Clostridium argentinense	0.69	8.7	0.359	
+22142
+AF-A0A427XC02-F1-model_v4	M23 family metallopeptidase	Acinetobacter sp. FDAARGOS_559	0.63	5.6	0.359	
+22140
+AF-A0A6H1ZKY6-F1-model_v4	SLT domain-containing protein	viral metagenome	0.77	5.7	0.359	
+18142
+AF-A0A2A5KKI3-F1-model_v4	Uncharacterized protein	Rhizobium sophoriradicis	0.63	2.4	0.356	
+14140
+AF-C3VRY3-F1-model_v4	Lysozyme c-6	Anopheles gambiae	0.18	22.4	0.356	
+17117
+AF-A0A560DG00-F1-model_v4	Uncharacterized protein (TIGR02594 family)	Bradyrhizobium stylosanthis	0.63	10.2	0.355	
+20140
+AF-A0A6H0G031-F1-model_v4	Uncharacterized protein	Acinetobacter pittii	0.57	3.6	0.354	
+15138
+AF-A0A3B9WWU9-F1-model_v4	BIG2 domain-containing protein	Lachnospiraceae bacterium	0.63	8.5	0.353	
+18142
+AF-A0A5D0TT65-F1-model_v4	Lytic transglycosylase domain-containing protein	Actinomadura syzygii	0.66	8.6	0.353	
+23138
+AF-N8R353-F1-model_v4	Uncharacterized protein	Acinetobacter sp. NIPH 236	0.66	9.3	0.352	
+21140
+AF-A0A0Q4TYP2-F1-model_v4	TMP_2 domain-containing protein	Methylobacterium sp. Leaf85	0.80	2	0.351	
+1132
+AF-A0A521DZD2-F1-model_v4	Transglycosylase SLT domain-containing protein	Paracoccus laeviglucosivorans	0.69	8.5	0.351	
+21142
+AF-E4QBX6-F1-model_v4	Peptidase M23	Caldicellulosiruptor hydrothermalis 108	0.66	4.7	0.350	
+20142
+AF-A0A1X0TE15-F1-model_v4	Uncharacterized protein	Snodgrassella alvi	0.69	2.5	0.348	
+9141
+AF-A0A0G2ZR56-F1-model_v4	Peptidase M23-like protein	Archangium gephyra	0.63	5.1	0.341	
+22142
+AF-A0A3D1KM21-F1-model_v4	SLT domain-containing protein	Candidatus Jacksonbacteria bacterium	0.69	6.6	0.341	
+6142
+AF-A0A3M1F7L9-F1-model_v4	Uncharacterized protein	Candidatus Woesearchaeota archaeon	0.72	13.3	0.341	
+20139
+AF-A0A1K2AAA4-F1-model_v4	Dockerin domain-containing protein	Ruminococcus flavefaciens	0.54	4.1	0.339	
+20141
+AF-A0A556C4W4-F1-model_v4	Peptidoglycan DD-metalloendopeptidase family protein	Brevibacterium aurantiacum	0.72	3.3	0.337	
+8138
+AF-A0A6A6C9Z8-F1-model_v4	Carbohydrate-binding module family 18 protein	Zasmidium cellare ATCC 36951	0.44	8.5	0.335	
+17137
+AF-A0A4R2GGX2-F1-model_v4	Uncharacterized protein	Camelimonas lactis	0.57	4.3	0.333	
+20142
+AF-A0A7S7AMJ4-F1-model_v4	Lytic transglycosylase domain-containing protein	Acinetobacter sp. YH12138	0.60	2.9	0.331	
+14139
+AF-A0A2K9ARW5-F1-model_v4	Peptidase C51 domain-containing protein	Bifidobacterium breve	0.66	6.5	0.329	
+23138
+AF-A0A0G1UEL9-F1-model_v4	SLT_3 domain-containing protein	Candidatus Amesbacteria bacterium GW2011_GWC1_47_15	0.66	8.6	0.324	
+10132
+AF-A0A849I5P7-F1-model_v4	Uncharacterized protein	Enterovirga sp. DB1703	0.60	8.7	0.316	
+13132

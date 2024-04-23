@@ -1,0 +1,70 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: cif2gearnet-{{ job_iterator }}
+spec:
+  template:
+    spec:
+      ttlSecondsAfterFinished: 120
+      containers:
+      - name: cif2gearnet-{{ job_iterator }}
+        image: registry.gitlab.ics.muni.cz:443/fi-lmi/protein-db/gearnet
+        imagePullPolicy: Always
+        securityContext:
+          allowPrivilegeEscalation: false
+          capabilities:
+            drop:
+              - ALL
+          runAsUser: 1000
+        command:
+          - python
+        args:
+          - /scripts/gearnet/cif2gearnet.py
+          - --batch
+          - "8"
+          - --device
+          - cuda
+          - --input
+          - /proteins
+          - --output
+          - /output/gearnet-embedding
+          - --scratch_dir
+          - /tmp
+          - --position
+          - "{{ job_iterator }}"
+          - --index
+          - "/output/configs/job-cif2emb-{{ job_iterator }}"
+        volumeMounts:
+          - name: vol-1
+            mountPath: /proteins
+          - name: embeddings
+            mountPath: /output
+        resources:
+          limits:
+            cpu: '1'
+            ephemeral-storage: 32Gi
+            memory: 32Gi
+            nvidia.com/gpu: '1'
+          requests:
+            cpu: '1'
+            ephemeral-storage: 32Gi
+            memory: 32Gi
+            nvidia.com/gpu: '1'
+      imagePullSecrets:
+        - name: gitlab-containerregistry
+      securityContext:
+        fsGroupChangePolicy: OnRootMismatch
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
+      volumes:
+        - name: vol-1
+          persistentVolumeClaim:
+            claimName: pvc-af-proteomes
+        - name: embeddings 
+          persistentVolumeClaim:
+            claimName: pvc-embeddings
+        - name: script-volume
+          configMap:
+            name: cif2embedding-script
+      restartPolicy: Never

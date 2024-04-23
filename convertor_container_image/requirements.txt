@@ -1,0 +1,17 @@
+jupyterlab
+biopython
+torch
+nvidia-cudnn-cu11
+pandas
+pillow
+keras
+scikit-learn
+matplotlib
+numpy
+pyyaml
+kaleido
+psutil
+biopython
+tqdm
+tensorflow
+py-cpuinfo

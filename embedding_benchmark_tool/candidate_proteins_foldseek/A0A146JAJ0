@@ -1,0 +1,2006 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR 60 KDA CHAPERONIN (A0A146JAJ0)
+AFDB50 1000 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-A0A3D4E4M6-F1-model_v4	60 kDa chaperonin	Rhodospirillaceae bacterium	1.00	39.1	0.938	
+1171
+AF-A0A4V1SQM3-F1-model_v4	Molecular chaperone GroEL	Sphingomonadales bacterium	1.00	39.1	0.935	
+1171
+AF-A0A431PEX1-F1-model_v4	Molecular chaperone GroEL	Hyphomicrobiales bacterium	1.00	43.1	0.935	
+1169
+AF-A0A519W0E0-F1-model_v4	Molecular chaperone GroEL	Pedobacter sp.	1.00	38.9	0.933	
+1166
+AF-A0A381ZQ11-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	36.1	0.932	
+1166
+AF-A0A3C0Y560-F1-model_v4	Molecular chaperone GroEL	Polaromonas sp.	1.00	37.3	0.932	
+1166
+AF-A0A2H0ACS0-F1-model_v4	60 kDa chaperonin	Desulfobacterales bacterium CG23_combo_of_CG06-09_8_20_14_all_51_8	1.00	36.9	0.932	
+1165
+AF-A0A359IXY7-F1-model_v4	Molecular chaperone GroEL	Propionibacteriaceae bacterium	1.00	34.3	0.928	
+1166
+AF-A0A352LTC5-F1-model_v4	Molecular chaperone GroEL	Coxiellaceae bacterium	1.00	39.3	0.928	
+1165
+AF-A0A538FJS5-F1-model_v4	Chaperonin GroEL	Actinomycetia bacterium	1.00	37.2	0.926	
+1169
+AF-A0A382N200-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	39	0.926	
+1164
+AF-A0A5J4EBZ3-F1-model_v4	60 kDa chaperonin	bacterium MnTg04	1.00	38.2	0.912	
+1162
+AF-Q4D3K7-F1-model_v4	Chaperonin HSP60 mitochondrial, putative	Trypanosoma cruzi strain CL Brener	1.00	39.7	0.907	
+1171
+AF-A0A800E5Q8-F1-model_v4	60 kDa chaperonin	Planctomycetota bacterium	0.99	38.8	0.901	
+1162
+AF-A0A6G2DAE1-F1-model_v4	Chaperonin GroEL	Streptococcus pneumoniae	0.99	36.4	0.900	
+1162
+AF-J3CRP2-F1-model_v4	Chaperonin GroEL	Bradyrhizobium sp. YR681	1.00	40.9	0.900	
+1171
+AF-A0A7V7XE74-F1-model_v4	Chaperonin GroEL	Burkholderiaceae bacterium	1.00	39.1	0.897	
+1171
+AF-A0A382IIK6-F1-model_v4	Uncharacterized protein	marine metagenome	0.99	39.2	0.895	
+1153
+AF-A0A2V7LZR7-F1-model_v4	Molecular chaperone GroEL	Gemmatimonadetes bacterium	0.99	38.9	0.895	
+1154
+AF-A0A838K4M2-F1-model_v4	Molecular chaperone GroEL	Nocardioidaceae bacterium	1.00	32.7	0.892	
+1171
+AF-A0A7C1TLK6-F1-model_v4	Molecular chaperone GroEL	Gammaproteobacteria bacterium	1.00	38.5	0.890	
+1171
+AF-A0A7V6SRQ1-F1-model_v4	Chaperonin GroEL	Tissierellia bacterium	1.00	36.8	0.890	
+1171
+AF-A0A7X9L370-F1-model_v4	Chaperonin GroEL	Deltaproteobacteria bacterium	0.99	36.3	0.887	
+1154
+AF-X0WZ35-F1-model_v4	Uncharacterized protein	marine sediment metagenome	1.00	37.4	0.887	
+1171
+AF-A0A512E1S1-F1-model_v4	Uncharacterized protein	Skermanella aerolata	1.00	27.7	0.886	
+1171
+AF-A0A432I0Q6-F1-model_v4	Molecular chaperone GroEL	Candidatus Poseidoniales archaeon	1.00	35.6	0.886	
+1171
+AF-A0A3B8XK65-F1-model_v4	Molecular chaperone GroEL	Chloroflexi bacterium	1.00	33.3	0.885	
+1171
+AF-A0A3D5U9R9-F1-model_v4	Molecular chaperone GroEL	Candidatus Cloacimonas sp.	1.00	36.8	0.882	
+1171
+AF-A0A101G9G1-F1-model_v4	60 kDa chaperonin	Desulfotomaculum sp. 46_296	1.00	37.4	0.882	
+1171
+AF-X6JVX7-F1-model_v4	Uncharacterized protein	Mesorhizobium sp. L103C105A0	1.00	38	0.881	
+1171
+AF-A0A7Z9IIB3-F1-model_v4	Chaperonin GroEL	Gemmatimonadetes bacterium	1.00	35	0.881	
+1171
+AF-A0A528B6U6-F1-model_v4	HTH_8 domain-containing protein	Mesorhizobium sp.	1.00	39.8	0.878	
+1171
+AF-U6GQG4-F1-model_v4	Uncharacterized protein	Eimeria acervulina	1.00	24.5	0.874	
+1171
+AF-A0A238BM34-F1-model_v4	Uncharacterized protein	Onchocerca flexuosa	1.00	35.4	0.874	
+1171
+AF-A0A3D3STT5-F1-model_v4	Molecular chaperone GroEL	Burkholderiales bacterium	1.00	35	0.873	
+1171
+AF-A0A7W0J116-F1-model_v4	Chaperonin GroEL	Candidatus Omnitrophica bacterium	1.00	36.8	0.871	
+1171
+AF-A0A3D1YIT5-F1-model_v4	Molecular chaperone GroEL	Halieaceae bacterium	1.00	38.5	0.870	
+1171
+AF-A0A382UAN5-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	36.2	0.867	
+1171
+AF-A0A382G786-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	37.4	0.865	
+1171
+AF-Q4DTC5-F1-model_v4	Chaperonin HSP60 mitochondrial, putative	Trypanosoma cruzi strain CL Brener	1.00	39.7	0.865	
+1171
+AF-N1UZC8-F1-model_v4	60 kDa chaperonin domain protein	Leptospira interrogans serovar Australis str. 200703203	0.98	36.5	0.860	
+1145
+AF-K2FBX3-F1-model_v4	60 kDa chaperonin	uncultured bacterium	0.99	30	0.858	
+1159
+AF-A0A7W0LQW0-F1-model_v4	Chaperonin GroEL	Acidimicrobiia bacterium	0.98	34.5	0.857	
+1142
+AF-A0A3Q0RPL7-F1-model_v4	Uncharacterized protein	Amphilophus citrinellus	0.99	39.2	0.857	
+1158
+AF-A0A2I0VTM5-F1-model_v4	Chaperonin CPN60-2, mitochondrial	Dendrobium catenatum	1.00	39.1	0.855	
+1171
+AF-A0A4Y7PV83-F1-model_v4	GroEL equatorial domain-like protein	Rickenella mellea	0.99	31.3	0.855	
+4171
+AF-A0A4Y7PKR1-F1-model_v4	GroEL equatorial domain-like protein	Rickenella mellea	0.97	31.1	0.847	
+1138
+AF-A0A455VAU0-F1-model_v4	Uncharacterized protein	Halomonas axialensis	1.00	33.3	0.846	
+1171
+AF-A5E1E1-F1-model_v4	60 kDa chaperonin	Lodderomyces elongisporus NRRL YB-4239	1.00	38.1	0.846	
+1171
+AF-A0A7J9WEE9-F1-model_v4	Chaperonin GroEL	Nitriliruptorales bacterium	1.00	39.7	0.846	
+1171
+AF-A0A7C2HTZ0-F1-model_v4	Molecular chaperone GroEL	Hydrogenobaculum sp.	0.97	35	0.844	
+1137
+AF-A0A2D7Z5P4-F1-model_v4	Molecular chaperone GroEL	Nisaea sp.	0.97	28.2	0.843	
+1170
+AF-A0A0S8GJR8-F1-model_v4	Molecular chaperone GroEL	Acidithiobacillales bacterium SM23_46	0.97	35.2	0.839	
+1136
+AF-A0A383C7J2-F1-model_v4	Uncharacterized protein	marine metagenome	0.96	33	0.839	
+1136
+AF-A0A3D4UJM8-F1-model_v4	60 kDa chaperonin	Phycisphaerales bacterium	0.97	27.7	0.839	
+1166
+AF-A0A3S1Z612-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp. M7A.F.Ca.US.003.02.1.1	0.98	32.4	0.838	
+18170
+AF-A0A7S3DZV8-F1-model_v4	Hypothetical protein	Pycnococcus provasolii	1.00	39.1	0.838	
+1171
+AF-A0A3S5DE27-F1-model_v4	Chaperonin GroEL	Serratia plymuthica	0.97	30	0.837	
+1168
+AF-A0A434TU02-F1-model_v4	Chaperonin GroEL	Mesorhizobium sp. M1A.F.Ca.ET.072.01.1.1	1.00	40.9	0.836	
+1171
+AF-C4J871-F1-model_v4	Uncharacterized protein	Zea mays	0.98	30.6	0.836	
+15171
+AF-A0A7G1IMB9-F1-model_v4	Uncharacterized protein	Mycobacterium kansasii	1.00	35	0.835	
+1171
+AF-A0A094C492-F1-model_v4	Uncharacterized protein	Pseudogymnoascus sp. VKM F-3775	1.00	39.7	0.833	
+1171
+AF-A0A2N2HIA3-F1-model_v4	Molecular chaperone GroEL	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-20	0.96	34.5	0.833	
+1133
+AF-A0A350CJ66-F1-model_v4	60 kDa chaperonin	Planctomycetaceae bacterium	0.96	33.5	0.832	
+1134
+AF-A0A813E831-F1-model_v4	Hypothetical protein	Polarella glacialis	0.99	38	0.832	
+1154
+AF-A0A7C3NV88-F1-model_v4	Molecular chaperone GroEL	Chloroflexi bacterium	0.96	38	0.832	
+1134
+AF-Q6WA92-F1-model_v4	GroEL protein	Serratia plymuthica	0.97	39.7	0.831	
+36171
+AF-A0A7W0HDX4-F1-model_v4	Chaperonin GroEL	Acidimicrobiia bacterium	1.00	34.5	0.829	
+1171
+AF-A0A2W4KNX8-F1-model_v4	Molecular chaperone GroEL	candidate division SR1 bacterium	0.96	29.3	0.828	
+1133
+AF-A0A7L7S2W2-F1-model_v4	Molecular chaperone GroEL	Streptococcus agalactiae	0.98	37.5	0.827	
+28171
+AF-A0A7S1LXP8-F1-model_v4	Hypothetical protein	Alexandrium catenella	1.00	40.3	0.823	
+1171
+AF-A0A832Y685-F1-model_v4	Molecular chaperone GroEL	Candidatus Poseidoniales archaeon	1.00	34.5	0.822	
+1171
+AF-A0A287GF34-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	1.00	43.2	0.821	
+1171
+AF-A0A1B0DC59-F1-model_v4	Uncharacterized protein	Phlebotomus papatasi	0.99	18.2	0.819	
+1166
+AF-A0A350K821-F1-model_v4	Molecular chaperone GroEL	Planctomycetaceae bacterium	0.94	33.5	0.818	
+1131
+AF-R4HI64-F1-model_v4	60 kDa chaperonin	Wolbachia pipientis	0.99	47.3	0.816	
+8171
+AF-A0A524QX36-F1-model_v4	Uncharacterized protein	Gemmatimonadales bacterium	0.99	19.1	0.816	
+1171
+AF-A0A2N2IYV4-F1-model_v4	Molecular chaperone GroEL	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-20	1.00	42.1	0.816	
+1171
+AF-A0CN74-F1-model_v4	Uncharacterized protein	Paramecium tetraurelia	0.99	19.5	0.814	
+1171
+AF-A0A1B0D6N3-F1-model_v4	Uncharacterized protein	Phlebotomus papatasi	0.95	31.9	0.812	
+15155
+AF-A0A7C4R565-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.99	16.7	0.812	
+1171
+AF-A0A6B3IQN2-F1-model_v4	Chaperonin GroEL	Streptomyces sp. SID8455	0.97	34.4	0.810	
+20171
+AF-A0A7R9QZB0-F1-model_v4	Hypothetical protein	Oppiella nova	0.99	15.8	0.809	
+1171
+AF-Q8GBH3-F1-model_v4	60 kDa chaperonin	Wolbachia sp. wNiv	0.87	64	0.808	
+1114
+AF-W1DHV4-F1-model_v4	Heat shock protein 60 family chaperone GroEL	Klebsiella pneumoniae IS43	1.00	38.5	0.807	
+1171
+AF-A0A7R9YWJ8-F1-model_v4	Hypothetical protein	Pseudictyota dubia	0.97	19.2	0.805	
+12162
+AF-A0A2E0SQ82-F1-model_v4	60 kDa chaperonin	Planctomyces sp.	1.00	37.4	0.804	
+1171
+AF-A0A441TKR2-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp.	0.91	31.1	0.803	
+16166
+AF-A0A7C5ZQC4-F1-model_v4	Molecular chaperone GroEL	bacterium	0.92	39.6	0.803	
+1126
+AF-A0A638HUX4-F1-model_v4	Chaperonin GroEL	Salmonella enterica subsp. enterica serovar Litchfield	1.00	38	0.803	
+1171
+AF-A0A2R6MZD4-F1-model_v4	Thermosome subunit	Halobacteriales archaeon SW_9_67_25	0.99	18.1	0.802	
+1169
+AF-A0A455UEC7-F1-model_v4	Uncharacterized protein	Halomonas sulfidaeris	1.00	37.2	0.802	
+1171
+AF-A0A7K0TZS9-F1-model_v4	Chaperonin GroEL	Actinomycetia bacterium	1.00	35.6	0.801	
+1171
+AF-A0A3C1NU17-F1-model_v4	Molecular chaperone GroEL	Halieaceae bacterium	1.00	36.2	0.800	
+1171
+AF-A0A7C1NW91-F1-model_v4	Thermosome subunit	Thermoplasmatales archaeon	0.98	20.8	0.800	
+1163
+AF-A0A842Q587-F1-model_v4	Thermosome subunit	Nitrososphaeraceae archaeon	0.99	16.2	0.797	
+1171
+AF-A0A2V9FF43-F1-model_v4	Molecular chaperone GroEL	Acidobacteria bacterium	0.90	33.7	0.797	
+21165
+AF-A0A852FVR9-F1-model_v4	TCPA protein	Peucedramus taeniatus	0.99	16	0.797	
+1171
+AF-A0A7S1EUI2-F1-model_v4	Hypothetical protein	Timspurckia oligopyrenoides	0.97	17.1	0.796	
+1157
+AF-A0A4Q9L1L7-F1-model_v4	Subunit alpha of T-complex protein 1	Hamiltosporidium tvaerminnensis	0.98	14.3	0.796	
+1159
+AF-A0A6J1B5M4-F1-model_v4	chaperonin CPN60-like 2, mitochondrial	Herrania umbratica	0.99	35.3	0.796	
+1147
+AF-A0A7S3NBX2-F1-model_v4	Hypothetical protein	Euplotes harpa	0.99	17.6	0.795	
+1171
+AF-A0A0G4E8A1-F1-model_v4	Uncharacterized protein	Vitrella brassicaformis CCMP3155	0.99	15.2	0.795	
+1168
+AF-A0A432I6M2-F1-model_v4	Thermosome subunit	Candidatus Poseidoniales archaeon	0.99	19.2	0.795	
+1171
+AF-A0A0S8KNP1-F1-model_v4	Uncharacterized protein	Anaerolineae bacterium SM23_84	1.00	20	0.794	
+1171
+AF-A0A529YDB2-F1-model_v4	Chaperonin GroEL	Mesorhizobium sp.	0.90	27.8	0.794	
+1122
+AF-A0A6G1WKY4-F1-model_v4	Chaperonin GroEL	Sinorhizobium medicae	1.00	41.5	0.794	
+1171
+AF-A0A442H4P5-F1-model_v4	Chaperonin GroEL	Mesorhizobium sp.	1.00	39.7	0.794	
+1171
+AF-A0A521CMK9-F1-model_v4	60 kDa chaperonin	Aliifodinibius sediminis	0.97	25.5	0.793	
+1138
+AF-A0A3M1FW13-F1-model_v4	60 kDa chaperonin	Caldilineae bacterium	1.00	18.4	0.793	
+1171
+AF-C7TZS4-F1-model_v4	Heat shock protein 60	Schistosoma japonicum	1.00	38.5	0.792	
+1171
+AF-A0A6B2G3E8-F1-model_v4	T-complex protein 1 subunit alpha (Trinotate prediction)	Myxobolus squamalis	0.97	18.6	0.792	
+1156
+AF-A0A7S3NDI2-F1-model_v4	Hypothetical protein	Euplotes harpa	0.99	16.1	0.791	
+1168
+AF-A0A0B4ERB4-F1-model_v4	Uncharacterized protein	Fusobacterium necrophorum subsp. funduliforme B35	0.97	31.7	0.791	
+1144
+AF-A0A2N9AYJ1-F1-model_v4	Uncharacterized protein	Methylorubrum extorquens	1.00	39.7	0.790	
+1171
+AF-A0A2M7B5I2-F1-model_v4	60 kDa chaperonin	Candidatus Wolfebacteria bacterium CG03_land_8_20_14_0_80_40_12	1.00	40.3	0.789	
+1171
+AF-A0A0E0KLV3-F1-model_v4	Uncharacterized protein	Oryza punctata	1.00	34.5	0.788	
+1171
+AF-A0A7X9GSH5-F1-model_v4	Chaperonin GroEL	Bacteroidales bacterium	0.87	37.5	0.787	
+1120
+AF-A0A0U1D185-F1-model_v4	Molecular chaperone GroEL	Mycolicibacterium conceptionense	1.00	35.6	0.787	
+1171
+AF-A0A6B2G3T7-F1-model_v4	T-complex protein 1 subunit epsilon (Trinotate prediction)	Myxobolus squamalis	0.99	18.3	0.786	
+2171
+AF-Q95YG7-F1-model_v4	Heat shock 60kD protein	Tetrahymena thermophila	0.98	41.1	0.786	
+31171
+AF-A0A6J8CIY8-F1-model_v4	CCT3	Mytilus coruscus	0.97	17.2	0.785	
+1157
+AF-A0A3A5WCZ6-F1-model_v4	Chaperonin GroEL	Candidatus Poseidoniales archaeon	1.00	36.8	0.783	
+1171
+AF-A0A2K3MQ46-F1-model_v4	Chaperonin CPN60-2 mitochondrial-like	Trifolium pratense	1.00	40.9	0.783	
+1171
+AF-A0A3M1J972-F1-model_v4	Uncharacterized protein	Chloroflexi bacterium	1.00	24.2	0.783	
+1171
+AF-K2MK72-F1-model_v4	Chaperonin HSP60, mitochondrial, putative	Trypanosoma cruzi marinkellei	1.00	38.5	0.782	
+1171
+AF-Q5UES3-F1-model_v4	Heat shock 60 kDa protein 1	Sus scrofa	0.85	35.8	0.782	
+12128
+AF-A0A7C5UKB3-F1-model_v4	60 kDa chaperonin	Deltaproteobacteria bacterium	1.00	39.1	0.782	
+1171
+AF-A0A2P4Y5P9-F1-model_v4	T-complex protein 1, zeta subunit	Phytophthora palmivora var. palmivora	0.97	19	0.781	
+2158
+AF-A0A6N2MYL6-F1-model_v4	Uncharacterized protein	Salix viminalis	0.99	29.6	0.781	
+1156
+AF-A0A842Q3R2-F1-model_v4	Thermosome subunit	Nitrososphaeraceae archaeon	0.98	17.3	0.780	
+1168
+AF-C7TZP1-F1-model_v4	Chaperonin containing TCP1, subunit 6A (Zeta 1)	Schistosoma japonicum	0.99	18.4	0.780	
+2171
+AF-A0A524LPA0-F1-model_v4	Thermosome subunit	Nitrosopumilus sp.	0.99	18.2	0.780	
+1171
+AF-A0A2V6X1X8-F1-model_v4	Molecular chaperone GroEL	Candidatus Rokubacteria bacterium	0.97	42.9	0.779	
+37171
+AF-A0A0G0FDN5-F1-model_v4	60 kDa chaperonin	candidate division WS6 bacterium GW2011_GWC2_36_7	1.00	35.6	0.779	
+1171
+AF-A0A022WEF8-F1-model_v4	T-complex protein 1 subunit eta	Trichophyton rubrum CBS 288.86	0.98	18.8	0.779	
+1159
+AF-A0A528D1Z1-F1-model_v4	Chaperonin GroEL	Mesorhizobium sp.	1.00	27.4	0.779	
+1171
+AF-A0A7S0ZET8-F1-model_v4	Hypothetical protein	Timspurckia oligopyrenoides	0.84	28.4	0.779	
+25138
+AF-A0A432I510-F1-model_v4	Molecular chaperone GroEL	Candidatus Poseidoniales archaeon	1.00	30.9	0.778	
+1171
+AF-A0A6M2RIE2-F1-model_v4	60 kDa chaperonin	Rickettsia endosymbiont of Polydesmus complanatus	1.00	40.2	0.778	
+3171
+AF-A0A432SXK5-F1-model_v4	60 kDa chaperonin	Sulfurovum sp.	1.00	41.5	0.778	
+1171
+AF-A0A7S4SXT4-F1-model_v4	Hypothetical protein	Alexandrium monilatum	1.00	40.3	0.778	
+1171
+AF-A0A3B9B553-F1-model_v4	Molecular chaperone GroEL	Lachnospiraceae bacterium	1.00	36.8	0.777	
+1171
+AF-A0A3C1LMW0-F1-model_v4	Molecular chaperone GroEL	Candidatus Cloacimonas sp.	1.00	38	0.777	
+1171
+AF-A0A6J1V536-F1-model_v4	Bardet-Biedl syndrome 10 protein isoform X3	Notechis scutatus	0.98	14.5	0.775	
+2171
+AF-A0A3M1EK05-F1-model_v4	Chaperonin GroEL	Caldilineae bacterium	1.00	38.5	0.775	
+1171
+AF-A0A7J4RH38-F1-model_v4	Thermosome subunit	Candidatus Poseidoniaceae archaeon	0.97	22.3	0.775	
+1158
+AF-A0A7V3I676-F1-model_v4	Chaperonin	Armatimonadetes bacterium	0.96	24.1	0.775	
+7150
+AF-A0A401QAY7-F1-model_v4	Uncharacterized protein	Scyliorhinus torazame	0.97	16.1	0.774	
+1157
+AF-A0A1J3E517-F1-model_v4	Chaperonin 60 subunit beta 2, chloroplastic	Noccaea caerulescens	0.99	29.4	0.772	
+1171
+AF-A0A388P2H1-F1-model_v4	60 kDa chaperonin 1	Clavibacter sp.	0.96	28.5	0.772	
+1142
+AF-A0A7S1YV39-F1-model_v4	Hypothetical protein	Trieres chinensis	0.99	18.3	0.772	
+1171
+AF-A0A2V7CK01-F1-model_v4	60 kDa chaperonin	Candidatus Rokubacteria bacterium	1.00	40.3	0.771	
+1171
+AF-A0A7X8GF36-F1-model_v4	Chaperonin GroEL	Bacteroidales bacterium	0.84	35.5	0.771	
+1118
+AF-A0A7V1EQP2-F1-model_v4	Chaperonin GroEL	Halieaceae bacterium	1.00	36.8	0.771	
+1171
+AF-A0A2E8YNA0-F1-model_v4	60 kDa chaperonin	Rhodobiaceae bacterium	1.00	40.9	0.770	
+1171
+AF-A0A0N0KDL7-F1-model_v4	60 kDa chaperonin	Rhodopseudomonas sp. AAP120	1.00	40.9	0.769	
+1171
+AF-A0A7V0NUH8-F1-model_v4	Chaperonin GroEL	Actinomycetia bacterium	1.00	35.6	0.769	
+1171
+AF-A0A427ADL6-F1-model_v4	Uncharacterized protein	Ensete ventricosum	0.99	38.7	0.768	
+12171
+AF-A0A7J6ZZE0-F1-model_v4	Uncharacterized protein	Abscondita terminalis	0.97	31.2	0.768	
+1143
+AF-A0A433BLD3-F1-model_v4	Uncharacterized protein	Jimgerdemannia flammicorona	0.98	34.6	0.768	
+1147
+AF-X1MB20-F1-model_v4	Uncharacterized protein	marine sediment metagenome	1.00	37.4	0.768	
+1171
+AF-A0A0H3TY15-F1-model_v4	Heat shock protein 60	Dirofilaria immitis	1.00	36.3	0.767	
+4171
+AF-A0A287ECL5-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	1.00	33.9	0.767	
+1171
+AF-A0A7R9V8W8-F1-model_v4	Hypothetical protein	Chlamydomonas euryale	0.99	33.1	0.767	
+9171
+AF-A0A832K4L9-F1-model_v4	Uncharacterized protein	Verrucomicrobia subdivision 3 bacterium	1.00	19.6	0.767	
+1171
+AF-V5TGS1-F1-model_v4	Heat shock protein 60	Labeo catla	0.80	35.1	0.766	
+34144
+AF-A0A378E9S0-F1-model_v4	60 kDa chaperonin	Klebsiella pneumoniae subsp. rhinoscleromatis	1.00	38.5	0.766	
+1171
+AF-A0A813JMD5-F1-model_v4	Hypothetical protein	Polarella glacialis	0.95	37.3	0.766	
+1133
+AF-A0A1B1TA46-F1-model_v4	Uncharacterized protein	uncultured Candidatus Thalassoarchaea sp.	0.93	25	0.765	
+1138
+AF-A0A7J9R113-F1-model_v4	Thermosome subunit	Nitrosopumilaceae archaeon	0.97	18	0.765	
+1157
+AF-A0A6G0I682-F1-model_v4	T-complex protein 1 subunit alpha	Larimichthys crocea	0.99	17.1	0.765	
+1171
+AF-A0A7J4R6G0-F1-model_v4	Thermosome subunit	Candidatus Thalassarchaeaceae archaeon	0.95	20.9	0.764	
+1147
+AF-A5DTL7-F1-model_v4	Uncharacterized protein	Lodderomyces elongisporus NRRL YB-4239	0.97	14.9	0.764	
+1171
+AF-A0A7K0TDN2-F1-model_v4	Chaperonin GroEL	Actinomycetia bacterium	1.00	37.4	0.763	
+1171
+AF-A0A7S0ZUF8-F1-model_v4	Hypothetical protein	Noctiluca scintillans	1.00	38.9	0.763	
+1171
+AF-U7DX92-F1-model_v4	Uncharacterized protein	Populus trichocarpa	1.00	29.8	0.763	
+1171
+AF-A0A0M5MVM4-F1-model_v4	Heat shock protein 60	Botrytis aclada	1.00	40.4	0.762	
+4171
+AF-A0A2S9FNS9-F1-model_v4	Molecular chaperone GroEL	Mycobacterium sp. ITM-2017-0098	0.84	28.6	0.762	
+38162
+AF-A0A2V8FRN7-F1-model_v4	Molecular chaperone GroEL	Acidobacteria bacterium	0.80	40.7	0.762	
+1113
+AF-A0A7V9UMK5-F1-model_v4	Chaperonin GroEL	Acidobacteria bacterium	0.77	39	0.760	
+15124
+AF-A0A3D4NJD7-F1-model_v4	60 kDa chaperonin	Pseudomonas sp.	1.00	40.9	0.760	
+1171
+AF-A0A382U6E8-F1-model_v4	Uncharacterized protein	marine metagenome	0.99	16.3	0.760	
+1171
+AF-A0A314XYT3-F1-model_v4	Chaperonin CPN60-2 mitochondrial-like	Prunus yedoensis var. nudiflora	1.00	38.5	0.760	
+1171
+AF-A0A7J9JUF0-F1-model_v4	Uncharacterized protein	Gossypium armourianum	0.97	18	0.760	
+1154
+AF-G3H1E7-F1-model_v4	60 kDa heat shock protein, mitochondrial	Cricetulus griseus	0.72	33.6	0.760	
+30133
+AF-A0A382VFJ8-F1-model_v4	Uncharacterized protein	marine metagenome	0.82	32.4	0.759	
+1114
+AF-H8ZX29-F1-model_v4	T-complex protein 1 subunit eta	Collodictyon triciliatum	0.99	15.7	0.758	
+1171
+AF-A0A287GF08-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	1.00	43.2	0.757	
+1171
+AF-A0A418EL66-F1-model_v4	Uncharacterized protein	Aphanomyces astaci	0.99	17.8	0.756	
+1171
+AF-A0A433A161-F1-model_v4	Uncharacterized protein	Jimgerdemannia flammicorona	0.99	17	0.756	
+1171
+AF-A0A5S4THI5-F1-model_v4	Molecular chaperone GroEL	Streptococcus pyogenes	0.95	42.5	0.756	
+45171
+AF-A0A0G4EPU1-F1-model_v4	Uncharacterized protein	Vitrella brassicaformis CCMP3155	0.99	16.2	0.755	
+1171
+AF-A0A835QJW9-F1-model_v4	Uncharacterized protein	Vanilla planifolia	0.94	26.3	0.755	
+4164
+AF-A0A6I9PAE2-F1-model_v4	60 kDa chaperonin	Notothenia coriiceps	0.89	28.4	0.755	
+25153
+AF-A0A3B9M6Q3-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	33.3	0.755	
+1171
+AF-A0A699ZAR4-F1-model_v4	Uncharacterized protein	Haematococcus lacustris	0.85	26.5	0.755	
+31158
+AF-A0A1B6FN22-F1-model_v4	Uncharacterized protein	Cuerna arida	0.92	19.7	0.755	
+2145
+AF-A0A453LN60-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.98	31.7	0.754	
+1145
+AF-A0A1B8D2I4-F1-model_v4	Uncharacterized protein	Pseudogymnoascus sp. 24MN13	0.99	17.1	0.754	
+1171
+AF-A0A3N6STP5-F1-model_v4	Uncharacterized protein	Brassica cretica	0.93	16.9	0.753	
+1141
+AF-A0A673SV33-F1-model_v4	Uncharacterized protein	Suricata suricatta	0.96	25.4	0.753	
+1167
+AF-A0A2S8M5D5-F1-model_v4	Molecular chaperone GroEL	Mycobacterium sp. ITM-2016-00317	0.77	34.8	0.752	
+1112
+AF-A0A821XJZ6-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	0.99	18	0.752	
+1171
+AF-A0A352L5Y9-F1-model_v4	60 kDa chaperonin	Planctomycetaceae bacterium	0.77	35.4	0.752	
+1110
+AF-A0A3D1JVK4-F1-model_v4	60 kDa chaperonin	Clostridiales bacterium	1.00	36.2	0.752	
+1171
+AF-A0A523V057-F1-model_v4	60 kDa chaperonin	Candidatus Aerophobetes bacterium	0.75	36.6	0.751	
+1109
+AF-A0A2P2LEK8-F1-model_v4	Chaperonin 60 subunit beta 4ic isoform X2	Rhizophora mucronata	1.00	33.5	0.751	
+1171
+AF-A0A524EBR3-F1-model_v4	Thermosome subunit	Candidatus Lokiarchaeota archaeon	0.99	18.2	0.750	
+1171
+AF-A0A2W4Y5M9-F1-model_v4	Molecular chaperone GroEL	Pseudoxanthomonas suwonensis	0.77	39	0.750	
+1110
+AF-A0A533X9P6-F1-model_v4	Uncharacterized protein	Thaumarchaeota archaeon	0.99	15.3	0.749	
+4171
+AF-A0A3C7W2F3-F1-model_v4	60 kDa chaperonin	Halieaceae bacterium	1.00	33.9	0.749	
+1171
+AF-A0A3D4YH60-F1-model_v4	Molecular chaperone GroEL	Clostridiales bacterium	0.77	39.2	0.748	
+1112
+AF-C5KWV6-F1-model_v4	T-complex protein 1, alpha subunit, putative	Perkinsus marinus ATCC 50983	0.98	15.3	0.748	
+7171
+AF-A0A3B9WW11-F1-model_v4	60 kDa chaperonin	Lachnospiraceae bacterium	1.00	35.6	0.748	
+1171
+AF-A0A7C3JUD3-F1-model_v4	60 kDa chaperonin	Deltaproteobacteria bacterium	1.00	40.9	0.747	
+1171
+AF-A0A2I2ZS50-F1-model_v4	Heat shock protein family D (Hsp60) member 1	Gorilla gorilla gorilla	0.94	31.5	0.747	
+1133
+AF-A0A183G2R0-F1-model_v4	T-complex protein 1 subunit eta	Heligmosomoides polygyrus	0.97	17.6	0.747	
+1166
+AF-A0A537IE02-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.92	23	0.747	
+1139
+AF-A4VSM9-F1-model_v4	60 kDa chaperonin	Streptococcus suis 05ZYH33	1.00	37.4	0.746	
+1171
+AF-F1B858-F1-model_v4	Heat shock protein 60	Dirofilaria immitis	0.75	33.6	0.746	
+9118
+AF-A0A660R8X0-F1-model_v4	60 kDa chaperonin	Thermotoga sp.	1.00	38	0.746	
+1171
+AF-A0A4S5BJJ0-F1-model_v4	60 kDa chaperonin	Lampropedia aestuarii	0.63	41.8	0.746	
+25122
+AF-T0YJ88-F1-model_v4	Thermosome, subunit alpha	mine drainage metagenome	0.99	18.2	0.746	
+1171
+AF-Q4E496-F1-model_v4	Chaperonin HSP60 mitochondrial, putative	Trypanosoma cruzi strain CL Brener	1.00	38.5	0.746	
+1171
+AF-B5M6Z3-F1-model_v4	Uncharacterized protein	Schistosoma japonicum	0.99	18.4	0.745	
+2171
+AF-A0A3A2ZI09-F1-model_v4	Heat shock protein	Aspergillus sclerotialis	0.75	35.4	0.743	
+8117
+AF-A0A436DWH5-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp. M7A.F.Ca.CA.004.05.1.1	0.95	41.5	0.743	
+42171
+AF-A0A2K3L3J3-F1-model_v4	Rubisco large subunit-binding protein alpha subunit	Trifolium pratense	0.97	30	0.742	
+10171
+AF-A0A2M6ZEA6-F1-model_v4	60 kDa chaperonin	Candidatus Desantisbacteria bacterium CG07_land_8_20_14_0_80_39_15	1.00	34.8	0.742	
+1171
+AF-A0A2E4V530-F1-model_v4	Thermosome subunit	Euryarchaeota archaeon	0.99	20.6	0.741	
+1171
+AF-A0A6V7IK30-F1-model_v4	Uncharacterized protein	Bracon brevicornis	0.98	19	0.741	
+13171
+AF-A0A3D4QH61-F1-model_v4	Molecular chaperone GroEL	Rhodospirillaceae bacterium	0.60	41.2	0.740	
+27123
+AF-A0A819X8M2-F1-model_v4	Hypothetical protein	Rotaria sordida	0.99	17.5	0.740	
+1171
+AF-A0A3R7TN65-F1-model_v4	Thermosome subunit	Euryarchaeota archaeon TMED99	0.93	22.1	0.740	
+1139
+AF-A0A484LEU3-F1-model_v4	Uncharacterized protein	Cuscuta campestris	0.99	28.4	0.739	
+1171
+AF-A0A3D0ZNX9-F1-model_v4	60 kDa chaperonin	Arthrobacter sp.	1.00	35	0.739	
+1171
+AF-A0A3P9IRC6-F1-model_v4	Heat shock 60 protein 1	Oryzias latipes	1.00	38.5	0.738	
+1171
+AF-A0A7S0XKR8-F1-model_v4	Hypothetical protein	Ostreococcus mediterraneus	0.91	15.8	0.738	
+1137
+AF-A0A3S3JQD3-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp.	0.80	38.3	0.737	
+65171
+AF-A0A2K5XD89-F1-model_v4	60 kDa chaperonin	Mandrillus leucophaeus	0.98	30	0.736	
+1171
+AF-A0A520K9T6-F1-model_v4	Uncharacterized protein	Methanophagales archaeon ANME-1-THS	0.90	19.1	0.736	
+4135
+AF-A0A4E0RGB1-F1-model_v4	Putative T-complex protein 1 subunit eta	Fasciola hepatica	0.92	17.7	0.736	
+1166
+AF-X0WX85-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.75	28.4	0.735	
+1109
+AF-A0A2V8L8N2-F1-model_v4	60 kDa chaperonin	Acidobacteria bacterium	1.00	42.1	0.735	
+1171
+AF-V5TGE9-F1-model_v4	Heat shock protein 60	Channa striata	0.98	38.8	0.735	
+28171
+AF-A0A7Y9WV31-F1-model_v4	Chaperonin GroEL (HSP60 family)	Paraburkholderia bryophila	0.98	39.5	0.735	
+28171
+AF-A0A3B8SI20-F1-model_v4	60 kDa chaperonin	Lachnospiraceae bacterium	0.75	21.2	0.735	
+1113
+AF-A0A356VSE2-F1-model_v4	60 kDa chaperonin	Thiomicrospira sp.	1.00	38	0.734	
+1171
+AF-M9UYN9-F1-model_v4	GroEL protein	bacterium endosymbiont of Trichobius dugesioides	0.99	41	0.734	
+16171
+AF-A0A520AI26-F1-model_v4	60 kDa chaperonin	Sphingomonas sp.	1.00	39.1	0.734	
+1171
+AF-A0A0D2KAF1-F1-model_v4	T-complex protein 1 subunit epsilon	Monoraphidium neglectum	0.99	15.7	0.733	
+1171
+AF-A0A091WDI0-F1-model_v4	T-complex protein 1 subunit gamma	Opisthocomus hoazin	0.99	14.5	0.732	
+1171
+AF-Q2QCB4-F1-model_v4	Heat shock protein 65	Mycobacterium jacuzzii	0.84	37.1	0.731	
+59171
+AF-A0A059LDI9-F1-model_v4	TCP-1/cpn60 chaperonin	Helicosporidium sp. ATCC 50920	0.99	15.6	0.730	
+1171
+AF-A0A067EUX5-F1-model_v4	Uncharacterized protein	Citrus sinensis	0.99	20.1	0.729	
+2171
+AF-S8C3Y2-F1-model_v4	Uncharacterized protein	Genlisea aurea	1.00	40.3	0.729	
+1171
+AF-A0A813L7X8-F1-model_v4	Hypothetical protein	Polarella glacialis	1.00	39.1	0.729	
+1171
+AF-Q9EXM7-F1-model_v4	60 kDa chaperonin	Enterobacteriaceae bacterium JM965	1.00	39.1	0.729	
+1171
+AF-A0A2U3LZ25-F1-model_v4	60kD heat sock protein	Aliarcobacter cryaerophilus	0.69	45.4	0.729	
+73171
+AF-A0A7S0GUX4-F1-model_v4	Hypothetical protein	Micromonas pusilla	1.00	32.7	0.728	
+1171
+AF-A0A7J8CWY1-F1-model_v4	Chaperonin containing TCP1 subunit 6B	Molossus molossus	0.99	19.2	0.728	
+1171
+AF-A0A7J4SW83-F1-model_v4	Thermosome subunit	Candidatus Poseidoniaceae archaeon	0.99	19.8	0.728	
+1171
+AF-A0A5S9M1E5-F1-model_v4	Uncharacterized protein	Bacillus safensis	0.82	27.6	0.728	
+37155
+AF-A0A2E6KP65-F1-model_v4	60 kDa chaperonin	Legionellales bacterium	1.00	38	0.728	
+1171
+AF-A0A836REN4-F1-model_v4	Uncharacterized protein	Planctomycetaceae bacterium	0.90	31	0.727	
+1129
+AF-A0A258E472-F1-model_v4	60 kDa chaperonin	Rhizobiales bacterium 32-66-8	1.00	38.5	0.727	
+1171
+AF-A0A7S3M7Q6-F1-model_v4	Hypothetical protein	Spumella elongata	0.89	20.5	0.726	
+1133
+AF-H6UUV7-F1-model_v4	Heat shock protein 60	Botrytis sinoviticola	1.00	40.4	0.726	
+4171
+AF-A0A381U268-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	39.7	0.726	
+1171
+AF-A0A4Z2I861-F1-model_v4	Heat shock protein, mitochondrial	Liparis tanakae	0.98	33.7	0.726	
+1151
+AF-A0A087RL65-F1-model_v4	Thermosome subunit beta protein	Marine Group I thaumarchaeote SCGC AAA799-O18	0.99	17.2	0.725	
+1171
+AF-A0A7C0YNH7-F1-model_v4	60 kDa chaperonin	Nitrospirae bacterium	1.00	40.9	0.725	
+1171
+AF-A0A7C2YEI8-F1-model_v4	60 kDa chaperonin	Acidobacteria bacterium	1.00	43.2	0.725	
+1171
+AF-A0A239HNU3-F1-model_v4	60 kDa chaperonin	Azospirillum sp. RU38E	1.00	38	0.724	
+1171
+AF-A0A7J4N312-F1-model_v4	Thermosome subunit	Candidatus Thalassarchaeaceae archaeon	0.89	20.3	0.724	
+1132
+AF-B6HQN0-F1-model_v4	Pc22g11750 protein	Penicillium rubens Wisconsin 54-1255	0.89	16.5	0.724	
+1131
+AF-A0A0C1JL35-F1-model_v4	Uncharacterized protein	Candidatus Protochlamydia amoebophila	0.75	25.4	0.722	
+1110
+AF-A0A661ULG3-F1-model_v4	60 kDa chaperonin	Candidatus Cloacimonetes bacterium	1.00	39.1	0.722	
+1171
+AF-A0A0G1HM63-F1-model_v4	60 kDa chaperonin	Parcubacteria group bacterium GW2011_GWB1_43_8	1.00	36.2	0.721	
+1171
+AF-A0F032-F1-model_v4	T-complex protein 1 subunit gamma	Scophthalmus maximus	0.93	14.9	0.721	
+1166
+AF-B1N5U3-F1-model_v4	T-complex protein 1 subunit eta	Entamoeba histolytica	0.92	22.6	0.721	
+1140
+AF-A0A3C0G702-F1-model_v4	60 kDa chaperonin	Maribacter sp.	1.00	33.9	0.721	
+1171
+AF-A0A453ADP1-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	1.00	33.3	0.720	
+1171
+AF-A0A382HRW1-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	35	0.720	
+1171
+AF-A0A1Y2JPK9-F1-model_v4	60 kDa chaperonin	Bradyrhizobium japonicum	1.00	40.9	0.719	
+1171
+AF-B5U9Y6-F1-model_v4	Chaperonin gamma subunit	Delia antiqua	0.99	15.5	0.719	
+1171
+AF-K6UZ01-F1-model_v4	Chaperonin CPN60 mitochondrial	Plasmodium cynomolgi strain B	1.00	26.3	0.719	
+1171
+AF-A0A287GF33-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	46.6	0.718	
+24171
+AF-A0A7V2TR55-F1-model_v4	60 kDa chaperonin	Candidatus Hydrogenedentes bacterium	1.00	41.5	0.718	
+1171
+AF-A0A7V6JU81-F1-model_v4	60 kDa chaperonin	Bacteroidales bacterium	1.00	36	0.718	
+1171
+AF-A0A452QXJ1-F1-model_v4	Uncharacterized protein	Ursus americanus	0.91	32.5	0.717	
+1132
+AF-L5N4S6-F1-model_v4	Chaperonin GroEL	Halobacillus sp. BAB-2008	0.63	40.1	0.717	
+1102
+AF-A0A3C1ET27-F1-model_v4	60 kDa chaperonin	Patescibacteria group bacterium	1.00	35.6	0.717	
+1171
+AF-A0A382GCK8-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	39.1	0.717	
+1171
+AF-Q4DEW6-F1-model_v4	T-complex protein 1 gamma subunit, putative	Trypanosoma cruzi strain CL Brener	0.99	16.3	0.716	
+1171
+AF-A0A085N4F7-F1-model_v4	Uncharacterized protein	Trichuris suis	0.99	16.8	0.715	
+1171
+AF-A0A453LNE6-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	1.00	33.3	0.715	
+1171
+AF-A0A7C3ICC5-F1-model_v4	60 kDa chaperonin	Armatimonadetes bacterium	1.00	35.6	0.715	
+1171
+AF-A0A7S3MKC2-F1-model_v4	Hypothetical protein	Favella ehrenbergii	0.99	17.8	0.714	
+1171
+AF-A0A7M7PVH0-F1-model_v4	Uncharacterized protein	Nasonia vitripennis	0.85	19.2	0.714	
+6134
+AF-A0A0A9AEU9-F1-model_v4	Uncharacterized protein	Arundo donax	0.66	32.6	0.713	
+1104
+AF-Q4D6Q2-F1-model_v4	Chaperonin HSP60, putative	Trypanosoma cruzi strain CL Brener	0.77	34.8	0.713	
+1112
+AF-A0A2V0NRJ5-F1-model_v4	T-complex 1 subunit alpha	Raphidocelis subcapitata	0.84	21.7	0.713	
+2125
+AF-F8R6K6-F1-model_v4	Heat shock protein GroEL	uncultured Ehrlichia sp.	0.97	89	0.712	
+35171
+AF-A0A7J8W6V8-F1-model_v4	Uncharacterized protein	Gossypium klotzschianum	1.00	30.4	0.712	
+1171
+AF-A0A1J3DPP7-F1-model_v4	Chaperonin CPN60, mitochondrial	Noccaea caerulescens	1.00	39.7	0.712	
+1171
+AF-A0A843EL45-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.85	19.7	0.711	
+16158
+AF-L7HNG4-F1-model_v4	Uncharacterized protein	Pyricularia oryzae Y34	0.99	15.7	0.711	
+2171
+AF-A7Y7L7-F1-model_v4	Putative GloEL protein:chaperonin, 60kDa	Prunus dulcis	0.93	37.2	0.710	
+1127
+AF-A0A337S293-F1-model_v4	60 kDa chaperonin	Felis catus	0.80	30.9	0.710	
+18130
+AF-A0A842VCE9-F1-model_v4	Thermosome subunit	Candidatus Lokiarchaeota archaeon	0.99	20.3	0.710	
+1171
+AF-A0A0L1I6D4-F1-model_v4	Chaperonin	Plasmodium falciparum IGH-CR14	1.00	26.3	0.710	
+1171
+AF-A0A2H5TG63-F1-model_v4	T-complex protein 1 subunit epsilon	Rhizophagus irregularis DAOM 181602=DAOM 197198	0.99	18.6	0.709	
+1171
+AF-A0A7J4NCG9-F1-model_v4	Uncharacterized protein	Candidatus Thalassarchaeaceae archaeon	0.99	17.9	0.709	
+2171
+AF-A0A183PRL9-F1-model_v4	T-complex protein 1 subunit eta	Schistosoma mattheei	0.99	15.6	0.709	
+1171
+AF-A0A4P9ZN66-F1-model_v4	Chaperonin Cpn60/TCP-1 family	Dimargaris cristalligena	0.99	14.4	0.709	
+1171
+AF-A0A3D3ZB33-F1-model_v4	60 kDa chaperonin	Clostridiales bacterium	1.00	35	0.708	
+1171
+AF-A0A2E2SZ44-F1-model_v4	60 kDa chaperonin	Thalassospira sp.	1.00	38.5	0.708	
+1171
+AF-A0A0B7B549-F1-model_v4	Uncharacterized protein	Arion vulgaris	0.99	13.8	0.708	
+1171
+AF-A0A452YCC4-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	1.00	40.3	0.708	
+1171
+AF-A0A498EZ72-F1-model_v4	Molecular chaperone GroEL	Halobellus sp. Atlit-31R	0.90	36.1	0.708	
+53171
+AF-A0A829HA79-F1-model_v4	Chaperonin GroEL	Lacticaseibacillus paracasei subsp. paracasei Lpp41	1.00	38	0.707	
+1171
+AF-A0A3N5ZFQ6-F1-model_v4	Molecular chaperone GroEL	Acidobacteria bacterium	0.57	41.8	0.707	
+198
+AF-A0A453IZ48-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	1.00	39.7	0.707	
+1171
+AF-Q5F4K5-F1-model_v4	60 kDa chaperonin	Wolbachia pipientis	0.99	62.1	0.706	
+18171
+AF-A0A078H2W4-F1-model_v4	BnaC03g46980D protein	Brassica napus	0.99	26	0.706	
+1171
+AF-A0A2T9ZHU8-F1-model_v4	T-complex protein 1 subunit eta	Smittium megazygosporum	0.87	20	0.705	
+1129
+AF-A0A3L7GUP7-F1-model_v4	60 kDa chaperonin	Cricetulus griseus	0.90	24	0.705	
+6134
+AF-A0A4U3BM29-F1-model_v4	60 kDa chaperonin	Bacillus cereus	1.00	37.4	0.705	
+1171
+AF-A9NMC1-F1-model_v4	Uncharacterized protein	Picea sitchensis	0.99	17.2	0.705	
+1171
+AF-A0A0E0LCB9-F1-model_v4	T-complex protein 1 subunit gamma	Oryza punctata	0.99	15.5	0.705	
+1171
+AF-A0A3S2TB18-F1-model_v4	Uncharacterized protein	Chilo suppressalis	0.99	17.7	0.704	
+2171
+AF-C5KP40-F1-model_v4	T-complex protein 1 subunit eta	Perkinsus marinus ATCC 50983	0.84	25	0.704	
+1127
+AF-A0A2N1QMI6-F1-model_v4	60 kDa chaperonin	Synergistetes bacterium HGW-Synergistetes-2	1.00	38.5	0.703	
+1171
+AF-A0A6V2X0X2-F1-model_v4	Hypothetical protein	Emiliania huxleyi	1.00	27.4	0.703	
+1171
+AF-A0A7V9C088-F1-model_v4	Chaperonin GroEL	Actinomycetia bacterium	0.54	33.3	0.702	
+198
+AF-A0A4Q5QU85-F1-model_v4	60 kDa chaperonin	Alphaproteobacteria bacterium	1.00	37.4	0.700	
+1171
+AF-A0A3D4YSP7-F1-model_v4	60 kDa chaperonin	Gemmatimonadetes bacterium	1.00	37.4	0.699	
+1171
+AF-A0A8B6G5J5-F1-model_v4	Bardet-Biedl syndrome 10 protein	Mytilus galloprovincialis	0.98	15.7	0.699	
+1171
+AF-A0A2D9EY30-F1-model_v4	60 kDa chaperonin	Rhodospirillaceae bacterium	1.00	41.5	0.698	
+1171
+AF-A0A6S7J8R8-F1-model_v4	60 kDa heat shock, mitochondrial-like	Paramuricea clavata	0.99	20	0.698	
+1171
+AF-A0A075C9Y6-F1-model_v4	60 kDa chaperonin	Candidatus Phytoplasma cynodontis	1.00	38	0.698	
+1171
+AF-U5XVC2-F1-model_v4	Heat shock protein	Escherichia coli	0.98	38.2	0.698	
+31171
+AF-A0A3N6PXJ5-F1-model_v4	Uncharacterized protein	Brassica cretica	1.00	38	0.698	
+1171
+AF-A0A6N2MNE5-F1-model_v4	Uncharacterized protein	Salix viminalis	0.96	36.9	0.698	
+1136
+AF-A0A833NZB6-F1-model_v4	Chaperonin	Beijerinckiaceae bacterium	1.00	40.9	0.697	
+1171
+AF-A0A0E2NLJ6-F1-model_v4	Uncharacterized protein	Mesorhizobium sp. LNJC391B00	1.00	37.4	0.697	
+1171
+AF-A0A832XTV1-F1-model_v4	Chaperonin GroEL	Candidatus Poseidoniales archaeon	1.00	35.6	0.696	
+1171
+AF-A0A7C0YSP1-F1-model_v4	60 kDa chaperonin	Firmicutes bacterium	1.00	32.1	0.696	
+1171
+AF-F3GG26-F1-model_v4	Chaperonin GroEL	Pseudomonas syringae pv. pisi str. 1704B	0.57	39.3	0.696	
+199
+AF-A0A1I7T8J5-F1-model_v4	Uncharacterized protein	Caenorhabditis tropicalis	0.99	17.6	0.693	
+2171
+AF-A0A3D0GRK9-F1-model_v4	60 kDa chaperonin	Erysipelotrichaceae bacterium	1.00	39.1	0.693	
+1171
+AF-A0A0C2GUW1-F1-model_v4	Uncharacterized protein	Ancylostoma duodenale	0.93	13.5	0.693	
+5171
+AF-A0A5K1HGZ6-F1-model_v4	Uncharacterized protein	Nymphaea colorata	0.96	36.1	0.693	
+1144
+AF-A0A7S2BR81-F1-model_v4	Hypothetical protein	Florenciella parvula	0.99	15.5	0.692	
+1171
+AF-A0A4Z0LEF8-F1-model_v4	60 kDa chaperonin	Tabrizicola sp. WMC-M-20	1.00	30.4	0.692	
+1171
+AF-W9RE69-F1-model_v4	Chaperonin CPN60-2	Morus notabilis	1.00	39.7	0.691	
+1171
+AF-A0A7C2Z4K1-F1-model_v4	Thermosome subunit	Fervidicoccus fontis	0.99	17.8	0.691	
+1171
+AF-A0A4C1SPW3-F1-model_v4	Heat shock protein 60A	Eumeta japonica	1.00	30.9	0.691	
+1171
+AF-A0A351DG63-F1-model_v4	60 kDa chaperonin	Acidimicrobiaceae bacterium	1.00	35.4	0.690	
+1171
+AF-A0A2V6W9E3-F1-model_v4	Molecular chaperone GroEL	Candidatus Rokubacteria bacterium	1.00	36.6	0.690	
+1169
+AF-A0A493STR7-F1-model_v4	60 kDa chaperonin	Anas platyrhynchos platyrhynchos	0.94	31.8	0.690	
+1135
+AF-A0A832Z2P6-F1-model_v4	Thermosome subunit	Archaeoglobus profundus	0.99	19.4	0.690	
+1171
+AF-T1BU99-F1-model_v4	Chaperonin Cpn60/TCP-1	mine drainage metagenome	0.87	22.3	0.689	
+1129
+AF-A0A7S2ZH73-F1-model_v4	Hypothetical protein	Rhodosorus marinus	0.84	25.5	0.689	
+1132
+AF-A0A7W1NFA9-F1-model_v4	60 kDa chaperonin	Planctomycetota bacterium	1.00	37.2	0.689	
+1171
+AF-A0A699Z269-F1-model_v4	Chaperonin complex component	Haematococcus lacustris	0.97	11.2	0.689	
+1171
+AF-A0A832Y2N1-F1-model_v4	Uncharacterized protein	Candidatus Poseidoniales archaeon	0.89	25.3	0.689	
+1130
+AF-A0A7J8NWD3-F1-model_v4	Uncharacterized protein	Gossypium raimondii	0.99	13.9	0.689	
+1171
+AF-A0A0R2QW06-F1-model_v4	60 kDa chaperonin	Acidimicrobiia bacterium BACL6 MAG-120910-bin40	1.00	37.4	0.688	
+1171
+AF-Q8VS48-F1-model_v4	60 kDa chaperonin	Wolbachia endosymbiont of Litomosoides sigmodontis	1.00	60.8	0.688	
+8171
+AF-A0A484NNR0-F1-model_v4	Uncharacterized protein	Cuscuta campestris	1.00	38	0.688	
+1171
+AF-A0A7J6T2D8-F1-model_v4	60 kDa heat shock protein, mitochondrial	Perkinsus olseni	1.00	40.9	0.688	
+1171
+AF-A0A1D2A363-F1-model_v4	Uncharacterized protein	Auxenochlorella protothecoides	0.99	31.2	0.688	
+1171
+AF-B5U9Y8-F1-model_v4	Chaperonin epsilon subunit	Delia antiqua	0.99	20.2	0.688	
+1171
+AF-A0A2K3MZZ0-F1-model_v4	T-complex protein 1 subunit zeta-like protein	Trifolium pratense	0.69	21	0.688	
+2115
+AF-A0A7C6F4I6-F1-model_v4	Molecular chaperone GroEL	Bryobacteraceae bacterium	0.47	41.9	0.687	
+193
+AF-A0A061GCJ3-F1-model_v4	Chaperonin-60 kDa protein isoform 2	Theobroma cacao	1.00	38.5	0.687	
+1171
+AF-A0A3M1JG28-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	21.3	0.685	
+1171
+AF-A0A314ZNM6-F1-model_v4	Chaperonin CPN60-2 mitochondrial-like	Prunus yedoensis var. nudiflora	1.00	38.5	0.685	
+1171
+AF-A0A7C4NFV4-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.99	18.1	0.685	
+1171
+AF-A0A452YCC7-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	1.00	40.3	0.685	
+1171
+AF-A0A1S6QVP1-F1-model_v4	Heat shock protein GroEL	Candidatus Anaplasma boleense	0.89	75.9	0.683	
+37171
+AF-A0A183IDP7-F1-model_v4	Uncharacterized protein	Soboliphyme baturini	0.99	17.7	0.683	
+1171
+AF-A0A832FRD6-F1-model_v4	Thermosome subunit	Thermofilum sp.	0.99	18.3	0.682	
+1171
+AF-A0A0A7DM40-F1-model_v4	Heat shock protein 60	Rita rita	0.93	24.4	0.682	
+37171
+AF-A0A1G3BW70-F1-model_v4	60 kDa chaperonin	Planctomycetes bacterium RIFCSPHIGHO2_12_42_15	1.00	40.3	0.682	
+1171
+AF-A0A287ECJ2-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	35	0.682	
+18171
+AF-A0A2M7F1Z5-F1-model_v4	Molecular chaperone GroEL	Rhodobacteraceae bacterium CG17_big_fil_post_rev_8_21_14_2_50_63_15	0.47	41.9	0.681	
+193
+AF-A0A7S4SW80-F1-model_v4	Hypothetical protein	Alexandrium monilatum	1.00	39.7	0.681	
+1171
+AF-T1C654-F1-model_v4	Chaperonin, alpha subunit	mine drainage metagenome	0.99	18.2	0.680	
+1171
+AF-A0A530NF03-F1-model_v4	60 kDa chaperonin	Mesorhizobium sp.	1.00	29.2	0.680	
+1171
+AF-A0A411D2Y1-F1-model_v4	Heat shock protein 60	Botrytis sp.	0.97	43.9	0.680	
+31171
+AF-A0A4Y8I3J1-F1-model_v4	Chaperonin GroEL	Candidatus Marinimicrobia bacterium MT.SAG.3	0.54	37.6	0.680	
+1101
+AF-A0A3E2C0X6-F1-model_v4	Uncharacterized protein	Gardnerella vaginalis	0.44	34.7	0.679	
+192
+AF-A0A7S4HXJ7-F1-model_v4	Hypothetical protein	Vannella robusta	0.99	16.3	0.679	
+1171
+AF-A0A7U9F6J3-F1-model_v4	60 kDa chaperonin	Pseudomonas alcaligenes OT 69	1.00	39.1	0.678	
+1171
+AF-A0A7S2FNA2-F1-model_v4	Hypothetical protein	Florenciella parvula	0.91	17.9	0.678	
+1138
+AF-A0A7J7P0G1-F1-model_v4	Uncharacterized protein	Kingdonia uniflora	0.99	22.8	0.678	
+1171
+AF-A0A2N2C9K6-F1-model_v4	60 kDa chaperonin	Firmicutes bacterium HGW-Firmicutes-18	1.00	35.6	0.678	
+12171
+AF-A0A7S2YDX6-F1-model_v4	Hypothetical protein	Amphiprora paludosa	0.96	29.6	0.678	
+1135
+AF-A0A0L7M0G0-F1-model_v4	Uncharacterized protein	Plasmodium falciparum Dd2	0.98	22.3	0.678	
+20171
+AF-A0A804MVE0-F1-model_v4	Uncharacterized protein	Zea mays	0.99	11.8	0.678	
+1171
+AF-A0A813BJU1-F1-model_v4	CCT8 protein	Symbiodinium sp. KB8	0.99	14.9	0.677	
+1171
+AF-A0A660RXK4-F1-model_v4	Molecular chaperone GroEL	Thermodesulfobacteria bacterium	0.44	38	0.676	
+192
+AF-A0A7S2ZJ76-F1-model_v4	Hypothetical protein	Rhodosorus marinus	0.99	16.2	0.675	
+6171
+AF-A0A1F8RUB9-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium RBG_16_69_14	1.00	36.8	0.675	
+1171
+AF-R9S633-F1-model_v4	GroEL	Bacillus tequilensis	0.96	35.2	0.674	
+36171
+AF-A0A016SWV7-F1-model_v4	Uncharacterized protein	Ancylostoma ceylanicum	0.99	20.4	0.674	
+1171
+AF-A0A699JZ26-F1-model_v4	Chaperonin CPN60-like 1, mitochondrial	Tanacetum cinerariifolium	0.41	39.3	0.674	
+189
+AF-A0A0G1XCI0-F1-model_v4	60 kDa chaperonin	Parcubacteria group bacterium GW2011_GWA2_48_9	0.99	25.7	0.674	
+1171
+AF-A0A3B9VTL0-F1-model_v4	Molecular chaperone GroEL	Oscillospiraceae bacterium	0.38	36.3	0.674	
+188
+AF-A0A6J0LZL3-F1-model_v4	ruBisCO large subunit-binding protein subunit alpha, chloroplastic-like	Raphanus sativus	1.00	33.3	0.674	
+1171
+AF-A0A4Q3TEL3-F1-model_v4	Molecular chaperone GroEL	Caulobacteraceae bacterium	0.44	40.2	0.673	
+192
+AF-A0A7S2YVH2-F1-model_v4	Hypothetical protein	Pycnococcus provasolii	0.87	36	0.673	
+1125
+AF-T5D7S4-F1-model_v4	60 kDa chaperonin	Helicobacter pylori FD703	1.00	42.6	0.673	
+1171
+AF-A0A5S4TA93-F1-model_v4	Molecular chaperone GroEL	Streptococcus pyogenes	0.38	34.4	0.673	
+187
+AF-A0A183PL30-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.85	15.7	0.673	
+6133
+AF-A0A350W5P3-F1-model_v4	60 kDa chaperonin	Elusimicrobia bacterium	1.00	37.8	0.673	
+1171
+AF-A0A7J9R7J6-F1-model_v4	Thermosome subunit	Nitrosopumilaceae archaeon	0.99	17.2	0.673	
+1171
+AF-A0A1X9RV69-F1-model_v4	60 kDa chaperonin	Serratia marcescens	1.00	39.2	0.672	
+4171
+AF-A0A2G1X5G3-F1-model_v4	Thermosome subunit	Halorubrum sp. C3	0.57	22.2	0.672	
+1107
+AF-A0A7C9D0A2-F1-model_v4	Uncharacterized protein	Opuntia streptacantha	0.60	37.2	0.672	
+1100
+AF-A0A418Y698-F1-model_v4	Uncharacterized protein	Massilia cavernae	0.96	37.7	0.672	
+37171
+AF-A0A7C7KRP6-F1-model_v4	Chaperonin GroEL	Kiloniellaceae bacterium	0.41	36.2	0.672	
+191
+AF-A0A6A3X8E0-F1-model_v4	Uncharacterized protein	Phytophthora fragariae	0.91	8.4	0.672	
+8156
+AF-S3HL07-F1-model_v4	Chaperonin GroEL	Rhizobium grahamii CCGE 502	0.41	41.7	0.672	
+191
+AF-B3FNQ8-F1-model_v4	GroEL	Rhodomonas sp. CCMP1178	1.00	36.8	0.671	
+1171
+AF-A0A0R2Q0E3-F1-model_v4	Uncharacterized protein	Actinobacteria bacterium BACL4 MAG-121022-bin9	0.38	39.7	0.671	
+188
+AF-A0A2V8N7J7-F1-model_v4	Molecular chaperone GroEL	Acidobacteria bacterium	0.33	40.9	0.671	
+1496
+AF-A0A2G6KL42-F1-model_v4	Molecular chaperone GroEL	Gammaproteobacteria bacterium	0.44	37.6	0.671	
+192
+AF-A0A7C1M2A3-F1-model_v4	Thermosome subunit	Thermococcus sp.	0.99	18.2	0.670	
+1171
+AF-A0A847MUI0-F1-model_v4	Chaperonin GroEL	Intrasporangiaceae bacterium	1.00	38.5	0.670	
+1171
+AF-A0A3B8LZW3-F1-model_v4	60 kDa chaperonin	Planctomycetaceae bacterium	1.00	36.2	0.670	
+1171
+AF-A0A0S7HHR7-F1-model_v4	TCPZ	Poeciliopsis prolifica	0.99	20.5	0.669	
+2171
+AF-C1LHD3-F1-model_v4	T-complex protein 1 subunit gamma	Schistosoma japonicum	0.99	16.2	0.669	
+2171
+AF-A0A2J0L981-F1-model_v4	Molecular chaperone GroEL	Candidatus Omnitrophica bacterium CG02_land_8_20_14_3_00__42_8	0.38	34.4	0.669	
+187
+AF-B5U9Y9-F1-model_v4	Chaperonin zeta subunit	Delia antiqua	0.99	20	0.669	
+2171
+AF-A0A4W4GW41-F1-model_v4	Uncharacterized protein	Electrophorus electricus	0.89	33.3	0.669	
+1126
+AF-A0A061HXF0-F1-model_v4	Heat shock protein	Cricetulus griseus	0.89	31.4	0.669	
+48171
+AF-A0A812IJ13-F1-model_v4	GroL1 protein	Symbiodinium sp. CCMP2456	0.85	37.5	0.668	
+41171
+AF-A0A3C0KSG9-F1-model_v4	Molecular chaperone GroEL	Syntrophus sp. (in: Bacteria)	0.41	35.8	0.668	
+191
+AF-A0A0K8UJ91-F1-model_v4	Heat shock protein, mitochondrial	Bactrocera latifrons	1.00	38.5	0.668	
+1171
+AF-A0A497JMX9-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.99	20.5	0.668	
+1171
+AF-A0A2I2U044-F1-model_v4	60 kDa chaperonin	Felis catus	0.82	25.3	0.667	
+6135
+AF-A0A3S1XLZ4-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp. M7A.F.Ca.CA.001.09.1.1	0.41	42.2	0.667	
+190
+AF-Q5SZX9-F1-model_v4	T-complex protein 1 subunit gamma	Homo sapiens	0.85	14.8	0.667	
+1132
+AF-A0A352B204-F1-model_v4	60 kDa chaperonin	Aquiluna sp.	1.00	37.4	0.666	
+1171
+AF-M1EI43-F1-model_v4	CCT-theta	Mustela putorius furo	0.99	14.1	0.666	
+1171
+AF-A0A4P9YUQ9-F1-model_v4	Chaperonin containing TCP1 subunit 5	Syncephalis pseudoplumigaleata	0.99	19.6	0.666	
+1171
+AF-A0A7S2YKV5-F1-model_v4	Hypothetical protein	Amphiprora paludosa	0.69	19.1	0.665	
+1114
+AF-A0A554KV48-F1-model_v4	60 kDa chaperonin	Microgenomates group bacterium Gr01-1014_16	0.98	21.5	0.665	
+1169
+AF-A0A287T3I5-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.97	37.4	0.664	
+1137
+AF-A0A0M3K4G1-F1-model_v4	Uncharacterized protein	Anisakis simplex	1.00	40.3	0.664	
+1171
+AF-A0A3T1DPN9-F1-model_v4	Uncharacterized protein	Halomonas olivaria	0.97	39.2	0.664	
+37171
+AF-A0A453LNN6-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	1.00	33.3	0.663	
+1171
+AF-A0A2E2TM09-F1-model_v4	Molecular chaperone GroEL	Legionellales bacterium	0.38	40.4	0.663	
+189
+AF-A0A5Q0TXC3-F1-model_v4	Chaperonin Cpn60	Mixta calida	0.97	38.9	0.663	
+36171
+AF-A0A3B9ZAF2-F1-model_v4	60 kDa chaperonin	Eubacterium sp.	1.00	37.4	0.663	
+1171
+AF-A0A6A4R1A1-F1-model_v4	Putative chaperonin Cpn60/TCP-1 family, groEL-like apical domain, groEL-like equatorial	Lupinus albus	0.99	19	0.663	
+2171
+AF-A0A196S9H0-F1-model_v4	Chaperonin CPN60	Blastocystis sp. ATCC 50177/Nand II	0.99	36.8	0.663	
+1171
+AF-A0A2G9MZN2-F1-model_v4	Thermosome subunit	Candidatus Micrarchaeota archaeon CG11_big_fil_rev_8_21_14_0_20_47_5	0.66	19.1	0.663	
+1114
+AF-A0A3Q1FAE1-F1-model_v4	T-complex protein 1 subunit zeta-like	Acanthochromis polyacanthus	0.99	20.5	0.662	
+2171
+AF-A0A6V8CL58-F1-model_v4	Thermosome subunit	Candidatus Poseidoniales archaeon	0.99	19.1	0.662	
+1171
+AF-A0A3M6Y701-F1-model_v4	Uncharacterized protein	Hortaea werneckii	0.99	17.2	0.661	
+2171
+AF-A0A6V8CIM9-F1-model_v4	Thermosome subunit	Candidatus Poseidoniales archaeon	0.99	18.5	0.660	
+1171
+AF-A0A5Q0TXG3-F1-model_v4	Chaperonin Cpn60	Citrobacter sp.	0.91	39.3	0.660	
+50171
+AF-A0A7V0YC90-F1-model_v4	60 kDa chaperonin	Anaerolineae bacterium	1.00	22.4	0.660	
+1171
+AF-A0A6J1B1C5-F1-model_v4	T-complex protein 1 subunit zeta 2-like	Herrania umbratica	0.57	23.1	0.659	
+2109
+AF-A0A7R9YUV6-F1-model_v4	Hypothetical protein	Chlamydomonas euryale	1.00	32.7	0.659	
+1171
+AF-A0A3S5A695-F1-model_v4	Uncharacterized protein	Protopolystoma xenopodis	0.99	14.1	0.659	
+5171
+AF-A0A3N5YGL3-F1-model_v4	60 kDa chaperonin	Alphaproteobacteria bacterium	1.00	35.4	0.659	
+1171
+AF-H6VX41-F1-model_v4	GroEL	Klebsiella pneumoniae	0.97	38.9	0.658	
+36171
+AF-A0A832U3Q4-F1-model_v4	Thermosome subunit	Methanosphaera sp.	0.99	20.6	0.658	
+1171
+AF-A0A212CVP8-F1-model_v4	CCT4	Cervus elaphus hippelaphus	0.99	18.2	0.658	
+1171
+AF-A0A183I3H4-F1-model_v4	Uncharacterized protein	Onchocerca flexuosa	1.00	36.8	0.657	
+1171
+AF-A0A7J8E0N8-F1-model_v4	Chaperonin containing TCP1 subunit 7	Molossus molossus	0.99	16.3	0.657	
+1171
+AF-A0A1I8CR52-F1-model_v4	Uncharacterized protein	Rhabditophanes sp. KR3021	0.57	35.2	0.657	
+1102
+AF-A0A3P6G4L7-F1-model_v4	Uncharacterized protein	Brassica oleracea	0.98	29	0.657	
+1171
+AF-A0A444DBZ3-F1-model_v4	Uncharacterized protein	Ensete ventricosum	0.97	12.7	0.657	
+6164
+AF-A0A0D2JM86-F1-model_v4	T-complex protein 1 subunit theta	Monoraphidium neglectum	0.99	13.9	0.656	
+1171
+AF-A0A0F7GB40-F1-model_v4	65 kDa heat shock protein	Mycobacterium arcueilense	0.96	38.5	0.656	
+32171
+AF-A0A7V7AGH8-F1-model_v4	Chaperonin GroEL	Clostridia bacterium	0.33	36.4	0.656	
+185
+AF-A0A504YU72-F1-model_v4	Chaperonin containing TCP1 subunit 5 (Epsilon)	Fasciola gigantica	0.99	18.6	0.655	
+1171
+AF-A0A382BJB1-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	33.9	0.655	
+1171
+AF-A0A7C3R2C8-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	28.3	0.655	
+1171
+AF-A0A851DPM2-F1-model_v4	CH60 protein	Todus mexicanus	0.96	38.4	0.653	
+34171
+AF-A0A2I2UW01-F1-model_v4	Chaperonin containing TCP1 subunit 5	Felis catus	0.99	19.1	0.653	
+1171
+AF-S4PS66-F1-model_v4	Tcp-1eta	Pararge aegeria	0.99	16.7	0.653	
+1171
+AF-A0A7J4GID2-F1-model_v4	Uncharacterized protein	Candidatus Poseidoniales archaeon	0.99	16.4	0.653	
+2171
+AF-A0A287GF39-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	46.6	0.653	
+24171
+AF-A0A497IVJ9-F1-model_v4	Thermosome subunit	Methanosarcinales archaeon	0.99	17	0.652	
+5171
+AF-A0A1Z5YR48-F1-model_v4	Molecular chaperone GroEL	Acetobacter cibinongensis	0.82	37.8	0.651	
+53171
+AF-A0A0D7KDS2-F1-model_v4	Chaperonin	Paenibacillus sp. E194	0.99	23	0.651	
+7171
+AF-A0A2R7WJI6-F1-model_v4	Heat shock protein 60, mitochondrial	Oncopeltus fasciatus	1.00	40.9	0.651	
+1171
+AF-A0A442WZI2-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp.	0.28	41.9	0.651	
+888
+AF-C6ETF6-F1-model_v4	60 kDa chaperonin	Mycobacterium sp. 05FL-49-186A	0.98	39.1	0.651	
+24171
+AF-A0A0F8ZIS6-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.99	24.8	0.650	
+1166
+AF-A0A3D4XCH0-F1-model_v4	60 kDa chaperonin	Lachnospiraceae bacterium	1.00	27.3	0.650	
+3171
+AF-A0A425W8P0-F1-model_v4	Molecular chaperone GroEL	Coriobacteriaceae bacterium	1.00	38	0.650	
+1171
+AF-K1WDP3-F1-model_v4	T-complex protein 1, alpha subunit (Tcp-1-alpha)	Trichosporon asahii var. asahii CBS 8904	0.99	16.5	0.649	
+1171
+AF-K1ZUD3-F1-model_v4	60 kDa chaperonin	uncultured bacterium	1.00	35.6	0.649	
+1171
+AF-A0A504YNS9-F1-model_v4	T-complex protein 1 subunit beta	Fasciola gigantica	0.54	25.9	0.649	
+1104
+AF-A0A2T7IPT7-F1-model_v4	Chaperonin HSP60	Theileria orientalis	1.00	39.1	0.649	
+1171
+AF-X1M436-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.94	15.1	0.648	
+1168
+AF-A0A5D2Z649-F1-model_v4	Uncharacterized protein	Gossypium mustelinum	1.00	38.1	0.648	
+1171
+AF-A0A287ECM2-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	1.00	33.9	0.648	
+1171
+AF-A0A4V1DXA2-F1-model_v4	60 kDa chaperonin	Anaplasma bovis	0.97	91.3	0.648	
+34171
+AF-A0A0A9RHY4-F1-model_v4	Uncharacterized protein	Arundo donax	0.66	31.7	0.647	
+5110
+AF-A0A3L6V0G0-F1-model_v4	Uncharacterized protein	Aphanomyces astaci	0.99	18	0.647	
+2171
+AF-A0A527TMN0-F1-model_v4	60 kDa chaperonin	Mesorhizobium sp.	0.98	39.4	0.647	
+30171
+AF-A0A287T716-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	32.9	0.647	
+1171
+AF-A0A059LFW2-F1-model_v4	TCP-1/cpn60 chaperonin	Helicosporidium sp. ATCC 50920	0.99	14.2	0.647	
+1171
+AF-A0A453QIC0-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.82	19.5	0.646	
+1123
+AF-A0A6P0YEW7-F1-model_v4	60 kDa chaperonin	Okeania sp. SIO1H6	1.00	36.8	0.646	
+1171
+AF-A0A2P4Y219-F1-model_v4	T-complex protein 1 subunit gamma	Phytophthora palmivora var. palmivora	0.99	16.5	0.646	
+1171
+AF-A0A3S5CKE8-F1-model_v4	Uncharacterized protein	Protopolystoma xenopodis	0.85	24.4	0.646	
+1128
+AF-A0A831Z3S2-F1-model_v4	Chaperonin GroEL	Candidatus Kaiserbacteria bacterium	1.00	33.3	0.645	
+1171
+AF-A0A3E0QR27-F1-model_v4	60 kDa chaperonin	Bacteroidetes bacterium	1.00	27.4	0.645	
+1171
+AF-A0A5F4CIU1-F1-model_v4	Uncharacterized protein	Canis lupus familiaris	0.69	24	0.645	
+32143
+AF-A0A124SCM9-F1-model_v4	Chaperonin Cpn60	Cynara cardunculus var. scolymus	1.00	39.7	0.644	
+1171
+AF-A0A2D8BW92-F1-model_v4	Uncharacterized protein	Maricaulis sp.	1.00	25.4	0.644	
+1171
+AF-A0A435G0A4-F1-model_v4	60 kDa chaperonin	Mesorhizobium sp. M7A.F.Ca.US.005.03.2.1	1.00	42.1	0.643	
+1171
+AF-A0A7S1TVV9-F1-model_v4	Hypothetical protein	Phaeomonas parva	0.99	13.7	0.643	
+1171
+AF-A0A6B1AA90-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	34.5	0.642	
+1171
+AF-A0A832VCL4-F1-model_v4	Thermosome subunit	Candidatus Poseidoniales archaeon	0.60	19.8	0.641	
+1110
+AF-A0A2V9NUY0-F1-model_v4	60 kDa chaperonin	Acidobacteria bacterium	1.00	39.8	0.641	
+1171
+AF-A0A550GHF7-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.99	22.1	0.641	
+1171
+AF-A0A832YQ95-F1-model_v4	Thermosome subunit	Candidatus Poseidoniales archaeon	0.99	18	0.640	
+1171
+AF-A0A662YMC3-F1-model_v4	T-complex protein 1 subunit alpha	Acipenser ruthenus	0.99	17.1	0.640	
+1171
+AF-A0A521V557-F1-model_v4	60 kDa chaperonin	Betaproteobacteria bacterium	1.00	36.8	0.640	
+1171
+AF-A0A7J7NIV3-F1-model_v4	Uncharacterized protein	Kingdonia uniflora	1.00	30.4	0.639	
+1171
+AF-A0A7S0Z7N1-F1-model_v4	Hypothetical protein	Ostreococcus mediterraneus	0.89	34.4	0.639	
+1122
+AF-S3HMR8-F1-model_v4	Chaperonin GroEL	Rhizobium grahamii CCGE 502	0.38	36.7	0.639	
+15112
+AF-A0A7S4VP89-F1-model_v4	Hypothetical protein	Alexandrium monilatum	1.00	39.7	0.638	
+1171
+AF-Q9HF55-F1-model_v4	Tcp1	Eremothecium gossypii	0.57	19.6	0.637	
+1107
+AF-A0A5B6X4K4-F1-model_v4	Chaperonin 60 subunit beta 4, chloroplastic	Gossypium australe	0.75	32.4	0.637	
+1109
+AF-A0A5N5M154-F1-model_v4	Uncharacterized protein	Pangasianodon hypophthalmus	0.99	20	0.637	
+2171
+AF-A0A0G1KHC5-F1-model_v4	60 kDa chaperonin	candidate division WWE3 bacterium GW2011_GWC2_44_9	1.00	35	0.637	
+1171
+AF-A0A0F7DHG0-F1-model_v4	Chaperonin-60 beta4	Pelargonium dichondrifolium	1.00	35.2	0.636	
+1171
+AF-A0A0G1BX32-F1-model_v4	60 kDa chaperonin	Parcubacteria group bacterium GW2011_GWD1_42_9	1.00	38	0.636	
+1171
+AF-A0A835HUQ8-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.95	33.8	0.636	
+1136
+AF-A0A392NBC6-F1-model_v4	T-complex protein 1 subunit delta-like	Trifolium medium	0.99	18.1	0.636	
+1171
+AF-V6DXW6-F1-model_v4	Thermosome	Halorubrum sp. AJ67	0.99	18	0.636	
+1171
+AF-A0A3N5WRG1-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	18.3	0.635	
+1171
+AF-A0A7S3DZK7-F1-model_v4	Hypothetical protein	Pycnococcus provasolii	1.00	31.5	0.634	
+1171
+AF-A0A0L0UNI4-F1-model_v4	Uncharacterized protein	Puccinia striiformis f. sp. tritici PST-78	1.00	28.3	0.634	
+2171
+AF-A0A1E3I3T3-F1-model_v4	Hsp60-like protein, variant	Cryptococcus amylolentus CBS 6039	1.00	41.5	0.634	
+1171
+AF-Q6ARV6-F1-model_v4	60 kDa chaperonin	Desulfotalea psychrophila LSv54	1.00	39.1	0.634	
+1171
+AF-A0A0H1B563-F1-model_v4	Chaperonin GroEL	Blastomyces silverae	1.00	39.1	0.634	
+1171
+AF-A0A535HEE8-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	37.4	0.634	
+1171
+AF-A0A656IV49-F1-model_v4	TCP-1/cpn60 chaperonin family protein	Chlamydia psittaci 06-1683	0.98	18.9	0.634	
+6171
+AF-A0A497JRS9-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.47	23.5	0.634	
+1102
+AF-A0A1U7LID7-F1-model_v4	T-complex protein 1 subunit delta	Neolecta irregularis DAH-3	0.99	18.5	0.634	
+1171
+AF-Q95058-F1-model_v4	Hydrogenosomal chaperonin HSP60	Trichomonas vaginalis	1.00	39.1	0.633	
+1171
+AF-A0A0Q9YNB1-F1-model_v4	60 kDa chaperonin	Candidatus Berkiella aquae	1.00	39.1	0.633	
+1171
+AF-A0A2D6YBM3-F1-model_v4	60 kDa chaperonin	Flavobacteriaceae bacterium	1.00	34.5	0.633	
+1171
+AF-A0A103XI05-F1-model_v4	Chaperonin Cpn60	Cynara cardunculus var. scolymus	1.00	39.1	0.633	
+1171
+AF-A0A813RBL7-F1-model_v4	Hypothetical protein	Adineta ricciae	0.99	17.2	0.633	
+1171
+AF-A0A183PR29-F1-model_v4	Uncharacterized protein	Schistosoma mattheei	0.96	15.8	0.633	
+2170
+AF-A0A0D2RR99-F1-model_v4	Uncharacterized protein	Gossypium raimondii	1.00	35.8	0.633	
+1171
+AF-A0A2D6NHF8-F1-model_v4	Thermosome subunit	Candidatus Pacearchaeota archaeon	0.99	20.5	0.633	
+1171
+AF-A0A804K719-F1-model_v4	Uncharacterized protein	Musa acuminata subsp. malaccensis	0.99	29.3	0.632	
+1171
+AF-A0A6G1CEK4-F1-model_v4	Uncharacterized protein	Oryza meyeriana var. granulata	1.00	32.1	0.632	
+1171
+AF-A0A832VVZ3-F1-model_v4	Thermosome subunit	Methanobacteriales archaeon	0.99	20	0.632	
+1171
+AF-A0A523IFL5-F1-model_v4	60 kDa chaperonin	Deltaproteobacteria bacterium	1.00	40.9	0.631	
+1171
+AF-A0A849PU90-F1-model_v4	Thermosome subunit	Methanococcoides sp.	0.99	19.4	0.631	
+2171
+AF-A0A0D9Z1X7-F1-model_v4	Uncharacterized protein	Oryza glumipatula	1.00	39.7	0.631	
+1171
+AF-A0A371ER08-F1-model_v4	T-complex protein 1 subunit alpha	Mucuna pruriens	0.99	17.7	0.631	
+2171
+AF-Q9F4E5-F1-model_v4	GroEL	Buchnera aphidicola (Tuberolachnus salignus)	0.28	34.5	0.630	
+181
+AF-A0A446S1K3-F1-model_v4	CCT-theta	Triticum turgidum subsp. durum	0.99	12.9	0.630	
+1171
+AF-I6ZIX1-F1-model_v4	T-complex protein 1 subunit zeta	Encephalitozoon romaleae SJ-2008	0.99	18.8	0.630	
+6171
+AF-A0A832SX57-F1-model_v4	Thermosome subunit	Methanosphaera sp.	0.99	20.6	0.630	
+1171
+AF-A0A832VJB3-F1-model_v4	Uncharacterized protein	Candidatus Poseidoniales archaeon	0.99	16.6	0.630	
+2171
+AF-G9L5C7-F1-model_v4	T-complex protein 1, zeta subunit	Mustela putorius furo	0.99	20	0.630	
+2171
+AF-A0A1Q2SVQ0-F1-model_v4	60 kDa chaperonin	Calyptogena laubieri symbiont	1.00	36.8	0.630	
+1171
+AF-A0A3D4LJS1-F1-model_v4	Molecular chaperone GroEL	Clostridiales bacterium	0.23	33.3	0.629	
+178
+AF-A0A0S7GSF3-F1-model_v4	T-complex protein 1 subunit gamma	Poeciliopsis prolifica	0.99	15.5	0.629	
+1171
+AF-A0A1H5B2T2-F1-model_v4	60 kDa chaperonin	Rhodobacter sp. 24-YEA-8	1.00	38	0.628	
+1171
+AF-A0A7J6TMS1-F1-model_v4	T-complex protein 1 subunit epsilon	Perkinsus olseni	0.99	20.7	0.628	
+1171
+AF-X1P1S4-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.21	30.6	0.628	
+175
+AF-A0A4R4D184-F1-model_v4	60 kDa chaperonin	Dehalobacter sp. 12DCB1	1.00	31.3	0.628	
+1171
+AF-A0A835UV51-F1-model_v4	Uncharacterized protein	Vanilla planifolia	0.99	36.4	0.628	
+1171
+AF-A0A2R7WJB3-F1-model_v4	Heat shock protein 60	Oncopeltus fasciatus	1.00	32.3	0.628	
+1171
+AF-A0A6G1BZ70-F1-model_v4	Uncharacterized protein	Oryza meyeriana var. granulata	0.99	25.5	0.628	
+1171
+AF-A0A0J8RB05-F1-model_v4	CCT-theta	Coccidioides immitis RMSCC 3703	0.99	15.8	0.627	
+6171
+AF-Q9F4E3-F1-model_v4	GroEL	Buchnera aphidicola (Thelaxes suberi)	0.28	33.3	0.627	
+184
+AF-A0A1G6WYU3-F1-model_v4	60 kDa chaperonin	Paraburkholderia lycopersici	1.00	31.5	0.627	
+1171
+AF-A0A539EGN2-F1-model_v4	60 kDa chaperonin	Elusimicrobia bacterium	1.00	36.8	0.627	
+1171
+AF-A0A522AQF4-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	40.3	0.627	
+1171
+AF-A0A354HFT7-F1-model_v4	Molecular chaperone GroEL	Oscillospiraceae bacterium	0.23	34.2	0.627	
+176
+AF-A0A1B0FD83-F1-model_v4	Uncharacterized protein	Glossina morsitans morsitans	1.00	35	0.626	
+1171
+AF-A0A287VF73-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.98	37.1	0.626	
+17171
+AF-A0A351GHY4-F1-model_v4	60 kDa chaperonin	Bacteroidetes bacterium	1.00	32.3	0.626	
+1171
+AF-A0A0D2P9C7-F1-model_v4	Uncharacterized protein	Gossypium raimondii	1.00	39.1	0.625	
+1171
+AF-A0A7S4WB12-F1-model_v4	Hypothetical protein	Alexandrium monilatum	1.00	32.1	0.625	
+1171
+AF-A0A2D6MDB1-F1-model_v4	Chaperonin GroEL	Candidatus Pacearchaeota archaeon	1.00	30.4	0.625	
+1171
+AF-A0A5D2NIV4-F1-model_v4	CCT-theta	Gossypium tomentosum	0.99	11.7	0.625	
+1171
+AF-A0A534WWN7-F1-model_v4	60 kDa chaperonin	Deltaproteobacteria bacterium	1.00	40.3	0.625	
+1171
+AF-A0A166FW21-F1-model_v4	Uncharacterized protein	Daucus carota subsp. sativus	1.00	32.1	0.624	
+1171
+AF-A0A7S4LEN3-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	1.00	34.6	0.624	
+1171
+AF-A0A7S1X214-F1-model_v4	Hypothetical protein	Tetraselmis chuii	0.41	17.8	0.624	
+11110
+AF-A0A1J7HPE0-F1-model_v4	Uncharacterized protein	Lupinus angustifolius	0.99	16.5	0.624	
+1171
+AF-A0A0K0XCY8-F1-model_v4	Chaperonin-like protein MimG	Mycobacterium goodii	1.00	33.3	0.624	
+1171
+AF-A0A431HCC2-F1-model_v4	60 kDa chaperonin	Rickettsiales bacterium	1.00	38.5	0.623	
+1171
+AF-A0A417XXU2-F1-model_v4	60 kDa chaperonin	Nocardioides immobilis	1.00	35	0.623	
+1171
+AF-A0A6G1BR48-F1-model_v4	Uncharacterized protein	Oryza meyeriana var. granulata	1.00	34.6	0.623	
+1171
+AF-J1TFE1-F1-model_v4	60 kDa chaperonin	Rhizobium sp. CF142	1.00	39.7	0.623	
+1171
+AF-A0A424KB88-F1-model_v4	60 kDa chaperonin	Pelagibacteraceae bacterium TMED195	1.00	38	0.623	
+1171
+AF-A0A6J4F9B2-F1-model_v4	60 kDa chaperonin	Magnetospirillum sp. LM-5	1.00	40.9	0.623	
+1171
+AF-A0A2Z3GHT2-F1-model_v4	60 kDa chaperonin	Sinorhizobium fredii CCBAU 25509	1.00	41.5	0.623	
+1171
+AF-A0A1N6XWT2-F1-model_v4	60 kDa chaperonin	Rhizobium sp. RU20A	1.00	39.7	0.623	
+1171
+AF-A0A6N8TAJ4-F1-model_v4	60 kDa chaperonin	Shinella zoogloeoides	1.00	39.1	0.623	
+1171
+AF-A0A2D6MFV1-F1-model_v4	Chaperonin GroEL	Candidatus Pacearchaeota archaeon	1.00	36.8	0.622	
+1171
+AF-A0A4D9D3S7-F1-model_v4	Uncharacterized protein	Nannochloropsis salina CCMP1776	1.00	25.9	0.622	
+1171
+AF-A0A7J6WX96-F1-model_v4	60 kDa chaperonin	Thalictrum thalictroides	1.00	33.3	0.622	
+1171
+AF-A0A067EUU7-F1-model_v4	Uncharacterized protein	Citrus sinensis	0.99	17.6	0.622	
+1171
+AF-A0A2A4X7L2-F1-model_v4	60 kDa chaperonin	Candidatus Aerophobetes bacterium	1.00	28.4	0.622	
+1171
+AF-A0A524EDB6-F1-model_v4	Thermosome subunit	Candidatus Lokiarchaeota archaeon	0.99	16.1	0.622	
+1171
+AF-A0A6A1WRY1-F1-model_v4	RuBisCO large subunit-binding protein subunit beta, chloroplastic	Morella rubra	1.00	36.4	0.621	
+1171
+AF-A0A0V0IJV5-F1-model_v4	Putative ruBisCO large subunit-binding protein subunit beta, chloroplastic-like	Solanum chacoense	1.00	36.9	0.621	
+1171
+AF-A0A7S4JM35-F1-model_v4	Hypothetical protein	Odontella aurita	1.00	38.5	0.621	
+1171
+AF-V7I5X1-F1-model_v4	60 kDa chaperonin	Youngiibacter fragilis 232.1	1.00	33.9	0.621	
+1171
+AF-A0A369BIU1-F1-model_v4	60 kDa chaperonin	Fontibacillus phaseoli	1.00	37.4	0.621	
+1171
+AF-A0A3Q1B523-F1-model_v4	T-complex protein 1 subunit gamma	Amphiprion ocellaris	0.99	15.5	0.621	
+1171
+AF-A0A822FIR4-F1-model_v4	(mimic poison frog) hypothetical protein	Ranitomeya imitator	0.99	19	0.621	
+1171
+AF-A0A6P6EDJ6-F1-model_v4	T-complex protein 1 subunit zeta	Octodon degus	0.96	14.2	0.621	
+1168
+AF-A0A7K4H5R1-F1-model_v4	Thermosome subunit	Candidatus Lokiarchaeota archaeon	0.99	18.1	0.621	
+1171
+AF-A0A224Z0M3-F1-model_v4	T-complex protein 1 subunit zeta	Rhipicephalus zambeziensis	0.99	18.1	0.621	
+2171
+AF-A0A317H513-F1-model_v4	60 kDa chaperonin	Bacteroidetes bacterium	1.00	30.9	0.621	
+1171
+AF-A0A0R0EF87-F1-model_v4	Uncharacterized protein	Glycine max	1.00	31.5	0.621	
+1171
+AF-A0A7C9D2J6-F1-model_v4	Uncharacterized protein	Opuntia streptacantha	0.38	37.7	0.621	
+188
+AF-A0A287VFA9-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	39.3	0.620	
+17171
+AF-A0A4R4SD98-F1-model_v4	60 kDa chaperonin	Micromonospora sp. KC207	1.00	36.2	0.620	
+1171
+AF-K2NTY6-F1-model_v4	Chaperonin HSP60, mitochondrial, putative	Trypanosoma cruzi marinkellei	1.00	38.5	0.620	
+1171
+AF-A0A6H5KSW1-F1-model_v4	CCT-theta	Ectocarpus sp. CCAP 1310/34	0.99	13.3	0.620	
+1171
+AF-J9RQ30-F1-model_v4	60 kDa chaperonin	Gordonia sp. KTR9	1.00	30.9	0.620	
+1171
+AF-A0A2N7PWZ1-F1-model_v4	60 kDa chaperonin	Desulfurella sp.	1.00	38	0.620	
+1171
+AF-O86019-F1-model_v4	Chaperonin 60-1	Mycobacterium avium	0.20	33.3	0.620	
+172
+AF-A0A7J6Z8J8-F1-model_v4	10 kDa heat shock protein, mitochondrial	Abscondita terminalis	0.87	34.8	0.619	
+29151
+AF-A0A432IFB2-F1-model_v4	60 kDa chaperonin	Firmicutes bacterium	1.00	26.3	0.619	
+1171
+AF-P30779-F1-model_v4	60 kDa chaperonin	Agrobacterium fabrum str. C58	1.00	39.7	0.619	
+1171
+AF-A0A3D5KIR2-F1-model_v4	Molecular chaperone GroEL	Clostridium sp.	0.20	33.7	0.619	
+174
+AF-A0A446RC33-F1-model_v4	Uncharacterized protein	Triticum turgidum subsp. durum	1.00	34.5	0.619	
+1171
+AF-A0A7S1BT76-F1-model_v4	Hypothetical protein	Corethron hystrix	1.00	30.4	0.619	
+1171
+AF-A0A287T3T0-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	35.6	0.619	
+1171
+AF-A0A059LSE3-F1-model_v4	TCP-1/cpn60 chaperonin	Helicosporidium sp. ATCC 50920	1.00	30.9	0.618	
+1171
+AF-A0A4R6Q4U7-F1-model_v4	60 kDa chaperonin	Aminicella lysinilytica	1.00	40.3	0.618	
+1171
+AF-A0A6M0KYA9-F1-model_v4	60 kDa chaperonin	Sulfurovum sp. bin170	1.00	40.3	0.618	
+1171
+AF-A0A5C5UB63-F1-model_v4	60 kDa chaperonin	Corynebacterium canis	1.00	36.8	0.618	
+1171
+AF-A0A068TW61-F1-model_v4	Uncharacterized protein	Coffea canephora	1.00	33.5	0.618	
+1171
+AF-A0A7X3JBV5-F1-model_v4	60 kDa chaperonin	Burkholderia thailandensis	1.00	32.7	0.617	
+1171
+AF-A0A2D7IFX5-F1-model_v4	60 kDa chaperonin	Rickettsiales bacterium	1.00	28.4	0.617	
+1171
+AF-B9K1Y8-F1-model_v4	60 kDa chaperonin	Agrobacterium vitis S4	1.00	39.1	0.617	
+1171
+AF-K6UJN7-F1-model_v4	Heat shock protein 60	Plasmodium cynomolgi strain B	1.00	42.1	0.617	
+1171
+AF-A0A1Q9YJH8-F1-model_v4	60 kDa chaperonin	Faecalibaculum rodentium	1.00	32.1	0.617	
+1171
+AF-A0A527FDL5-F1-model_v4	Chaperonin GroEL	Mesorhizobium sp.	0.16	39.1	0.617	
+371
+AF-A0A5B6X8B0-F1-model_v4	Chaperonin CPN60-2, mitochondrial	Gossypium australe	1.00	32.7	0.617	
+1171
+AF-A0A0G1STL2-F1-model_v4	60 kDa chaperonin	Microgenomates group bacterium GW2011_GWB1_46_7	1.00	38	0.617	
+1171
+AF-A0A287T3G5-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	1.00	37.5	0.617	
+1171
+AF-A0A0A7G0K3-F1-model_v4	60 kDa chaperonin	Clostridium baratii str. Sullivan	1.00	28.6	0.617	
+1171
+AF-G0U6T4-F1-model_v4	Chaperonin HSP60, mitochondrial,putative	Trypanosoma vivax Y486	0.94	28.9	0.616	
+1145
+AF-X0W0N3-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.95	28	0.616	
+29171
+AF-F6EQB6-F1-model_v4	60 kDa chaperonin	Hoyosella subflava DQS3-9A1	1.00	29.8	0.616	
+1171
+AF-A0A288DIR6-F1-model_v4	60 kDa chaperonin	candidate division SR1 bacterium RAAC1_SR1_1	1.00	33.3	0.616	
+1171
+AF-A0A349J3C3-F1-model_v4	Molecular chaperone GroEL	Rhodobiaceae bacterium	0.20	37.5	0.616	
+172
+AF-A0A059LP63-F1-model_v4	TCP-1/cpn60 chaperonin	Helicosporidium sp. ATCC 50920	0.99	17.6	0.616	
+1171
+AF-Q4DYP5-F1-model_v4	Chaperonin HSP60, mitochondrial	Trypanosoma cruzi strain CL Brener	1.00	38.5	0.616	
+1171
+AF-A0A395D258-F1-model_v4	Molecular chaperone GroEL	Methylocystaceae bacterium	1.00	31.7	0.616	
+1171
+AF-A0A8B6M8P3-F1-model_v4	60 kDa chaperonin. GroEL homologue	Methylocella tundrae	1.00	28.1	0.616	
+1171
+AF-I8IY50-F1-model_v4	60 kDa chaperonin	Fictibacillus macauensis ZFHKF-1	1.00	35.6	0.616	
+1171
+AF-A0A0G0ZI61-F1-model_v4	60 kDa chaperonin	Candidatus Yanofskybacteria bacterium GW2011_GWA1_41_6	1.00	38.5	0.616	
+1171
+AF-A0A3A9AYG7-F1-model_v4	60 kDa chaperonin	bacterium D16-34	1.00	35.4	0.616	
+1171
+AF-A0A835I2B0-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.97	28.8	0.615	
+12171
+AF-A0A7C1VSY5-F1-model_v4	Chaperonin GroEL	bacterium	1.00	33.9	0.615	
+1171
+AF-X0ZVI9-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.30	11.5	0.615	
+1171
+AF-A0A1Y1N2M5-F1-model_v4	Uncharacterized protein	Photinus pyralis	0.99	15.5	0.615	
+1171
+AF-A0A6L7X206-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	32.7	0.615	
+1171
+AF-Q6A6W2-F1-model_v4	60 kDa chaperonin 2	Cutibacterium acnes KPA171202	1.00	37.4	0.615	
+1171
+AF-Q3M1B1-F1-model_v4	60 kDa chaperonin 3	Trichormus variabilis ATCC 29413	1.00	33.9	0.615	
+1171
+AF-A0A1F8V8T0-F1-model_v4	60 kDa chaperonin	Coxiella sp. RIFCSPHIGHO2_12_FULL_42_15	1.00	24.2	0.615	
+2171
+AF-A0A2S9ZZV9-F1-model_v4	Chaperonin Cpn60/TCP-1 family	Rhodotorula toruloides	1.00	41.5	0.615	
+1171
+AF-A0A554KDC2-F1-model_v4	60 kDa chaperonin	Candidatus Peregrinibacteria bacterium Gr01-1014_25	1.00	38.6	0.615	
+1171
+AF-A0A7S3X021-F1-model_v4	Hypothetical protein	Emiliania huxleyi	1.00	32.7	0.614	
+1171
+AF-A0A381PJ07-F1-model_v4	Uncharacterized protein	marine metagenome	1.00	37.2	0.614	
+1171
+AF-A0A6A1WDY8-F1-model_v4	Chaperonin 60 subunit alpha 2, chloroplastic	Morella rubra	1.00	26.4	0.614	
+1171
+AF-A0A061IGL4-F1-model_v4	T-complex protein 1 subunit eta-like protein	Cricetulus griseus	0.99	16.1	0.614	
+1171
+AF-A0A1J3ESF9-F1-model_v4	Chaperonin 60 subunit beta 4, chloroplastic	Noccaea caerulescens	1.00	32.9	0.614	
+1171
+AF-A0A524RVE3-F1-model_v4	60 kDa chaperonin	Aphanocapsa feldmannii 277cI	1.00	32.1	0.614	
+1171
+AF-A0A3B1CKP0-F1-model_v4	Heat shock protein 60 family chaperone GroEL	hydrothermal vent metagenome	1.00	16.9	0.614	
+1171
+AF-A0A0D2RRA4-F1-model_v4	Uncharacterized protein	Gossypium raimondii	1.00	35.8	0.614	
+1171
+AF-Q2GDC6-F1-model_v4	60 kDa chaperonin	Neorickettsia sennetsu str. Miyayama	1.00	44.4	0.613	
+1171
+AF-M5WT32-F1-model_v4	CCT-eta	Prunus persica	0.99	19	0.613	
+1171
+AF-A0A6L7X2X2-F1-model_v4	60 kDa chaperonin	Chloroflexi bacterium	1.00	29.4	0.613	
+1171
+AF-A0A420F7D3-F1-model_v4	60 kDa chaperonin	Micromonospora globbae	1.00	30	0.613	
+2171
+AF-M1CS73-F1-model_v4	Phosphoglycerate/bisphosphoglycerate mutase	Solanum tuberosum	0.97	12.5	0.613	
+1171
+AF-A0A6P6Y8F9-F1-model_v4	uncharacterized protein LOC113795291	Dermatophagoides pteronyssinus	1.00	28.4	0.613	
+1171
+AF-A0A7J7NQ76-F1-model_v4	Uncharacterized protein	Kingdonia uniflora	0.63	34.9	0.613	
+6109
+AF-A0A446VX70-F1-model_v4	Uncharacterized protein	Triticum turgidum subsp. durum	1.00	36.9	0.613	
+1171
+AF-A0A061BAF6-F1-model_v4	CYFA0S26e01376g1_1	Cyberlindnera fabianii	1.00	29.2	0.613	
+1171
+AF-A0A850CZ43-F1-model_v4	Chaperonin GroEL	Kribbellaceae bacterium	0.20	30.6	0.612	
+174
+AF-Q6J647-F1-model_v4	60 kDa chaperonin	Cytophaga sp. FIRDI-133-V546	1.00	36.8	0.612	
+1171
+AF-A0A7S2ZQF9-F1-model_v4	Hypothetical protein	Rhodosorus marinus	1.00	30.4	0.612	
+1171
+AF-A0A366DPA7-F1-model_v4	60 kDa chaperonin	Paraliobacillus ryukyuensis	1.00	38	0.612	
+1171
+AF-A0A852NEU0-F1-model_v4	TCPH protein	Pteruthius melanotis	0.99	16.9	0.612	
+1171
+AF-A0A554MBW9-F1-model_v4	60 kDa chaperonin	Parcubacteria group bacterium Athens0714_16	1.00	34.5	0.612	
+1171
+AF-A0A3D0V6N8-F1-model_v4	60 kDa chaperonin	Candidatus Uhrbacteria bacterium	1.00	32.7	0.612	
+1171
+AF-A0A660MQI9-F1-model_v4	60 kDa chaperonin	Candidatus Gracilibacteria bacterium	1.00	31.3	0.612	
+1171
+AF-A0A811SMA9-F1-model_v4	Hypothetical protein	Miscanthus lutarioriparius	1.00	34.1	0.612	
+1171
+AF-A0A3D4S7M5-F1-model_v4	60 kDa chaperonin	Clostridiales bacterium	1.00	38.5	0.612	
+1171
+AF-D2NR02-F1-model_v4	60 kDa chaperonin	Rothia mucilaginosa DY-18	1.00	41.5	0.612	
+1171
+AF-A0A7W1QJC8-F1-model_v4	60 kDa chaperonin	Candidatus Saccharibacteria bacterium	1.00	28.6	0.612	
+1171
+AF-A0A4Q6CVU3-F1-model_v4	Molecular chaperone GroEL	Proteobacteria bacterium	0.20	31	0.612	
+174
+AF-A0A7Y3N797-F1-model_v4	Chaperonin GroEL	Pseudomonadales bacterium	0.20	37.8	0.612	
+174
+AF-A0A520NXB3-F1-model_v4	60 kDa chaperonin	Rhodospirillaceae bacterium	1.00	26.5	0.612	
+1171
+AF-A0A845RLH4-F1-model_v4	Molecular chaperone GroEL	Dehalobacter sp. 4CP	1.00	33.9	0.611	
+1171
+AF-A0A5C7LQT1-F1-model_v4	60 kDa chaperonin	Spirochaetes bacterium	1.00	39.7	0.611	
+1171
+AF-A0A7C1VU18-F1-model_v4	60 kDa chaperonin	bacterium	1.00	25.5	0.611	
+1171
+AF-A0A374DU43-F1-model_v4	60 kDa chaperonin	Ruminococcus sp. AM34-10LB	1.00	35.6	0.611	
+1171
+AF-W9H7B8-F1-model_v4	60 kDa chaperonin	Skermanella stibiiresistens SB22	1.00	22.8	0.611	
+1171
+AF-A0A6P6XJC7-F1-model_v4	uncharacterized protein LOC113788381	Dermatophagoides pteronyssinus	1.00	25.7	0.611	
+1171
+AF-A0A081GIR0-F1-model_v4	60 kDa chaperonin	Cyanobium sp. CACIAM 14	1.00	36.8	0.610	
+1171
+AF-A0A0D9ZG42-F1-model_v4	Uncharacterized protein	Oryza glumipatula	1.00	33.9	0.610	
+1171
+AF-A0A7W1XYU6-F1-model_v4	60 kDa chaperonin	Planctomycetota bacterium	1.00	30.9	0.610	
+1171
+AF-A0A366ZRI8-F1-model_v4	60 kDa chaperonin	Blastococcus sp. TF02-9	1.00	32.7	0.609	
+1171
+AF-A0A183CQL3-F1-model_v4	Uncharacterized protein	Globodera pallida	0.90	29.7	0.609	
+51171
+AF-A0A835YQ66-F1-model_v4	Chaperonin	Tribonema minus	1.00	25.7	0.609	
+1171
+AF-A0A6J2TRW9-F1-model_v4	heat shock protein 60A	Scaptodrosophila lebanonensis	1.00	31.9	0.608	
+1171
+AF-A0A4S4L440-F1-model_v4	CCT-theta	Phellinidium pouzarii	0.99	13	0.608	
+1171
+AF-A0A176WBB0-F1-model_v4	Uncharacterized protein	Marchantia polymorpha subsp. ruderalis	1.00	33.9	0.608	
+1171
+AF-A0A519C2J0-F1-model_v4	Uncharacterized protein	Euryarchaeota archaeon	0.44	23	0.608	
+1103
+AF-R7NHE5-F1-model_v4	60 kDa chaperonin	Mycoplasma sp. CAG:776	1.00	27	0.607	
+2171
+AF-L8WVG3-F1-model_v4	T-complex protein 1	Rhizoctonia solani AG-1 IA	0.99	16.8	0.607	
+1171
+AF-A0A497LEY2-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.99	20	0.607	
+1171
+AF-A0A2K6FEF5-F1-model_v4	Uncharacterized protein	Propithecus coquereli	0.54	21.2	0.607	
+1113
+AF-A0A442U2J2-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp.	0.16	39.4	0.606	
+878
+AF-A0A023BAC3-F1-model_v4	Cpn60 chaperonin family protein	Gregarina niphandrodes	1.00	39.1	0.606	
+1171
+AF-A0A7K0JP84-F1-model_v4	60 kDa chaperonin	Acidiferrimicrobium australe	1.00	35	0.606	
+1171
+AF-A0A6B2CE25-F1-model_v4	Thermosome subunit	Thermogladius sp.	0.99	17.2	0.606	
+1171
+AF-A0A183A169-F1-model_v4	Uncharacterized protein	Echinostoma caproni	0.99	8.5	0.605	
+2171
+AF-A0A3C1UXC4-F1-model_v4	Molecular chaperone GroEL	Oscillospiraceae bacterium	0.16	35.7	0.605	
+170
+AF-A0A455BHW3-F1-model_v4	60 kDa chaperonin	Physeter catodon	0.99	29.6	0.605	
+1171
+AF-A0A2E0GTG7-F1-model_v4	60 kDa chaperonin	Legionellales bacterium	1.00	11.2	0.605	
+2171
+AF-A0A3P4NG57-F1-model_v4	CCT-theta	Gulo gulo	0.99	14.1	0.604	
+1171
+AF-A0A833ZBV0-F1-model_v4	Chaperonin containing TCP1 subunit 6B	Phyllostomus discolor	0.99	20.5	0.604	
+2171
+AF-A0A446V1F4-F1-model_v4	Uncharacterized protein	Triticum turgidum subsp. durum	0.99	38.1	0.604	
+12171
+AF-A0A7W6SIW7-F1-model_v4	60 kDa chaperonin	Bradyrhizobium sp. cir1	1.00	33.3	0.604	
+1171
+AF-A0A7C1KLD3-F1-model_v4	Uncharacterized protein	Candidatus Scalindua sp.	0.99	24.5	0.604	
+7171
+AF-A0A7C5MN27-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.38	26.8	0.603	
+197
+AF-A0A7L3XYG9-F1-model_v4	CCT-theta	Calonectris borealis	0.99	14.3	0.603	
+1171
+AF-A0A7C7RQ69-F1-model_v4	Chaperonin GroEL	Anaerolineales bacterium	0.16	41.4	0.603	
+170
+AF-X8C8U3-F1-model_v4	TCP-1/cpn60 chaperonin family protein	Mycobacterium xenopi 3993	0.72	31.8	0.603	
+1110
+AF-A0A6A4R3R5-F1-model_v4	RuBisCO large subunit-binding protein subunit beta	Lupinus albus	0.99	30	0.602	
+1171
+AF-A0A3B8L9R2-F1-model_v4	Molecular chaperone GroEL	Myxococcales bacterium	0.75	39.4	0.602	
+68171
+AF-A0A212RIR2-F1-model_v4	60 kDa chaperonin	Arboricoccus pini	1.00	22.8	0.601	
+1171
+AF-A0A7J6WYL8-F1-model_v4	60 kDa chaperonin	Thalictrum thalictroides	1.00	31.5	0.601	
+1171
+AF-A0A382EMA2-F1-model_v4	Uncharacterized protein	marine metagenome	0.16	27.5	0.601	
+169
+AF-A0A0P7HXK7-F1-model_v4	60 kDa chaperonin	'Echinacea purpurea' witches'-broom phytoplasma	1.00	35.4	0.601	
+1171
+AF-A0A192ZIG4-F1-model_v4	Chaperonin CPN60-like 2	Stygiella incarcerata	1.00	41.5	0.601	
+1171
+AF-A0A067DK19-F1-model_v4	Uncharacterized protein	Citrus sinensis	0.35	18.2	0.601	
+294
+AF-A0A3A9JQT6-F1-model_v4	Uncharacterized protein	Roseomonas wenyumeiae	0.35	27.1	0.601	
+1102
+AF-A0A0J7YMK1-F1-model_v4	Uncharacterized protein	Beta vulgaris subsp. vulgaris	0.63	41.3	0.600	
+68171
+AF-A0A7J9Q605-F1-model_v4	Thermosome subunit	Candidatus Woesearchaeota archaeon	0.38	26	0.600	
+196
+AF-A0A7X7KEU6-F1-model_v4	Molecular chaperone GroEL	Pirellulaceae bacterium	0.15	33.3	0.600	
+169
+AF-A0A7J4RLG7-F1-model_v4	Uncharacterized protein	Candidatus Thalassarchaeaceae archaeon	0.99	10.2	0.600	
+1171
+AF-A0A369KCV4-F1-model_v4	60 kDa chaperonin	Candidatus Similichlamydia laticola	1.00	27.1	0.600	
+1171
+AF-A0A7S3C0N7-F1-model_v4	Hypothetical protein	Haptolina ericina	1.00	25.7	0.600	
+1171
+AF-A0A1A8P7N7-F1-model_v4	Bardet-Biedl syndrome 10	Nothobranchius pienaari	0.97	10.1	0.599	
+11171
+AF-A0A537ES84-F1-model_v4	Thermosome subunit	Candidatus Bathyarchaeota archaeon	0.99	19.8	0.599	
+1171
+AF-A0A7S2XF15-F1-model_v4	Hypothetical protein	Lotharella oceanica	1.00	31.6	0.599	
+1171
+AF-A0A3S1P1U3-F1-model_v4	60 kDa chaperonin	Mesorhizobium sp. M7A.F.Ca.US.005.03.1.1	0.99	42	0.599	
+15171
+AF-A0A7J8FEU2-F1-model_v4	T-complex protein 1 subunit eta	Rousettus aegyptiacus	0.99	16.4	0.599	
+2171
+AF-A0A6A5N155-F1-model_v4	Uncharacterized protein	Lupinus albus	1.00	32.7	0.599	
+1171
+AF-M2XN45-F1-model_v4	Chaperonin GroEL	Galdieria sulphuraria	1.00	39.1	0.599	
+1171
+AF-A0A0E0L702-F1-model_v4	Uncharacterized protein	Oryza punctata	1.00	35.6	0.598	
+1171
+AF-A0A4D6KTD6-F1-model_v4	Chaperonin GroEL	Vigna unguiculata	1.00	35.2	0.598	
+1171
+AF-A0A6G8QTN8-F1-model_v4	Chaperonin-like superfamily protein	uncultured Ehrlichia sp.	0.47	83	0.598	
+73171
+AF-A0A183V295-F1-model_v4	T-complex protein 1 subunit eta	Toxocara canis	0.99	13.6	0.598	
+1171
+AF-A0A287V6V0-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.99	18.9	0.598	
+2171
+AF-A0A813AFE9-F1-model_v4	GroL protein	Symbiodinium microadriaticum	1.00	40.3	0.598	
+1171
+AF-A0A812JLR0-F1-model_v4	GroL2 protein	Symbiodinium sp. CCMP2456	1.00	39.7	0.597	
+1171
+AF-A0A1W5CS72-F1-model_v4	T-complex protein 1 subunit gamma	Lasallia pustulata	0.99	15.5	0.597	
+1171
+AF-A0A446RKF0-F1-model_v4	Uncharacterized protein	Triticum turgidum subsp. durum	0.69	35.1	0.597	
+1106
+AF-A0A6A4S5Y4-F1-model_v4	60 kDa chaperonin	Scophthalmus maximus	1.00	36.8	0.597	
+1171
+AF-A0A7C7KJG3-F1-model_v4	Chaperonin GroEL	Kiloniellaceae bacterium	0.16	36.2	0.596	
+169
+AF-M7ZLN1-F1-model_v4	Chaperonin CPN60-2, mitochondrial	Triticum urartu	1.00	40.3	0.596	
+1171
+AF-A0A7C7Q141-F1-model_v4	Thermosome subunit	Armatimonadetes bacterium	0.99	20	0.596	
+1171
+AF-A0A4V5NHG1-F1-model_v4	Heat shock protein 60	Friedmanniomyces simplex	1.00	38.5	0.596	
+1171
+AF-A0A366G1Q4-F1-model_v4	60 kDa chaperonin	Achromobacter marplatensis	0.99	24.5	0.596	
+1171
+AF-A0A1S3I2M7-F1-model_v4	Bardet-Biedl syndrome 10 protein homolog	Lingula anatina	0.98	12.1	0.596	
+2171
+AF-X8DMX1-F1-model_v4	TCP-1/cpn60 chaperonin family protein	Mycobacterium xenopi 4042	0.93	37.9	0.595	
+43171
+AF-A0A4D8Z540-F1-model_v4	Chaperonin GroEL	Salvia splendens	1.00	39.7	0.595	
+1171
+AF-A0A1M7IGS5-F1-model_v4	60 kDa chaperonin	Anaerosporobacter mobilis DSM 15930	0.99	20.4	0.594	
+1171
+AF-A0A3Q2ZNB0-F1-model_v4	60 kDa chaperonin	Kryptolebias marmoratus	1.00	38	0.594	
+1171
+AF-A0A388PA94-F1-model_v4	60 kDa chaperonin 1	Candidatus Planktophila sp.	0.54	17.2	0.594	
+1113
+AF-A0A2R4K2K4-F1-model_v4	60 kDa chaperonin	Burkholderia sp. MAK1	0.99	19.7	0.594	
+1171
+AF-A0A024VM92-F1-model_v4	Chaperonin CPN60, mitochondrial	Plasmodium falciparum FCH/4	1.00	26.3	0.594	
+1171
+AF-A0A397HHS8-F1-model_v4	Uncharacterized protein	Diversispora epigaea	1.00	39.1	0.593	
+1171
+AF-A0A498IZB5-F1-model_v4	Uncharacterized protein	Malus domestica	1.00	38	0.593	
+1171
+AF-A0A3D0G5R5-F1-model_v4	Molecular chaperone GroEL	Maritimibacter sp.	0.16	38.5	0.593	
+170
+AF-A0A2K5P8M6-F1-model_v4	60 kDa chaperonin	Cercocebus atys	0.99	15.8	0.592	
+1171
+AF-A0A251TGF0-F1-model_v4	Putative chaperonin Cpn60/TCP-1 family	Helianthus annuus	1.00	39.7	0.592	
+1171
+AF-A0A059LIZ0-F1-model_v4	TCP-1/cpn60 chaperonin	Helicosporidium sp. ATCC 50920	1.00	32.9	0.592	
+1171
+AF-A0A7W1Z6G5-F1-model_v4	Chaperonin GroEL	Gemmatimonadetes bacterium	0.16	35.2	0.592	
+170
+AF-V8TRE2-F1-model_v4	60 kDa chaperonin	Chlamydia pecorum DBDeUG	0.99	26.4	0.592	
+2171
+AF-A0A6H5LAC9-F1-model_v4	HSP60 protein	Ectocarpus sp. CCAP 1310/34	1.00	29.2	0.591	
+1171
+AF-A0A0E0FB89-F1-model_v4	Uncharacterized protein	Oryza meridionalis	1.00	34.5	0.591	
+1171
+AF-A0A1W6IZU7-F1-model_v4	60 kDa chaperonin	Candidatus Anaplasma boleense	0.98	86.9	0.591	
+34171
+AF-A0A4D8Y6B3-F1-model_v4	Chaperonin GroEL	Salvia splendens	1.00	37.4	0.591	
+1171
+AF-K5DNN1-F1-model_v4	60 kDa chaperonin	Rhodopirellula baltica SH28	1.00	34.1	0.591	
+1171
+AF-A0A2D6MBA7-F1-model_v4	Molecular chaperone GroEL	Candidatus Pacearchaeota archaeon	0.99	27.9	0.590	
+1171
+AF-A0A1E5A7S0-F1-model_v4	60 kDa chaperonin	Rickettsiales bacterium (ex Bugula neritina AB1)	1.00	20.5	0.590	
+1171
+AF-A0A5M9JTK4-F1-model_v4	Uncharacterized protein	Monilinia fructicola	1.00	39.7	0.590	
+1171
+AF-A0A2G2VKI9-F1-model_v4	Chaperonin 60 subunit beta 2, chloroplastic	Capsicum baccatum	1.00	31.5	0.590	
+1171
+AF-A0A0S4ITK5-F1-model_v4	Heat shock protein 60, mitochondrial chaperonin, putative	Bodo saltans	1.00	38.5	0.590	
+1171
+AF-A0A7S4CXB6-F1-model_v4	Hypothetical protein	Eutreptiella gymnastica	1.00	35.2	0.590	
+1171
+AF-A0A5N6LNJ5-F1-model_v4	Uncharacterized protein	Mikania micrantha	1.00	32.1	0.589	
+1171
+AF-W9QP51-F1-model_v4	Chaperonin 60 subunit beta 4	Morus notabilis	1.00	33.5	0.589	
+1171
+AF-A0A7L1GFR7-F1-model_v4	T-complex protein 1 subunit gamma	Indicator maculatus	0.99	15	0.588	
+1171
+AF-A0A0E0N8I4-F1-model_v4	Uncharacterized protein	Oryza rufipogon	1.00	36.9	0.588	
+1171
+AF-A0A4R4D0X7-F1-model_v4	60 kDa chaperonin	Dehalobacter sp. 12DCB1	0.99	30.6	0.588	
+1171
+AF-A0A5F8G5X0-F1-model_v4	60 kDa chaperonin	Monodelphis domestica	0.99	16.2	0.588	
+1171
+AF-A0A835TAS9-F1-model_v4	Uncharacterized protein	Chlamydomonas incerta	0.99	34.1	0.588	
+8171
+AF-A0A446VXC1-F1-model_v4	Uncharacterized protein	Triticum turgidum subsp. durum	0.99	38.7	0.588	
+12171
+AF-A0A7N8WJ53-F1-model_v4	Heat shock 60 protein 1	Mastacembelus armatus	0.77	27.9	0.588	
+1131
+AF-A0A453QEK5-F1-model_v4	Uncharacterized protein	Aegilops tauschii subsp. strangulata	0.99	39.3	0.587	
+17171
+AF-A0A0J8BBC1-F1-model_v4	Uncharacterized protein	Beta vulgaris subsp. vulgaris	1.00	29.2	0.587	
+1171
+AF-A0A2G9GT77-F1-model_v4	CCT-alpha	Handroanthus impetiginosus	0.99	17.7	0.587	
+2171
+AF-A0A1Z8M141-F1-model_v4	60 kDa chaperonin	Rhodopirellula sp. TMED11	1.00	35.8	0.587	
+1171
+AF-A0A7J7AR11-F1-model_v4	Uncharacterized protein	Abscondita terminalis	1.00	35.6	0.587	
+1171
+AF-A0A480Q1Y4-F1-model_v4	CCT-alpha	Sus scrofa	0.99	17.6	0.586	
+1171
+AF-A0A1U8LBF9-F1-model_v4	chaperonin 60 subunit beta 2, chloroplastic-like	Gossypium hirsutum	0.77	32.1	0.585	
+1110
+AF-A0A060D7T0-F1-model_v4	60 kDa heat shock protein, CPN60 protein	Lotharella oceanica	0.99	19.2	0.585	
+1171
+AF-A0A4D8ZIX8-F1-model_v4	Chaperonin GroEL	Salvia splendens	1.00	30.6	0.585	
+1171
+AF-A0A6P5WC48-F1-model_v4	chaperonin CPN60, mitochondrial	Cyclospora cayetanensis	1.00	24.5	0.584	
+1171
+AF-A0A7J6VH73-F1-model_v4	60 kDa chaperonin	Thalictrum thalictroides	1.00	36.4	0.584	
+1171
+AF-A0A7Y2K5P6-F1-model_v4	Chaperonin GroEL	Ignavibacteriaceae bacterium	0.14	35.8	0.584	
+166
+AF-A0A0N4YUX7-F1-model_v4	Uncharacterized protein	Nippostrongylus brasiliensis	0.33	17.4	0.583	
+1171
+AF-A0A2K5ZYL6-F1-model_v4	60 kDa chaperonin	Mandrillus leucophaeus	0.99	15.2	0.583	
+5171
+AF-A0A124SDT3-F1-model_v4	Chaperonin Cpn60	Cynara cardunculus var. scolymus	1.00	39.1	0.582	
+1171
+AF-A0A673M8P3-F1-model_v4	T-complex 1	Sinocyclocheilus rhinocerous	0.33	11.3	0.582	
+1168
+AF-A0A440C0N0-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp.	0.69	32.4	0.582	
+59171
+AF-A0A6A3A197-F1-model_v4	Heme O synthase	Hibiscus syriacus	1.00	38.5	0.582	
+1171
+AF-A0A5C5Y2J8-F1-model_v4	60 kDa chaperonin	Crateriforma conspicua	1.00	34.1	0.582	
+1171
+AF-A0A287GF23-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.98	38.9	0.581	
+20171
+AF-M4EPY7-F1-model_v4	Uncharacterized protein	Brassica rapa subsp. pekinensis	1.00	35.8	0.581	
+1171
+AF-A0A0E0N8I1-F1-model_v4	Uncharacterized protein	Oryza rufipogon	1.00	36.9	0.581	
+1171
+AF-A0A843VGA3-F1-model_v4	Uncharacterized protein	Colocasia esculenta	1.00	37.5	0.581	
+1171
+AF-A0A5N6LMN2-F1-model_v4	Uncharacterized protein	Mikania micrantha	1.00	33.5	0.581	
+1171
+AF-A0A7S0SIG0-F1-model_v4	Hypothetical protein	Mantoniella antarctica	0.51	14.8	0.580	
+2109
+AF-A0A0D2ULT0-F1-model_v4	Uncharacterized protein	Gossypium raimondii	0.99	39.2	0.580	
+14171
+AF-A0A1P8YY13-F1-model_v4	60 kDa chaperonin	Anaplasma marginale	0.99	98.6	0.579	
+20171
+AF-A0A836TP34-F1-model_v4	Chaperonin GroEL	Sneathiellales bacterium	0.16	34.2	0.579	
+170
+AF-A0A195E325-F1-model_v4	60 kDa heat shock protein, mitochondrial	Trachymyrmex cornetzi	0.98	25.8	0.579	
+1169
+AF-A0A433CYG8-F1-model_v4	Uncharacterized protein	Jimgerdemannia flammicorona	0.99	18.6	0.578	
+2171
+AF-T1CX55-F1-model_v4	Chaperonin Cpn60/TCP-1	mine drainage metagenome	0.47	21.2	0.578	
+1113
+AF-D6PBM3-F1-model_v4	Uncharacterized protein	uncultured archaeon MedDCM-OCT-S05-C57	0.75	37.5	0.578	
+68171
+AF-A0A1D7W9N4-F1-model_v4	60 kDa chaperonin 1	bacterium AB1	0.99	21.9	0.578	
+2171
+AF-A0A2G9GHM3-F1-model_v4	Uncharacterized protein	Handroanthus impetiginosus	0.97	17.9	0.578	
+1165
+AF-A0A0A9J9A3-F1-model_v4	Uncharacterized protein	Arundo donax	0.25	9.8	0.577	
+1138
+AF-W9QWD3-F1-model_v4	RuBisCO large subunit-binding protein subunit beta	Morus notabilis	1.00	36.4	0.577	
+1171
+AF-M7ZYP1-F1-model_v4	RuBisCO large subunit-binding protein subunit beta, chloroplastic	Triticum urartu	1.00	36.4	0.576	
+1171
+AF-A0A4D9DXJ7-F1-model_v4	Olfactory receptor 9G4-like	Platysternon megacephalum	0.99	17	0.576	
+6171
+AF-C9JL25-F1-model_v4	60 kDa heat shock protein, mitochondrial	Homo sapiens	0.72	35.1	0.576	
+1108
+AF-A0A3P4LX18-F1-model_v4	Uncharacterized protein	Gulo gulo	0.98	13.8	0.575	
+6171
+AF-A0A314UE49-F1-model_v4	Heat Shock Protein	Prunus yedoensis var. nudiflora	0.97	23.4	0.574	
+1171
+AF-A0A0D2J1V8-F1-model_v4	Chaperonin CPN60-2	Monoraphidium neglectum	0.35	20.3	0.573	
+1171
+AF-A0A257NRW9-F1-model_v4	60 kDa chaperonin	Parcubacteria group bacterium 20-58-5	0.91	32.5	0.572	
+46171
+AF-A0A667YED9-F1-model_v4	Heat shock protein family D (Hsp60) member 1	Myripristis murdjan	0.85	34.4	0.572	
+1122
+AF-D6PBM4-F1-model_v4	Uncharacterized protein	uncultured archaeon MedDCM-OCT-S05-C57	0.25	28.9	0.572	
+183
+AF-A0A350CGX5-F1-model_v4	60 kDa chaperonin	Planctomycetaceae bacterium	0.87	35.3	0.572	
+56171
+AF-A0A848W474-F1-model_v4	Chaperonin GroEL	Alphaproteobacteria bacterium	0.99	29.9	0.572	
+15171
+AF-A0A287ECN8-F1-model_v4	Uncharacterized protein	Hordeum vulgare subsp. vulgare	0.97	33.3	0.571	
+34171
+AF-A0A835I4L3-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.92	34.1	0.571	
+1129
+AF-W1I8E5-F1-model_v4	60 kDa chaperonin	uncultured Epsilonproteobacteria bacterium	0.97	42.8	0.571	
+32171
+AF-A0A7R8VXF3-F1-model_v4	Hypothetical protein	Timema douglasi	0.30	15	0.570	
+294
+AF-W9QVV5-F1-model_v4	RuBisCO large subunit-binding protein subunit beta	Morus notabilis	0.99	16.3	0.570	
+1171
+AF-A0A480VLG1-F1-model_v4	T-complex protein 1 subunit gamma	Sus scrofa	0.99	15.1	0.570	
+1171
+AF-A0A812PLF1-F1-model_v4	Hypothetical protein	Symbiodinium necroappetens	1.00	39.1	0.569	
+1171
+AF-A0A813JI44-F1-model_v4	Hypothetical protein	Polarella glacialis	1.00	27	0.569	
+1171
+AF-A0A0S8KIY2-F1-model_v4	60 kDa chaperonin	Phycisphaerae bacterium SM1_79	0.99	38.9	0.568	
+18171
+AF-A0A1X0QL91-F1-model_v4	TCPE	Hepatospora eriocheir	0.99	12.3	0.566	
+2171
+AF-A0A0E0KLU8-F1-model_v4	Uncharacterized protein	Oryza punctata	1.00	34.5	0.565	
+1171
+AF-A0A7J7NUV4-F1-model_v4	Uncharacterized protein	Kingdonia uniflora	0.87	32.2	0.564	
+55171
+AF-A0A6N2KPJ9-F1-model_v4	Uncharacterized protein	Salix viminalis	1.00	35.6	0.562	
+1171
+AF-A0A078FC51-F1-model_v4	BnaC03g70570D protein	Brassica napus	1.00	35.8	0.562	
+1171
+AF-A0A7J7NLG4-F1-model_v4	Uncharacterized protein	Kingdonia uniflora	1.00	35	0.562	
+1171
+AF-A0A813B7Y5-F1-model_v4	CCT1 protein	Symbiodinium sp. KB8	0.96	15.1	0.561	
+2171
+AF-A0A812HX34-F1-model_v4	GroL2 protein	Symbiodinium sp. KB8	1.00	39.7	0.561	
+1171
+AF-A0A6V7QTS0-F1-model_v4	LRRNT_2 domain-containing protein	Ananas comosus var. bracteatus	1.00	40.3	0.561	
+1171
+AF-A0A175YQH6-F1-model_v4	BZIP domain-containing protein	Daucus carota subsp. sativus	1.00	35.8	0.559	
+1171
+AF-A0A528BD84-F1-model_v4	Chaperonin GroEL	Mesorhizobium sp.	0.69	41.5	0.558	
+71171
+AF-A0A7S2T6Z2-F1-model_v4	Hypothetical protein	Chloropicon primus	1.00	43.8	0.557	
+1171
+AF-M8ALL6-F1-model_v4	RuBisCO large subunit-binding protein subunit beta, chloroplastic	Aegilops tauschii	1.00	36.4	0.556	
+1171
+AF-A0A2K3DUX4-F1-model_v4	SRCR domain-containing protein	Chlamydomonas reinhardtii	1.00	10.6	0.556	
+1171
+AF-A0A437ASJ5-F1-model_v4	Uncharacterized protein	Chilo suppressalis	0.47	16.2	0.556	
+1123
+AF-A0A7S3X3H2-F1-model_v4	Hypothetical protein	Strombidinopsis acuminata	0.33	36.4	0.555	
+185
+AF-A0A813CCS7-F1-model_v4	CPN60II protein	Symbiodinium sp. KB8	1.00	12	0.554	
+1171
+AF-A7X908-F1-model_v4	60 kDa chaperonin	Francisella philomiragia	0.99	40.2	0.552	
+28171
+AF-A0A183C236-F1-model_v4	Uncharacterized protein	Globodera pallida	0.94	13.3	0.552	
+1171
+AF-E5GCB2-F1-model_v4	Chaperonin-60 kDa protein	Cucumis melo subsp. melo	1.00	37.4	0.552	
+1171
+AF-F6HY21-F1-model_v4	Uncharacterized protein	Vitis vinifera	0.99	32.1	0.552	
+1171
+AF-A0A0E2NZ49-F1-model_v4	Molecular chaperone GroEL	Mesorhizobium sp. LNJC391B00	0.75	37.5	0.550	
+68171
+AF-A0A109WKP9-F1-model_v4	60 kDa chaperonin	Helicobacter anseris	0.80	40.7	0.549	
+64171
+AF-B8QA61-F1-model_v4	GroEL	Bacteriovorax sp. GSL4E	0.66	41.8	0.549	
+74171
+AF-M9UYM8-F1-model_v4	60 kDa chaperonin	bacterium endosymbiont of Leptocyclopodia n. sp. 1	0.93	40.8	0.548	
+47171
+AF-A0A2K3P993-F1-model_v4	T-complex protein 1 subunit eta-like protein	Trifolium pratense	0.25	10.7	0.547	
+1171
+AF-A0A0V1J063-F1-model_v4	60 kDa heat shock protein, mitochondrial	Trichinella pseudospiralis	1.00	36.8	0.547	
+1171
+AF-A0A4T0WXX2-F1-model_v4	Uncharacterized protein	[Candida] inconspicua	1.00	41.5	0.546	
+1171
+AF-A0A3D4XBA0-F1-model_v4	60 kDa chaperonin	Lachnospiraceae bacterium	0.99	20	0.546	
+2171
+AF-A0A5B6ULZ6-F1-model_v4	Chaperonin CPN60-2, mitochondrial	Gossypium australe	1.00	12.3	0.546	
+1171
+AF-A0A2T7I2H3-F1-model_v4	Chaperonin HSP60	Theileria orientalis	1.00	39.1	0.545	
+1171
+AF-A0A0N7AIH9-F1-model_v4	60 kDa chaperonin	Helicobacter pullorum	0.92	43	0.544	
+49171
+AF-A0A2Z7A3G6-F1-model_v4	Chaperonin 60 subunit alpha 2, chloroplastic-like	Dorcoceras hygrometricum	1.00	28.6	0.543	
+1171
+AF-G7YUU9-F1-model_v4	Chaperonin GroEL	Clonorchis sinensis	1.00	35	0.542	
+1171
+AF-A0A0E0CV41-F1-model_v4	Uncharacterized protein	Oryza meridionalis	1.00	39.7	0.542	
+1171
+AF-F9FA77-F1-model_v4	Uncharacterized protein	Fusarium oxysporum f. sp. conglutinans Fo5176	1.00	38.5	0.542	
+1171
+AF-A0A3L6EXQ7-F1-model_v4	RuBisCO large subunit-binding protein subunit beta, chloroplastic	Zea mays	1.00	36.4	0.542	
+1171
+AF-A0A835I255-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.94	22.9	0.541	
+1136
+AF-A0A3L6ECR5-F1-model_v4	Flap endonuclease 1	Zea mays	1.00	41.5	0.540	
+1171
+AF-T0ZRP3-F1-model_v4	Chaperonin Cpn60/TCP-1	mine drainage metagenome	0.21	20.4	0.540	
+183
+AF-A0A811S688-F1-model_v4	Hypothetical protein	Miscanthus lutarioriparius	1.00	35.2	0.540	
+1171
+AF-A0A383D9K5-F1-model_v4	Uncharacterized protein	marine metagenome	0.82	37.2	0.538	
+62171
+AF-A0A6N2KV84-F1-model_v4	BHLH domain-containing protein	Salix viminalis	1.00	39.7	0.538	
+1171
+AF-Q9K504-F1-model_v4	60 kDa chaperonin	Mycoplasmopsis agalactiae	0.98	36.5	0.537	
+27171
+AF-A0A388JXL9-F1-model_v4	Reverse transcriptase domain-containing protein	Chara braunii	1.00	36.2	0.536	
+1171
+AF-A0A2U1P1P5-F1-model_v4	CCT-beta	Artemisia annua	0.99	17.6	0.536	
+1171
+AF-A0A7J4GKE0-F1-model_v4	Uncharacterized protein	Candidatus Poseidoniales archaeon	0.89	24.2	0.536	
+1134
+AF-A0A818JQW4-F1-model_v4	Hypothetical protein	Rotaria sp. Silwood1	1.00	38	0.535	
+1171
+AF-A0A0D3EF56-F1-model_v4	Uncharacterized protein	Brassica oleracea var. oleracea	0.99	20.3	0.535	
+1171
+AF-A0A5P9PWF9-F1-model_v4	60 kDa chaperonin	Amycolatopsis sp. YIM 10	0.99	14.4	0.532	
+4171
+AF-A0A3P6SI89-F1-model_v4	Uncharacterized protein	Litomosoides sigmodontis	1.00	35.2	0.531	
+1171
+AF-A0A4Q0AKB5-F1-model_v4	Molecular chaperone GroEL	Candidatus Chaera renei	0.15	32.9	0.530	
+174
+AF-A0A1J1I314-F1-model_v4	T-complex protein 1 subunit gamma	Clunio marinus	0.96	12.3	0.530	
+2163
+AF-A0A813KUB9-F1-model_v4	Hypothetical protein	Polarella glacialis	0.99	20.6	0.529	
+7171
+AF-A0A7S0D4Y6-F1-model_v4	Hypothetical protein	Micromonas pusilla	0.66	15	0.528	
+6135
+AF-J9I7P4-F1-model_v4	60 kDa chaperonin	Oxytricha trifallax	0.98	29.3	0.527	
+5171
+AF-A0A7W8W703-F1-model_v4	Chaperonin GroEL	Paraburkholderia sp. CI2	0.23	18.2	0.527	
+182
+AF-A0A7K1H4N5-F1-model_v4	60 kDa chaperonin	Micromonospora sp. CP22	0.99	21.2	0.526	
+8171
+AF-A0FDN8-F1-model_v4	Mitochondrial 60 kDa heat shock protein	Microsporum canis	0.97	42.4	0.526	
+33171
+AF-A0A0V1MW33-F1-model_v4	60 kDa heat shock protein, mitochondrial	Trichinella papuae	1.00	36.8	0.525	
+1171
+AF-A0A2L0ARR9-F1-model_v4	60 kDa chaperonin	Candidatus Neoehrlichia chilensis	0.75	89.6	0.525	
+66171
+AF-A0A0X3BH25-F1-model_v4	Uncharacterized protein	Methanoculleus bourgensis	0.23	9	0.525	
+1171
+AF-K1R0S3-F1-model_v4	CCT-theta	Crassostrea gigas	0.99	14.1	0.524	
+1171
+AF-A0A4R4PAT7-F1-model_v4	60 kDa chaperonin	Actinomadura bangladeshensis	0.99	18.6	0.524	
+8171
+AF-A0A163K879-F1-model_v4	Uncharacterized protein	Absidia glauca	1.00	39.7	0.523	
+1171
+AF-A0A7J8CWI5-F1-model_v4	Chaperonin containing TCP1 subunit 6B	Molossus molossus	0.94	12.5	0.523	
+1169
+AF-X5Z0M0-F1-model_v4	Uncharacterized protein	Mesorhizobium sp. LNJC395A00	0.41	19.7	0.520	
+1171
+AF-A0A6G0KMI5-F1-model_v4	Uncharacterized protein	Phytophthora fragariae	0.66	10.9	0.520	
+6131
+AF-K1QV27-F1-model_v4	T-complex protein 1 subunit delta	Crassostrea gigas	0.99	18.1	0.520	
+5171
+AF-A0A1S3K5I0-F1-model_v4	T-complex protein 1 subunit gamma	Lingula anatina	0.96	8.9	0.519	
+2171
+AF-A0A822GSK7-F1-model_v4	(mimic poison frog) hypothetical protein	Ranitomeya imitator	0.96	37.6	0.517	
+34171
+AF-F7FJJ6-F1-model_v4	Uncharacterized protein	Monodelphis domestica	0.98	13.2	0.515	
+4171
+AF-A0A1Y1WRH0-F1-model_v4	Chaperonin Cpn60/TCP-1	Anaeromyces robustus	0.97	12.8	0.514	
+1149
+AF-A0A813E2J7-F1-model_v4	Hypothetical protein	Polarella glacialis	0.21	32.8	0.511	
+175
+AF-A0A398C4B2-F1-model_v4	Uncharacterized protein	Simplicispira hankyongi	0.20	25	0.511	
+179
+AF-A0A553HXV9-F1-model_v4	T-complex protein 1 subunit gamma	Xylaria flabelliformis	0.99	16	0.503	
+1171
+AF-A0A1W6IZS1-F1-model_v4	60 kDa chaperonin	Rickettsia japonica	0.89	39.3	0.503	
+55171
+AF-A0A427AXH0-F1-model_v4	Uncharacterized protein	Ensete ventricosum	0.72	15.2	0.501	
+6129
+AF-A0A150FZ54-F1-model_v4	Uncharacterized protein	Gonium pectorale	0.28	11.4	0.500	
+1171
+AF-A0A2Z7BZG3-F1-model_v4	Chaperonin-60kD, ch60	Dorcoceras hygrometricum	0.99	15.4	0.499	
+5171
+AF-A0A0C3D6V6-F1-model_v4	Uncharacterized protein	Scleroderma citrinum Foug A	0.96	15.4	0.495	
+6168
+AF-A0A812JR89-F1-model_v4	GroL1 protein	Symbiodinium necroappetens	0.96	27.5	0.492	
+1137
+AF-A0A161ZKJ3-F1-model_v4	DAGKc domain-containing protein	Daucus carota subsp. sativus	0.98	12	0.491	
+1169
+AF-A0A4U9DBN3-F1-model_v4	60 kDa chaperonin	Raoultella terrigena	0.75	41.3	0.489	
+68171
+AF-A0A0D2JE80-F1-model_v4	RuBisCO large subunit-binding protein subunit alpha	Monoraphidium neglectum	0.23	22.5	0.488	
+180
+AF-G7Y4F6-F1-model_v4	Ubiquitin-conjugating enzyme E2 J2	Clonorchis sinensis	0.99	15.3	0.480	
+4171
+AF-A0A2N9FYY8-F1-model_v4	Helicase C-terminal domain-containing protein	Fagus sylvatica	0.98	12.9	0.478	
+1171
+AF-A0A2U1LGY4-F1-model_v4	Chaperonin CPN60-2	Artemisia annua	0.98	39.2	0.478	
+32171
+AF-A0A6S7L9E6-F1-model_v4	Uncharacterized protein	Lactuca saligna	0.75	37.7	0.477	
+66171
+AF-A0A258CKN1-F1-model_v4	60 kDa chaperonin	Caulobacterales bacterium 32-67-6	0.91	12.7	0.475	
+1171
+AF-Q66N66-F1-model_v4	Heat shock protein 60	Paramecium tetraurelia	0.66	43.8	0.474	
+74171
+AF-A0A813JNZ6-F1-model_v4	Hypothetical protein	Polarella glacialis	0.97	29.5	0.472	
+1164
+AF-A0A3R7CE70-F1-model_v4	60 kDa heat shock protein	Clonorchis sinensis	0.97	10.6	0.472	
+1171
+AF-A0A2K6ALD4-F1-model_v4	60 kDa chaperonin	Mandrillus leucophaeus	0.90	11.9	0.471	
+15165
+AF-A0A5A7U5U8-F1-model_v4	Chaperonin Cpn60	Cucumis melo var. makuwa	0.89	12.3	0.471	
+1146
+AF-A0A6N2KXA1-F1-model_v4	Uncharacterized protein	Salix viminalis	0.63	34	0.469	
+75171
+AF-A0A7S4W6X9-F1-model_v4	Hypothetical protein	Alexandrium monilatum	0.75	43.8	0.469	
+67171
+AF-A0A0E0BBD6-F1-model_v4	tRNA-synt_1e domain-containing protein	Oryza glumipatula	0.98	30.9	0.463	
+1171
+AF-A0A811Q1G5-F1-model_v4	Hypothetical protein	Miscanthus lutarioriparius	0.35	20.2	0.459	
+1121
+AF-A0A7J0DUV1-F1-model_v4	TCP-1/cpn60 chaperonin family protein	Actinidia rufa	0.97	26.4	0.457	
+20171
+AF-A0A3D1GCM1-F1-model_v4	60 kDa chaperonin	Balneolaceae bacterium	0.75	40.3	0.456	
+68171
+AF-A0A485PU03-F1-model_v4	60 kDa chaperonin	Lynx pardinus	0.77	9.6	0.453	
+1149
+AF-A0A3L7GZN2-F1-model_v4	HSPD1	Cricetulus griseus	0.54	24.7	0.445	
+12113
+AF-A0A2G2VCX4-F1-model_v4	Chaperonin CPN60-1, mitochondrial	Capsicum baccatum	0.82	21.2	0.442	
+13171
+AF-A0A2Z7AUP6-F1-model_v4	Uncharacterized protein	Dorcoceras hygrometricum	0.85	9.5	0.419	
+6171
+AF-A0A2N9FJW4-F1-model_v4	Uncharacterized protein	Fagus sylvatica	0.51	14.4	0.417	
+1122
+AF-A0A7J6HVC0-F1-model_v4	Uncharacterized protein	Cannabis sativa	0.90	21.4	0.415	
+1171
+AF-A0A2K6N4J3-F1-model_v4	60 kDa chaperonin	Rhinopithecus bieti	0.69	9.7	0.415	
+6123
+AF-A0A835QU85-F1-model_v4	Uncharacterized protein	Vanilla planifolia	0.80	10.5	0.414	
+1150
+AF-A0A384CFH5-F1-model_v4	T-complex protein 1 subunit zeta-2 isoform X1	Ursus maritimus	0.60	22.5	0.414	
+1111
+AF-A0A835I5R0-F1-model_v4	Uncharacterized protein	Coptis chinensis	0.87	17.4	0.412	
+1171
+AF-A0A7R9FMT7-F1-model_v4	Hypothetical protein	Timema tahoe	0.63	8.3	0.393	
+15150
+AF-A0A549T764-F1-model_v4	Uncharacterized protein	Rhizobium straminoryzae	0.44	11	0.393	
+1150
+AF-A0A6P6EUE8-F1-model_v4	T-complex protein 1 subunit zeta-2 isoform X3	Octodon degus	0.63	16.3	0.387	
+1119
+AF-A0A2Z7C663-F1-model_v4	Heat shock protein 60	Dorcoceras hygrometricum	0.82	15	0.374	
+17171
+AF-A0A7V4IYA3-F1-model_v4	Uncharacterized protein	Armatimonadetes bacterium	0.35	7.8	0.361	
+1135
+AF-A0A1C6QR79-F1-model_v4	Chaperonin GroL	Variovorax sp. HW608	0.44	7	0.360	
+1150
+AF-A0A830GAR7-F1-model_v4	Uncharacterized protein	Halarchaeum nitratireducens	0.21	6.7	0.337	
+1168

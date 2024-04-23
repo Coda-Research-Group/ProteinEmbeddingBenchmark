@@ -1,0 +1,66 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: cif23dzd-{{ job_iterator }}
+spec:
+  template:
+    spec:
+      ttlSecondsAfterFinished: 120
+      containers:
+      - name: cif23dzd-{{ job_iterator }}
+        image: registry.gitlab.ics.muni.cz:443/fi-lmi/protein-db/grasr
+        imagePullPolicy: Always
+        securityContext:
+          allowPrivilegeEscalation: false
+          capabilities:
+            drop:
+              - ALL
+          runAsUser: 1000
+        command:
+          - python3
+        args:
+          - /scripts/3d-af-surfer/cif23dzd.py
+          - --input
+          - /proteins
+          - --output
+          - /output/3dzd-embedding
+          - --processes
+          - '2'         
+          - --scratch_dir
+          - /tmp
+          - --position
+          - "{{ job_iterator }}"
+          - --index
+          - "/output/configs/job-cif2emb-{{ job_iterator }}"
+        volumeMounts:
+          - name: vol-1
+            mountPath: /proteins
+          - name: embeddings
+            mountPath: /output
+        resources:
+          limits:
+            cpu: '2'
+            ephemeral-storage: 32Gi
+            memory: 8Gi
+          requests:
+            cpu: '2'
+            ephemeral-storage: 32Gi
+            memory: 8Gi
+      imagePullSecrets:
+        - name: gitlab-containerregistry
+      securityContext:
+        fsGroupChangePolicy: OnRootMismatch
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
+      volumes:
+        - name: vol-1
+          persistentVolumeClaim:
+            claimName: pvc-af-proteomes
+        - name: embeddings 
+          persistentVolumeClaim:
+            claimName: pvc-embeddings
+        - name: script-volume
+          configMap:
+            name: cif2embedding-script
+      restartPolicy: Never

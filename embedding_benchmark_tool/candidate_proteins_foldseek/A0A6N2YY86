@@ -1,0 +1,1888 @@
+
+Foldseek Search
+
+Results:  job.pdb ALPHAFOLD MONOMER V2.0 PREDICTION FOR UNCHARACTERIZED PROTEIN (A0A6N2YY86)
+AFDB50 941 hits
+Target	Description	Scientific Name	Prob.	Seq. Id.	TM-score	Position in query	Alignment
+AF-R5EAY2-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:590	1.00	44.1	0.981	
+1281
+AF-A0A1C5QIH8-F1-model_v4	Uncharacterized protein	uncultured Clostridium sp.	1.00	49	0.980	
+1277
+AF-R6DRI3-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:238	1.00	47.8	0.979	
+1280
+AF-A0A844GHG5-F1-model_v4	Uncharacterized protein	Blautia luti DSM 14534	1.00	49.4	0.978	
+1281
+AF-A0A7I8E2X9-F1-model_v4	Uncharacterized protein	Faecalibacillus intestinalis	1.00	46.9	0.977	
+1277
+AF-A0A417S845-F1-model_v4	Uncharacterized protein	Blautia sp. OM05-6	1.00	48.3	0.976	
+1279
+AF-R6KG84-F1-model_v4	Uncharacterized protein	Eubacterium sp. CAG:252	1.00	46.7	0.976	
+1278
+AF-A0A5M9HV13-F1-model_v4	Uncharacterized protein	Mediterraneibacter catenae	1.00	46.4	0.974	
+1278
+AF-A0A413J9E5-F1-model_v4	Uncharacterized protein	Tyzzerella nexilis	1.00	47.4	0.973	
+1278
+AF-A0A3B9IBG2-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	48.5	0.971	
+1280
+AF-A0A352CTA5-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	39.2	0.971	
+1281
+AF-A0A352WGA0-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	40.9	0.965	
+1278
+AF-R6E4C8-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:230	1.00	38.7	0.965	
+1281
+AF-A0A2N2CQF8-F1-model_v4	Uncharacterized protein	Firmicutes bacterium HGW-Firmicutes-16	1.00	42.7	0.964	
+1281
+AF-A0A1I3G6G4-F1-model_v4	Uncharacterized protein	Pseudobutyrivibrio sp. OR37	1.00	39.2	0.964	
+1281
+AF-A0A2V2DUI3-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	42.5	0.963	
+1275
+AF-A0A2V2C795-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	38.7	0.961	
+1281
+AF-A0A373M5M7-F1-model_v4	Uncharacterized protein	Clostridium sp. AF36-4	1.00	46.1	0.961	
+1271
+AF-R7H5W5-F1-model_v4	Uncharacterized protein	Ruminococcus sp. CAG:403	1.00	41.8	0.960	
+1281
+AF-A0A3A8X0P2-F1-model_v4	Uncharacterized protein	bacterium D16-59	1.00	45.9	0.959	
+1281
+AF-A0A3C1WTF1-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	39.3	0.958	
+1277
+AF-A0A3R6VXQ7-F1-model_v4	Uncharacterized protein	Clostridium sp. OM08-29	1.00	44	0.958	
+1278
+AF-A0A1Q9K161-F1-model_v4	Uncharacterized protein	Anaerostipes sp. 992a	1.00	44.8	0.958	
+1281
+AF-R6M340-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:253	1.00	43.6	0.957	
+1281
+AF-A0A354I9K6-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	45.5	0.955	
+1281
+AF-A0A3E2U853-F1-model_v4	Uncharacterized protein	Faecalibacterium prausnitzii	1.00	39.4	0.954	
+1277
+AF-R9JVY9-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium M18-1	1.00	41.7	0.953	
+1280
+AF-A0A1V5U3G1-F1-model_v4	Uncharacterized protein	Firmicutes bacterium ADurb.Bin248	1.00	37.7	0.953	
+1281
+AF-A0A5N7IMB4-F1-model_v4	Uncharacterized protein	Clostridium estertheticum	1.00	37.4	0.953	
+1278
+AF-A0A6L5XXT1-F1-model_v4	Uncharacterized protein	Velocimicrobium porci	1.00	44.9	0.952	
+1275
+AF-A0A7X2PCZ4-F1-model_v4	Uncharacterized protein	Bullifex porci	1.00	39.6	0.951	
+1270
+AF-A0A6N8H612-F1-model_v4	Uncharacterized protein	Subdoligranulum sp.	1.00	36.3	0.950	
+1277
+AF-A0A3D4EHH0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	40.9	0.949	
+1271
+AF-A0A6L5T7E5-F1-model_v4	Uncharacterized protein	[Eubacterium] rectale	1.00	46.1	0.948	
+1278
+AF-A0A645A7W4-F1-model_v4	Uncharacterized protein	bioreactor metagenome	1.00	44.7	0.948	
+1275
+AF-A0A7X8W1Z1-F1-model_v4	Uncharacterized protein	Spirochaetales bacterium	1.00	35	0.947	
+1271
+AF-R5S7B3-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:122	1.00	41.3	0.946	
+1272
+AF-A0A2V2ENT8-F1-model_v4	Uncharacterized protein	Clostridia bacterium	1.00	32.7	0.946	
+1279
+AF-A0A3D3RHV8-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	43.3	0.945	
+1279
+AF-A0A8A5D6A9-F1-model_v4	Uncharacterized protein	Clostridiales bacterium FE2010	1.00	36.8	0.945	
+1281
+AF-A0A7X9Q9I9-F1-model_v4	Uncharacterized protein	Christensenellaceae bacterium	1.00	42.7	0.944	
+1281
+AF-A0A1H6W045-F1-model_v4	Uncharacterized protein	Sharpea azabuensis	1.00	38.2	0.944	
+1280
+AF-R6QJW8-F1-model_v4	Uncharacterized protein	Butyrivibrio sp. CAG:318	1.00	40.9	0.943	
+1276
+AF-A5Z711-F1-model_v4	Uncharacterized protein	Eubacterium ventriosum ATCC 27560	1.00	44.9	0.940	
+1280
+AF-A0A3C1BX15-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	37.2	0.940	
+1278
+AF-A0A7C6BJW1-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	37.2	0.936	
+1281
+AF-A0A847P8G1-F1-model_v4	Uncharacterized protein	Erysipelotrichia bacterium	1.00	34.1	0.936	
+1278
+AF-A6BK02-F1-model_v4	Uncharacterized protein	Dorea longicatena DSM 13814	1.00	48.9	0.935	
+1281
+AF-R5V542-F1-model_v4	Uncharacterized protein	Ruminococcus sp. CAG:254	1.00	38.5	0.935	
+1281
+AF-A0A7V6LB61-F1-model_v4	Uncharacterized protein	Christensenellaceae bacterium	1.00	34.1	0.933	
+1275
+AF-A0A1H8G7L0-F1-model_v4	Uncharacterized protein	Peptostreptococcus russellii	1.00	40.2	0.932	
+1272
+AF-A0A6L5X5D0-F1-model_v4	Uncharacterized protein	Porcincola intestinalis	1.00	39.2	0.929	
+1270
+AF-A0A1Y4V5Y0-F1-model_v4	Uncharacterized protein	Eubacterium sp. An11	1.00	40	0.928	
+1281
+AF-A0A415DYD4-F1-model_v4	Uncharacterized protein	Emergencia timonensis	1.00	31	0.927	
+1280
+AF-A0A1I6XA51-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium XBD2001	1.00	35.4	0.927	
+1269
+AF-A0A369LQE4-F1-model_v4	Uncharacterized protein	Gordonibacter sp. 28C	1.00	32.5	0.923	
+1281
+AF-A0A4R3K461-F1-model_v4	Uncharacterized protein	Muricomes intestini	1.00	33.4	0.921	
+1272
+AF-A0A6N7J1H0-F1-model_v4	Uncharacterized protein	Candidatus Weimeria bifida	1.00	29	0.920	
+1276
+AF-R6D042-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:242	1.00	32.1	0.919	
+1277
+AF-A0A174A3D7-F1-model_v4	Uncharacterized protein	Coprococcus eutactus	1.00	43.3	0.918	
+1278
+AF-A0A1I2SQB5-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium C7	1.00	41.1	0.918	
+1281
+AF-R5IJC8-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:124	1.00	38.6	0.916	
+1277
+AF-A0A1F8UX07-F1-model_v4	Uncharacterized protein	Clostridiales bacterium GWE2_32_10	1.00	32.1	0.915	
+1274
+AF-A0A3C1WSC8-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	32.2	0.914	
+1271
+AF-A0A1H3JPP9-F1-model_v4	Uncharacterized protein	Lachnobacterium bovis DSM 14045	1.00	38.3	0.914	
+1266
+AF-A0A355FRE6-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.99	42.1	0.914	
+17281
+AF-A0A7C7EHT4-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	34.3	0.913	
+1277
+AF-A0A644Y146-F1-model_v4	Uncharacterized protein	bioreactor metagenome	1.00	27.8	0.913	
+1276
+AF-F3ZYV5-F1-model_v4	Uncharacterized protein	Mahella australiensis 50-1 BON	1.00	32	0.912	
+1273
+AF-A0A1H7ZDQ0-F1-model_v4	Uncharacterized protein	Hydrogenoanaerobacterium saccharovorans	1.00	29.4	0.912	
+1280
+AF-A0A0M2NNE7-F1-model_v4	Uncharacterized protein	Christensenella hongkongensis	1.00	28.8	0.912	
+1272
+AF-A0A3C0WD18-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	26.6	0.910	
+1274
+AF-A0A6N7RP19-F1-model_v4	Uncharacterized protein	Eggerthella guodeyinii	1.00	32.2	0.910	
+1277
+AF-R5CDG4-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:791	1.00	46.1	0.909	
+1275
+AF-A0A3B8S8P7-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	26.6	0.909	
+1279
+AF-A0A3D0LZN1-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	28.7	0.908	
+1279
+AF-A0A0P8UYC3-F1-model_v4	Uncharacterized protein	Caloranaerobacter sp. TR13	1.00	34.2	0.908	
+1278
+AF-A0A847C5U7-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	42.2	0.906	
+1271
+AF-A0A1F8UXT6-F1-model_v4	Uncharacterized protein	Clostridiales bacterium GWF2_38_85	1.00	28.9	0.906	
+1276
+AF-A0A7X8L0N9-F1-model_v4	YvcK family protein	Clostridiaceae bacterium	1.00	30.3	0.906	
+1272
+AF-A0A2V2FKD4-F1-model_v4	Uncharacterized protein	Clostridia bacterium	1.00	30	0.906	
+1277
+AF-A0A7C6GRG6-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	24.9	0.906	
+1274
+AF-A0A3B9PWI3-F1-model_v4	Uncharacterized protein	Clostridiales bacterium UBA9856	1.00	33.4	0.906	
+1277
+AF-R6GR58-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:221	1.00	26	0.906	
+1281
+AF-A0A2N2DQR3-F1-model_v4	Uncharacterized protein	Firmicutes bacterium HGW-Firmicutes-11	1.00	30	0.905	
+1277
+AF-A0A645DUA0-F1-model_v4	Uncharacterized protein	bioreactor metagenome	1.00	25.1	0.905	
+1281
+AF-A0A173Y322-F1-model_v4	Uncharacterized protein	Clostridium disporicum	1.00	28.4	0.905	
+1281
+AF-A0A355JEN1-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	32.7	0.904	
+1274
+AF-A0A7X5KR67-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium MD329	1.00	27.9	0.904	
+1275
+AF-A0A6M8J599-F1-model_v4	Uncharacterized protein	Berryella wangjianweii	1.00	27.2	0.904	
+1277
+AF-A0A7X7SVB6-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	1.00	32.4	0.903	
+1274
+AF-R5AHQ9-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:1024	1.00	29.9	0.903	
+1279
+AF-A0A355G256-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	29.1	0.901	
+1280
+AF-E4Q1M3-F1-model_v4	Uncharacterized protein	Caldicellulosiruptor owensensis OL	1.00	28.1	0.901	
+1279
+AF-A0A4S4G5B2-F1-model_v4	Uncharacterized protein	Adlercreutzia caecimuris	1.00	28.9	0.901	
+1277
+AF-A0A7Y8ZX68-F1-model_v4	Uncharacterized protein	Clostridium beijerinckii	1.00	30.6	0.901	
+1272
+AF-A0A1I2MXW1-F1-model_v4	Uncharacterized protein	Clostridium cadaveris	1.00	30.2	0.900	
+1273
+AF-A0A3C1UTP7-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	29.3	0.900	
+1276
+AF-A0A1I0RUH5-F1-model_v4	Uncharacterized protein	[Clostridium] fimetarium	1.00	46.8	0.900	
+1277
+AF-A0A1M2Z7Q0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium 43-6	1.00	29.3	0.900	
+1278
+AF-A0A7I8D3I1-F1-model_v4	Uncharacterized protein	Solibaculum mannosilyticum	1.00	31.2	0.900	
+1275
+AF-A0A1I3N6A0-F1-model_v4	Uncharacterized protein	Ruminococcaceae bacterium D5	1.00	24	0.900	
+1272
+AF-A0A1I0WX14-F1-model_v4	Uncharacterized protein	Clostridium frigidicarnis	1.00	30.1	0.899	
+1272
+AF-A0A356PT55-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	31.7	0.899	
+1279
+AF-A0A1V2MEB7-F1-model_v4	Uncharacterized protein	Epulopiscium sp. SCG-B10WGA-EpuloA2	1.00	29.3	0.899	
+1280
+AF-A0A2V2DJ65-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	29.4	0.898	
+1274
+AF-A0A316QK08-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	26.7	0.898	
+1277
+AF-A0A416SUX9-F1-model_v4	Uncharacterized protein	Eubacterium sp. AF19-12LB	1.00	39.3	0.898	
+1276
+AF-R6I763-F1-model_v4	Uncharacterized protein	Ruminococcus sp. CAG:177	1.00	28.4	0.897	
+1281
+AF-A0A7C6DH11-F1-model_v4	Uncharacterized protein	Fastidiosipila sp.	1.00	30.9	0.897	
+1272
+AF-A0A285BDV9-F1-model_v4	Uncharacterized protein	Thermoanaerobacterium sp. RBIITD	1.00	30.4	0.897	
+1273
+AF-A0A353EZ33-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	30.3	0.897	
+1275
+AF-A0A7X7NUS2-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	1.00	26.5	0.897	
+1272
+AF-A0A316QLR9-F1-model_v4	Uncharacterized protein	Selenomonadales bacterium	1.00	25.9	0.897	
+1280
+AF-A0A1C6CEH2-F1-model_v4	Uncharacterized protein	uncultured Ruminococcus sp.	1.00	29.5	0.897	
+1278
+AF-A0A3B8U6S2-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	42.2	0.897	
+1275
+AF-A0A357CWK0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	25	0.896	
+1281
+AF-A0A1V5YBB8-F1-model_v4	Uncharacterized protein	Firmicutes bacterium ADurb.Bin182	0.99	32.4	0.896	
+1272
+AF-A0A1H3DS16-F1-model_v4	Uncharacterized protein	Eubacterium barkeri	1.00	32.7	0.896	
+1274
+AF-A0A391P8H3-F1-model_v4	Uncharacterized protein	Mediterraneibacter butyricigenes	1.00	50	0.896	
+1281
+AF-R6W656-F1-model_v4	Uncharacterized protein	Ruminococcus sp. CAG:382	1.00	27.1	0.896	
+1275
+AF-R9LT07-F1-model_v4	Uncharacterized protein	Anaerotruncus sp. G3(2012)	1.00	27.2	0.895	
+1275
+AF-A0A350XW24-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	31.4	0.895	
+1274
+AF-A0A351H655-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	30.3	0.894	
+1271
+AF-A0A7U6QJ28-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium KM106-2	1.00	25.1	0.894	
+1281
+AF-A0A316TBC7-F1-model_v4	Uncharacterized protein	Massilioclostridium sp.	1.00	28.5	0.894	
+1281
+AF-A0A3R6IUX0-F1-model_v4	Uncharacterized protein	Clostridium sp. AM09-51	1.00	25.7	0.894	
+1281
+AF-R7NH47-F1-model_v4	Uncharacterized protein	Eubacterium sp. CAG:581	1.00	30.4	0.893	
+1277
+AF-A0A1Y4NH69-F1-model_v4	Uncharacterized protein	Anaeromassilibacillus sp. An172	1.00	28.7	0.893	
+1274
+AF-A0A355RWX0-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	1.00	31.9	0.892	
+1274
+AF-A0A1V6FNS8-F1-model_v4	Uncharacterized protein	Firmicutes bacterium ADurb.Bin080	1.00	28.1	0.892	
+1274
+AF-R6U433-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:964	1.00	27.6	0.892	
+1281
+AF-A0A3D1Q209-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	0.99	47.5	0.891	
+1244
+AF-A0A7C6JE83-F1-model_v4	Uncharacterized protein	Halanaerobiaceae bacterium	1.00	32.1	0.891	
+1272
+AF-A0A1M4NE25-F1-model_v4	Uncharacterized protein	Clostridium sp. N3C	1.00	33.5	0.891	
+1275
+AF-R5VXJ3-F1-model_v4	Uncharacterized protein	Corallococcus sp. CAG:1435	1.00	23.6	0.890	
+1279
+AF-A0A7V6LEC7-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	1.00	27.5	0.890	
+1272
+AF-A0A3D2CQY4-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	24.6	0.890	
+1279
+AF-A0A316RR53-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	25.7	0.890	
+1275
+AF-R7FZ91-F1-model_v4	Uncharacterized protein	Eubacterium sp. CAG:841	1.00	28.1	0.889	
+1275
+AF-A0A1T4X6E4-F1-model_v4	Uncharacterized protein	Caloramator quimbayensis	1.00	32.3	0.889	
+1273
+AF-R8W5D7-F1-model_v4	Uncharacterized protein	Butyricicoccus pullicaecorum 1.2	1.00	24.1	0.889	
+1272
+AF-A0A1V6EE24-F1-model_v4	Uncharacterized protein	Firmicutes bacterium ADurb.Bin099	1.00	31.7	0.889	
+1272
+AF-A0A6L5Y6V0-F1-model_v4	Uncharacterized protein	Hornefia butyriciproducens	1.00	24.9	0.888	
+1272
+AF-A0A3B9BC67-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	1.00	39.9	0.888	
+1281
+AF-A0A3D0Z1U8-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	30	0.888	
+1273
+AF-A0A1H0FLI2-F1-model_v4	Uncharacterized protein	Acetanaerobacterium elongatum	1.00	25.6	0.887	
+1275
+AF-R6NIZ0-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:413	1.00	25.8	0.887	
+1278
+AF-A0A3D4MU62-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	23.7	0.886	
+1272
+AF-A0A1Y4IWQ5-F1-model_v4	Uncharacterized protein	Gemmiger sp. An194	1.00	28.3	0.886	
+1272
+AF-R5BCA4-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:226	1.00	26.1	0.886	
+1277
+AF-A0A316NDU2-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	28.9	0.886	
+1272
+AF-A0A356M437-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	25.8	0.886	
+1272
+AF-W0U9L7-F1-model_v4	Uncharacterized protein	Ruminococcus bicirculans	1.00	28.4	0.885	
+1272
+AF-A0A2V2G5Z9-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	29.6	0.885	
+1281
+AF-A0A2N0UZV6-F1-model_v4	Uncharacterized protein	Ruminococcus bromii	1.00	25.9	0.884	
+1280
+AF-A0A2V2F730-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	25.4	0.884	
+1275
+AF-A0A1M6N9F9-F1-model_v4	Uncharacterized protein	Hathewaya proteolytica DSM 3090	1.00	29.8	0.884	
+6277
+AF-A0A1V5PCN1-F1-model_v4	Uncharacterized protein	Firmicutes bacterium ADurb.Bin356	0.99	27.4	0.884	
+1272
+AF-A0A7X6T8J6-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.99	27	0.884	
+1272
+AF-A0A7C6S5E5-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	24.8	0.883	
+1272
+AF-A0A356B3A0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	28.9	0.883	
+1273
+AF-A0A1Y4TKZ0-F1-model_v4	Uncharacterized protein	Gemmiger sp. An120	0.99	22.6	0.882	
+1281
+AF-A0A6N3BQ28-F1-model_v4	Uncharacterized protein	Clostridium paraputrificum	1.00	29.3	0.882	
+1272
+AF-A0A7X7KTD4-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	1.00	28.6	0.881	
+1272
+AF-A0A1M6FTW8-F1-model_v4	Uncharacterized protein	Lutispora thermophila DSM 19022	1.00	31.8	0.881	
+1272
+AF-A0A1C6A096-F1-model_v4	Uncharacterized protein	uncultured Clostridium sp.	1.00	26.7	0.881	
+1274
+AF-A0A3D2D3U9-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	27.3	0.881	
+1271
+AF-A0A354MXN9-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	26.2	0.881	
+1276
+AF-A0A353KSX0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	24.7	0.881	
+2278
+AF-A0A386XCK4-F1-model_v4	Uncharacterized protein	Ethanoligenens harbinense	0.99	25.7	0.880	
+1272
+AF-A0A4R6QCM7-F1-model_v4	Uncharacterized protein	Aminicella lysinilytica	1.00	28.2	0.880	
+1274
+AF-A0A078KSX0-F1-model_v4	Uncharacterized protein	[Clostridium] cellulosi	1.00	28.8	0.880	
+1275
+AF-A0A7C6Y2R8-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	25.8	0.880	
+1265
+AF-A7VX66-F1-model_v4	Uncharacterized protein	[Clostridium] leptum DSM 753	1.00	29.3	0.879	
+1274
+AF-A0A3G1L0L0-F1-model_v4	Uncharacterized protein	Candidatus Formimonas warabiya	1.00	30.6	0.879	
+1275
+AF-A0A3D4S6W7-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	22.6	0.878	
+1273
+AF-A0A3D5TEY8-F1-model_v4	Uncharacterized protein	Oscillibacter sp.	1.00	26.5	0.878	
+1272
+AF-R7BRW1-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:475	0.99	26.6	0.878	
+1272
+AF-F9VIH6-F1-model_v4	Uncharacterized protein	Candidatus Arthromitus sp. SFB-mouse-Japan	1.00	27.8	0.878	
+1275
+AF-A0A7X8ZBM5-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	1.00	24.4	0.877	
+1272
+AF-A0A0R3JSS4-F1-model_v4	Uncharacterized protein	Caloramator mitchellensis	0.99	31.1	0.876	
+1273
+AF-A0A847W8Y8-F1-model_v4	Uncharacterized protein	Papillibacter sp.	0.99	27.5	0.875	
+1272
+AF-A0A1I7GFL5-F1-model_v4	Uncharacterized protein	Eubacterium pyruvativorans	1.00	25.2	0.875	
+1275
+AF-A0A7C6BM42-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	28.8	0.874	
+1268
+AF-A0A1G7Y369-F1-model_v4	Uncharacterized protein	Fervidobacterium changbaicum	0.99	27	0.874	
+1272
+AF-A0A7C7EK31-F1-model_v4	Uncharacterized protein	Tissierellia bacterium	0.99	38.9	0.873	
+28281
+AF-A0A352X1C1-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	27.2	0.873	
+1281
+AF-A0A069ASG9-F1-model_v4	Uncharacterized protein	Clostridioides difficile	0.98	44.1	0.873	
+1229
+AF-A0A416RFU4-F1-model_v4	Uncharacterized protein	Pseudoflavonifractor sp. AF19-9AC	0.99	25.2	0.871	
+1272
+AF-A0A3D1JWE5-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	25.4	0.871	
+1272
+AF-A0A2V2GR61-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.99	24.5	0.871	
+1272
+AF-A0A1W1YVF3-F1-model_v4	Uncharacterized protein	Papillibacter cinnamivorans DSM 12816	1.00	28.6	0.871	
+1272
+AF-A0A1Y3SLQ0-F1-model_v4	Uncharacterized protein	Pseudoflavonifractor sp. An85	1.00	26.5	0.870	
+1272
+AF-A0A3D2G259-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	28.4	0.869	
+1272
+AF-A0A1V5TTV2-F1-model_v4	Uncharacterized protein	Firmicutes bacterium ADurb.Bin262	0.99	28.3	0.869	
+1274
+AF-A0A7C6UUK2-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.99	21.3	0.869	
+2276
+AF-A0A1K1N2B4-F1-model_v4	Uncharacterized protein	Ruminococcus sp. YE71	1.00	24.4	0.868	
+1276
+AF-A0A352WUB2-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	25	0.868	
+1272
+AF-A0A847VYI2-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.99	27.8	0.867	
+1271
+AF-A0A357YZ84-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	23.1	0.867	
+2281
+AF-A0A7C6N7P2-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	29.1	0.866	
+1261
+AF-A0A101EPX1-F1-model_v4	Uncharacterized protein	Thermotoga petrophila	0.99	24.8	0.866	
+1274
+AF-A0A7V3RE37-F1-model_v4	Uncharacterized protein	Mesoaciditoga lauensis	0.99	23	0.866	
+1278
+AF-A0A316SN37-F1-model_v4	Uncharacterized protein	Subdoligranulum sp.	0.99	23.7	0.866	
+1280
+AF-A0A1C0BPC1-F1-model_v4	Uncharacterized protein	Clostridium sp. W14A	0.99	24.8	0.866	
+1278
+AF-A0A1E3G2I4-F1-model_v4	Uncharacterized protein	Fervidobacterium thailandense	0.99	25.4	0.866	
+1273
+AF-R6GKR9-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:552	0.99	23.4	0.865	
+1273
+AF-A0A7C6HNV8-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.99	27.9	0.865	
+14272
+AF-A0A3D4D4B2-F1-model_v4	Uncharacterized protein	Oscillibacter sp.	1.00	25.7	0.865	
+1272
+AF-A0A7V6NKV3-F1-model_v4	Uncharacterized protein	Tissierellia bacterium	1.00	34	0.864	
+1274
+AF-A0A3B9KVH7-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	24.2	0.863	
+1273
+AF-R5Q1Z1-F1-model_v4	Uncharacterized protein	Ruminococcus sp. CAG:724	0.99	20.3	0.863	
+1280
+AF-U2MBJ7-F1-model_v4	Uncharacterized protein	Ruminococcus callidus ATCC 27760	0.97	42.7	0.863	
+47274
+AF-R6B113-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:138	1.00	25.1	0.863	
+1281
+AF-R7C5C8-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:270	0.99	29.5	0.862	
+1277
+AF-A0A7X8DRF8-F1-model_v4	Uncharacterized protein	Halanaerobiaceae bacterium	0.99	32.6	0.862	
+1243
+AF-A0A3D3DYH9-F1-model_v4	Uncharacterized protein	Fervidobacterium sp.	1.00	29.1	0.861	
+1272
+AF-A0A1I7IBR7-F1-model_v4	Uncharacterized protein	Clostridium sp. DSM 8431	0.99	31.4	0.859	
+6273
+AF-A0A1V6GZR5-F1-model_v4	Uncharacterized protein	Thermotogae bacterium ADurb.Bin062	0.99	22.6	0.857	
+1279
+AF-A0A3A9ELW5-F1-model_v4	Uncharacterized protein	Acutalibacter sp. 1XD8-33	0.99	24.6	0.857	
+1275
+AF-V1CS58-F1-model_v4	Uncharacterized protein	Eubacterium brachy ATCC 33089	1.00	28	0.857	
+1278
+AF-A0A356XCP3-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	26.1	0.857	
+1275
+AF-C4ZEW5-F1-model_v4	Uncharacterized protein	[Eubacterium] rectale ATCC 33656	1.00	45.4	0.855	
+1278
+AF-A0A2J8B4A6-F1-model_v4	Uncharacterized protein	Mageeibacillus indolicus	0.99	23.3	0.855	
+1272
+AF-A0A316RYP8-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	1.00	23.1	0.854	
+1276
+AF-A0A359ILN0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	31.8	0.853	
+2274
+AF-A0A3C0THX3-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	0.99	41.8	0.853	
+1268
+AF-A0A1Y4I866-F1-model_v4	Uncharacterized protein	Anaeromassilibacillus sp. An200	0.99	26.4	0.853	
+1274
+AF-A0A1G9D797-F1-model_v4	Uncharacterized protein	Sarcina sp. DSM 11001	1.00	39.8	0.852	
+14281
+AF-A0A1W6WDU5-F1-model_v4	Uncharacterized protein	Ruminococcaceae bacterium CPB6	0.99	24.7	0.851	
+1275
+AF-C6LDX7-F1-model_v4	Uncharacterized protein	Marvinbryantia formatexigens DSM 14469	0.97	38.3	0.851	
+47277
+AF-A0A2V2ESL9-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.99	26.9	0.850	
+1272
+AF-A0A2J4JR32-F1-model_v4	Uncharacterized protein	Faecalibacterium prausnitzii	0.99	15.4	0.847	
+1273
+AF-A0A3D1X9F5-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	21.4	0.847	
+1281
+AF-B0NI87-F1-model_v4	Uncharacterized protein	[Clostridium] scindens ATCC 35704	0.99	44.6	0.847	
+41281
+AF-A0A316PX25-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	1.00	28.4	0.846	
+1275
+AF-R6T377-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:448	1.00	21.2	0.845	
+1281
+AF-A0A316LR65-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.99	24.7	0.844	
+1277
+AF-A0A3B9VWQ0-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.98	25	0.841	
+31276
+AF-A0A7C7AML5-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	23.1	0.838	
+31281
+AF-A0A2V2CXM9-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	23.5	0.837	
+22281
+AF-M1ZET8-F1-model_v4	Uncharacterized protein	Nitrospina gracilis 3/211	0.99	19.3	0.837	
+1276
+AF-A0A3A9EX44-F1-model_v4	Uncharacterized protein	bacterium 1XD42-8	0.94	48	0.834	
+1208
+AF-A0A143XCT3-F1-model_v4	Uncharacterized protein	Coriobacteriaceae bacterium CHKCI002	1.00	26.6	0.834	
+1277
+AF-A0A3B8V684-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	25.6	0.832	
+1281
+AF-A0A1Q6SVX4-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:272_52_7	0.99	29.3	0.832	
+1276
+AF-A0A417FXZ2-F1-model_v4	Uncharacterized protein	Butyricicoccus sp. AM29-23AC	0.99	24.3	0.828	
+2266
+AF-A0A399G6M4-F1-model_v4	Regulator	Thermobifida halotolerans	0.99	15.6	0.828	
+1272
+AF-A0A0A6P0C2-F1-model_v4	Uncharacterized protein	Candidatus Thiomargarita nelsonii	0.99	19	0.827	
+1281
+AF-A0A3D5ZPK6-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.99	26.2	0.827	
+2271
+AF-A0A7C6HKL3-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.99	27.7	0.821	
+22274
+AF-A0A2G6J9H5-F1-model_v4	Uncharacterized protein	Proteobacteria bacterium	0.99	19.3	0.819	
+1280
+AF-A0A328IMV1-F1-model_v4	Uncharacterized protein	Mesotoga sp. SC_3PWM13N19	0.99	16.1	0.818	
+1279
+AF-A0A1C6K3F7-F1-model_v4	Uncharacterized protein	uncultured Clostridium sp.	0.98	37.2	0.818	
+1281
+AF-A0A353TRI3-F1-model_v4	Uncharacterized protein	Erysipelotrichaceae bacterium	0.92	36.4	0.817	
+1206
+AF-A0A7X7W652-F1-model_v4	Uncharacterized protein	Thermotogaceae bacterium	0.99	17.8	0.815	
+1279
+AF-A0A2V2D4L9-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.98	22.9	0.814	
+27276
+AF-A0A843FWM6-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.99	22.7	0.814	
+1272
+AF-A0A843JNK2-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.99	20.9	0.813	
+1272
+AF-A0A1M4U848-F1-model_v4	Uncharacterized protein	Marinitoga hydrogenitolerans DSM 16785	0.99	20.2	0.813	
+1278
+AF-A0A3D4HQC9-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	0.89	43.5	0.812	
+89281
+AF-A0A843D2A8-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.99	21.2	0.812	
+1272
+AF-A0A7U9SZ19-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	0.96	42.9	0.811	
+47280
+AF-A0A1C4L5E4-F1-model_v4	Uncharacterized protein	Streptomyces sp. IgraMP-1	0.99	16	0.810	
+1275
+AF-A0A354FE60-F1-model_v4	Uncharacterized protein	Peptococcaceae bacterium	0.92	36.7	0.809	
+64278
+AF-A0A2N2JC90-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium HGW-Deltaproteobacteria-14	0.99	18.2	0.807	
+1277
+AF-A0A7X6CUN9-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium HV4-5-C5C	1.00	22.7	0.807	
+1272
+AF-A0A847LS90-F1-model_v4	Uncharacterized protein	Exilispira sp.	0.99	19.8	0.805	
+1275
+AF-A0A645GDQ0-F1-model_v4	Uncharacterized protein	bioreactor metagenome	0.97	26.8	0.804	
+40273
+AF-L7VQF3-F1-model_v4	Uncharacterized protein	Thermoclostridium stercorarium subsp. stercorarium DSM 8532	0.97	27.1	0.801	
+1274
+AF-A0A7K2L118-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID6041	0.97	17	0.800	
+1247
+AF-A0A316D1J6-F1-model_v4	Uncharacterized protein	Oceanotoga teriensis	0.98	19.2	0.799	
+1276
+AF-A0A7C4VWW4-F1-model_v4	Uncharacterized protein	Fervidobacterium pennivorans	0.98	25.8	0.794	
+1250
+AF-A0A354UB99-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.96	29	0.793	
+1239
+AF-A0A1C5UY59-F1-model_v4	Uncharacterized protein	uncultured Clostridium sp.	0.89	37.2	0.793	
+82277
+AF-A0A3C0ZYV0-F1-model_v4	Uncharacterized protein	Sarcina sp.	0.90	40.8	0.792	
+1200
+AF-A0A661MBT3-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	1.00	20.1	0.791	
+1278
+AF-E2ZH31-F1-model_v4	Uncharacterized protein	Faecalibacterium cf. prausnitzii KLE1255	0.99	15.3	0.789	
+2271
+AF-A0A401FRR7-F1-model_v4	Uncharacterized protein	Desulfonema ishimotonii	0.99	15.8	0.787	
+1277
+AF-A0A4Q3J7Y5-F1-model_v4	Uncharacterized protein	Myxococcales bacterium	0.99	18.6	0.787	
+1279
+AF-A6GKG0-F1-model_v4	Uncharacterized protein	Plesiocystis pacifica SIR-1	0.99	19.2	0.785	
+1280
+AF-A0A6J4III9-F1-model_v4	Uncharacterized protein Tcur_3126	uncultured Acidimicrobiales bacterium	0.99	16.6	0.782	
+1274
+AF-A0A7X8VZG6-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.99	20.4	0.782	
+1272
+AF-A0A846X2I1-F1-model_v4	Regulator	Tsukamurella spumae	0.99	14.1	0.781	
+1281
+AF-A0A1W2EA63-F1-model_v4	Uncharacterized protein	Kibdelosporangium aridum	0.99	15.8	0.780	
+1279
+AF-A0A517ZZH8-F1-model_v4	Uncharacterized protein	Gimesia panareensis	0.97	18	0.778	
+1262
+AF-A0A7X7TG83-F1-model_v4	Uncharacterized protein	Thermotogaceae bacterium	0.97	20.2	0.778	
+30279
+AF-A0A0A6P2M4-F1-model_v4	Uncharacterized protein	Candidatus Thiomargarita nelsonii	0.99	18.7	0.777	
+1281
+AF-A0A3D2K488-F1-model_v4	Uncharacterized protein	Eubacterium sp.	0.84	40.9	0.776	
+91278
+AF-A0A841CWU1-F1-model_v4	Uncharacterized protein	Planomonospora venezuelensis	0.99	14.8	0.775	
+1281
+AF-A0A2X3N1J5-F1-model_v4	Uncharacterized protein	Frankia sp. Ea1.12	0.99	15.8	0.775	
+1273
+AF-A0A543NMS2-F1-model_v4	Uncharacterized protein	Haloactinospora alba	0.99	15.8	0.774	
+1275
+AF-A0A0Q5QHT5-F1-model_v4	Uncharacterized protein	Williamsia sp. Leaf354	0.99	17.1	0.773	
+1278
+AF-A0A412DZ65-F1-model_v4	Uncharacterized protein	Ruminococcus bromii	0.91	21.9	0.771	
+1279
+AF-A0A4R7A1Z6-F1-model_v4	Uncharacterized protein	Mycobacterium sp. OK889	0.99	15.1	0.771	
+1275
+AF-A0A7X9IRD1-F1-model_v4	Uncharacterized protein	Spirochaetales bacterium	0.98	17.6	0.770	
+1275
+AF-K1R2D1-F1-model_v4	Uncharacterized protein	human gut metagenome	0.82	32.8	0.768	
+51234
+AF-A0A351MWA1-F1-model_v4	Uncharacterized protein	Oscillibacter sp.	0.96	18.7	0.768	
+1272
+AF-A0A3S9SXC2-F1-model_v4	Uncharacterized protein	Anoxybacter fermentans	0.99	22.7	0.765	
+1278
+AF-A0A7W7YAX0-F1-model_v4	Uncharacterized protein	Prosthecobacter vanneervenii	0.99	18.4	0.764	
+12275
+AF-A0A7W9SU38-F1-model_v4	Uncharacterized protein	Armatimonas rosea	0.99	17.8	0.760	
+1276
+AF-A0A7W7WCY9-F1-model_v4	Uncharacterized protein	Streptosporangium album	0.99	16.3	0.759	
+1275
+AF-A0A1M6J6V3-F1-model_v4	Uncharacterized protein	Rubritalea squalenifaciens DSM 18772	0.99	17.4	0.757	
+1270
+AF-Q0RH60-F1-model_v4	Putative transcription regulator	Frankia alni ACN14a	0.99	13.5	0.757	
+1281
+AF-A0A1G9W1R7-F1-model_v4	Uncharacterized protein	Allokutzneria albata	0.99	15.6	0.756	
+1278
+AF-D3Q5R2-F1-model_v4	Uncharacterized protein	Stackebrandtia nassauensis DSM 44728	0.99	16.3	0.755	
+1278
+AF-A0A7C9N4W9-F1-model_v4	Uncharacterized protein	Herbidospora solisilvae	0.99	15.3	0.754	
+1281
+AF-A0A0S1UUW2-F1-model_v4	Regulatory protein	Streptomyces sp. FR-008	0.99	16	0.754	
+1275
+AF-A0A2W6TH91-F1-model_v4	Regulator	Gordonia sp.	0.99	16.3	0.754	
+1273
+AF-A0A2G2KT69-F1-model_v4	Uncharacterized protein	Blastopirellula sp.	0.98	14.6	0.753	
+1276
+AF-A0A3M2L8N0-F1-model_v4	Uncharacterized protein	Nocardia stercoris	0.99	14.7	0.751	
+1280
+AF-A0A4U6QFA5-F1-model_v4	Regulator	Nakamurella flava	0.99	14.7	0.751	
+1278
+AF-A1ZZP0-F1-model_v4	Uncharacterized protein	Microscilla marina ATCC 23134	0.99	15.5	0.750	
+1277
+AF-A0A5P9PTS1-F1-model_v4	Uncharacterized protein	Amycolatopsis sp. YIM 10	0.99	15.1	0.750	
+1281
+AF-A0A6I6U4Z2-F1-model_v4	Regulator	Gordonia sp. JH63	0.99	16.7	0.749	
+1274
+AF-A0A354J6C1-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	0.60	46.4	0.749	
+125281
+AF-A0A7C6WRW4-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.85	26.2	0.749	
+62277
+AF-A0A5M8P115-F1-model_v4	Uncharacterized protein	Candidatus Ordinivivax streblomastigis	0.99	17.6	0.748	
+1280
+AF-A0A7W3N3D0-F1-model_v4	Uncharacterized protein	Thermomonospora cellulosilytica	0.99	15.7	0.747	
+1275
+AF-A0A344L6F9-F1-model_v4	Uncharacterized protein	Amycolatopsis albispora	0.99	15.1	0.747	
+1281
+AF-H0QYM6-F1-model_v4	Uncharacterized protein	Gordonia effusa NBRC 100432	0.99	15.9	0.746	
+1274
+AF-A0A3D4W2X5-F1-model_v4	Uncharacterized protein	Faecalibacterium sp.	0.72	35	0.746	
+1172
+AF-A0A1V3WZP9-F1-model_v4	Uncharacterized protein	Mycobacterium kansasii	0.99	16.6	0.746	
+1275
+AF-A0A839DTI9-F1-model_v4	Uncharacterized protein	Halosaccharopolyspora lacisalsi	0.99	12.5	0.744	
+13281
+AF-A0A085W8K7-F1-model_v4	Uncharacterized protein	Hyalangium minutum	0.97	13.8	0.743	
+2271
+AF-R5SPR6-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:75	0.60	29.3	0.743	
+118277
+AF-A0A1M4YJH2-F1-model_v4	Uncharacterized protein	Caloramator proteoclasticus DSM 10124	0.93	29	0.741	
+47272
+AF-A0A5K7XGP2-F1-model_v4	Uncharacterized protein	Lacipirellula parvula	0.98	17.7	0.741	
+1273
+AF-A0A6J4KTR1-F1-model_v4	FIG01363442: possible membrane protein	uncultured Frankineae bacterium	0.99	16.2	0.740	
+1279
+AF-A0A4P5VY78-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.99	20.7	0.740	
+1276
+AF-A0A517VKM4-F1-model_v4	Uncharacterized protein	Gimesia algae	0.98	18.1	0.739	
+1269
+AF-A0A101WNZ2-F1-model_v4	Uncharacterized protein	Clostridia bacterium BRH_c25	0.89	22.1	0.738	
+67281
+AF-Q5YNC6-F1-model_v4	Uncharacterized protein	Nocardia farcinica IFM 10152	0.99	15.3	0.737	
+4274
+AF-A0A357CRE2-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.66	39.7	0.737	
+41208
+AF-A0A0F9ELL2-F1-model_v4	Uncharacterized protein	marine sediment metagenome	0.98	17.8	0.736	
+1275
+AF-A0A810NJ38-F1-model_v4	Uncharacterized protein	Catellatospora sp. IY07-71	0.99	10.8	0.735	
+1281
+AF-R1HSD3-F1-model_v4	Uncharacterized protein	Amycolatopsis vancoresmycina DSM 44592	0.99	15.1	0.735	
+1281
+AF-A0A6L5GH41-F1-model_v4	Uncharacterized protein	Glycomyces albidus	0.99	15.7	0.735	
+1281
+AF-A0A554I7N7-F1-model_v4	Putative regulatory protein	Parcubacteria group bacterium LiPW_72	0.99	18.9	0.734	
+1277
+AF-A0A7X1J323-F1-model_v4	Uncharacterized protein	Streptomyces sp. PSKA01	0.99	15.1	0.734	
+1278
+AF-A0A822IUS5-F1-model_v4	Uncharacterized protein	Methanosarcinales archaeon	0.99	19	0.733	
+1279
+AF-A0A2T0UIJ5-F1-model_v4	Uncharacterized protein	Glycomyces artemisiae	0.99	15.9	0.731	
+1281
+AF-R6UAB6-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:272	0.85	24.5	0.731	
+68276
+AF-A0A1W0AQL8-F1-model_v4	Regulator	Nocardia donostiensis	0.99	16.4	0.730	
+1280
+AF-A0A222TA99-F1-model_v4	Uncharacterized protein	Streptomyces sp. 11-1-2	0.99	15	0.729	
+1274
+AF-A0A7U9Q1K7-F1-model_v4	Uncharacterized protein	Streptomyces chrestomyceticus JCM 4735	0.99	15.1	0.725	
+1281
+AF-A0A2M8B6S4-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium CG_4_9_14_3_um_filter_63_12	0.98	13.6	0.725	
+1281
+AF-A0A7K0I899-F1-model_v4	Uncharacterized protein	Gordonibacter urolithinfaciens	0.54	24.5	0.724	
+1210
+AF-A0A133YZF1-F1-model_v4	Uncharacterized protein	Coriobacteriales bacterium DNF00809	0.80	25.8	0.724	
+91281
+AF-A0A645GPF1-F1-model_v4	Uncharacterized protein	bioreactor metagenome	0.60	28.9	0.722	
+109276
+AF-A0A8A9Y155-F1-model_v4	Uncharacterized protein	Streptomyces mobaraensis NBRC 13819 = DSM 40847	0.99	15.5	0.721	
+1278
+AF-A0A4R4XTK6-F1-model_v4	Uncharacterized protein	Nonomuraea terrae	0.99	14.9	0.721	
+1276
+AF-A0A5P1ZI49-F1-model_v4	Uncharacterized protein	Streptomyces venezuelae	0.99	14.9	0.720	
+1281
+AF-A0A7Y6E102-F1-model_v4	Uncharacterized protein	Streptomycetaceae bacterium	0.99	14.5	0.717	
+1280
+AF-A0A6N9PUR9-F1-model_v4	Uncharacterized protein	Neglectibacter sp. 59	0.69	27.8	0.717	
+1178
+AF-A0A292YFK0-F1-model_v4	Possible membrane protein	Pseudonocardia sp. N23	0.99	13.3	0.716	
+1281
+AF-A0A645CXN4-F1-model_v4	Uncharacterized protein	bioreactor metagenome	0.82	20.9	0.715	
+87272
+AF-A0A0N1G1N2-F1-model_v4	Uncharacterized protein	Actinobacteria bacterium OK074	0.99	15	0.715	
+1278
+AF-A0A1H6BE80-F1-model_v4	Uncharacterized protein	Thermomonospora echinospora	0.82	18.3	0.713	
+1197
+AF-A0A0P6Z3J6-F1-model_v4	Uncharacterized protein	Herpetosiphon geysericola	0.99	15.9	0.713	
+1281
+AF-E5XUB3-F1-model_v4	Uncharacterized protein	Segniliparus rugosus ATCC BAA-974	0.97	17.6	0.713	
+27272
+AF-A0A7K0CGJ0-F1-model_v4	Uncharacterized protein	Streptomyces smaragdinus	0.99	10.9	0.713	
+1281
+AF-A0A7X9CZ77-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.66	29.4	0.712	
+1177
+AF-A0A652KZX9-F1-model_v4	Uncharacterized protein	Streptomyces sp. ms191	0.99	14.9	0.711	
+1281
+AF-A0A1V2RR49-F1-model_v4	Uncharacterized protein	Streptomyces sp. MP131-18	0.99	15.3	0.710	
+1276
+AF-X7Y2G0-F1-model_v4	Putative sam-pr protein	Mycobacterium kansasii 824	0.92	15.6	0.710	
+1275
+AF-A0A3B8I5Z7-F1-model_v4	Uncharacterized protein	Syntrophomonas sp.	0.99	17.8	0.710	
+1281
+AF-A0A3D0WW93-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.87	17	0.710	
+68279
+AF-R6H9C9-F1-model_v4	Uncharacterized protein	Eggerthella sp. CAG:209	0.82	21.6	0.708	
+25275
+AF-A0A839XVH4-F1-model_v4	Uncharacterized protein	Prauserella sediminis	0.98	14.1	0.707	
+21280
+AF-E5VIZ2-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium 5_1_63FAA	0.28	56.4	0.707	
+158281
+AF-A0A356VZY1-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.63	28.9	0.705	
+1170
+AF-A0A417JQ32-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium AM26-1LB	0.85	20.9	0.705	
+15277
+AF-A0A2V4NIY5-F1-model_v4	Uncharacterized protein	Streptomyces tateyamensis	0.99	14.9	0.704	
+1275
+AF-A0A843J3J1-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.90	20	0.704	
+47272
+AF-A0A3D0NY20-F1-model_v4	Uncharacterized protein	Oscillospiraceae bacterium	0.54	29.2	0.703	
+1159
+AF-A0A1T3P3T1-F1-model_v4	Uncharacterized protein	Embleya scabrispora	0.99	14.3	0.701	
+1275
+AF-A0A349DYN2-F1-model_v4	Uncharacterized protein	Microscillaceae bacterium	0.99	15.2	0.700	
+1277
+AF-A0A6N6KE40-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.99	18.4	0.696	
+2281
+AF-A0A1G6U2F9-F1-model_v4	Uncharacterized protein	Glycomyces harbinensis	0.99	15.9	0.695	
+1281
+AF-A0A7X9S0W8-F1-model_v4	Uncharacterized protein	Flammeovirga aprica JL-4	0.98	16.7	0.694	
+1274
+AF-A0A7Y5UAP1-F1-model_v4	Uncharacterized protein	Polyangiaceae bacterium	0.99	19.3	0.694	
+1280
+AF-A0A6M1ZLI4-F1-model_v4	Farnesyl diphosphate synthase	Chlamydiae bacterium	0.93	6	0.692	
+7281
+AF-A0A2E5EQI8-F1-model_v4	Uncharacterized protein	Verrucomicrobiales bacterium	0.94	8.4	0.691	
+12276
+AF-A0A3M1CV91-F1-model_v4	Geranylgeranyl pyrophosphate synthase	Deltaproteobacteria bacterium	0.93	8.3	0.689	
+18281
+AF-A0A843FE67-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.69	19.7	0.689	
+2193
+AF-A0A2T2Z676-F1-model_v4	Regulator	Nocardia sp. MDA0666	0.99	15.3	0.687	
+1280
+AF-A0A5C5UX83-F1-model_v4	Uncharacterized protein	Posidoniimonas corsicana	0.98	12.7	0.687	
+1279
+AF-R6C6R6-F1-model_v4	Uncharacterized protein	Ruminococcus sp. CAG:579	0.75	20.1	0.687	
+94274
+AF-A0A7Y4XAB0-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium	0.99	10.7	0.687	
+1274
+AF-A0A2W4KAS4-F1-model_v4	Uncharacterized protein	Caldicoprobacter oshimai	0.51	29.6	0.683	
+1161
+AF-A0A7X6UG24-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.69	21.4	0.683	
+1236
+AF-A0A1L6LY13-F1-model_v4	Expression regulator	Minicystis rosea	0.99	19.2	0.682	
+1279
+AF-A0A2E3LWZ9-F1-model_v4	Geranyl transferase	Waddliaceae bacterium	0.92	8.1	0.682	
+17270
+AF-A0A2E9G858-F1-model_v4	Uncharacterized protein	Thalassobius sp.	0.98	20.5	0.681	
+1276
+AF-A0A7X5TDM4-F1-model_v4	Farnesyl diphosphate synthase	Chlamydiae bacterium	0.93	6.5	0.681	
+1270
+AF-H0T750-F1-model_v4	Geranylgeranyl pyrophosphate synthetase (GGPP synthetase) (Farnesyltranstransferase)	Bradyrhizobium sp. STM 3809	0.94	6.5	0.680	
+11281
+AF-R6H6L2-F1-model_v4	Uncharacterized protein	Firmicutes bacterium CAG:137	0.38	32.1	0.678	
+137280
+AF-S3ZUA8-F1-model_v4	Uncharacterized protein	Streptomyces aurantiacus JA 4570	0.99	15	0.677	
+1273
+AF-A0A1M3CV89-F1-model_v4	Geranyl transferase	Chlamydiales bacterium 38-26	0.92	7	0.675	
+7280
+AF-A0A427T6H1-F1-model_v4	Uncharacterized protein	Amycolatopsis eburnea	0.99	14.8	0.675	
+1281
+AF-A0A321LCT6-F1-model_v4	Uncharacterized protein	Blastocatellia bacterium AA13	0.99	10	0.675	
+1281
+AF-A0A6M1Z7Z6-F1-model_v4	Farnesyl diphosphate synthase	Candidatus Anoxychlamydiales bacterium	0.91	7.6	0.675	
+3265
+AF-A0A1F8JHE3-F1-model_v4	Uncharacterized protein	Chlamydiae bacterium RIFCSPHIGHO2_12_FULL_49_11	0.90	7.4	0.673	
+9265
+AF-A0A518ARB1-F1-model_v4	Uncharacterized protein	Aeoliella mucimassa	0.98	13.7	0.673	
+1281
+AF-A0A401QVY9-F1-model_v4	Uncharacterized protein	Streptomyces albulus	0.99	15.5	0.672	
+1273
+AF-A0A4Z0LFN5-F1-model_v4	Polyprenyl synthetase family protein	Tabrizicola sp. WMC-M-20	0.92	6.3	0.670	
+3273
+AF-A0A843DX02-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilus sp.	0.54	17.5	0.669	
+1178
+AF-A0A090E0T5-F1-model_v4	Putative geranyltranstransferase	Criblamydia sequanensis CRIB-18	0.92	8.3	0.668	
+3276
+AF-A0A212KSY0-F1-model_v4	Uncharacterized protein	Chlamydiales bacterium SCGC AG-110-M15	0.90	8.2	0.666	
+7265
+AF-A0A420DPT7-F1-model_v4	Geranylgeranyl diphosphate synthase type II	Sulfitobacter guttiformis	0.89	10.4	0.664	
+20273
+AF-A0A1B8VWD9-F1-model_v4	Uncharacterized protein	Bacillus sp. FJAT-26390	0.92	9	0.664	
+7281
+AF-A0A358M6L6-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.47	26.7	0.663	
+22179
+AF-A0A3C1B0K6-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.57	15.6	0.663	
+41272
+AF-A0A6H2W6C1-F1-model_v4	Dimethylallyltransferase	Chlamydia trachomatis L2b/UCH-1/proctitis	0.90	8	0.662	
+14267
+AF-A0A329KFA7-F1-model_v4	Heptaprenyl diphosphate synthase	Paenibacillus sp. YN15	0.90	3.7	0.662	
+10274
+AF-A0A255R2T0-F1-model_v4	Uncharacterized protein	Rhodopirellula sp. MGV	0.99	12.4	0.661	
+1281
+AF-A0A0P8BSB4-F1-model_v4	Type II geranylgeranyl diphosphate synthase GgpS	Saliniramus fredricksonii	0.82	7.8	0.661	
+45277
+AF-A0A7V6WG02-F1-model_v4	Polyprenyl synthetase family protein	Clostridia bacterium	0.82	8.2	0.660	
+4276
+AF-D4JH77-F1-model_v4	Uncharacterized protein	[Eubacterium] rectale M104/1	0.30	39.4	0.660	
+1174
+AF-A0A2S0UB11-F1-model_v4	Heptaprenyl diphosphate synthase	Paenibacillus sp. CAA11	0.89	6	0.659	
+19276
+AF-A0A354WP52-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.23	35.9	0.658	
+1128
+AF-A0A6C0FB88-F1-model_v4	Uncharacterized protein	viral metagenome	0.80	9.8	0.658	
+35271
+AF-A0A6I5MTE7-F1-model_v4	Uncharacterized protein	Streptomyces rochei	0.75	15.7	0.657	
+1191
+AF-A0A6I6WA50-F1-model_v4	Uncharacterized protein	Streptomyces sp. NHF165	0.99	15.7	0.656	
+1281
+AF-A0A7W7T0G2-F1-model_v4	Uncharacterized protein	Saccharothrix violaceirubra	0.99	16.3	0.656	
+1273
+AF-A0A357AGZ8-F1-model_v4	Uncharacterized protein	Ruminiclostridium sp.	0.33	39.7	0.656	
+1140
+AF-A0A2D5NFJ6-F1-model_v4	Polyprenyl synthetase	Planctomycetota bacterium	0.89	7.3	0.655	
+6265
+AF-A0A1J5HDL7-F1-model_v4	Uncharacterized protein	Porphyromonadaceae bacterium CG2_30_38_12	0.91	7.2	0.653	
+9276
+AF-A0A1L7GCD0-F1-model_v4	Uncharacterized protein	Streptomyces sp. TN58	0.98	14.3	0.652	
+21274
+AF-A0A7Y7CVJ7-F1-model_v4	Uncharacterized protein	Flavobacteriia bacterium	0.91	7.8	0.652	
+8279
+AF-A0A7C1R7H6-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.92	7.7	0.652	
+9280
+AF-A0A7C6SRZ8-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.14	42.1	0.651	
+1102
+AF-A0A2E4EFW8-F1-model_v4	Uncharacterized protein	Crocinitomicaceae bacterium	0.92	7.8	0.651	
+9280
+AF-A0A829Z7B9-F1-model_v4	Uncharacterized protein	[Clostridium] cocleatum	0.18	53.9	0.650	
+166278
+AF-A0A352UNA5-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.21	43.8	0.650	
+143262
+AF-A0A7C4T3P4-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.75	6.5	0.649	
+38276
+AF-A0A2S9YKL1-F1-model_v4	Uncharacterized protein	Enhygromyxa salina	0.99	18.4	0.649	
+1280
+AF-A0A7Y7CVR0-F1-model_v4	Uncharacterized protein	Flavobacteriia bacterium	0.91	8.5	0.649	
+11279
+AF-A0A0B8NB74-F1-model_v4	Uncharacterized protein	Nocardia seriolae	0.63	15.6	0.648	
+1186
+AF-A0A2N5Y9A8-F1-model_v4	Polyprenyl synthetase	Halioglobus japonicus	0.87	4.7	0.648	
+15274
+AF-A0A4R4EN58-F1-model_v4	Heptaprenyl diphosphate synthase	Paenibacillus albiflavus	0.87	4.7	0.648	
+19277
+AF-A0A349X7E8-F1-model_v4	Polyprenyl synthetase	Gammaproteobacteria bacterium	0.87	8.6	0.644	
+13269
+AF-A0A496W063-F1-model_v4	Uncharacterized protein	Gammaproteobacteria bacterium	0.99	18	0.644	
+1280
+AF-A0A4Y8M3X2-F1-model_v4	Heptaprenyl diphosphate synthase	Cohnella luojiensis	0.87	6.1	0.643	
+19266
+AF-A0A7C4JUD2-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.91	6.8	0.643	
+8280
+AF-A0A3D6CGS2-F1-model_v4	Uncharacterized protein	Chitinophagaceae bacterium	0.91	7.5	0.643	
+11280
+AF-A0A357T0A7-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.21	39.2	0.642	
+154281
+AF-A0A2A2RUG2-F1-model_v4	Uncharacterized protein	Opitutae bacterium Tous-C10FEB	0.91	6.6	0.642	
+1273
+AF-A0A3D3T8F0-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.63	16.5	0.642	
+84272
+AF-A0A2I8DM01-F1-model_v4	Uncharacterized protein	Achromobacter sp. AONIH1	0.90	7.7	0.640	
+7275
+AF-A0A1W1VXR7-F1-model_v4	Uncharacterized protein	Thermanaeromonas toyohensis ToBE	0.72	7.4	0.640	
+7270
+AF-A0A396Q3F1-F1-model_v4	Uncharacterized protein	Butyricicoccus sp. OF10-2	0.38	22.8	0.640	
+130272
+AF-A0A354J6C0-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium	0.12	56.8	0.636	
+296
+AF-A0A372I9R9-F1-model_v4	Polyprenyl synthetase family protein	Rhodobacteraceae bacterium W635	0.87	9.1	0.636	
+22273
+AF-A0A843E5D4-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilaceae archaeon	0.41	19.5	0.636	
+2164
+AF-A0A354WMQ5-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.20	38.8	0.636	
+156278
+AF-A0A661YN68-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.90	8.6	0.635	
+9280
+AF-A0A843E391-F1-model_v4	Uncharacterized protein	Candidatus Methanomethylophilus sp.	0.63	17.6	0.634	
+92272
+AF-A0A017T6F2-F1-model_v4	Uncharacterized protein	Chondromyces apiculatus DSM 436	0.99	16.8	0.634	
+1279
+AF-A0A6G9YTF8-F1-model_v4	Uncharacterized protein	Nocardia arthritidis	0.99	13.6	0.633	
+4277
+AF-A0A847W905-F1-model_v4	Uncharacterized protein	Papillibacter sp.	0.12	48.4	0.633	
+296
+AF-A0A418MFT4-F1-model_v4	Uncharacterized protein	Alicyclobacillaceae bacterium I2511	0.77	5.6	0.633	
+19280
+AF-A0A7C4B2C8-F1-model_v4	Uncharacterized protein	Clostridia bacterium	0.15	34.5	0.631	
+1107
+AF-A0A6N6RJT0-F1-model_v4	Class 1 isoprenoid biosynthesis enzyme	Phaeocystidibacter luteus	0.90	8.5	0.630	
+10279
+AF-A0A7X7UL22-F1-model_v4	Uncharacterized protein	Bacteroidales bacterium	0.90	10.1	0.630	
+9280
+AF-D7BR30-F1-model_v4	Regulatory protein	Streptomyces bingchenggensis BCW-1	0.93	10.7	0.629	
+1278
+AF-A0A6L4A461-F1-model_v4	Uncharacterized protein	Anaerolineae bacterium	0.25	14.5	0.629	
+2173
+AF-A0A1I4H1P1-F1-model_v4	Competence protein ComQ	Paenibacillus sp. 1_12	0.87	7	0.628	
+21270
+AF-A0A142WZM5-F1-model_v4	NfeD domain-containing protein	Planctomyces sp. SH-PL14	0.97	14.5	0.628	
+1274
+AF-A0A3M1XVW3-F1-model_v4	Uncharacterized protein	Nitrospirae bacterium	0.92	7.2	0.627	
+9273
+AF-A0A291QRE4-F1-model_v4	Uncharacterized protein	Chitinophaga caeni	0.90	7.7	0.627	
+8280
+AF-E5VIZ3-F1-model_v4	Uncharacterized protein	Lachnospiraceae bacterium 5_1_63FAA	0.28	35.5	0.627	
+1173
+AF-A0A2E4D7S4-F1-model_v4	Uncharacterized protein	Halobacteriovoraceae bacterium	0.80	6.4	0.626	
+38273
+AF-A0A2E0MFC0-F1-model_v4	Uncharacterized protein	Flavobacteriales bacterium	0.87	7.7	0.626	
+20281
+AF-A0A2S5CJ14-F1-model_v4	Uncharacterized protein	Methylovulum psychrotolerans	0.69	6.7	0.624	
+19272
+AF-A0A316LV06-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.16	17.4	0.624	
+1209
+AF-A0A2N9L3F3-F1-model_v4	Uncharacterized protein	Candidatus Sulfotelmatomonas gaucii	0.90	10.1	0.623	
+10277
+AF-C6Q261-F1-model_v4	Uncharacterized protein	Clostridium carboxidivorans P7	0.54	20.1	0.622	
+91274
+AF-Q8PTM6-F1-model_v4	Uncharacterized protein	Methanosarcina mazei Go1	0.87	10.5	0.622	
+12276
+AF-A0A2G6K6N3-F1-model_v4	J domain-containing protein	candidate division KSB3 bacterium	0.99	15	0.620	
+2281
+AF-D6BBF3-F1-model_v4	Expression regulator	Streptomyces albidoflavus	0.41	12.7	0.618	
+1216
+AF-A0A429SCD2-F1-model_v4	Uncharacterized protein	Streptomyces sp. WAC05292	0.92	10.3	0.617	
+1273
+AF-A0A2N9M728-F1-model_v4	Uncharacterized protein	Candidatus Sulfopaludibacter sp. SbA3	0.92	6.9	0.617	
+8277
+AF-A0A351KFY4-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.13	42	0.616	
+1106
+AF-A0A7V5GAI9-F1-model_v4	Uncharacterized protein	Candidatus Portnoybacteria bacterium	0.82	8.1	0.615	
+6270
+AF-A0A1I0F6C3-F1-model_v4	Heptaprenyl diphosphate synthase	Paenibacillus sp. NFR01	0.82	7	0.615	
+19273
+AF-T0D678-F1-model_v4	Uncharacterized protein	Paeniclostridium sordellii ATCC 9714	0.09	45.5	0.615	
+291
+AF-A0A3M1XKA1-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.35	13.4	0.614	
+1222
+AF-A0A3N1CR45-F1-model_v4	Uncharacterized protein	Actinocorallia herbida	0.99	12.2	0.613	
+16281
+AF-A0A2M8BC53-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium CG_4_9_14_3_um_filter_63_12	0.87	5.1	0.613	
+4269
+AF-A0A7S4MK18-F1-model_v4	Hypothetical protein	Vannella robusta	0.89	16.2	0.613	
+59278
+AF-A0A6S5YZA0-F1-model_v4	Uncharacterized protein	Aeromonas veronii	0.69	5.8	0.613	
+15277
+AF-A0A2S8F085-F1-model_v4	Uncharacterized protein	Blastopirellula marina	0.69	12.5	0.612	
+30269
+AF-A0A7C9NLS5-F1-model_v4	Terpene synthase	Herbidospora solisilvae	0.75	6	0.612	
+11268
+AF-A0A6B1PLX6-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID2955	0.80	9.9	0.611	
+19274
+AF-A0A1H5RYP3-F1-model_v4	Uncharacterized protein	Thermomonospora echinospora	0.90	12.6	0.608	
+55276
+AF-A0A7X9DPH4-F1-model_v4	Uncharacterized protein	Bacteroidales bacterium	0.80	7	0.608	
+1281
+AF-A0A285LTY4-F1-model_v4	Uncharacterized protein	Nocardia amikacinitolerans	0.99	12.1	0.606	
+4281
+AF-A0A6B2DS49-F1-model_v4	Uncharacterized protein	Amycolatopsis sp. SID8362	0.35	10.9	0.605	
+125279
+AF-A0A1B4Y1Z6-F1-model_v4	Uncharacterized protein	Mycobacterium ulcerans subsp. shinshuense	0.85	11.4	0.603	
+59281
+AF-F3NLP3-F1-model_v4	Putative regulator	Streptomyces griseoaurantiacus M045	0.89	11.7	0.603	
+52278
+AF-A0A849Z9L2-F1-model_v4	Uncharacterized protein	Polyangiaceae bacterium	0.84	5.9	0.602	
+4268
+AF-A0A7K2Q476-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID7760	0.21	11.5	0.602	
+147276
+AF-A0A7W9TDE2-F1-model_v4	Uncharacterized protein	Streptomyces paradoxus	0.89	11.7	0.601	
+53274
+AF-D4J1D7-F1-model_v4	Uncharacterized protein	Butyrivibrio fibrisolvens 16/4	0.20	46.2	0.600	
+165281
+AF-A0A1V5G6J3-F1-model_v4	All-trans-phytoene synthase	Bacteroidetes bacterium ADurb.BinA261	0.69	8.3	0.600	
+30281
+AF-A0A2T2URY0-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium SW_9_63_38	0.69	4.6	0.595	
+50271
+AF-A0A662VT47-F1-model_v4	Uncharacterized protein	Archaeoglobales archaeon	0.75	9.1	0.595	
+20266
+AF-A0A3M1C2Q7-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.63	4.1	0.594	
+39273
+AF-A0A1V1NY41-F1-model_v4	Uncharacterized protein	Candidatus Magnetoglobus multicellularis str. Araruama	0.35	13.1	0.594	
+31279
+AF-A0A7X0C4E1-F1-model_v4	Uncharacterized protein	Nonomuraea muscovyensis	0.75	5.4	0.593	
+10267
+AF-A0A7W8B6F5-F1-model_v4	Uncharacterized protein	Streptomyces spectabilis	0.75	6.2	0.593	
+12268
+AF-A0A7W3NLP7-F1-model_v4	CYSTM domain-containing protein	Streptomyces murinus	0.87	10.6	0.592	
+52277
+AF-A0A7C8ACN1-F1-model_v4	UbiA family prenyltransferase	Deltaproteobacteria bacterium	0.75	5.7	0.590	
+35280
+AF-A0A850JCL7-F1-model_v4	Terpene synthase	Actinomadura sp. BRA 177	0.75	5.9	0.590	
+10268
+AF-A0A2N1KRU2-F1-model_v4	Uncharacterized protein	Siphonobacter sp. BAB-5404	0.72	5.9	0.590	
+38275
+AF-A0A835Z077-F1-model_v4	Isoprenoid synthase domain-containing protein	Tribonema minus	0.93	8	0.589	
+6268
+AF-A0A831LCF5-F1-model_v4	Uncharacterized protein	Methanoculleus sp.	0.77	6.3	0.589	
+32272
+AF-A0A0D6JLB5-F1-model_v4	Prenyltransferase	Haloferax massiliensis	0.63	5.3	0.588	
+50271
+AF-E1RD55-F1-model_v4	UbiA prenyltransferase	Methanolacinia petrolearia DSM 11571	0.77	6.7	0.588	
+32272
+AF-A0A561TXB7-F1-model_v4	Uncharacterized protein	Streptomyces brevispora	0.63	8.5	0.588	
+1275
+AF-A0A5P2GLI8-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	Orientia tsutsugamushi	0.75	5.2	0.587	
+38275
+AF-A0A7Y5G7E0-F1-model_v4	Squalene synthase HpnC	bacterium	0.75	6.6	0.586	
+30277
+AF-T0EE14-F1-model_v4	Uncharacterized protein	Paeniclostridium sordellii ATCC 9714	0.20	40.6	0.586	
+91208
+AF-A0A2D3R7J5-F1-model_v4	4-hydroxybenzoate polyprenyltransferase	Legionella endosymbiont of Polyplax serrata	0.75	7.1	0.586	
+36275
+AF-A0A0M2RF60-F1-model_v4	Terpene synthase	Micromonospora sp. HK10	0.75	5.6	0.584	
+10268
+AF-A0A1Q8TRW0-F1-model_v4	Uncharacterized protein	Alkalihalophilus pseudofirmus	0.89	10	0.584	
+12277
+AF-A0A1G8D6R5-F1-model_v4	Uncharacterized protein	Nonomuraea jiangxiensis	0.75	5.2	0.584	
+8268
+AF-A0A7W7GE19-F1-model_v4	Uncharacterized protein	Sphaerisporangium siamense	0.72	5	0.584	
+11268
+AF-A0A3D0YL95-F1-model_v4	Uncharacterized protein	Verrucomicrobiales bacterium	0.80	6	0.584	
+30276
+AF-A0A497HIN1-F1-model_v4	Uncharacterized protein	Thermoplasmata archaeon	0.72	5.2	0.584	
+38276
+AF-A0A328F734-F1-model_v4	Ubiquinone biosynthesis protein UbiA	Desulfobacter hydrogenophilus	0.77	7.2	0.584	
+32274
+AF-A0A6V8LTE9-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	Fundidesulfovibrio magnetotacticus	0.77	5.6	0.584	
+32274
+AF-A0A7K2ZME3-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID2119	0.33	12.2	0.583	
+128274
+AF-A0A7K0DDH3-F1-model_v4	Uncharacterized protein	Nocardia macrotermitis	0.99	13.6	0.583	
+1281
+AF-A0A2A4TSC0-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	Thiotrichales bacterium	0.72	5.2	0.583	
+38276
+AF-A0A6B2ST88-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID10115	0.38	17.2	0.582	
+1156
+AF-A0A2P5P4R7-F1-model_v4	Uncharacterized protein	Candidatus Dehalogenimonas etheniformans	0.90	8.4	0.582	
+7278
+AF-A0A419F2D5-F1-model_v4	Uncharacterized protein	Ignavibacteriales bacterium	0.80	8.9	0.582	
+8269
+AF-A0A7X6ZCI2-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.18	18.1	0.580	
+155272
+AF-D9T4Z3-F1-model_v4	Terpene synthase metal-binding domain-containing protein	Micromonospora aurantiaca ATCC 27029	0.72	6.3	0.580	
+12268
+AF-A0A6L3VC17-F1-model_v4	Uncharacterized protein	Actinomadura montaniterrae	0.14	23	0.580	
+2110
+AF-A0A2W2DB03-F1-model_v4	Uncharacterized protein	Nonomuraea aridisoli	0.44	14.3	0.580	
+1180
+AF-A0A7C4D9E8-F1-model_v4	Prenyltransferase	Candidatus Bathyarchaeota archaeon	0.66	7.6	0.580	
+50274
+AF-A0A2T3V9M1-F1-model_v4	Terpene synthase	Micromonospora sp. RP3T	0.72	5.3	0.579	
+10268
+AF-A0A841JTY6-F1-model_v4	Uncharacterized protein	Silvibacterium bohemicum	0.92	9.7	0.579	
+7277
+AF-A0A7V5BS45-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	Anaerolineae bacterium	0.72	4.6	0.578	
+38276
+AF-A0A5M8SQJ6-F1-model_v4	Uncharacterized protein	Acidobacteria bacterium AB60	0.92	8.2	0.578	
+6277
+AF-A0A7X6VCR0-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.11	32	0.578	
+91189
+AF-A0A6I5WNC7-F1-model_v4	Terpene synthase	Micromonospora sp. WMMC415	0.72	5.6	0.577	
+10268
+AF-A0A840I920-F1-model_v4	Tetraprenyl-beta-curcumene synthase	Conexibacter arvalis	0.84	6.1	0.577	
+11276
+AF-A0A5C1A643-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	Limnoglobus roseus	0.72	5	0.577	
+36276
+AF-A0A349PZT7-F1-model_v4	Uncharacterized protein	Flavobacterium sp.	0.60	7.8	0.576	
+6280
+AF-A0A849EU76-F1-model_v4	UbiA family prenyltransferase	Desulfatitalea sp.	0.75	4.8	0.576	
+37276
+AF-A0A317H560-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.60	6.3	0.576	
+7276
+AF-A0A351IZ67-F1-model_v4	Uncharacterized protein	Clostridiales bacterium	0.10	27.2	0.576	
+299
+AF-A0A7C3YUH9-F1-model_v4	Uncharacterized protein	bacterium	0.63	8	0.575	
+38276
+AF-A0A6B1K2A0-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID6139	0.20	18.7	0.575	
+1126
+AF-A0A2W2ENT2-F1-model_v4	Terpene synthase	Micromonospora craterilacus	0.72	6.1	0.575	
+10268
+AF-A0A6G3S518-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID14478	0.12	24.7	0.574	
+1103
+AF-B7FZA9-F1-model_v4	Predicted protein	Phaeodactylum tricornutum CCAP 1055/1	0.72	1.8	0.574	
+38275
+AF-A0A662LCJ2-F1-model_v4	Uncharacterized protein	Thermoplasmata archaeon	0.75	8.3	0.574	
+37275
+AF-A0A0E9N6X1-F1-model_v4	Uncharacterized protein	Flavihumibacter petaseus NBRC 106054	0.60	7.3	0.574	
+7276
+AF-A0A3N1HZA8-F1-model_v4	Uncharacterized protein	Streptomyces sp. PanSC9	0.85	7.5	0.573	
+8274
+AF-A0A1M6UN46-F1-model_v4	4-hydroxybenzoate polyprenyltransferase	Clostridium cavendishii DSM 21758	0.66	6.8	0.573	
+36273
+AF-A0A355EQ93-F1-model_v4	Ubiquinone biosynthesis protein UbiA	Deltaproteobacteria bacterium	0.75	5.2	0.573	
+36276
+AF-A0A840IBJ9-F1-model_v4	Tetraprenyl-beta-curcumene synthase	Conexibacter arvalis	0.82	5.2	0.573	
+12276
+AF-A0A419WP06-F1-model_v4	Chlorophyll synthase	Halopiger aswanensis	0.72	5.4	0.573	
+37278
+AF-A0A7C4MDB2-F1-model_v4	Uncharacterized protein	Candidatus Bathyarchaeota archaeon	0.75	3.9	0.573	
+38278
+AF-A0A1V4IR00-F1-model_v4	Uncharacterized protein	Clostridium oryzae	0.91	9.1	0.573	
+8277
+AF-A0A5C6DLM5-F1-model_v4	Prenyltransferase	Novipirellula aureliae	0.75	5.1	0.572	
+38276
+AF-A0A897N0L0-F1-model_v4	4-hydroxybenzoate polyprenyltransferase or related prenyltransferase	Halapricum desulfuricans	0.75	6.4	0.572	
+37272
+AF-D6K9L9-F1-model_v4	Regulatory protein	Streptomyces sp. e14	0.25	17.4	0.571	
+1139
+AF-A0A6H9Z1Q4-F1-model_v4	Terpene synthase	Actinomadura rudentiformis	0.75	6.2	0.571	
+10268
+AF-D8J2G1-F1-model_v4	Prenyltransferase	Halalkalicoccus jeotgali B3	0.75	5.7	0.571	
+37273
+AF-A0A355M7K9-F1-model_v4	Uncharacterized protein	Lentisphaeria bacterium	0.75	7	0.570	
+37275
+AF-A0A6G2MVN0-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID4946	0.10	23	0.570	
+198
+AF-A0A497STE4-F1-model_v4	4-hydroxybenzoate polyprenyltransferase	Candidatus Aenigmarchaeota archaeon	0.66	9.7	0.570	
+35268
+AF-A0A1V5E0L9-F1-model_v4	Prenyltransferase	Syntrophaceae bacterium PtaU1.Bin231	0.77	6.3	0.570	
+36274
+AF-A0A1V4Z9B6-F1-model_v4	Prenyltransferase	Methanocella sp. PtaU1.Bin125	0.72	4.8	0.569	
+38276
+AF-A0A3M8UMN0-F1-model_v4	Uncharacterized protein	Streptomyces botrytidirepellens	0.18	18	0.569	
+1126
+AF-A0A151EQU9-F1-model_v4	Uncharacterized protein	Theionarchaea archaeon DG-70-1	0.82	8.6	0.568	
+13272
+AF-A0A161PCZ3-F1-model_v4	Uncharacterized protein	Bdellovibrio bacteriovorus	0.69	5.8	0.568	
+25269
+AF-A0A840I910-F1-model_v4	Tetraprenyl-beta-curcumene synthase	Conexibacter arvalis	0.82	7.4	0.568	
+11273
+AF-A0A3D5P1P4-F1-model_v4	Protoheme IX farnesyltransferase	Candidatus Marinimicrobia bacterium	0.72	3.9	0.568	
+36273
+AF-A0A2J6I229-F1-model_v4	Uncharacterized protein	Marinilabiliales bacterium	0.60	9.8	0.568	
+85279
+AF-A0A6B1N5I1-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID69	0.21	17.3	0.567	
+1131
+AF-A0A7W1RAV6-F1-model_v4	DUF2600 family protein	Solirubrobacterales bacterium	0.82	6.2	0.567	
+13275
+AF-A0A522W403-F1-model_v4	Uncharacterized protein	Patescibacteria group bacterium	0.72	5.6	0.566	
+6268
+AF-A0A2L2X3Z2-F1-model_v4	1,4-dihydroxy-2-naphthoate octaprenyltransferase	Candidatus Gastranaerophilus sp. (ex Termes propinquus)	0.75	7.4	0.566	
+32276
+AF-A0A1H6XGQ7-F1-model_v4	UbiA prenyltransferase family protein	Halohasta litchfieldiae	0.63	4.7	0.566	
+37268
+AF-A0A522FZQ7-F1-model_v4	Ubiquinone biosynthesis protein UbiA	Rhodanobacter sp.	0.66	5.8	0.565	
+46276
+AF-A0A2N5KA24-F1-model_v4	Uncharacterized protein	Candidatus Saccharibacteria bacterium	0.66	6.9	0.565	
+36273
+AF-A0A3D5DVW1-F1-model_v4	Uncharacterized protein	Actinomycetia bacterium	0.38	10.2	0.564	
+1229
+AF-A0A7Z9PWT2-F1-model_v4	RanBP2-type domain-containing protein	Phycisphaerales bacterium	0.96	20.6	0.564	
+30270
+AF-A0A836WLH4-F1-model_v4	Uncharacterized protein	Candidatus Stahlbacteria bacterium	0.60	7.9	0.563	
+1275
+AF-A0A2V9HD74-F1-model_v4	Protoheme IX farnesyltransferase	Acidobacteria bacterium	0.66	3.5	0.563	
+35280
+AF-A0A6C0DDW3-F1-model_v4	Uncharacterized protein	viral metagenome	0.84	8.1	0.562	
+20266
+AF-A0A6B2DJV9-F1-model_v4	Uncharacterized protein	Amycolatopsis sp. SID8362	0.09	22.1	0.562	
+295
+AF-A0A661MWB2-F1-model_v4	Uncharacterized protein	Deltaproteobacteria bacterium	0.57	9.6	0.562	
+11267
+AF-A0A2V2Q6P3-F1-model_v4	Uncharacterized protein	Streptomyces sp. FT05W	0.13	22.7	0.561	
+2109
+AF-A0A553HX65-F1-model_v4	Uncharacterized protein	Xylaria flabelliformis	0.92	5.7	0.561	
+9268
+AF-A0A5E4LTG6-F1-model_v4	Digeranylgeranylglyceryl phosphate synthase	uncultured archaeon	0.63	8.6	0.560	
+32273
+AF-A0A068WWG1-F1-model_v4	Uncharacterized protein	Echinococcus granulosus	0.57	5.4	0.560	
+83275
+AF-A0A2I2KWX9-F1-model_v4	Uncharacterized protein	Frankia canadensis	0.75	7.9	0.560	
+15274
+AF-A0A507CJA6-F1-model_v4	Uncharacterized protein	Synchytrium microbalum	0.63	6.4	0.560	
+53275
+AF-A0A0S7YD74-F1-model_v4	Uncharacterized protein	candidate division TA06 bacterium DG_78	0.60	6.7	0.559	
+38276
+AF-A0A067LV52-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Botryobasidium botryosum FD-172 SS1	0.77	3.2	0.559	
+38275
+AF-A0A316P7B8-F1-model_v4	Uncharacterized protein	Candidatus Gastranaerophilales bacterium	0.72	6.2	0.559	
+36279
+AF-A0A378INV0-F1-model_v4	Uncharacterized protein	Legionella cincinnatiensis	0.66	3.5	0.559	
+26267
+AF-A0A6G2QYM2-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID7804	0.18	11.5	0.558	
+141267
+AF-A0A7Y3IYB7-F1-model_v4	UbiA family prenyltransferase	Pseudomonadales bacterium	0.72	5.1	0.558	
+36278
+AF-A0A256XVE8-F1-model_v4	Uncharacterized protein	Thermofilum sp. ex4484_79	0.63	6.5	0.557	
+35273
+AF-H1QFA5-F1-model_v4	As well as SAM-PR	Streptomyces coelicoflavus ZG0656	0.13	13.5	0.557	
+160271
+AF-A0A0E9N6C2-F1-model_v4	Uncharacterized protein	Flavihumibacter petaseus NBRC 106054	0.69	4.5	0.556	
+38275
+AF-R6PCE1-F1-model_v4	Uncharacterized protein	Clostridium sp. CAG:306	0.66	6.4	0.556	
+32276
+AF-F2JKI1-F1-model_v4	UbiA prenyltransferase	Cellulosilyticum lentocellum DSM 5427	0.69	6.8	0.556	
+35274
+AF-A0A5E4I0L7-F1-model_v4	Digeranylgeranylglyceryl phosphate synthase	uncultured archaeon	0.66	5.5	0.555	
+32279
+AF-A0A7V2K7W4-F1-model_v4	Uncharacterized protein	bacterium	0.54	9.4	0.555	
+38273
+AF-A0A7J3BCP1-F1-model_v4	Uncharacterized protein	Candidatus Bathyarchaeota archaeon	0.63	7	0.555	
+36276
+AF-A0A7W7FTQ8-F1-model_v4	Uncharacterized protein	Crossiella cryophila	0.57	7.3	0.554	
+23275
+AF-A0A7J3NNT8-F1-model_v4	Prenyltransferase	Candidatus Bathyarchaeota archaeon	0.69	6.5	0.554	
+35274
+AF-A0A3N9N9K6-F1-model_v4	Protoheme IX farnesyltransferase	candidate division KSB1 bacterium	0.72	2.8	0.554	
+37276
+AF-A0A518G4Z3-F1-model_v4	Uncharacterized protein	Aureliella helgolandensis	0.72	5.6	0.553	
+28275
+AF-A0A1F6LIS1-F1-model_v4	Uncharacterized protein	Candidatus Lindowbacteria bacterium RIFCSPLOWO2_12_FULL_62_27	0.72	4.8	0.553	
+30276
+AF-A0A2H9LBQ1-F1-model_v4	Uncharacterized protein	Candidatus Diapherotrites archaeon CG08_land_8_20_14_0_20_34_12	0.63	8.2	0.552	
+35274
+AF-A0A2J6NBP2-F1-model_v4	Uncharacterized protein	Candidatus Korarchaeota archaeon	0.66	4.4	0.552	
+36276
+AF-A0A418PNC5-F1-model_v4	Uncharacterized protein	Algoriphagus lacus	0.66	6.9	0.552	
+8271
+AF-A0A2P9I291-F1-model_v4	FIG01363442: possible membrane protein	Actinomadura parvosata subsp. kistnae	0.69	9.5	0.552	
+59274
+AF-A0A0K3B0H1-F1-model_v4	FIG01363442: possible membrane protein	Kibdelosporangium sp. MJ126-NF4	0.75	11.1	0.550	
+31274
+AF-K9AR86-F1-model_v4	Uncharacterized protein	Staphylococcus massiliensis S46	0.35	7.8	0.550	
+22242
+AF-A0A1F3NU84-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium RIFCSPLOWO2_12_FULL_37_12	0.63	8.4	0.550	
+38276
+AF-A0A6A0K0H0-F1-model_v4	Decaprenyl-phosphate phosphoribosyltransferase	SAR202 cluster bacterium	0.66	4.3	0.550	
+38273
+AF-A0A7C4EQ29-F1-model_v4	Uncharacterized protein	Proteobacteria bacterium	0.60	11.1	0.549	
+35272
+AF-F0NXC0-F1-model_v4	Uncharacterized protein	Weeksella virosa DSM 16922	0.66	7.6	0.549	
+38272
+AF-A0A7V4AR75-F1-model_v4	Decaprenyl-phosphate phosphoribosyltransferase	Armatimonadetes bacterium	0.63	3.2	0.549	
+36273
+AF-A0A0C2JDE5-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Thelohanellus kitauei	0.72	6.9	0.548	
+37275
+AF-A0A6I5ZT66-F1-model_v4	UbiA prenyltransferase family protein	Moorella glycerini	0.66	5.1	0.548	
+37272
+AF-A0A327J6Q8-F1-model_v4	Uncharacterized protein	Candidatus Melainabacteria bacterium	0.69	6.1	0.546	
+36279
+AF-A0A7Y6IFG6-F1-model_v4	Uncharacterized protein	Nonomuraea montanisoli	0.38	8.7	0.545	
+38264
+AF-A0A075MQA4-F1-model_v4	4-hydroxybenzoate polyprenyltransferase-like prenyltransferase	Candidatus Nitrososphaera evergladensis SR1	0.69	4.3	0.545	
+36277
+AF-A0A256XXZ2-F1-model_v4	Uncharacterized protein	Archaeoglobales archaeon ex4484_92	0.69	6.1	0.545	
+35274
+AF-A0A7W7S733-F1-model_v4	Uncharacterized protein	Streptosporangium album	0.54	8.1	0.545	
+36268
+AF-A0A819E244-F1-model_v4	Hypothetical protein	Rotaria sordida	0.89	9.3	0.544	
+9278
+AF-A0A4U0ZPZ2-F1-model_v4	Heme o synthase	Desulforhopalus sp. IMCC35007	0.63	2.8	0.544	
+36276
+AF-A0A7S4HNQ8-F1-model_v4	Hypothetical protein	Vannella robusta	0.14	17.9	0.543	
+28143
+AF-A0A292RI42-F1-model_v4	Uncharacterized protein	Candidatus Gastranaerophilales bacterium HUM_10	0.69	8.9	0.543	
+32277
+AF-A0A1N7KZ51-F1-model_v4	Uncharacterized protein	Salimicrobium flavidum	0.90	5.8	0.543	
+7277
+AF-A0A4R2QMM9-F1-model_v4	4-hydroxybenzoate polyprenyltransferase	Streptomyces sp. BK438	0.66	7.3	0.542	
+37275
+AF-A0A4V1SKD9-F1-model_v4	Uncharacterized protein	Sphingobacteriales bacterium	0.44	4.9	0.542	
+101272
+AF-A0A066Z1D7-F1-model_v4	Uncharacterized protein	Kitasatospora cheerisanensis KCTC 2395	0.14	21.2	0.542	
+1110
+AF-A0A0L7KNV2-F1-model_v4	Putative tumor suppressor protein	Operophtera brumata	0.82	5	0.542	
+6276
+AF-A0A7S3BP35-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Haptolina ericina	0.66	3.1	0.542	
+46275
+AF-A0A1F4U827-F1-model_v4	Uncharacterized protein	candidate division WOR-3 bacterium RBG_13_43_14	0.57	7.4	0.542	
+35276
+AF-A0A6A6PBD4-F1-model_v4	UbiA prenyltransferase family-domain-containing protein	Lineolata rhizophorae	0.77	3.7	0.541	
+36275
+AF-A0A6B3LBJ4-F1-model_v4	UbiA family prenyltransferase	Sulfuriroseicoccus oceanibius	0.63	3.8	0.540	
+35272
+AF-A0A7V1LMB1-F1-model_v4	Protoheme IX farnesyltransferase	Caldithrix abyssi	0.72	3.2	0.540	
+36277
+AF-A0A6B3CCP8-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID6648	0.13	22.5	0.539	
+2110
+AF-A0A367YM37-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Candida viswanathii	0.77	2.8	0.539	
+38275
+AF-A0A7V4LWR8-F1-model_v4	Phytoene/squalene synthase family protein	Ignavibacteria bacterium	0.72	5.5	0.539	
+30276
+AF-A0A496ZGU7-F1-model_v4	Ubiquinone biosynthesis protein UbiA	Deltaproteobacteria bacterium	0.72	5.5	0.537	
+37276
+AF-A8L7I0-F1-model_v4	Expression regulator	Frankia sp. EAN1pec	0.20	12.1	0.537	
+1174
+AF-A0A431L948-F1-model_v4	Uncharacterized protein	Candidatus Melainabacteria bacterium	0.96	15.3	0.537	
+31270
+AF-A0A1Z8SSJ0-F1-model_v4	Protoheme IX farnesyltransferase	Planctomycetia bacterium TMED53	0.66	5	0.537	
+36273
+AF-A0A662KHH4-F1-model_v4	Uncharacterized protein	Thermoplasmata archaeon	0.57	4.1	0.536	
+32274
+AF-A0A7U0U7Y1-F1-model_v4	UbiA family prenyltransferase	Cutibacterium avidum	0.63	5.6	0.535	
+47275
+AF-A0A2E4KAU6-F1-model_v4	Uncharacterized protein	Flavobacteriales bacterium	0.60	7.2	0.535	
+36278
+AF-A0A7C2RR86-F1-model_v4	Prenyltransferase	Acidilobales archaeon	0.63	4.7	0.534	
+36276
+AF-R7MDY4-F1-model_v4	1 4-dihydroxy-2-naphthoate octaprenyltransferase	Clostridium sp. CAG:813	0.66	6.8	0.534	
+36278
+AF-A0A5S4F4F8-F1-model_v4	Terpene synthase	Nonomuraea zeae	0.47	4.2	0.534	
+37274
+AF-F0X8Z5-F1-model_v4	Hexaprenyl pyrophosphate synthetase	Grosmannia clavigera kw1407	0.92	5.5	0.533	
+7268
+AF-A0A7U1ESI0-F1-model_v4	Heptaprenyl diphosphate synthase component 1	Paenibacillus sonchi	0.35	5.7	0.533	
+107275
+AF-A0A7R8W6A2-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Cyprideis torosa	0.69	2.8	0.533	
+37275
+AF-A0A7V6G560-F1-model_v4	Prenyltransferase	Bacteroidales bacterium	0.66	8.1	0.532	
+36278
+AF-A0A0E3WTP5-F1-model_v4	(S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase	Methanosarcina horonobensis HB-1 = JCM 15518	0.47	6	0.531	
+57276
+AF-A0A3M8VCS1-F1-model_v4	Uncharacterized protein	Streptomyces botrytidirepellens	0.41	7.7	0.531	
+1274
+AF-A0A139AY60-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Gonapodya prolifera JEL478	0.77	3.2	0.528	
+38275
+AF-A0A4P9ZG15-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Metschnikowia bicuspidata	0.75	5	0.527	
+38275
+AF-A0A4Y8XSY2-F1-model_v4	Uncharacterized protein	Streptomyces sp. 4R-3d	0.63	7.7	0.527	
+37272
+AF-A0A351KFY5-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.16	24.3	0.527	
+160273
+AF-A0A357ZGE7-F1-model_v4	1,4-dihydroxy-2-naphthoate prenyltransferase	Coriobacteriia bacterium	0.69	5.5	0.526	
+35278
+AF-A0A497IWZ8-F1-model_v4	Uncharacterized protein	Methanosarcinales archaeon	0.66	9.3	0.526	
+35270
+AF-K2B517-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	uncultured bacterium	0.30	5.6	0.526	
+110276
+AF-A0A1V5XTT4-F1-model_v4	Prenyltransferase	Deltaproteobacteria bacterium ADurb.Bin207	0.60	5.5	0.526	
+35272
+AF-A0A059WMF1-F1-model_v4	Heme o synthase	uncultured bacterium	0.38	6.3	0.525	
+90276
+AF-A0A2R5G7R5-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Hondaea fermentalgiana	0.75	4.6	0.525	
+37275
+AF-A0A0B5I449-F1-model_v4	Uncharacterized protein	archaeon GW2011_AR20	0.60	6.7	0.524	
+29273
+AF-A0A2Z3KPP8-F1-model_v4	Uncharacterized protein	Legionella anisa	0.41	6	0.524	
+93271
+AF-A0A6I5C2W4-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID625	0.20	11.5	0.523	
+145274
+AF-A0A842R9P9-F1-model_v4	Uncharacterized protein	Candidatus Heimdallarchaeota archaeon	0.66	7.8	0.521	
+36274
+AF-A0A662B740-F1-model_v4	Uncharacterized protein	Bacteroidetes bacterium	0.33	11.5	0.519	
+101279
+AF-A0A7W5V863-F1-model_v4	Uncharacterized protein	Nonomuraea dietziae	0.41	9.1	0.519	
+1278
+AF-A0A7X9CYE4-F1-model_v4	Uncharacterized protein	Clostridiaceae bacterium	0.20	17.7	0.518	
+135272
+AF-A0A5J6FIQ0-F1-model_v4	Uncharacterized protein	Streptomyces nitrosporeus	0.69	7.2	0.518	
+35273
+AF-A0A423W331-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Valsa malicola	0.75	3.8	0.518	
+36275
+AF-A0A534KNA9-F1-model_v4	Protoheme IX farnesyltransferase	Euryarchaeota archaeon	0.69	4.7	0.518	
+36275
+AF-A0A2E4WN66-F1-model_v4	Prenyltransferase	Flavobacteriales bacterium	0.57	8.6	0.517	
+36276
+AF-A0A2P7PJS9-F1-model_v4	Uncharacterized protein	Streptosporangium nondiastaticum	0.66	5.3	0.516	
+8277
+AF-A0A1I0LMM4-F1-model_v4	Uncharacterized protein	Nonomuraea wenchangensis	0.15	17.6	0.515	
+1143
+AF-A0A4V1M4S2-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Tremella mesenterica	0.77	5.2	0.515	
+37274
+AF-A0A1Y1UE32-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial	Kockovaella imperatae	0.77	1.8	0.514	
+38275
+AF-A0A1X2CDB7-F1-model_v4	Uncharacterized protein	Mycobacterium saskatchewanense	0.66	6.8	0.513	
+36275
+AF-A0A7G1I9Z7-F1-model_v4	Uncharacterized protein	Mycobacterium kansasii	0.44	7.3	0.513	
+1275
+AF-K2BHR5-F1-model_v4	4-hydroxybenzoate polyprenyl transferase	uncultured bacterium	0.38	4.9	0.513	
+101276
+AF-A0A7J0CK63-F1-model_v4	Uncharacterized protein	Streptomyces microflavus	0.69	11.3	0.511	
+60274
+AF-A0A316DDX3-F1-model_v4	4-hydroxybenzoate polyprenyltransferase	Tumebacillus permanentifrigoris	0.63	5.6	0.510	
+37275
+AF-A0A6B3F257-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID11233	0.21	12.8	0.509	
+147278
+AF-A0A4Q4Y3R6-F1-model_v4	Uncharacterized protein	Monosporascus sp. 5C6A	0.93	6.5	0.508	
+8271
+AF-A0A2W4LKM0-F1-model_v4	1,4-dihydroxy-2-naphthoate polyprenyltransferase	Thermocrispum agreste	0.35	3.6	0.508	
+37234
+AF-A0A2E5CVF1-F1-model_v4	Uncharacterized protein	Flavobacteriales bacterium	0.54	7.4	0.506	
+36276
+AF-A0A1X4I1N7-F1-model_v4	Uncharacterized protein	Streptomyces sp. 13-12-16	0.47	11.3	0.505	
+103278
+AF-A0A2C6C156-F1-model_v4	Uncharacterized protein	Lewinellaceae bacterium SD302	0.57	7.3	0.504	
+37276
+AF-A0A7D8UYV6-F1-model_v4	Uncharacterized protein	Vanrija humicola	0.63	5	0.504	
+25276
+AF-A0A136K7M9-F1-model_v4	4-hydroxybenzoate octaprenyltransferase	Nitrospira sp. OLB3	0.18	5.7	0.503	
+104246
+AF-A0A7Y1ZRS1-F1-model_v4	Uncharacterized protein	Rhodothermales bacterium	0.35	4.9	0.503	
+60275
+AF-A0A7C1ZH21-F1-model_v4	Uncharacterized protein	bacterium	0.47	4.5	0.501	
+32278
+AF-A0A517VMY5-F1-model_v4	Uncharacterized protein	Gimesia algae	0.69	5.3	0.501	
+36274
+AF-A0A1I5HUJ0-F1-model_v4	Heme o synthase	Pseudonocardia ammonioxydans	0.20	8.4	0.501	
+130281
+AF-A0A352LZS1-F1-model_v4	Uncharacterized protein	Candidatus Wallbacteria bacterium	0.38	7.2	0.500	
+98276
+AF-A0A7K2X2K1-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID2131	0.15	12.8	0.500	
+157275
+AF-A0A831WTE8-F1-model_v4	Uncharacterized protein	Candidatus Atribacteria bacterium	0.38	9.7	0.498	
+98272
+AF-A0A5N5G2F1-F1-model_v4	4-hydroxybenzoate geranyltransferase 2-like	Pyrus ussuriensis x Pyrus communis	0.60	6	0.498	
+9248
+AF-A0A7K3ET40-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID5606	0.44	8.3	0.498	
+1278
+AF-A0A7X3VMA3-F1-model_v4	Uncharacterized protein	Candidatus Poribacteria bacterium	0.41	5.9	0.497	
+89276
+AF-A0A4R2JPA9-F1-model_v4	Uncharacterized protein	Actinocrispum wychmicini	0.60	6.4	0.496	
+8267
+AF-A0A2R6NIK6-F1-model_v4	Uncharacterized protein	Hermanssonia centrifuga	0.38	2.8	0.495	
+53275
+AF-A0A3A5HEZ1-F1-model_v4	Uncharacterized protein	Methanobacterium sp.	0.30	5.5	0.495	
+104275
+AF-A0A0C2ANK3-F1-model_v4	Regulatory protein	Streptomyces sp. AcH 505	0.41	12	0.494	
+123281
+AF-A0A0G1RBE9-F1-model_v4	Uncharacterized protein	Candidatus Pacebacteria bacterium GW2011_GWA1_46_10	0.33	4.5	0.493	
+25275
+AF-A0A2E9WN07-F1-model_v4	Uncharacterized protein	Planctomycetaceae bacterium	0.33	7.2	0.493	
+103272
+AF-A0A7W7D440-F1-model_v4	Squalene synthase HpnC	Sphaerisporangium siamense	0.30	5	0.492	
+101278
+AF-A0A6G2Y1F1-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID8382	0.38	12.1	0.490	
+124278
+AF-A0A2B4R0L6-F1-model_v4	Ubiquinone biosynthesis O-methyltransferase	Stylophora pistillata	0.75	3.7	0.490	
+8281
+AF-A0A6N9V8Z1-F1-model_v4	Uncharacterized protein	Streptomyces microflavus	0.13	11.9	0.490	
+1207
+AF-A0A6N9V4D2-F1-model_v4	Uncharacterized protein	Streptomyces microflavus	0.41	10.6	0.488	
+104274
+AF-A0A7C0URZ5-F1-model_v4	Prenyltransferase	Thermoplasmatales archaeon	0.35	5.6	0.486	
+83278
+AF-A0A673X7B6-F1-model_v4	Coenzyme Q2 4-hydroxybenzoate polyprenyltransferase	Salmo trutta	0.35	5.2	0.486	
+99276
+AF-A0A103T1T0-F1-model_v4	Terpene synthase, metal-binding domain-containing protein	Cynara cardunculus var. scolymus	0.38	5.4	0.485	
+13268
+AF-A0A2V7A3M5-F1-model_v4	Heme o synthase	Candidatus Rokubacteria bacterium	0.23	3.1	0.485	
+101277
+AF-A0A4Y9ZQE1-F1-model_v4	Uncharacterized protein	Hericium alpestre	0.38	4.4	0.483	
+38275
+AF-A0A6G3MLJ6-F1-model_v4	4-hydroxybenzoate polyprenyltransferase, mitochondrial (Trinotate prediction)	Henneguya salminicola	0.18	6.4	0.483	
+142275
+AF-A0A6I4PYJ2-F1-model_v4	Uncharacterized protein	Actinomadura sp. J1-007	0.63	5.7	0.483	
+37276
+AF-X8F913-F1-model_v4	Putative sam-pr protein	Mycobacterium ulcerans str. Harvey	0.28	13.5	0.482	
+136274
+AF-A0A660VST5-F1-model_v4	Heme o synthase	Planctomycetota bacterium	0.60	5.5	0.482	
+38276
+AF-V6KA23-F1-model_v4	Uncharacterized protein	Streptomyces roseochromogenus subsp. oscitans DS 12.976	0.51	6.3	0.482	
+34275
+AF-A0A7Y5GJN2-F1-model_v4	Mechanosensitive ion channel family protein	Bryobacteraceae bacterium	0.77	12.5	0.482	
+9233
+AF-A0A372JFB7-F1-model_v4	Uncharacterized protein	Actinomadura logoneensis	0.66	15	0.481	
+88273
+AF-A0A6N7P0V2-F1-model_v4	Uncharacterized protein	Chitinophaga sp. SYP-B3965	0.89	5.5	0.481	
+9279
+AF-A0A4Z0H0L8-F1-model_v4	Uncharacterized protein	Streptomyces palmae	0.69	7.1	0.481	
+36275
+AF-A0A6G2V168-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID2563	0.41	12.1	0.480	
+122279
+AF-A0A7K3HE34-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID5475	0.10	12.9	0.478	
+171273
+AF-A0A6V8LCZ9-F1-model_v4	Uncharacterized protein	Phytohabitans rumicis	0.21	5	0.477	
+116268
+AF-A0A554JUW7-F1-model_v4	Uncharacterized protein	Parcubacteria group bacterium Gr01-1014_38	0.35	6.2	0.477	
+38280
+AF-A0A355STG1-F1-model_v4	Heme o synthase	Opitutae bacterium	0.23	4.6	0.477	
+104278
+AF-A0A2T2SMC9-F1-model_v4	Heme o synthase	Bacteroidetes bacterium QH_2_67_10	0.47	2.9	0.476	
+18280
+AF-A0A838TWW5-F1-model_v4	Prenyltransferase	Nitrosopumilus sp.	0.28	9.4	0.474	
+107280
+AF-A0A2R6K0J0-F1-model_v4	Protoheme IX farnesyltransferase	Halobacteriales archaeon QS_9_67_17	0.75	2.6	0.473	
+36281
+AF-A0A2V7FNI7-F1-model_v4	Heme o synthase	Gemmatimonadetes bacterium	0.23	3.6	0.470	
+105276
+AF-A0A2R6WK02-F1-model_v4	Uncharacterized protein	Marchantia polymorpha	0.63	7.5	0.466	
+36275
+AF-A0A517STQ2-F1-model_v4	Uncharacterized protein	Planctomycetes bacterium SV_7m_r	0.18	11.8	0.461	
+1190
+AF-A0A660TCS6-F1-model_v4	YggT family protein	Spirochaetes bacterium	0.20	3	0.460	
+60246
+AF-A0A7C7JY86-F1-model_v4	Prenyltransferase	Flavobacteriaceae bacterium	0.12	8.8	0.456	
+152268
+AF-A0A7L4QT82-F1-model_v4	Prenyltransferase	Methanomassiliicoccales archaeon	0.23	5.4	0.454	
+108275
+AF-A0A1D6JQ38-F1-model_v4	Heme O synthase	Zea mays	0.18	5.2	0.452	
+100250
+AF-A0A2W2E9B0-F1-model_v4	Uncharacterized protein	Nonomuraea aridisoli	0.16	16.4	0.452	
+155277
+AF-A0A539E9A1-F1-model_v4	4-hydroxybenzoate polyprenyltransferase	Halothiobacillaceae bacterium	0.63	3.5	0.452	
+38272
+AF-A0A3Q7HNH0-F1-model_v4	Uncharacterized protein	Solanum lycopersicum	0.35	4.4	0.448	
+9277
+AF-A0A0F4IUG0-F1-model_v4	Regulatory protein	Streptomyces katrae	0.38	10.8	0.444	
+116274
+AF-A0A2N2NZD0-F1-model_v4	Uncharacterized protein	Chloroflexi bacterium HGW-Chloroflexi-10	0.11	6.9	0.442	
+153268
+AF-A0A1I5LWF7-F1-model_v4	Demethylmenaquinone methyltransferase	Amycolatopsis arida	0.72	3.4	0.441	
+35281
+AF-A0A7C6G8W4-F1-model_v4	Uncharacterized protein	Firmicutes bacterium	0.18	6.2	0.440	
+56256
+AF-A0A072V2P6-F1-model_v4	UbiA family prenyltransferase	Medicago truncatula	0.33	6.9	0.440	
+36262
+AF-A0A388LYM2-F1-model_v4	Uncharacterized protein	Chara braunii	0.75	4.3	0.439	
+17276
+AF-A0A7C6IUY5-F1-model_v4	Uncharacterized protein	Thermoanaerobacterales bacterium	0.16	7.7	0.438	
+59264
+AF-A0A7Y2U3E0-F1-model_v4	Uncharacterized protein	Xanthomonadales bacterium	0.21	5.3	0.426	
+37243
+AF-A0A1C5BGM7-F1-model_v4	Uncharacterized protein	Streptomyces sp. DconLS	0.23	11.3	0.424	
+142275
+AF-A0A7S2KBZ2-F1-model_v4	Heme O synthase	Leptocylindrus danicus	0.25	0.5	0.422	
+104277
+AF-A0A814GIW6-F1-model_v4	Hypothetical protein	Rotaria magnacalcarata	0.72	5.1	0.421	
+38275
+AF-A0A7C0UHK9-F1-model_v4	DUF47 family protein	Thermoproteales archaeon	0.14	2.8	0.419	
+1281
+AF-A0A7Z9PPS2-F1-model_v4	Uncharacterized protein	Phycisphaerales bacterium	0.30	16	0.419	
+127274
+AF-A0A6N7M7D5-F1-model_v4	Uncharacterized protein	Spirochaeta sp.	0.14	1.6	0.417	
+60247
+AF-A0A151R870-F1-model_v4	Uncharacterized protein	Cajanus cajan	0.14	6	0.415	
+97276
+AF-A0A1D6JQ43-F1-model_v4	Heme O synthase	Zea mays	0.23	3.5	0.414	
+103276
+AF-A0A2G5CH49-F1-model_v4	Heme O synthase	Aquilegia coerulea	0.25	2.7	0.413	
+110276
+AF-A0A482X0L0-F1-model_v4	TLC domain-containing protein	Laodelphax striatellus	0.18	4.2	0.413	
+58281
+AF-A0A218UD27-F1-model_v4	Transmembrane protein 136	Lonchura striata domestica	0.18	4.7	0.413	
+84281
+AF-A0A3L8S0S6-F1-model_v4	TLC domain-containing protein	Chloebia gouldiae	0.18	4.3	0.412	
+83281
+AF-E0SRW8-F1-model_v4	Phosphoesterase PA-phosphatase related	Ignisphaera aggregans DSM 17230	0.23	3.9	0.411	
+29281
+AF-A3WFQ6-F1-model_v4	Uncharacterized protein	Erythrobacter sp. NAP1	0.18	2.2	0.411	
+13280
+AF-A0A6I9HV27-F1-model_v4	TLC domain-containing protein 5-like	Geospiza fortis	0.16	5.1	0.410	
+84281
+AF-A0A2H5VHL1-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	bacterium HR07	0.11	4.3	0.410	
+107281
+AF-A0A6B2SBS7-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID10853	0.16	12.4	0.408	
+152275
+AF-S4RZK7-F1-model_v4	TLC domain containing 5	Petromyzon marinus	0.16	5.5	0.408	
+87281
+AF-A0A5N6JP17-F1-model_v4	Uncharacterized protein	Aspergillus minisclerotigenes	0.14	4.9	0.408	
+110271
+AF-A0A6C0I447-F1-model_v4	Uncharacterized protein	viral metagenome	0.15	3	0.408	
+84281
+AF-X1BW82-F1-model_v4	FTCD_C domain-containing protein	marine sediment metagenome	0.11	4.8	0.407	
+107281
+AF-A0A5E8CL22-F1-model_v4	Uncharacterized protein	seawater metagenome	0.33	6	0.406	
+29274
+AF-A0A3B3ZYE9-F1-model_v4	TLC domain-containing protein	Periophthalmus magnuspinnatus	0.16	4	0.406	
+86281
+AF-A0A3M6V5U0-F1-model_v4	TLC domain-containing protein	Pocillopora damicornis	0.16	3.3	0.405	
+60281
+AF-M0XI28-F1-model_v4	TLC domain-containing protein	Hordeum vulgare subsp. vulgare	0.10	3.7	0.404	
+31281
+AF-A0A7J8XXN1-F1-model_v4	TLC domain-containing protein	Gossypium aridum	0.16	3.7	0.404	
+84281
+AF-A0A672G614-F1-model_v4	TLC domain-containing protein	Salarias fasciatus	0.16	4.5	0.403	
+87281
+AF-A0A3Q3WV79-F1-model_v4	TLC domain containing 5b	Mola mola	0.16	4.3	0.403	
+83281
+AF-K9IH05-F1-model_v4	TLC domain-containing protein	Desmodus rotundus	0.16	4.7	0.402	
+84281
+AF-D3ZNW9-F1-model_v4	TLC domain-containing 5	Rattus norvegicus	0.16	5.1	0.402	
+83281
+AF-A0A5N5JWQ0-F1-model_v4	TLC domain-containing protein	Pangasianodon hypophthalmus	0.12	4	0.401	
+31281
+AF-A0A7K5PDJ4-F1-model_v4	TM136 protein	Erythrocercus mccallii	0.16	5.2	0.401	
+87281
+AF-A0A059LCI6-F1-model_v4	Uncharacterized protein	Helicosporidium sp. ATCC 50920	0.18	3.6	0.401	
+31281
+AF-A0A7V5K9U1-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	candidate division Zixibacteria bacterium	0.10	5.2	0.400	
+107281
+AF-E7F142-F1-model_v4	TLC domain-containing 5a	Danio rerio	0.16	2.9	0.400	
+83281
+AF-A0A016UYU5-F1-model_v4	Uncharacterized protein	Ancylostoma ceylanicum	0.13	2.2	0.399	
+148275
+AF-A9TWV0-F1-model_v4	Predicted protein	Physcomitrium patens	0.18	2.8	0.399	
+27281
+AF-A0A2V6D6U8-F1-model_v4	FTCD_C domain-containing protein	Verrucomicrobia bacterium	0.11	9	0.398	
+148281
+AF-A0A2R6R3J8-F1-model_v4	Transmembrane protein	Actinidia chinensis var. chinensis	0.11	3.8	0.398	
+31281
+AF-A0A852EFF7-F1-model_v4	TM136 protein	Vidua macroura	0.16	5.2	0.398	
+87281
+AF-A0A7K2YLP0-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID3343	0.25	13.5	0.398	
+135274
+AF-A0A3M1QTP7-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Nitrospirae bacterium	0.10	4.8	0.397	
+107281
+AF-A0A851VX79-F1-model_v4	TM136 protein	Copsychus sechellarum	0.16	5.1	0.396	
+87281
+AF-A0A0K9R303-F1-model_v4	TLC domain-containing protein	Spinacia oleracea	0.12	2.6	0.396	
+1281
+AF-A0A1X7UQB9-F1-model_v4	TLC domain-containing protein	Amphimedon queenslandica	0.18	3.3	0.395	
+58281
+AF-A0A2D8MP15-F1-model_v4	Phosphate transport regulator	Thaumarchaeota archaeon	0.14	1.4	0.394	
+1281
+AF-A0A6P4XN80-F1-model_v4	transmembrane protein 136-like	Branchiostoma belcheri	0.16	6.2	0.394	
+83281
+AF-A0A455WGP9-F1-model_v4	Permease	Marinobacter nauticus	0.12	1	0.394	
+15277
+AF-A0A672ZI20-F1-model_v4	TLC domain-containing protein	Sphaeramia orbicularis	0.16	2.4	0.393	
+87281
+AF-A0A3Q3JNV2-F1-model_v4	TLC domain containing 5b	Monopterus albus	0.16	3.6	0.392	
+84281
+AF-A0A1R2APQ7-F1-model_v4	TLC domain-containing protein	Stentor coeruleus	0.15	4.3	0.392	
+84281
+AF-A0A6J1VAH3-F1-model_v4	transmembrane protein 136-like	Notechis scutatus	0.18	4.4	0.392	
+86281
+AF-A0A803T7V3-F1-model_v4	Uncharacterized protein	Anolis carolinensis	0.16	5.5	0.391	
+83281
+AF-A0A843BZ05-F1-model_v4	DUF47 family protein	Candidatus Heimdallarchaeota archaeon	0.13	3.8	0.391	
+1281
+AF-A0A3M1I1I4-F1-model_v4	Uncharacterized protein	Zetaproteobacteria bacterium	0.13	2.3	0.391	
+96281
+AF-A0A2F0B4A8-F1-model_v4	Transmembrane domain-containing protein	Eschrichtius robustus	0.16	3.9	0.388	
+60281
+AF-I3DTZ1-F1-model_v4	Uncharacterized protein	Bacillus methanolicus MGA3	0.14	4.1	0.388	
+7245
+AF-A0A1L9DFR7-F1-model_v4	Uncharacterized protein	Streptomyces viridifaciens	0.18	11.1	0.388	
+150281
+AF-A0A834YEF8-F1-model_v4	Uncharacterized protein	Tetracentron sinense	0.16	5.5	0.388	
+86281
+AF-A0A1G3XSP1-F1-model_v4	Phosphate transport regulator	Thaumarchaeota archaeon RBG_16_49_8	0.13	2	0.387	
+1281
+AF-A0A2U1M3K1-F1-model_v4	TRAM/LAG1/CLN8-like domain-containing protein	Artemisia annua	0.10	3.4	0.386	
+38281
+AF-A0A1D1Y9I7-F1-model_v4	Transmembrane protein 136	Anthurium amnicola	0.16	4.1	0.386	
+86281
+AF-A0A7R8VVU1-F1-model_v4	Hypothetical protein	Timema douglasi	0.12	1.7	0.385	
+1281
+AF-A0A2K2D7P9-F1-model_v4	TLC domain-containing protein	Brachypodium distachyon	0.12	2.6	0.384	
+30281
+AF-A0A7J2JRG5-F1-model_v4	DUF47 family protein	Candidatus Korarchaeota archaeon	0.13	3.1	0.383	
+1281
+AF-A0A497I2L0-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Thermococci archaeon	0.10	6.3	0.382	
+145280
+AF-A0A7J3D2L7-F1-model_v4	DUF47 family protein	Nitrososphaeria archaeon	0.12	3.1	0.381	
+1281
+AF-A0A6J1CST7-F1-model_v4	transmembrane protein 136-like isoform X2	Momordica charantia	0.10	3.4	0.380	
+38281
+AF-A0A7C3XN27-F1-model_v4	DUF47 family protein	Nitrososphaerales archaeon	0.12	2.5	0.380	
+1281
+AF-A0A7J2NNZ0-F1-model_v4	DUF47 family protein	Candidatus Bathyarchaeota archaeon	0.13	2	0.380	
+1281
+AF-A0A2N8SWJ6-F1-model_v4	FTCD_C domain-containing protein	Stutzerimonas stutzeri	0.11	5.8	0.379	
+148281
+AF-A0A6B1QIL3-F1-model_v4	Uncharacterized protein	Streptomyces sp. SID335	0.16	12.4	0.378	
+151274
+AF-I4C8C0-F1-model_v4	Methenyl tetrahydrofolate cyclohydrolase	Desulfomonile tiedjei DSM 6799	0.10	5.2	0.378	
+106276
+AF-G9MUI7-F1-model_v4	Uncharacterized protein	Trichoderma virens Gv29-8	0.09	4.5	0.378	
+137281
+AF-A0A535IYK8-F1-model_v4	Uncharacterized protein	Chloroflexi bacterium	0.12	2.8	0.377	
+3245
+AF-A0A7J3MT04-F1-model_v4	DUF47 family protein	Nitrososphaeria archaeon	0.12	2.9	0.377	
+1281
+AF-A0A0K2QW48-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Arthrobacter sp. Hiyo4	0.09	4.7	0.376	
+107281
+AF-A0A524MJN1-F1-model_v4	FTCD_C domain-containing protein	Candidatus Atribacteria bacterium	0.11	5	0.375	
+148281
+AF-A0A7S2BEI6-F1-model_v4	Hypothetical protein	Alexandrium andersonii	0.15	2.6	0.374	
+32281
+AF-A0A662GZQ0-F1-model_v4	Uncharacterized protein	Thermoprotei archaeon	0.13	3.2	0.374	
+1281
+AF-A0A7J2JZA2-F1-model_v4	DUF47 family protein	Candidatus Bathyarchaeota archaeon	0.12	2.3	0.374	
+1281
+AF-A0A1Y2X659-F1-model_v4	Uncharacterized protein	Daldinia sp. EC12	0.63	4.3	0.374	
+3268
+AF-A0A0X8FLZ1-F1-model_v4	FTCD_C domain-containing protein	Aerococcus urinaehominis	0.10	4.8	0.372	
+145279
+AF-M1ISN5-F1-model_v4	Uncharacterized protein	Sulfolobus acidocaldarius N8	0.12	1.7	0.372	
+1281
+AF-M7BLF0-F1-model_v4	TLC domain-containing protein	Chelonia mydas	0.10	5.5	0.372	
+91281
+AF-A0A7J2X3F2-F1-model_v4	DUF47 family protein	Thermoprotei archaeon	0.12	2.6	0.371	
+1281
+AF-A0A139C7N5-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Candidatus Frackibacter sp. T328-2	0.10	5	0.371	
+145281
+AF-A0A061N9J1-F1-model_v4	Phosphate-specific transport system accessory protein PhoU	Geomicrobium sp. JCM 19055	0.11	3.5	0.370	
+1281
+AF-A0A7U3D2T6-F1-model_v4	Glutamate formiminotransferase	Thermoplasmatales archaeon	0.11	8.9	0.370	
+145281
+AF-A0A7C5YVG7-F1-model_v4	Uncharacterized protein	Ignisphaera aggregans	0.12	3.5	0.368	
+1280
+AF-A0A7J4FZZ4-F1-model_v4	DUF47 family protein	Candidatus Geothermarchaeota archaeon	0.11	1.7	0.367	
+1281
+AF-A0A3L7N676-F1-model_v4	FTCD_C domain-containing protein	Planctomycetota bacterium	0.11	3.6	0.367	
+145281
+AF-A0A7W1I5G9-F1-model_v4	Cyclodeaminase/cyclohydrolase family protein	Chloroflexia bacterium	0.11	5.4	0.366	
+148281
+AF-A0A413QY38-F1-model_v4	Sugar ABC transporter substrate-binding protein	Megasphaera sp. AM44-1BH	0.10	2.5	0.366	
+147281
+AF-A0A7C7E3G0-F1-model_v4	Cyclodeaminase/cyclohydrolase family protein	Firmicutes bacterium	0.10	5.9	0.366	
+145281
+AF-A0A661JNN5-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Deltaproteobacteria bacterium	0.11	10.9	0.365	
+148281
+AF-A0A2E9VI68-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Euryarchaeota archaeon	0.10	4.9	0.365	
+148281
+AF-L5M6Q5-F1-model_v4	Transmembrane protein 136	Myotis davidii	0.11	4.5	0.364	
+106281
+AF-A0A1Z9NG92-F1-model_v4	FTCD_C domain-containing protein	Euryarchaeota archaeon TMED215	0.10	4.9	0.364	
+148281
+AF-A0A7Z9WPL5-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Candidatus Bipolaricaulota bacterium	0.10	6	0.364	
+145281
+AF-A0A7C2PE21-F1-model_v4	FTCD_C domain-containing protein	Spirochaetes bacterium	0.11	4.1	0.364	
+103280
+AF-A0A7S4L847-F1-model_v4	Hypothetical protein	Guillardia theta	0.13	3.4	0.363	
+84281
+AF-A0A0M2UBJ1-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Clostridiales bacterium PH28_bin88	0.10	9.2	0.362	
+148281
+AF-A0A7V5YI89-F1-model_v4	FTCD_C domain-containing protein	Candidatus Acetothermia bacterium	0.10	4.3	0.362	
+148281
+AF-A0A7C3X4L4-F1-model_v4	FTCD_C domain-containing protein	Candidatus Acetothermia bacterium	0.10	5.4	0.362	
+106281
+AF-A0A2N5ZQK9-F1-model_v4	Uncharacterized protein	Candidatus Parcubacteria bacterium	0.10	5.8	0.362	
+54277
+AF-A0A7K4CPX1-F1-model_v4	DUF47 family protein	Candidatus Lokiarchaeota archaeon	0.12	2.5	0.362	
+1281
+AF-A0A3R6F9Z6-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Parabacteroides sp. AM08-6	0.10	4.8	0.362	
+147281
+AF-A0A7J2H6U0-F1-model_v4	DUF47 family protein	Thermofilaceae archaeon	0.11	3.2	0.361	
+1280
+AF-A0A7X8Z2R5-F1-model_v4	Cyclodeaminase/cyclohydrolase family protein	Phycisphaerales bacterium	0.10	4.4	0.361	
+145280
+AF-A0A845LFQ4-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Heliomicrobium gestii	0.10	7.9	0.361	
+148281
+AF-A0A3M1ZBZ5-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Candidatus Dadabacteria bacterium	0.10	4.9	0.361	
+148280
+AF-A0A662EWG9-F1-model_v4	FTCD_C domain-containing protein	Candidatus Acetothermia bacterium	0.12	2.4	0.361	
+120281
+AF-A0A2W5X7S8-F1-model_v4	FTCD_C domain-containing protein	Candidatus Eremiobacteraeota bacterium	0.10	7.4	0.361	
+148281
+AF-A0A4C2EL61-F1-model_v4	FTCD_C domain-containing protein	Haloarcula mannanilytica	0.09	5.7	0.360	
+145279
+AF-A0A2R6F034-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Halobacteriales archaeon QH_8_67_36	0.09	5.8	0.359	
+145277
+AF-A0A1V9UCW0-F1-model_v4	FTCD_C domain-containing protein	Pseudomonas sp. Bc-h	0.09	3.1	0.358	
+1277
+AF-A0A1M6H8Y2-F1-model_v4	Formiminotetrahydrofolate cyclodeaminase	Desulfofundulus thermosubterraneus DSM 16057	0.10	5.1	0.357	
+106280
+AF-A0A847ZL39-F1-model_v4	Cyclodeaminase/cyclohydrolase family protein	Syntrophorhabdus sp.	0.10	4.7	0.357	
+145281
+AF-A0A0J1I501-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Peptococcaceae bacterium CEB3	0.10	4.2	0.357	
+107281
+AF-A0A7X8H3Z9-F1-model_v4	Cyclodeaminase/cyclohydrolase family protein	Deltaproteobacteria bacterium	0.10	5.9	0.356	
+145281
+AF-A0A2I0KF30-F1-model_v4	PMEI domain-containing protein	Punica granatum	0.09	2.9	0.356	
+2281
+AF-A0A1G7ZIH7-F1-model_v4	Formiminotetrahydrofolate cyclodeaminase	Desulfosporosinus hippei DSM 8344	0.10	7.2	0.355	
+145280
+AF-A0A328TVG2-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Paenibacillus montanisoli	0.10	4.3	0.355	
+148280
+AF-A0A7J6ASU9-F1-model_v4	TLC domain-containing protein	Ameiurus melas	0.12	5	0.354	
+103281
+AF-A0A0M3J5Y2-F1-model_v4	3',5'-cyclic-nucleotide phosphodiesterase	Anisakis simplex	0.10	3.6	0.354	
+95273
+AF-A0A661K428-F1-model_v4	FTCD_C domain-containing protein	Deltaproteobacteria bacterium	0.10	6.1	0.354	
+107281
+AF-A0A191HT64-F1-model_v4	Uncharacterized protein	endosymbiont 'TC1' of Trimyema compressum	0.09	1	0.353	
+38279
+AF-D9R7M2-F1-model_v4	Formiminotransferase-cyclodeaminase	[Clostridium] saccharolyticum WM1	0.09	9.5	0.353	
+145281
+AF-A0A087ECG9-F1-model_v4	Methenyl tetrahydrofolate cyclohydrolase	Bifidobacterium tsurumiense	0.10	4.9	0.352	
+148281
+AF-A0A3L7N4M9-F1-model_v4	Uncharacterized protein	Planctomycetota bacterium	0.14	3.3	0.350	
+45281
+AF-A0A6B3DVK0-F1-model_v4	CYSTM domain-containing protein	Streptomyces sp. SID8499	0.09	5.7	0.349	
+58279
+AF-A0A8A6PFG7-F1-model_v4	Cyclodeaminase/cyclohydrolase family protein	Dolosigranulum pigrum	0.09	4.8	0.349	
+145281
+AF-A0A0B4S1K2-F1-model_v4	Formiminotransferase-cyclodeaminase	Parvimonas micra	0.09	5.1	0.349	
+107281
+AF-A0A453ENL8-F1-model_v4	TLC domain-containing protein	Aegilops tauschii subsp. strangulata	0.13	1.9	0.348	
+1281
+AF-A0A0L1LFQ5-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Arthrobacter sp. ZBG10	0.09	4.8	0.348	
+148281
+AF-A0A3Q2E6Y9-F1-model_v4	TLC domain containing 5b	Cyprinodon variegatus	0.11	2.6	0.348	
+103281
+AF-A0A843LRZ9-F1-model_v4	Uncharacterized protein	Methanospirillum sp.	0.09	2.8	0.347	
+60256
+AF-A0A1R3JQG4-F1-model_v4	Ankyrin repeat-containing protein	Corchorus olitorius	0.10	3.4	0.346	
+148281
+AF-A0A7S3SWV8-F1-model_v4	Hypothetical protein	Strombidinopsis acuminata	0.11	2.6	0.346	
+26277
+AF-A0A3N0C8B1-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Arthrobacter oryzae	0.09	3.6	0.346	
+148281
+AF-A0A0V8IQC6-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Pseudarthrobacter enclensis	0.09	4.8	0.344	
+148281
+AF-A0A496QW67-F1-model_v4	Methenyltetrahydrofolate cyclohydrolase	Spirochaetes bacterium	0.09	6.5	0.344	
+145281
+AF-A0A2S9DT06-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Arthrobacter sp. MYb211	0.09	5.4	0.344	
+148281
+AF-A0A3N5YKN5-F1-model_v4	Glutamate formimidoyltransferase	Acidobacteria bacterium	0.11	3.4	0.336	
+103281
+AF-A0A7J4FYJ0-F1-model_v4	Uncharacterized protein	Candidatus Altiarchaeales archaeon	0.10	4.5	0.336	
+60256
+AF-A0A7V9D0X0-F1-model_v4	Uncharacterized protein	Chloroflexia bacterium	0.09	3.6	0.332	
+129274
+AF-A0A662EQL1-F1-model_v4	FTCD_C domain-containing protein	Candidatus Acetothermia bacterium	0.11	2.5	0.332	
+148281
+AF-A0A496Y4A1-F1-model_v4	FTCD_C domain-containing protein	Deltaproteobacteria bacterium	0.09	1.2	0.326	
+61281
+AF-A0A6G1NWY3-F1-model_v4	Hexokinase-1	Verticillium dahliae VDG1	0.09	2.5	0.324	
+54276
+AF-S9XAH1-F1-model_v4	Olfactory receptor 287-like protein	Camelus ferus	0.15	2	0.323	
+25274
+AF-A0A1H7JVZ9-F1-model_v4	Diguanylate cyclase (GGDEF) domain-containing protein	Pseudoxanthomonas sp. GM95	0.14	3.8	0.322	
+92281
+AF-A0A831K2E8-F1-model_v4	Uncharacterized protein	candidate division Zixibacteria bacterium	0.10	7.1	0.311	
+145281
+AF-A0A7X7JL30-F1-model_v4	Uncharacterized protein	Myxococcales bacterium	0.11	4.3	0.298	
+88280
+AF-A0A6G1K144-F1-model_v4	Ent-kaurene synthase	Pleomassaria siparia CBS 279.74	0.20	1.9	0.276	
+9277
+AF-A0A2V7W5Q1-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Acidobacteria bacterium	0.13	1.6	0.272	
+31281
+AF-A0A5M9MI12-F1-model_v4	Uncharacterized protein	Aspergillus tanneri	0.18	1.1	0.269	
+10273
+AF-A0A7C9M875-F1-model_v4	EAL domain-containing protein	Deinococcus arboris	0.14	4.8	0.265	
+99281
+AF-A0A139HGZ0-F1-model_v4	Geranylgeranyl diphosphate synthase	Pseudocercospora eumusae	0.18	4.1	0.261	
+10281
+AF-A0A2D5ZT30-F1-model_v4	Formimidoyltetrahydrofolate cyclodeaminase	Gemmatimonadetes bacterium	0.12	2.9	0.259	
+101281
+AF-S9YS10-F1-model_v4	FTCD_N domain-containing protein	Camelus ferus	0.14	3.7	0.255	
+107281
+AF-A0A2E7AF65-F1-model_v4	Uncharacterized protein	Roseibacillus sp.	0.14	3.1	0.243	
+23278
+AF-A0A852X107-F1-model_v4	Putative membrane protein	Janibacter alkaliphilus	0.10	1.6	0.237	
+87281
+AF-A0A1E3HPG8-F1-model_v4	Uncharacterized protein	Cryptococcus depauperatus CBS 7841	0.10	3.3	0.235	
+38281
