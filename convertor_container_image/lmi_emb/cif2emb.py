@@ -49,7 +49,7 @@ def extract(input_dir, scratch_dir, index):
     return scrach_dir_loc
 
 
-def run(pdb_path, output_path, granularity):
+def run(pdb_path, output_path, granularity=10):
     """Calcuklate all protein descriptors
 
     Args:

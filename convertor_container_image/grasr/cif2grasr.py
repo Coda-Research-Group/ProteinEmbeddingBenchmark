@@ -53,7 +53,7 @@ def chunks(lst, n) -> list:
         yield lst[i : i + n]
 
 
-def run(input_path, output_path, batch_size, fold_number=0):
+def run(input_path, output_path, batch_size=1, fold_number=0):
     """Run GraSR embedding on a directory of cif files
 
     Args:

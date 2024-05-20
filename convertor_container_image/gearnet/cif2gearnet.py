@@ -77,7 +77,7 @@ def extract(input_dir, scratch_dir, index):
     return scrach_dir_loc
 
 
-def run(input_path, output_path, batch_size, dev):
+def run(input_path, output_path, batch_size=1, dev="cpu"):
     """Run GeaNET embeddings on a directory of .cif files
     Args:
         input_path (str): Path to directory containing cif files
