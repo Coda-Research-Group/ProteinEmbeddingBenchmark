@@ -1,0 +1,66 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: esm-surfer-{{ job_iterator }}
+spec:
+  template:
+    spec:
+      ttlSecondsAfterFinished: 120
+      containers:
+      - name: esm-surfer-{{ job_iterator }}
+        image: registry.gitlab.ics.muni.cz:443/fi-lmi/protein-db:surfer
+        imagePullPolicy: Always
+        securityContext:
+          allowPrivilegeEscalation: false
+          capabilities:
+            drop:
+              - ALL
+          runAsUser: 1000
+        command:
+          - python3
+        args:
+          - /scripts/3d-af-surfer/esm2surfer.py
+          - --input
+          - /proteins
+          - --output
+          - /output/esm-surfer-embedding
+          - --processes
+          - '10'         
+          - --scratch_dir
+          - /tmp
+          - --position
+          - "{{ job_iterator }}"
+          - --index
+          - "/output/configs/esm-index"
+        volumeMounts:
+          - name: vol-1
+            mountPath: /proteins
+          - name: embeddings
+            mountPath: /output
+        resources:
+          limits:
+            cpu: '16'
+            ephemeral-storage: 300Gi
+            memory: 16Gi
+          requests:
+            cpu: '10'
+            ephemeral-storage: 100Gi
+            memory: 8Gi
+      imagePullSecrets:
+        - name: gitlab-containerregistry-starterpack
+      securityContext:
+        fsGroupChangePolicy: OnRootMismatch
+        runAsNonRoot: true
+        seccompProfile:
+          type: RuntimeDefault
+      volumes:
+        - name: vol-1
+          persistentVolumeClaim:
+            claimName: pvc-esmfold-db
+        - name: embeddings 
+          persistentVolumeClaim:
+            claimName: pvc-embeddings
+        - name: script-volume
+          configMap:
+            name: cif2embedding-script
+      restartPolicy: Never

@@ -1,14 +1,14 @@
 apiVersion: batch/v1
 kind: Job
 metadata:
-  name: cif23dzd-{{ job_iterator }}
+  name: afdb-surfer-{{ job_iterator }}
 spec:
   template:
     spec:
-      ttlSecondsAfterFinished: 120
+      ttlSecondsAfterFinished: 60
       containers:
-      - name: cif23dzd-{{ job_iterator }}
-        image: registry.gitlab.ics.muni.cz:443/fi-lmi/protein-db/grasr
+      - name: afdb-surfer-{{ job_iterator }}
+        image: registry.gitlab.ics.muni.cz:443/fi-lmi/protein-db:surfer
         imagePullPolicy: Always
         securityContext:
           allowPrivilegeEscalation: false
@@ -19,13 +19,13 @@ spec:
         command:
           - python3
         args:
-          - /scripts/3d_af_surfer/cif23dzd.py
+          - /scripts/3d-af-surfer/afdb2surfer.py
           - --input
-          - /proteins
+          - /proteins/alphafold
           - --output
-          - /output/3dzd-embedding
+          - /output/afdb-surfer-embedding
           - --processes
-          - '2'         
+          - '4'         
           - --scratch_dir
           - /tmp
           - --position
@@ -39,15 +39,15 @@ spec:
             mountPath: /output
         resources:
           limits:
-            cpu: '2'
+            cpu: '5'
             ephemeral-storage: 32Gi
             memory: 8Gi
           requests:
-            cpu: '2'
+            cpu: '4'
             ephemeral-storage: 32Gi
-            memory: 8Gi
+            memory: 4Gi
       imagePullSecrets:
-        - name: gitlab-containerregistry
+        - name: gitlab-containerregistry-starterpack
       securityContext:
         fsGroupChangePolicy: OnRootMismatch
         runAsNonRoot: true
@@ -56,7 +56,7 @@ spec:
       volumes:
         - name: vol-1
           persistentVolumeClaim:
-            claimName: pvc-af-proteomes
+            claimName: pvc-lmi-data-storage-secret
         - name: embeddings 
           persistentVolumeClaim:
             claimName: pvc-embeddings
